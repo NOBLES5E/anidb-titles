@@ -15,8 +15,13 @@ jobs:
 
       - name: Download XML.gz File
         run: |
-          curl -L -o anime-titles.xml.gz http://anidb.net/api/anime-titles.xml.gz
-          file anime-titles.xml.gz
+          run: |
+          curl -L \
+            -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36" \
+            -H "Referer: https://anidb.net" \
+            -H "Accept: application/xml" \
+            -o anime-titles.xml.gz \
+            https://anidb.net/api/anime-titles.xml.gz
 
       - name: Decompress XML.gz File
         run: |
