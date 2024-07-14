@@ -14,10 +14,18 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Download XML.gz File
-        run: curl -o anime-titles.xml.gz http://anidb.net/api/anime-titles.xml.gz
+        run: |
+          curl -L -o anime-titles.xml.gz http://anidb.net/api/anime-titles.xml.gz
+          file anime-titles.xml.gz
 
       - name: Decompress XML.gz File
-        run: gunzip -c anime-titles.xml.gz > anime-titles.xml
+        run: |
+          if file anime-titles.xml.gz | grep -q 'gzip compressed data'; then
+            gunzip -c anime-titles.xml.gz > anime-titles.xml
+          else
+            echo "The file is not a valid gzip file"
+            exit 1
+          fi
 
       - name: Commit and Push Changes
         run: |
