@@ -1,0 +1,28 @@
+name: Update XML File
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs every day at midnight UTC
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  update-file:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Download XML.gz File
+        run: curl -o anime-titles.xml.gz http://anidb.net/api/anime-titles.xml.gz
+
+      - name: Decompress XML.gz File
+        run: gunzip -c anime-titles.xml.gz > anime-titles.xml
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add anime-titles.xml
+          git commit -m 'Daily update of anime-titles.xml'
+          git push
