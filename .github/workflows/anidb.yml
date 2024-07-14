@@ -1,4 +1,4 @@
-name: Update XML File
+name: Update XML File and Generate JSON
 
 on:
   schedule:
@@ -15,7 +15,6 @@ jobs:
 
       - name: Download XML.gz File
         run: |
-          run: |
           curl -L \
             -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36" \
             -H "Referer: https://anidb.net" \
@@ -32,10 +31,21 @@ jobs:
             exit 1
           fi
 
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '14'
+
+      - name: Install dependencies
+        run: npm install cheerio
+
+      - name: Convert XML to JSON
+        run: node convertXmlToJson.js
+
       - name: Commit and Push Changes
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add anime-titles.xml
-          git commit -m 'Daily update of anime-titles.xml'
+          git add anime-titles.xml anime-titles.json
+          git commit -m 'Daily update of anime-titles.xml and generated anime-titles.json'
           git push
