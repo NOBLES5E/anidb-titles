@@ -35,7 +35,7 @@ jobs:
         uses: astral-sh/setup-uv@v3
 
       - name: Convert XML to JSON
-        run: uv run anidb-titles/convertXmlToJson.py
+        run: uv run convertXmlToJson.py
 
       - name: Commit and Push Changes
         run: |
