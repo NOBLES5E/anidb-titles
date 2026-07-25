@@ -66468,6 +66468,11 @@
         "text": "Noiseman Sound Insect"
       },
       {
+        "lang": "fr",
+        "type": "official",
+        "text": "Noiseman Sound Insect"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Onkyou Seimeitai Noiseman"
@@ -370233,6 +370238,11 @@
         "text": "Ryuu no Haisha"
       },
       {
+        "lang": "fr",
+        "type": "official",
+        "text": "The Dragon Dentist"
+      },
+      {
         "lang": "en",
         "type": "official",
         "text": "The Dragon Dentist"
@@ -475898,6 +475908,11 @@
     "aid": "16107",
     "titles": [
       {
+        "lang": "fr",
+        "type": "official",
+        "text": "Kitaro Birth: The Mystery of GeGeGe"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Kitarou Tanjou: Gegege no Nazo"
@@ -475923,7 +475938,7 @@
         "text": "Akuma Kun (2023)"
       },
       {
-        "lang": "sv",
+        "lang": "es",
         "type": "official",
         "text": "Akuma-kun (2023)"
       },
@@ -475938,7 +475953,7 @@
         "text": "Akuma-kun (2023)"
       },
       {
-        "lang": "es",
+        "lang": "sv",
         "type": "official",
         "text": "Akuma-kun (2023)"
       },
@@ -519083,6 +519098,11 @@
         "text": "Tu color"
       },
       {
+        "lang": "fr",
+        "type": "official",
+        "text": "Your Color"
+      },
+      {
         "lang": "bg",
         "type": "official",
         "text": "Цветовете отвътре"
@@ -544673,6 +544693,11 @@
         "text": "Hana Rokushou ga Akeru Hi ni"
       },
       {
+        "lang": "fr",
+        "type": "official",
+        "text": "Une aube nouvelle"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "花緑青が明ける日に"
@@ -544793,13 +544818,13 @@
         "text": "Arknights: Enshin Shomei"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Arknights: Rise from Ember"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Arknights: Rise from Ember"
       },
       {
@@ -547820,7 +547845,7 @@
       {
         "lang": "en",
         "type": "syn",
-        "text": "Is it the King?"
+        "text": "Is This Honor of Kings?"
       },
       {
         "lang": "x-zht",
@@ -547840,12 +547865,12 @@
       {
         "lang": "en",
         "type": "syn",
-        "text": "Is it the King? 2nd Season"
+        "text": "Is This Honor of Kings? 2nd Season"
       },
       {
         "lang": "en",
         "type": "syn",
-        "text": "Is it the King? Season 2"
+        "text": "Is This Honor of Kings? Season 2"
       },
       {
         "lang": "x-zht",
@@ -547880,12 +547905,12 @@
       {
         "lang": "en",
         "type": "syn",
-        "text": "Is it the King? 3rd Season"
+        "text": "Is This Honor of Kings? 3rd Season"
       },
       {
         "lang": "en",
         "type": "syn",
-        "text": "Is it the King? Season 3"
+        "text": "Is This Honor of Kings? Season 3"
       },
       {
         "lang": "x-zht",
@@ -559385,12 +559410,12 @@
       {
         "lang": "en",
         "type": "syn",
-        "text": "Is it the King? 4th Season"
+        "text": "Is This Honor of Kings? 4th Season"
       },
       {
         "lang": "en",
         "type": "syn",
-        "text": "Is it the King? Season 4"
+        "text": "Is This Honor of Kings? Season 4"
       },
       {
         "lang": "x-zht",
@@ -566083,6 +566108,11 @@
         "text": "From Old Country Bumpkin to Master Swordsman II"
       },
       {
+        "lang": "en",
+        "type": "syn",
+        "text": "From Old Country Bumpkin to Master Swordsman Season 2"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Katainaka no Ossan, Kensei ni Naru II"
@@ -566129,6 +566159,11 @@
       },
       {
         "lang": "en",
+        "type": "official",
+        "text": "Kaguya-sama: Love Is War - Stairway to Adulthood"
+      },
+      {
+        "lang": "fr",
         "type": "official",
         "text": "Kaguya-sama: Love Is War - Stairway to Adulthood"
       },
@@ -570043,6 +570078,11 @@
         "text": "Assassination Classroom the Movie: Everybody`s Time"
       },
       {
+        "lang": "en",
+        "type": "syn",
+        "text": "Assassination Classroom the Movie: Our Time"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Gekijouban Ansatsu Kyoushitsu: Minna no Jikan"
@@ -571905,12 +571945,12 @@
       {
         "lang": "en",
         "type": "syn",
-        "text": "Is it the King? 5th Season"
+        "text": "Is This Honor of Kings? 5th Season"
       },
       {
         "lang": "en",
         "type": "syn",
-        "text": "Is it the King? Season 5"
+        "text": "Is This Honor of Kings? Season 5"
       },
       {
         "lang": "x-zht",
@@ -583218,13 +583258,13 @@
     "aid": "20206",
     "titles": [
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Studio Cabana"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Studio Cabana"
       },
       {
@@ -583246,6 +583286,71 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "一念永恒 完结季"
+      }
+    ]
+  },
+  {
+    "aid": "20208",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Kusunoki-san wa Koukou Debut ni Shippai Shite Iru"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Kusunoki`s Flunking Her High School Glow-Up"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "楠木さんは高校デビューに失敗している"
+      }
+    ]
+  },
+  {
+    "aid": "20209",
+    "titles": [
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Because I, the True Saint, was Banished, that Country Is Done For!"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Shin no Seijo de Aru Watashi wa Tsuihou Saremashita. Dakara Kono Kuni wa Mou Owari Desu"
+      },
+      {
+        "lang": "x-jat",
+        "type": "short",
+        "text": "shinnoseijo"
+      },
+      {
+        "lang": "ja",
+        "type": "short",
+        "text": "真の聖女"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "真の聖女である私は追放されました. だからこの国はもう終わりです"
+      }
+    ]
+  },
+  {
+    "aid": "20210",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Kidou Senshi Gundam RG: Alex-Zero"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "機動戦士ガンダムRG XARX-ZERO"
       }
     ]
   }
