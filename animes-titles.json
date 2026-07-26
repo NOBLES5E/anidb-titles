@@ -8353,6 +8353,16 @@
         "text": "Voices of a Distant Star"
       },
       {
+        "lang": "pt",
+        "type": "official",
+        "text": "Vozes de Uma Estrela Distante"
+      },
+      {
+        "lang": "pt-BR",
+        "type": "syn",
+        "text": "Vozes de Uma Estrela Distante"
+      },
+      {
         "lang": "bg",
         "type": "syn",
         "text": "Гласовете на далечните звезди"
@@ -24973,6 +24983,16 @@
         "text": "Büyülü Dalgalar"
       },
       {
+        "lang": "pt",
+        "type": "syn",
+        "text": "Consigo Ouvir o Oceano"
+      },
+      {
+        "lang": "pt-BR",
+        "type": "syn",
+        "text": "Consigo Ouvir o Oceano"
+      },
+      {
         "lang": "pt-BR",
         "type": "syn",
         "text": "Eu Posso Ouvir o Mar"
@@ -25013,12 +25033,17 @@
         "text": "Jeg kan høre havet"
       },
       {
-        "lang": "pt",
+        "lang": "nl",
         "type": "official",
         "text": "Ocean Waves"
       },
       {
         "lang": "no",
+        "type": "official",
+        "text": "Ocean Waves"
+      },
+      {
+        "lang": "tl",
         "type": "official",
         "text": "Ocean Waves"
       },
@@ -25038,12 +25063,7 @@
         "text": "Ocean Waves"
       },
       {
-        "lang": "tl",
-        "type": "official",
-        "text": "Ocean Waves"
-      },
-      {
-        "lang": "nl",
+        "lang": "pt",
         "type": "official",
         "text": "Ocean Waves"
       },
@@ -25073,12 +25093,12 @@
         "text": "Posso sentire il mare"
       },
       {
-        "lang": "es-419",
+        "lang": "es",
         "type": "official",
         "text": "Puedo escuchar el mar"
       },
       {
-        "lang": "es",
+        "lang": "es-419",
         "type": "official",
         "text": "Puedo escuchar el mar"
       },
@@ -50248,6 +50268,16 @@
         "text": "Lupin III: C`era una volta... Lupin"
       },
       {
+        "lang": "pt",
+        "type": "official",
+        "text": "Lupin III: Episódio 0 - Primeiro Contato"
+      },
+      {
+        "lang": "pt-BR",
+        "type": "syn",
+        "text": "Lupin III: Episódio 0 - Primeiro Contato"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Lupin Sansei Episode 0: `First Contact`"
@@ -60098,17 +60128,17 @@
         "text": "WD"
       },
       {
-        "lang": "fr",
-        "type": "official",
-        "text": "Wonderful Days"
-      },
-      {
         "lang": "x-kot",
         "type": "main",
         "text": "Wonderful Days"
       },
       {
         "lang": "sv",
+        "type": "official",
+        "text": "Wonderful Days"
+      },
+      {
+        "lang": "fr",
         "type": "official",
         "text": "Wonderful Days"
       },
@@ -60183,12 +60213,22 @@
     "aid": "1023",
     "titles": [
       {
-        "lang": "fr",
+        "lang": "pt",
+        "type": "syn",
+        "text": "Cidade Demoníaca Shinjuku"
+      },
+      {
+        "lang": "pt-BR",
+        "type": "syn",
+        "text": "Cidade Demoníaca Shinjuku"
+      },
+      {
+        "lang": "en",
         "type": "official",
         "text": "Demon City Shinjuku"
       },
       {
-        "lang": "en",
+        "lang": "fr",
         "type": "official",
         "text": "Demon City Shinjuku"
       },
@@ -60211,6 +60251,16 @@
         "lang": "en",
         "type": "syn",
         "text": "Monster City"
+      },
+      {
+        "lang": "pt-BR",
+        "type": "syn",
+        "text": "Shinjuku Cidade Demoníaca"
+      },
+      {
+        "lang": "pt",
+        "type": "official",
+        "text": "Shinjuku Cidade Demoníaca"
       },
       {
         "lang": "ru",
@@ -151163,6 +151213,11 @@
         "text": "Angel Legend"
       },
       {
+        "lang": "ru",
+        "type": "official",
+        "text": "Легенда об Ангеле"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "エンジェル伝説"
@@ -194513,14 +194568,14 @@
     "aid": "5295",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "BAD BOYS"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Bad Boys"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "BAD BOYS"
       }
     ]
   },
@@ -194546,6 +194601,16 @@
         "lang": "fr",
         "type": "official",
         "text": "La Forêt de Miyori"
+      },
+      {
+        "lang": "pt-BR",
+        "type": "syn",
+        "text": "Miyori e a Floresta Mágica"
+      },
+      {
+        "lang": "pt",
+        "type": "official",
+        "text": "Miyori e a Floresta Mágica"
       },
       {
         "lang": "x-jat",
@@ -243523,12 +243588,12 @@
         "text": "Gyvųjų Numirėlių Mokykla"
       },
       {
-        "lang": "en",
+        "lang": "fr",
         "type": "official",
         "text": "High School of the Dead"
       },
       {
-        "lang": "fr",
+        "lang": "en",
         "type": "official",
         "text": "High School of the Dead"
       },
@@ -243591,6 +243656,11 @@
         "lang": "mn",
         "type": "syn",
         "text": "Үхэгсдийн Ахлах Сургууль"
+      },
+      {
+        "lang": "ru",
+        "type": "official",
+        "text": "Школа мертвецов"
       },
       {
         "lang": "ru",
@@ -267681,6 +267751,16 @@
         "lang": "en",
         "type": "official",
         "text": "Appleseed XIII: Tartaros & Ouranos"
+      },
+      {
+        "lang": "pt",
+        "type": "official",
+        "text": "Appleseed XIII: Tártaros e Urano"
+      },
+      {
+        "lang": "pt-BR",
+        "type": "syn",
+        "text": "Appleseed XIII: Tártaros e Urano"
       },
       {
         "lang": "x-jat",
@@ -292963,6 +293043,16 @@
         "text": "Battle Angel Alita - Motorball CG Movie"
       },
       {
+        "lang": "pt",
+        "type": "syn",
+        "text": "Gunnm 3D Especial"
+      },
+      {
+        "lang": "pt-BR",
+        "type": "syn",
+        "text": "Gunnm 3D Especial"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Gunnm 3D Special"
@@ -292998,13 +293088,13 @@
         "text": "RDG 濒危物种少女"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "RDG: Red Data Girl"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "RDG: Red Data Girl"
       },
       {
@@ -293048,14 +293138,14 @@
     "aid": "9330",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "AKB0048 Next Stage"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "AKB0048 next stage"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "AKB0048 Next Stage"
       },
       {
         "lang": "zh-Hans",
@@ -293268,13 +293358,13 @@
     "aid": "9339",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Hetalia: The Beautiful World"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Hetalia: The Beautiful World"
       },
       {
@@ -293383,13 +293473,13 @@
         "text": "Haganai 2"
       },
       {
-        "lang": "x-jat",
-        "type": "short",
+        "lang": "en",
+        "type": "official",
         "text": "Haganai Next"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "short",
         "text": "Haganai Next"
       },
       {
@@ -294003,17 +294093,17 @@
     "aid": "9365",
     "titles": [
       {
-        "lang": "zh-Hans",
-        "type": "official",
-        "text": "Fantasista Doll"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Fantasista Doll"
       },
       {
         "lang": "en",
+        "type": "official",
+        "text": "Fantasista Doll"
+      },
+      {
+        "lang": "zh-Hans",
         "type": "official",
         "text": "Fantasista Doll"
       },
@@ -294028,6 +294118,11 @@
     "aid": "9366",
     "titles": [
       {
+        "lang": "es-419",
+        "type": "official",
+        "text": "Yuyushiki"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Yuyushiki"
@@ -294039,11 +294134,6 @@
       },
       {
         "lang": "en",
-        "type": "official",
-        "text": "Yuyushiki"
-      },
-      {
-        "lang": "es-419",
         "type": "official",
         "text": "Yuyushiki"
       },
@@ -306158,7 +306248,7 @@
         "text": "IS s2"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "IS: Infinite Stratos 2"
       },
@@ -306168,7 +306258,7 @@
         "text": "IS: Infinite Stratos 2"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "IS: Infinite Stratos 2"
       },
@@ -306226,6 +306316,16 @@
         "lang": "x-jat",
         "type": "main",
         "text": "M-ogui: Last Order"
+      },
+      {
+        "lang": "pt-BR",
+        "type": "syn",
+        "text": "M-ogui: Último Pedido"
+      },
+      {
+        "lang": "pt",
+        "type": "official",
+        "text": "M-ogui: Último Pedido"
       },
       {
         "lang": "ko",
@@ -308746,6 +308846,16 @@
         "lang": "en",
         "type": "syn",
         "text": "Lupin III: Family All-Stars"
+      },
+      {
+        "lang": "pt",
+        "type": "official",
+        "text": "Lupin III: Formação da Família"
+      },
+      {
+        "lang": "pt-BR",
+        "type": "syn",
+        "text": "Lupin III: Formação da Família"
       },
       {
         "lang": "x-jat",
@@ -380278,6 +380388,16 @@
         "text": "Soul: Insert"
       },
       {
+        "lang": "pt-BR",
+        "type": "syn",
+        "text": "Tamashii: Insere"
+      },
+      {
+        "lang": "pt",
+        "type": "official",
+        "text": "Tamashii: Insere"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Tamashii: Insert"
@@ -403437,6 +403557,16 @@
   {
     "aid": "13611",
     "titles": [
+      {
+        "lang": "pt-BR",
+        "type": "syn",
+        "text": "Feitiçaria na Cidade Grande"
+      },
+      {
+        "lang": "pt",
+        "type": "official",
+        "text": "Feitiçaria na Grande Cidade"
+      },
       {
         "lang": "x-jat",
         "type": "main",
@@ -536653,6 +536783,11 @@
         "text": "Gekijouban Chainsaw Man: Reze Hen"
       },
       {
+        "lang": "ru",
+        "type": "official",
+        "text": "Человек-Бензопила: История Резе"
+      },
+      {
         "lang": "zh-Hans",
         "type": "official",
         "text": "剧场版 电锯人 蕾塞篇"
@@ -537768,6 +537903,11 @@
         "text": "Папа переродился из бюрократа в аристократку"
       },
       {
+        "lang": "ru",
+        "type": "official",
+        "text": "Перерождение мужчины средних лет в дочь дворянина"
+      },
+      {
         "lang": "th",
         "type": "official",
         "text": "เมื่อตาลุงเกิดใหม่เป็นนางร้ายที่ต่างโลก"
@@ -538218,14 +538358,39 @@
         "text": "A Will Eternal 3"
       },
       {
+        "lang": "en",
+        "type": "syn",
+        "text": "A Will Eternal 3rd Season"
+      },
+      {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Yi Nian Yong Heng 3rd Season"
+      },
+      {
         "lang": "x-zht",
         "type": "main",
         "text": "Yi Nian Yong Heng Di San Ji"
       },
       {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Yi Nian Yong Heng: Zhizi Pian"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "syn",
+        "text": "一念永恒 第3季"
+      },
+      {
         "lang": "zh-Hans",
         "type": "official",
         "text": "一念永恒 第三季"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "syn",
+        "text": "一念永恒 质子篇"
       }
     ]
   },
@@ -538533,13 +538698,13 @@
         "text": "Dorohedoro S2"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Dorohedoro Season 2"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Dorohedoro Season 2"
       },
       {
@@ -538808,12 +538973,12 @@
     "aid": "18408",
     "titles": [
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "Touken Ranbu Kai Kyoden"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "Touken Ranbu Kai Kyoden"
       },
@@ -538923,12 +539088,12 @@
         "text": "eruyase"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "Plus-Sized Elf"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "Plus-Sized Elf"
       },
@@ -539253,13 +539418,13 @@
         "text": "Monogatari Series - Off and Monster Season"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Monogatari Series: Off & Monster Season"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Monogatari Series: Off & Monster Season"
       },
       {
@@ -539598,12 +539763,12 @@
         "text": "Failure Frame"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells"
       },
@@ -539768,13 +539933,13 @@
     "aid": "18444",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Dearest Blue"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Dearest Blue"
       },
       {
@@ -540043,13 +540208,13 @@
         "text": "Tasuuketsu"
       },
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "zh-Hans",
+        "type": "syn",
         "text": "多数欠"
       },
       {
-        "lang": "zh-Hans",
-        "type": "syn",
+        "lang": "ja",
+        "type": "official",
         "text": "多数欠"
       }
     ]
@@ -540058,13 +540223,13 @@
     "aid": "18454",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Mayonaka Punch"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Mayonaka Punch"
       },
       {
@@ -540163,14 +540328,14 @@
     "aid": "18459",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Nukitashi the Animation"
-      },
-      {
         "lang": "en",
         "type": "official",
         "text": "Nukitashi The Animation"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Nukitashi the Animation"
       },
       {
         "lang": "de",
@@ -544118,6 +544283,11 @@
         "text": "Ameku Takao`s Detective Karte"
       },
       {
+        "lang": "ru",
+        "type": "official",
+        "text": "Карта детектива Такао Амэку"
+      },
+      {
         "lang": "th",
         "type": "official",
         "text": "บันทึกประวัติคดีคุณหมออาเมคุ"
@@ -544884,7 +545054,7 @@
       },
       {
         "lang": "en",
-        "type": "syn",
+        "type": "official",
         "text": "Super Heroic Spirit"
       },
       {
@@ -547528,6 +547698,11 @@
         "text": "Demon Slayer: Infinity Castle"
       },
       {
+        "lang": "en",
+        "type": "syn",
+        "text": "Demon Slayer: Infinity Castle I"
+      },
+      {
         "lang": "pt",
         "type": "official",
         "text": "Demon Slayer: Kimetsu no Yaiba - Castelo Infinito"
@@ -548801,6 +548976,11 @@
         "lang": "en",
         "type": "official",
         "text": "Head Start at Birth"
+      },
+      {
+        "lang": "ru",
+        "type": "official",
+        "text": "Преимущество при рождении"
       }
     ]
   },
@@ -560128,6 +560308,11 @@
         "text": "Parede de Gelo"
       },
       {
+        "lang": "es-419",
+        "type": "official",
+        "text": "Rompiendo el hielo"
+      },
+      {
         "lang": "en",
         "type": "official",
         "text": "The Ramparts of Ice"
@@ -560568,13 +560753,13 @@
     "aid": "19157",
     "titles": [
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Bocchi the Rock! 2"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Bocchi the Rock! 2"
       },
       {
@@ -560908,14 +561093,14 @@
         "text": "Trust"
       },
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "TRUST"
-      },
-      {
         "lang": "en",
         "type": "syn",
         "text": "Trust"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "TRUST"
       },
       {
         "lang": "en",
@@ -561483,12 +561668,12 @@
     "aid": "19200",
     "titles": [
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "Onmyo Kaiten Re:Birth Verse"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "Onmyo Kaiten Re:Birth Verse"
       },
@@ -561568,13 +561753,18 @@
     "aid": "19203",
     "titles": [
       {
-        "lang": "en",
+        "lang": "fr",
         "type": "official",
         "text": "Black Torch"
       },
       {
         "lang": "x-jat",
         "type": "main",
+        "text": "Black Torch"
+      },
+      {
+        "lang": "en",
+        "type": "official",
         "text": "Black Torch"
       },
       {
@@ -561596,11 +561786,6 @@
         "lang": "ja",
         "type": "official",
         "text": "BLACK TORCH"
-      },
-      {
-        "lang": "fr",
-        "type": "official",
-        "text": "Black Torch"
       },
       {
         "lang": "ja",
@@ -561743,12 +561928,12 @@
         "text": "All You Need Is Kill"
       },
       {
-        "lang": "ja",
+        "lang": "en",
         "type": "official",
         "text": "All You Need Is Kill"
       },
       {
-        "lang": "en",
+        "lang": "ja",
         "type": "official",
         "text": "All You Need Is Kill"
       },
@@ -562243,9 +562428,9 @@
     "aid": "19230",
     "titles": [
       {
-        "lang": "en",
+        "lang": "ja",
         "type": "official",
-        "text": "Digimon Beatbreak"
+        "text": "DIGIMON BEATBREAK"
       },
       {
         "lang": "x-jat",
@@ -562253,9 +562438,9 @@
         "text": "Digimon Beatbreak"
       },
       {
-        "lang": "ja",
+        "lang": "en",
         "type": "official",
-        "text": "DIGIMON BEATBREAK"
+        "text": "Digimon Beatbreak"
       },
       {
         "lang": "x-unk",
@@ -562593,13 +562778,13 @@
         "text": "Dr. Stone Season 4 Part 2"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Dr. Stone: Science Future (2025)"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Dr. Stone: Science Future (2025)"
       },
       {
@@ -562698,12 +562883,12 @@
         "text": "Eiga Crayon Shin-chan: Chou Curry! Shakunetsu no Kasukabe Dancers"
       },
       {
-        "lang": "hi",
+        "lang": "en",
         "type": "official",
         "text": "Shin-chan: The Spicy Kasukabe Dancers in India"
       },
       {
-        "lang": "en",
+        "lang": "hi",
         "type": "official",
         "text": "Shin-chan: The Spicy Kasukabe Dancers in India"
       },
@@ -563053,6 +563238,11 @@
     "aid": "19271",
     "titles": [
       {
+        "lang": "ja",
+        "type": "official",
+        "text": "THE STAR SEEKERS"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "The Star Seekers"
@@ -563061,11 +563251,6 @@
         "lang": "en",
         "type": "syn",
         "text": "The Star Seekers"
-      },
-      {
-        "lang": "ja",
-        "type": "official",
-        "text": "THE STAR SEEKERS"
       },
       {
         "lang": "ja",
@@ -563533,12 +563718,12 @@
         "text": "Kanan-sama wa Akumade Choroi"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "Mistress Kanan Is Devilishly Easy"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "Mistress Kanan Is Devilishly Easy"
       },
@@ -565593,12 +565778,12 @@
         "text": "鬼の花嫁"
       },
       {
-        "lang": "zh-Hans",
+        "lang": "zh-Hant",
         "type": "official",
         "text": "鬼的新娘"
       },
       {
-        "lang": "zh-Hant",
+        "lang": "zh-Hans",
         "type": "official",
         "text": "鬼的新娘"
       }
@@ -566158,12 +566343,12 @@
         "text": "Kaguya-sama wa Kokurasetai: Otona e no Kaidan"
       },
       {
-        "lang": "en",
+        "lang": "fr",
         "type": "official",
         "text": "Kaguya-sama: Love Is War - Stairway to Adulthood"
       },
       {
-        "lang": "fr",
+        "lang": "en",
         "type": "official",
         "text": "Kaguya-sama: Love Is War - Stairway to Adulthood"
       },
@@ -570048,13 +570233,13 @@
     "aid": "19566",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Bang Dream! Yumemita"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Bang Dream! Yumemita"
       },
       {
@@ -570072,6 +570257,11 @@
   {
     "aid": "19567",
     "titles": [
+      {
+        "lang": "x-jat",
+        "type": "syn",
+        "text": "Ansatsu Kyoushitsu Movie - Minna no Jikan"
+      },
       {
         "lang": "en",
         "type": "syn",
@@ -570365,7 +570555,7 @@
       {
         "lang": "x-jat",
         "type": "main",
-        "text": "Clevatess II: Majuu no Ou to Akago to Shikabane no Yuusha"
+        "text": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou"
       },
       {
         "lang": "en",
@@ -579655,7 +579845,7 @@
       {
         "lang": "x-jat",
         "type": "main",
-        "text": "OVA Furachi"
+        "text": "Furachi"
       },
       {
         "lang": "ko",
@@ -579665,7 +579855,7 @@
       {
         "lang": "ja",
         "type": "official",
-        "text": "OVA フラチ"
+        "text": "フラチ"
       }
     ]
   },
@@ -583240,31 +583430,16 @@
     ]
   },
   {
-    "aid": "20205",
-    "titles": [
-      {
-        "lang": "ja",
-        "type": "official",
-        "text": "Tokio kido porisu"
-      },
-      {
-        "lang": "it",
-        "type": "main",
-        "text": "Tokyo Private Police - Poliziotte, robottoni e pistoni"
-      }
-    ]
-  },
-  {
     "aid": "20206",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Studio Cabana"
       },
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Studio Cabana"
       },
       {
@@ -583278,6 +583453,16 @@
     "aid": "20207",
     "titles": [
       {
+        "lang": "en",
+        "type": "syn",
+        "text": "A Will Eternal 4"
+      },
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "A Will Eternal Final Season"
+      },
+      {
         "lang": "x-zht",
         "type": "main",
         "text": "Yi Nian Yong Heng: Wanjie Ji"
@@ -583286,6 +583471,16 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "一念永恒 完结季"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "syn",
+        "text": "一念永恒 第4季"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "syn",
+        "text": "一念永恒 第四季"
       }
     ]
   },
@@ -583351,6 +583546,66 @@
         "lang": "ja",
         "type": "official",
         "text": "機動戦士ガンダムRG XARX-ZERO"
+      }
+    ]
+  },
+  {
+    "aid": "20211",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Sanguo Sha: Taiping Tianshu"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "三国杀：太平天书"
+      }
+    ]
+  },
+  {
+    "aid": "20212",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Jueshi Zhan Hun 2nd Season"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Peerless Battle Spirit 2nd Season"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Super Heroic 2nd Season"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Super Heroic Spirit 2"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Super Heroic Spirit 2nd Season"
+      },
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "Super Heroic Spirit Season 2"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "绝世战魂 第2季"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "syn",
+        "text": "绝世战魂 第二季"
       }
     ]
   }
