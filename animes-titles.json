@@ -306608,6 +306608,11 @@
     "aid": "9865",
     "titles": [
       {
+        "lang": "en",
+        "type": "syn",
+        "text": "Noobow and the Lost Medal"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Noobow: Kieta Medal"
@@ -482728,9 +482733,19 @@
         "text": "Youjo Senki S2"
       },
       {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "幼女战记 第二季"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "幼女戦記II"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "幼女戰記 2"
       }
     ]
   },
@@ -482918,12 +482933,12 @@
         "text": "Backflip : le film"
       },
       {
-        "lang": "es-419",
+        "lang": "es",
         "type": "official",
         "text": "Backflip!! - La película"
       },
       {
-        "lang": "es",
+        "lang": "es-419",
         "type": "official",
         "text": "Backflip!! - La película"
       },
@@ -483063,13 +483078,13 @@
     "aid": "16405",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "en",
+        "type": "main",
         "text": "CRYSTAL CLEAR"
       },
       {
-        "lang": "en",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "CRYSTAL CLEAR"
       }
     ]
@@ -483138,17 +483153,17 @@
         "text": "Alice to Teles no Maboroshi Koujou"
       },
       {
+        "lang": "fr",
+        "type": "official",
+        "text": "maboroshi"
+      },
+      {
         "lang": "en",
         "type": "official",
         "text": "Maboroshi"
       },
       {
         "lang": "pl",
-        "type": "official",
-        "text": "maboroshi"
-      },
-      {
-        "lang": "fr",
         "type": "official",
         "text": "maboroshi"
       },
@@ -490942,6 +490957,11 @@
   {
     "aid": "16748",
     "titles": [
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Capybara Bathhouse"
+      },
       {
         "lang": "en",
         "type": "syn",
@@ -528473,12 +528493,12 @@
     "aid": "18065",
     "titles": [
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "Harmony of Mille-Feuille"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "Harmony of Mille-Feuille"
       },
@@ -528511,6 +528531,11 @@
         "lang": "x-jat",
         "type": "main",
         "text": "Boku no Kokoro no Yabai Yatsu (2024)"
+      },
+      {
+        "lang": "x-jat",
+        "type": "syn",
+        "text": "Boku no Kokoro no Yabai Yatsu 2nd Season"
       },
       {
         "lang": "x-jat",
@@ -529488,14 +529513,14 @@
     "aid": "18093",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Fate Strange Fake"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "Fate strange Fake"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Fate Strange Fake"
       },
       {
         "lang": "en",
@@ -548623,14 +548648,19 @@
         "text": "Fuuto PI: Portrait of Kamen Rider Skull"
       },
       {
+        "lang": "de",
+        "type": "official",
+        "text": "Fuuto PI: The Portrait of Kamen Rider Skull"
+      },
+      {
         "lang": "en",
         "type": "official",
         "text": "Fuuto PI: The Portrait of Kamen Rider Skull"
       },
       {
-        "lang": "de",
-        "type": "official",
-        "text": "Fuuto PI: The Portrait of Kamen Rider Skull"
+        "lang": "x-jat",
+        "type": "short",
+        "text": "Fuuto Tantei Movie"
       },
       {
         "lang": "x-jat",
@@ -558754,6 +558784,11 @@
     "titles": [
       {
         "lang": "ja",
+        "type": "syn",
+        "text": "BLEACH 千年血戦篇 最終クール"
+      },
+      {
+        "lang": "ja",
         "type": "official",
         "text": "BLEACH 千年血戦篇-禍進譚-"
       },
@@ -558761,6 +558796,16 @@
         "lang": "x-jat",
         "type": "main",
         "text": "Bleach: Sennen Kessen Hen - Kashin Tan"
+      },
+      {
+        "lang": "x-jat",
+        "type": "syn",
+        "text": "Bleach: Sennen Kessen Hen Saishuu Cour"
+      },
+      {
+        "lang": "x-jat",
+        "type": "syn",
+        "text": "Bleach: Sennen Kessen-hen - Kashin-tan"
       },
       {
         "lang": "en",
@@ -558771,6 +558816,11 @@
         "lang": "de",
         "type": "official",
         "text": "Bleach: Thousand-Year Blood War - The Calamity"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Bleach: Thousand-Year Blood War Final Part"
       }
     ]
   },
@@ -562371,6 +562421,16 @@
         "lang": "ja",
         "type": "official",
         "text": "ふつつかな悪女ではございますが ~雛宮蝶鼠とりかえ伝~"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "恶女不才，请多关照 ～雏宫蝶鼠换身传～"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "我是不才惡女"
       }
     ]
   },
@@ -567178,11 +567238,6 @@
         "text": "Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku Shite Mita."
       },
       {
-        "lang": "x-jat",
-        "type": "syn",
-        "text": "Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita."
-      },
-      {
         "lang": "ko",
         "type": "official",
         "text": "용사 파티에 귀여운 애가 있어서, 고백해봤다."
@@ -568541,6 +568596,16 @@
         "lang": "ja",
         "type": "official",
         "text": "いびってこない義母と義姉"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "不虐待我的繼母與繼姐"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "不虐待我的继母与继姐"
       }
     ]
   },
@@ -568723,6 +568788,11 @@
         "text": "SI-VIS - The Sound of Heroes"
       },
       {
+        "lang": "en",
+        "type": "official",
+        "text": "Si-Vis: The Sound of Heroes"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Si-Vis: The Sound of Heroes"
@@ -568731,11 +568801,6 @@
         "lang": "ja",
         "type": "official",
         "text": "SI-VIS: The Sound of Heroes"
-      },
-      {
-        "lang": "en",
-        "type": "official",
-        "text": "Si-Vis: The Sound of Heroes"
       },
       {
         "lang": "zh-Hans",
@@ -569048,13 +569113,13 @@
     "aid": "19513",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "es-419",
+        "type": "official",
         "text": "Akane-banashi"
       },
       {
-        "lang": "es-419",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Akane-banashi"
       },
       {
@@ -570891,6 +570956,16 @@
         "lang": "ja",
         "type": "official",
         "text": "花織さんは転生しても喧嘩がしたい"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "花織即使是轉生也想打架"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "花织即使是转生也想打架"
       }
     ]
   },
@@ -571228,8 +571303,8 @@
     "aid": "19613",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "en",
+        "type": "syn",
         "text": "Re:Monster 2"
       },
       {
@@ -571238,8 +571313,8 @@
         "text": "Re:Monster 2"
       },
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "ja",
+        "type": "official",
         "text": "Re:Monster 2"
       },
       {
@@ -571263,13 +571338,13 @@
         "text": "Dr. Stone Season 4 Part 3"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Dr. Stone: Science Future (2026)"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Dr. Stone: Science Future (2026)"
       },
       {
@@ -571408,13 +571483,13 @@
     "aid": "19621",
     "titles": [
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Hotel Inhumans (2026)"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Hotel Inhumans (2026)"
       },
       {
@@ -571503,24 +571578,24 @@
     "aid": "19625",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Marriage Toxin"
-      },
-      {
         "lang": "en",
         "type": "official",
         "text": "Marriage Toxin"
       },
       {
         "lang": "x-jat",
-        "type": "syn",
-        "text": "Marriagetoxin"
+        "type": "main",
+        "text": "Marriage Toxin"
       },
       {
         "lang": "de",
         "type": "official",
         "text": "MARRIAGETOXIN"
+      },
+      {
+        "lang": "x-jat",
+        "type": "syn",
+        "text": "Marriagetoxin"
       },
       {
         "lang": "ja",
@@ -572213,13 +572288,13 @@
     "aid": "19657",
     "titles": [
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "High School! Kimengumi (2026)"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "High School! Kimengumi (2026)"
       },
       {
@@ -572493,13 +572568,13 @@
     "aid": "19672",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Run Run Lantern"
       },
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Run Run Lantern"
       }
     ]
@@ -573363,14 +573438,14 @@
     "aid": "19713",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "NEEDY GIRL OVERDOSE"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Needy Girl Overdose"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "NEEDY GIRL OVERDOSE"
       },
       {
         "lang": "en",
@@ -574588,13 +574663,13 @@
     "aid": "19765",
     "titles": [
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Psyren"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Psyren"
       },
       {
@@ -574973,14 +575048,14 @@
     "aid": "19783",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "mofusand"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Mofusand"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "mofusand"
       }
     ]
   },
@@ -575318,13 +575393,13 @@
     "aid": "19799",
     "titles": [
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "One Punch Man (2027)"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "One Punch Man (2027)"
       },
       {
@@ -575568,14 +575643,14 @@
     "aid": "19813",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "CHOPPER`S"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Chopper`s"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "CHOPPER`S"
       }
     ]
   },
@@ -575803,14 +575878,14 @@
     "aid": "19828",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Zero Rise"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "ZERO RISE"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Zero Rise"
       }
     ]
   },
@@ -576023,9 +576098,19 @@
         "text": "도굴왕"
       },
       {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "盗墓王"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "盗掘王"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "盜墓王"
       }
     ]
   },
@@ -578313,14 +578398,14 @@
         "text": "Sensha Isu"
       },
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "TANK CHAIR"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Tank Chair"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "TANK CHAIR"
       },
       {
         "lang": "ja",
@@ -578553,13 +578638,13 @@
     "aid": "19962",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "en",
+        "type": "main",
         "text": "ETERNITY"
       },
       {
-        "lang": "en",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "ETERNITY"
       }
     ]
@@ -578913,14 +578998,14 @@
     "aid": "19982",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "KOKO"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Koko"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "KOKO"
       }
     ]
   },
@@ -579053,13 +579138,13 @@
     "aid": "19990",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "The Fable 2"
       },
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "The Fable 2"
       },
       {
@@ -579208,13 +579293,13 @@
     "aid": "19998",
     "titles": [
       {
-        "lang": "x-kot",
-        "type": "official",
+        "lang": "en",
+        "type": "main",
         "text": "Metal Cardbot"
       },
       {
-        "lang": "en",
-        "type": "main",
+        "lang": "x-kot",
+        "type": "official",
         "text": "Metal Cardbot"
       }
     ]
@@ -579258,17 +579343,17 @@
         "text": "Hyakki Yakoushou"
       },
       {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "百鬼夜行抄"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "百鬼夜行抄"
       },
       {
         "lang": "zh-Hant",
-        "type": "official",
-        "text": "百鬼夜行抄"
-      },
-      {
-        "lang": "zh-Hans",
         "type": "official",
         "text": "百鬼夜行抄"
       }
@@ -579523,14 +579608,14 @@
     "aid": "20012",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Candy Caries"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "CANDY CARIES"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Candy Caries"
       },
       {
         "lang": "en",
@@ -580973,13 +581058,13 @@
     "aid": "20086",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Dengeki Daisy"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Dengeki Daisy"
       },
       {
@@ -581683,13 +581768,13 @@
     "aid": "20121",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Fool Night"
       },
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Fool Night"
       },
       {
@@ -581963,13 +582048,13 @@
     "aid": "20131",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Snowball Earth 2"
       },
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Snowball Earth 2"
       },
       {
@@ -583041,6 +583126,16 @@
         "lang": "ja",
         "type": "official",
         "text": "パーフェクトアディクション"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "澈底对你成瘾"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "澈底對你成癮"
       }
     ]
   },
@@ -583096,6 +583191,16 @@
         "lang": "ja",
         "type": "official",
         "text": "ばなにゃ あっとほーむぱーてぃー"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "香蕉喵 10 週年紀念篇"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "香蕉喵10周年纪念特别篇"
       }
     ]
   },
@@ -583433,13 +583538,13 @@
     "aid": "20206",
     "titles": [
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Studio Cabana"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Studio Cabana"
       },
       {
@@ -583558,6 +583663,11 @@
         "text": "Sanguo Sha: Taiping Tianshu"
       },
       {
+        "lang": "en",
+        "type": "official",
+        "text": "Three Kingdoms Kill: Taiping Heavenly Book"
+      },
+      {
         "lang": "zh-Hans",
         "type": "official",
         "text": "三国杀：太平天书"
@@ -583606,6 +583716,111 @@
         "lang": "zh-Hans",
         "type": "syn",
         "text": "绝世战魂 第二季"
+      }
+    ]
+  },
+  {
+    "aid": "20213",
+    "titles": [
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Is This Honor of Kings? 6th Season"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Is This Honor of Kings? Season 6"
+      },
+      {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Shi Wangzhe A? 6th Season"
+      },
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Shi Wangzhe A? Di 6 Ji: Xuezhang Jiadao Qing Zhijiao"
+      },
+      {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Shi Wangzhe A? Season 6"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "是王者啊？第6季 学长驾到请指教"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "syn",
+        "text": "是王者啊？第六季"
+      }
+    ]
+  },
+  {
+    "aid": "20214",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Gekijou Ginga Tetsudou 999"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "劇場 銀河鉄道999"
+      }
+    ]
+  },
+  {
+    "aid": "20215",
+    "titles": [
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Mii-chan and Miss Yamada"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Mii-chan to Yamada-san"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "みいちゃんと山田さん"
+      }
+    ]
+  },
+  {
+    "aid": "20216",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Jiyi Guanli Ju(2026)"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "记忆管理局(2026)"
+      }
+    ]
+  },
+  {
+    "aid": "20217",
+    "titles": [
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "The Eternal Supreme, Li Yunxiao"
+      },
+      {
+        "lang": "zh",
+        "type": "main",
+        "text": "Wangu Zhizun: Li Yunxiao Zhuan"
       }
     ]
   }
