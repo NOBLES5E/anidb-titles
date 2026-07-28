@@ -481593,6 +481593,11 @@
         "text": "Xian Wang de Richang Shenghuo Er"
       },
       {
+        "lang": "ja",
+        "type": "official",
+        "text": "不死身な僕の日常　シーズン2"
+      },
+      {
         "lang": "zh-Hans",
         "type": "official",
         "text": "仙王的日常生活第二季"
@@ -481833,13 +481838,13 @@
     "aid": "16368",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "X-Buster"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "X-Buster"
       }
     ]
@@ -481918,8 +481923,8 @@
     "aid": "16373",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "High Card"
       },
       {
@@ -481928,8 +481933,8 @@
         "text": "HIGH CARD"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "High Card"
       },
       {
@@ -482053,14 +482058,14 @@
     "aid": "16377",
     "titles": [
       {
-        "lang": "es",
-        "type": "official",
-        "text": "excepción"
-      },
-      {
         "lang": "es-419",
         "type": "official",
         "text": "Excepción"
+      },
+      {
+        "lang": "es",
+        "type": "official",
+        "text": "excepción"
       },
       {
         "lang": "ro",
@@ -500803,6 +500808,11 @@
         "text": "Xian Wang de Richang Shenghuo Di San Ji"
       },
       {
+        "lang": "ja",
+        "type": "official",
+        "text": "不死身な僕の日常　シーズン3"
+      },
+      {
         "lang": "zh-Hans",
         "type": "official",
         "text": "仙王的日常生活 第三季"
@@ -500903,12 +500913,12 @@
         "text": "Bezsenność po szkole"
       },
       {
-        "lang": "en",
+        "lang": "fr",
         "type": "official",
         "text": "Insomniacs After School"
       },
       {
-        "lang": "fr",
+        "lang": "en",
         "type": "official",
         "text": "Insomniacs After School"
       },
@@ -533193,6 +533203,11 @@
         "text": "Xian Wang de Richang Shenghuo Di Si Ji"
       },
       {
+        "lang": "ja",
+        "type": "official",
+        "text": "不死身な僕の日常　シーズン4"
+      },
+      {
         "lang": "zh-Hans",
         "type": "official",
         "text": "仙王的日常生活 第四季"
@@ -545605,17 +545620,17 @@
       {
         "lang": "x-jat",
         "type": "main",
-        "text": "Garena Free Fire"
+        "text": "Free Fire Daybreak"
       },
       {
         "lang": "ja",
         "type": "official",
-        "text": "Garena Free Fire"
+        "text": "Free Fire Daybreak"
       },
       {
         "lang": "ja",
         "type": "syn",
-        "text": "ガレナ フリーファイア"
+        "text": "フリーファイアデイブレイク"
       }
     ]
   },
@@ -558808,14 +558823,19 @@
         "text": "Bleach: Sennen Kessen-hen - Kashin-tan"
       },
       {
+        "lang": "de",
+        "type": "official",
+        "text": "Bleach: Thousand-Year Blood War - The Calamity"
+      },
+      {
         "lang": "en",
         "type": "official",
         "text": "Bleach: Thousand-Year Blood War - The Calamity"
       },
       {
-        "lang": "de",
-        "type": "official",
-        "text": "Bleach: Thousand-Year Blood War - The Calamity"
+        "lang": "en",
+        "type": "syn",
+        "text": "Bleach: Thousand-Year Blood War - The Calamity Arc"
       },
       {
         "lang": "en",
@@ -558958,12 +558978,12 @@
         "text": "Futari Solo Camp"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "Solo Camping for Two"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "Solo Camping for Two"
       },
@@ -559088,13 +559108,13 @@
         "text": "Beyblade Burst QuadStrike"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Beyblade Burst QuadStrike"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Beyblade Burst QuadStrike"
       },
       {
@@ -559188,17 +559208,17 @@
     "aid": "19095",
     "titles": [
       {
+        "lang": "ja",
+        "type": "official",
+        "text": "My Melody & Kuromi"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "My Melody & Kuromi"
       },
       {
         "lang": "en",
-        "type": "official",
-        "text": "My Melody & Kuromi"
-      },
-      {
-        "lang": "ja",
         "type": "official",
         "text": "My Melody & Kuromi"
       }
@@ -559803,14 +559823,14 @@
     "aid": "19120",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "smile smile ship Start!"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Smile Smile Ship Start!"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "smile smile ship Start!"
       }
     ]
   },
@@ -561163,13 +561183,13 @@
     "aid": "19171",
     "titles": [
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Dive In!"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Dive In!"
       },
       {
@@ -561848,12 +561868,12 @@
     "aid": "19204",
     "titles": [
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "A Gatherer`s Adventure in Isekai"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "A Gatherer`s Adventure in Isekai"
       },
@@ -561978,12 +561998,12 @@
         "text": "All You Need Is Kill"
       },
       {
-        "lang": "en",
+        "lang": "ja",
         "type": "official",
         "text": "All You Need Is Kill"
       },
       {
-        "lang": "ja",
+        "lang": "en",
         "type": "official",
         "text": "All You Need Is Kill"
       },
@@ -562488,11 +562508,6 @@
     "aid": "19230",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "DIGIMON BEATBREAK"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Digimon Beatbreak"
@@ -562501,6 +562516,11 @@
         "lang": "en",
         "type": "official",
         "text": "Digimon Beatbreak"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "DIGIMON BEATBREAK"
       },
       {
         "lang": "x-unk",
@@ -562943,12 +562963,12 @@
         "text": "Eiga Crayon Shin-chan: Chou Curry! Shakunetsu no Kasukabe Dancers"
       },
       {
-        "lang": "en",
+        "lang": "hi",
         "type": "official",
         "text": "Shin-chan: The Spicy Kasukabe Dancers in India"
       },
       {
-        "lang": "hi",
+        "lang": "en",
         "type": "official",
         "text": "Shin-chan: The Spicy Kasukabe Dancers in India"
       },
@@ -563038,13 +563058,13 @@
     "aid": "19260",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Medalist (2026)"
       },
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Medalist (2026)"
       },
       {
@@ -563298,9 +563318,9 @@
     "aid": "19271",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "THE STAR SEEKERS"
+        "lang": "en",
+        "type": "syn",
+        "text": "The Star Seekers"
       },
       {
         "lang": "x-jat",
@@ -563308,9 +563328,9 @@
         "text": "The Star Seekers"
       },
       {
-        "lang": "en",
-        "type": "syn",
-        "text": "The Star Seekers"
+        "lang": "ja",
+        "type": "official",
+        "text": "THE STAR SEEKERS"
       },
       {
         "lang": "ja",
@@ -563938,13 +563958,13 @@
     "aid": "19300",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Sunny"
       },
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Sunny"
       }
     ]
@@ -565838,12 +565858,12 @@
         "text": "鬼の花嫁"
       },
       {
-        "lang": "zh-Hant",
+        "lang": "zh-Hans",
         "type": "official",
         "text": "鬼的新娘"
       },
       {
-        "lang": "zh-Hans",
+        "lang": "zh-Hant",
         "type": "official",
         "text": "鬼的新娘"
       }
@@ -566403,12 +566423,12 @@
         "text": "Kaguya-sama wa Kokurasetai: Otona e no Kaidan"
       },
       {
-        "lang": "fr",
+        "lang": "en",
         "type": "official",
         "text": "Kaguya-sama: Love Is War - Stairway to Adulthood"
       },
       {
-        "lang": "en",
+        "lang": "fr",
         "type": "official",
         "text": "Kaguya-sama: Love Is War - Stairway to Adulthood"
       },
@@ -567383,14 +567403,14 @@
         "text": "Cyberpunk: Edgerunners 2"
       },
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "CYBERPUNK: EDGERUNNERS II"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Cyberpunk: Edgerunners II"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "CYBERPUNK: EDGERUNNERS II"
       },
       {
         "lang": "ja",
@@ -567478,14 +567498,14 @@
         "text": "Beastars Final Season (2026)"
       },
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "BEASTARS FINAL SEASON (2026)"
-      },
-      {
         "lang": "en",
         "type": "official",
         "text": "Beastars Final Season (2026)"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "BEASTARS FINAL SEASON (2026)"
       },
       {
         "lang": "en",
@@ -567498,14 +567518,14 @@
     "aid": "19450",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Killtube"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "KILLTUBE"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Killtube"
       },
       {
         "lang": "ja",
@@ -567536,6 +567556,11 @@
         "lang": "x-jat",
         "type": "main",
         "text": "Yomi no Tsugai"
+      },
+      {
+        "lang": "pt-BR",
+        "type": "official",
+        "text": "Yomi no Tsugai - Daemons do Reino das Sombras"
       },
       {
         "lang": "ko",
@@ -568269,7 +568294,7 @@
       },
       {
         "lang": "en",
-        "type": "syn",
+        "type": "official",
         "text": "Soul Land: Sword Master"
       },
       {
@@ -583821,6 +583846,176 @@
         "lang": "zh",
         "type": "main",
         "text": "Wangu Zhizun: Li Yunxiao Zhuan"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "万古至尊：李云霄传"
+      }
+    ]
+  },
+  {
+    "aid": "20218",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Eiga Meitantei Precure! Fushigi na Niwa to Futari no Himitsu"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Star Detective Precure! The Movie: The Mysterious Garden and a Secret Pair"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "映画名探偵プリキュア! 不思議な庭と2人の秘密"
+      }
+    ]
+  },
+  {
+    "aid": "20219",
+    "titles": [
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "God of Eternity"
+      },
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Wangu Shen Di"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "万古神帝"
+      }
+    ]
+  },
+  {
+    "aid": "20220",
+    "titles": [
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Doraemon: Nobita`s Steam-Powered Time Machine"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Eiga Doraemon: Nobita no Jouki Jikansha"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "映画ドラえもん のび太の蒸気時間車"
+      }
+    ]
+  },
+  {
+    "aid": "20221",
+    "titles": [
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "Necromancer: I Am the Scourge"
+      },
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Si Ling Fashi! Wo Ji Shi Tianzai"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "死灵法师！我即是天灾"
+      }
+    ]
+  },
+  {
+    "aid": "20222",
+    "titles": [
+      {
+        "lang": "en",
+        "type": "main",
+        "text": "One Pace"
+      }
+    ]
+  },
+  {
+    "aid": "20223",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Muhou no Ai"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "無法の愛"
+      }
+    ]
+  },
+  {
+    "aid": "20224",
+    "titles": [
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "MAHOROBA"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "MAHOROBA"
+      }
+    ]
+  },
+  {
+    "aid": "20225",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Senren Banka"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "千恋＊万花"
+      }
+    ]
+  },
+  {
+    "aid": "20226",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Wei Jiang"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "维将"
+      }
+    ]
+  },
+  {
+    "aid": "20227",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Wo Kao Chongzhi Dang Wudi"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "我靠充值当武帝"
       }
     ]
   }
