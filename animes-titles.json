@@ -552503,13 +552503,13 @@
     "aid": "18855",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Maebashi Witches"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Maebashi Witches"
       },
       {
@@ -552611,6 +552611,11 @@
         "lang": "x-jat",
         "type": "syn",
         "text": "Romelia Senki: Maou wo Taoshita Ato mo Jinrui Yabasou Dakara Guntai Soshiki Shita"
+      },
+      {
+        "lang": "de",
+        "type": "official",
+        "text": "Romelia War Chronicle"
       },
       {
         "lang": "en",
@@ -565958,6 +565963,11 @@
         "text": "The Beginning After the End Season 2"
       },
       {
+        "lang": "en",
+        "type": "syn",
+        "text": "What Will the Mighty King Do in His Second Life?"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "最強の王様, 二度目の人生は何をする? (2026)"
@@ -569946,11 +569956,6 @@
         "lang": "x-jat",
         "type": "main",
         "text": "OVA Natsu Zuma"
-      },
-      {
-        "lang": "zh-Hans",
-        "type": "syn",
-        "text": "OVA 夏妻"
       },
       {
         "lang": "ja",
@@ -583023,6 +583028,11 @@
         "text": "Migawari Reijou o Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai Deshita"
       },
       {
+        "lang": "x-jat",
+        "type": "syn",
+        "text": "Migawari Reijou wo Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai deshita"
+      },
+      {
         "lang": "en",
         "type": "official",
         "text": "Saved by the Ice Cold Prince`s Embrace"
@@ -583963,13 +583973,13 @@
     "aid": "20224",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "MAHOROBA"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "MAHOROBA"
       }
     ]
@@ -584016,6 +584026,41 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "我靠充值当武帝"
+      }
+    ]
+  },
+  {
+    "aid": "20228",
+    "titles": [
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Millennium Family"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Odoru Sennen Kazoku"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "踊る千年家族"
+      }
+    ]
+  },
+  {
+    "aid": "20229",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Hitori Tsuma"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "ヒトリ妻"
       }
     ]
   }
