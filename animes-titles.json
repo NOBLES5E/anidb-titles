@@ -249198,6 +249198,11 @@
     "aid": "7598",
     "titles": [
       {
+        "lang": "en",
+        "type": "official",
+        "text": "My Lord and Me"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Tono to Issho: Ippunkan Gekijou"
@@ -249303,14 +249308,14 @@
     "aid": "7600",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "Twinkle NORA Rock me!"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Twinkle Nora Rock Me!"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "Twinkle NORA Rock me!"
       },
       {
         "lang": "ja",
@@ -265107,6 +265112,11 @@
   {
     "aid": "8221",
     "titles": [
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "My Lord and Me ~The Ambition Behind the Eyepatch~"
+      },
       {
         "lang": "x-jat",
         "type": "main",
@@ -298908,8 +298918,8 @@
     "aid": "9525",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Tamako Market"
       },
       {
@@ -298918,8 +298928,8 @@
         "text": "Tamako Market"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Tamako Market"
       },
       {
@@ -298997,6 +299007,11 @@
   {
     "aid": "9528",
     "titles": [
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Doraemon (1994) - Nobita & the Future Notebook"
+      },
       {
         "lang": "x-jat",
         "type": "main",
@@ -299098,13 +299113,13 @@
         "text": "Ark IX"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Ark Nine"
       },
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Ark Nine"
       },
       {
@@ -481858,6 +481873,11 @@
         "text": "Osomatsu-san: Hipipo-zoku to Kagayaku Kajitsu"
       },
       {
+        "lang": "en",
+        "type": "syn",
+        "text": "Osomatsu-san: The Hipipo Tribe and the Shining Fruit"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "おそ松さん~ヒピポ族と輝く果実~"
@@ -503918,6 +503938,11 @@
         "text": "Osomatsu-san: Tamashii no Takoyaki Party to Densetsu no Otomarikai"
       },
       {
+        "lang": "en",
+        "type": "syn",
+        "text": "Osomatsu-san: The Spirit Takoyaki Party and the Legendary Sleepover"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "おそ松さん~魂のたこ焼きパーティーと伝説のお泊り会~"
@@ -504013,14 +504038,14 @@
     "aid": "17252",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "DREAMLAND"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Dreamland"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "DREAMLAND"
       }
     ]
   },
@@ -504233,13 +504258,13 @@
         "text": "Eikyuu Shounen"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Eternal Boys"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Eternal Boys"
       },
       {
@@ -504248,12 +504273,12 @@
         "text": "エターナルボーイズ"
       },
       {
-        "lang": "ja",
+        "lang": "zh-Hans",
         "type": "official",
         "text": "永久少年"
       },
       {
-        "lang": "zh-Hans",
+        "lang": "ja",
         "type": "official",
         "text": "永久少年"
       },
@@ -504303,13 +504328,13 @@
     "aid": "17264",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "FLCL: Grunge"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "FLCL: Grunge"
       },
       {
@@ -504323,13 +504348,13 @@
     "aid": "17265",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "FLCL: Shoegaze"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "FLCL: Shoegaze"
       },
       {
@@ -504833,12 +504858,12 @@
     "aid": "17282",
     "titles": [
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "Love Flops"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "Love Flops"
       },
@@ -504878,14 +504903,14 @@
         "text": "Opus Colors"
       },
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "Opus.COLORs"
-      },
-      {
         "lang": "en",
         "type": "official",
         "text": "Opus.Colors"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "Opus.COLORs"
       },
       {
         "lang": "ja",
@@ -504903,17 +504928,17 @@
     "aid": "17284",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "Engage Kiss"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Engage Kiss"
       },
       {
         "lang": "en",
+        "type": "official",
+        "text": "Engage Kiss"
+      },
+      {
+        "lang": "ja",
         "type": "official",
         "text": "Engage Kiss"
       },
@@ -533888,11 +533913,6 @@
         "text": "Isekai de Cheat Skill o Te ni Shita Ore wa, Genjitsu Sekai o mo Musou Suru: Level Up wa Jinsei o Kaeta (2026)"
       },
       {
-        "lang": "x-jat",
-        "type": "short",
-        "text": "Iseleve - OVA"
-      },
-      {
         "lang": "zh-Hans",
         "type": "official",
         "text": "在异世界获得超强能力的我，在现实世界照样无敌～等级提升改变人生命运～ (2026)"
@@ -547773,6 +547793,11 @@
         "text": "Gekijouban Kimetsu no Yaiba: Mugen-jou Hen"
       },
       {
+        "lang": "x-jat",
+        "type": "syn",
+        "text": "Kimetsu no Yaiba Movie 1 - Mugenjou-hen - Akaza Sairai"
+      },
+      {
         "lang": "uk",
         "type": "official",
         "text": "Вбивця Демонів: Замок Нескінченності"
@@ -561240,12 +561265,17 @@
       {
         "lang": "en",
         "type": "official",
-        "text": "False Memory (2025)"
+        "text": "False Memory (2026)"
       },
       {
         "lang": "x-jat",
         "type": "main",
-        "text": "Jiyi Guanli Ju (2025)"
+        "text": "Jiyi Guanli Ju (2026)"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "记忆管理局 (2026)"
       }
     ]
   },
@@ -582915,21 +582945,6 @@
     ]
   },
   {
-    "aid": "20174",
-    "titles": [
-      {
-        "lang": "x-zht",
-        "type": "main",
-        "text": "Jiyi Guanli Ju (2026)"
-      },
-      {
-        "lang": "zh-Hans",
-        "type": "official",
-        "text": "记忆管理局 (2026)"
-      }
-    ]
-  },
-  {
     "aid": "20175",
     "titles": [
       {
@@ -583830,21 +583845,6 @@
     ]
   },
   {
-    "aid": "20216",
-    "titles": [
-      {
-        "lang": "x-zht",
-        "type": "main",
-        "text": "Jiyi Guanli Ju(2026)"
-      },
-      {
-        "lang": "zh",
-        "type": "official",
-        "text": "记忆管理局(2026)"
-      }
-    ]
-  },
-  {
     "aid": "20217",
     "titles": [
       {
@@ -584061,6 +584061,56 @@
         "lang": "ja",
         "type": "official",
         "text": "ヒトリ妻"
+      }
+    ]
+  },
+  {
+    "aid": "20230",
+    "titles": [
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Gu An"
+      },
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "GuAn"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "One Slash Through The Heavens"
+      },
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Yi Zhan Cangqiong"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "一斩苍穹"
+      }
+    ]
+  },
+  {
+    "aid": "20231",
+    "titles": [
+      {
+        "lang": "x-kot",
+        "type": "main",
+        "text": "Mawangui Ttallo Taeeonatseumnida"
+      },
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "The Adventures of a Demon King`s Daughter"
+      },
+      {
+        "lang": "ko",
+        "type": "official",
+        "text": "마왕의 딸로 태어났습니다"
       }
     ]
   }
