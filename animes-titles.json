@@ -451748,13 +451748,13 @@
     "aid": "15286",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Skate-Leading Stars"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Skate-Leading Stars"
       },
       {
@@ -451771,6 +451771,11 @@
         "lang": "x-jat",
         "type": "main",
         "text": "Josee to Tora to Sakana-tachi"
+      },
+      {
+        "lang": "x-jat",
+        "type": "syn",
+        "text": "Josee to Tora to Sakanatachi"
       },
       {
         "lang": "es-CA",
@@ -546433,6 +546438,11 @@
     "aid": "18652",
     "titles": [
       {
+        "lang": "en",
+        "type": "short",
+        "text": "gits 2026"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Koukaku Kidoutai (2026)"
@@ -554534,7 +554544,7 @@
     "titles": [
       {
         "lang": "en",
-        "type": "official",
+        "type": "syn",
         "text": "Alchemy Supreme"
       },
       {
@@ -554544,7 +554554,7 @@
       },
       {
         "lang": "en",
-        "type": "syn",
+        "type": "official",
         "text": "Supreme Alchemy"
       },
       {
@@ -576653,6 +576663,11 @@
     "aid": "19865",
     "titles": [
       {
+        "lang": "ja",
+        "type": "syn",
+        "text": "Kyouran Reijou Nia Liston"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei Shita Kami-goroshi no Bujin no Karei Naru Musouroku"
@@ -583799,6 +583814,11 @@
       },
       {
         "lang": "zh-Hans",
+        "type": "syn",
+        "text": "是王者啊？稷下篇"
+      },
+      {
+        "lang": "zh-Hans",
         "type": "official",
         "text": "是王者啊？第6季 学长驾到请指教"
       },
@@ -583973,13 +583993,13 @@
     "aid": "20224",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "MAHOROBA"
       },
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "MAHOROBA"
       }
     ]
@@ -584111,6 +584131,26 @@
         "lang": "ko",
         "type": "official",
         "text": "마왕의 딸로 태어났습니다"
+      }
+    ]
+  },
+  {
+    "aid": "20232",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Li Xiongmao"
+      },
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "Raised by Demons: Panda Li"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "李熊猫"
       }
     ]
   }
