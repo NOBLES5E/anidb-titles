@@ -512424,7 +512424,7 @@
       },
       {
         "lang": "pt",
-        "type": "syn",
+        "type": "official",
         "text": "Os Perigos no Meu Coração"
       },
       {
@@ -528594,7 +528594,7 @@
       },
       {
         "lang": "pt",
-        "type": "syn",
+        "type": "official",
         "text": "Os Perigos no Meu Coração (2024)"
       },
       {
@@ -553698,6 +553698,11 @@
         "text": "Gekijouban Boku no Kokoro no Yabai Yatsu"
       },
       {
+        "lang": "pt",
+        "type": "official",
+        "text": "Os Perigos no Meu Coração: Filme"
+      },
+      {
         "lang": "en",
         "type": "syn",
         "text": "The Dangers in My Heart the Movie"
@@ -570698,6 +570703,11 @@
         "text": "Clevatess S2"
       },
       {
+        "lang": "en",
+        "type": "syn",
+        "text": "Clevatess Season 2"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "クレバテスII-魔獣の王と偽りの勇者伝承-"
@@ -571218,14 +571228,14 @@
     "aid": "19604",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Death Stranding Mosquito"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "DEATH STRANDING MOSQUITO"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Death Stranding Mosquito"
       }
     ]
   },
@@ -571373,11 +571383,6 @@
     "aid": "19613",
     "titles": [
       {
-        "lang": "en",
-        "type": "syn",
-        "text": "Re:Monster 2"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Re:Monster 2"
@@ -571385,6 +571390,11 @@
       {
         "lang": "ja",
         "type": "official",
+        "text": "Re:Monster 2"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
         "text": "Re:Monster 2"
       },
       {
@@ -578438,6 +578448,11 @@
         "text": "Boku no Kokoro no Yabai Yatsu (2027)"
       },
       {
+        "lang": "pt",
+        "type": "official",
+        "text": "Os Perigos no Meu Coração (2027)"
+      },
+      {
         "lang": "en",
         "type": "syn",
         "text": "The Dangers in My Heart (2027)"
@@ -579644,7 +579659,7 @@
       },
       {
         "lang": "en",
-        "type": "syn",
+        "type": "official",
         "text": "Against the Gods II"
       },
       {
@@ -583993,13 +584008,13 @@
     "aid": "20224",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "MAHOROBA"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "MAHOROBA"
       }
     ]
@@ -584151,6 +584166,51 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "李熊猫"
+      }
+    ]
+  },
+  {
+    "aid": "20233",
+    "titles": [
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Ancient God Sovereign"
+      },
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "Primeval Overlord"
+      },
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Tai Gu Shen Zun"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "太古神尊"
+      }
+    ]
+  },
+  {
+    "aid": "20234",
+    "titles": [
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Exiled Merchant Saves the World with the Power of Money"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Tsuihou Sareta Shounin wa Kin no Chikara de Sekai o Sukuu"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "追放された商人は金の力で世界を救う"
       }
     ]
   }
