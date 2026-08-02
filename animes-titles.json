@@ -154073,6 +154073,11 @@
         "text": "Sekai Meisaku Douwa Series: Wow! Marchen Oukoku"
       },
       {
+        "lang": "pl",
+        "type": "official",
+        "text": "Skarbczyk najpiękniejszych bajek"
+      },
+      {
         "lang": "pt",
         "type": "official",
         "text": "Videocontos"
@@ -571140,7 +571145,17 @@
       {
         "lang": "x-zht",
         "type": "syn",
+        "text": "Jiaonang Jihua 2nd Season"
+      },
+      {
+        "lang": "x-zht",
+        "type": "syn",
         "text": "Jiaonang Jihua Di Er Ji"
+      },
+      {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Jiaonang Jihua II"
       },
       {
         "lang": "zh-Hans",
@@ -571155,12 +571170,27 @@
       {
         "lang": "en",
         "type": "syn",
+        "text": "CAPSULES 3"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Capsules 3rd Season"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
         "text": "Capsules Project: Hero"
       },
       {
         "lang": "en",
         "type": "official",
         "text": "CAPSULES: Hero"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Capsules:Hero"
       },
       {
         "lang": "x-zht",
@@ -577319,7 +577349,7 @@
       },
       {
         "lang": "en",
-        "type": "syn",
+        "type": "official",
         "text": "The Great Ruler 2"
       },
       {
@@ -583458,6 +583488,21 @@
     "aid": "20199",
     "titles": [
       {
+        "lang": "en",
+        "type": "syn",
+        "text": "CAPSULES 4"
+      },
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "CAPSULES: Miracle"
+      },
+      {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Jiaonang Jihua 4th Season"
+      },
+      {
         "lang": "x-zht",
         "type": "main",
         "text": "Jiaonang Jihua: Qiji"
@@ -583466,6 +583511,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "胶囊计划 奇迹"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "syn",
+        "text": "胶囊计划 第四季"
       }
     ]
   },
@@ -584211,6 +584261,26 @@
         "lang": "ja",
         "type": "official",
         "text": "追放された商人は金の力で世界を救う"
+      }
+    ]
+  },
+  {
+    "aid": "20235",
+    "titles": [
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Cloud Moon Continent"
+      },
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Yun Yue Dalu"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "云月大陆"
       }
     ]
   }
