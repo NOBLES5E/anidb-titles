@@ -394793,6 +394793,11 @@
         "text": "Kono Subarashii Sekai ni Shukufuku o! Kurenai Densetsu"
       },
       {
+        "lang": "pt",
+        "type": "official",
+        "text": "Konosuba: A Bênção de Deus Para Este Maravilhoso Mundo! - Lenda Carmesim"
+      },
+      {
         "lang": "pl",
         "type": "official",
         "text": "KonoSuba: God`s Blessing on this Wonderful World!"
@@ -463213,6 +463218,11 @@
     "aid": "15638",
     "titles": [
       {
+        "lang": "en",
+        "type": "syn",
+        "text": "Infinite 48"
+      },
+      {
         "lang": "x-zht",
         "type": "main",
         "text": "Wuxian Shaonu 48"
@@ -484288,14 +484298,14 @@
     "aid": "16442",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "GABULI"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Gabuli"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "GABULI"
       },
       {
         "lang": "ja",
@@ -484426,6 +484436,11 @@
         "lang": "en",
         "type": "official",
         "text": "Konosuba: An Explosion on this Wonderful World!"
+      },
+      {
+        "lang": "pt",
+        "type": "official",
+        "text": "Konosuba: Uma Explosão Neste Maravilhoso Mundo!"
       },
       {
         "lang": "ru",
@@ -491263,9 +491278,19 @@
         "text": "False Memory"
       },
       {
+        "lang": "en",
+        "type": "syn",
+        "text": "False Memory (2020)"
+      },
+      {
         "lang": "x-zht",
         "type": "main",
         "text": "Jiyi Guanli Ju"
+      },
+      {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Jiyi Guanli Ju (2020)"
       },
       {
         "lang": "zh-Hans",
@@ -491908,12 +491933,12 @@
         "text": "Класс героев"
       },
       {
-        "lang": "zh-Hans",
+        "lang": "ja",
         "type": "official",
         "text": "英雄教室"
       },
       {
-        "lang": "ja",
+        "lang": "zh-Hans",
         "type": "official",
         "text": "英雄教室"
       }
@@ -491968,12 +491993,12 @@
         "text": "My Hero Academia Saison 6"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "My Hero Academia Season 6"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "My Hero Academia Season 6"
       },
@@ -492158,17 +492183,17 @@
     "aid": "16796",
     "titles": [
       {
+        "lang": "de",
+        "type": "official",
+        "text": "Tales of Luminaria the Fateful Crossroad"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "TALES OF LUMINARIA The Fateful Crossroad"
       },
       {
         "lang": "en",
-        "type": "official",
-        "text": "Tales of Luminaria the Fateful Crossroad"
-      },
-      {
-        "lang": "de",
         "type": "official",
         "text": "Tales of Luminaria the Fateful Crossroad"
       },
@@ -492773,14 +492798,14 @@
     "aid": "16823",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Junk Head (2017)"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "JUNK HEAD (2017)"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Junk Head (2017)"
       }
     ]
   },
@@ -493158,12 +493183,12 @@
         "text": "Détective Conan : Apprenti criminel"
       },
       {
-        "lang": "es",
+        "lang": "es-419",
         "type": "official",
         "text": "Detective Conan: Hanzawa el Culpable"
       },
       {
-        "lang": "es-419",
+        "lang": "es",
         "type": "official",
         "text": "Detective Conan: Hanzawa el Culpable"
       },
@@ -553538,6 +553563,11 @@
         "text": "Odrodzony jako galareta. Film: Łzy Morza Lazuroweg"
       },
       {
+        "lang": "x-jat",
+        "type": "syn",
+        "text": "Tensei shitara Slime Datta Ken Movie 2 - Soukai no Namida-hen"
+      },
+      {
         "lang": "es",
         "type": "official",
         "text": "That Time I Got Reincarnated as a Slime La Película: Lágrimas del mar celeste"
@@ -555641,6 +555671,11 @@
         "lang": "x-jat",
         "type": "main",
         "text": "Kaya-chan wa Kowakunai"
+      },
+      {
+        "lang": "x-jat",
+        "type": "short",
+        "text": "kayakowa"
       },
       {
         "lang": "ja",
@@ -563169,7 +563204,7 @@
     "titles": [
       {
         "lang": "en",
-        "type": "syn",
+        "type": "official",
         "text": "Shangri-La Frontier (2027)"
       },
       {
@@ -566997,6 +567032,11 @@
   {
     "aid": "19425",
     "titles": [
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "Eleceed"
+      },
       {
         "lang": "x-jat",
         "type": "main",
@@ -573408,6 +573448,11 @@
         "text": "Ojisan wa Kawaii Mono ga Osuki."
       },
       {
+        "lang": "en",
+        "type": "official",
+        "text": "Uncle`s Obsession with Cute Things"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "おじさんはカワイイものがお好き."
@@ -576369,7 +576414,7 @@
     "titles": [
       {
         "lang": "en",
-        "type": "syn",
+        "type": "official",
         "text": "FX Fighter Kurumi-chan"
       },
       {
@@ -577091,6 +577136,11 @@
         "lang": "x-jat",
         "type": "short",
         "text": "Chii Fuyo"
+      },
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life"
       },
       {
         "lang": "x-jat",
@@ -580759,7 +580809,7 @@
       },
       {
         "lang": "en",
-        "type": "syn",
+        "type": "official",
         "text": "The Iceblade Sorcerer Shall Rule the World II"
       },
       {
@@ -584281,6 +584331,36 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "云月大陆"
+      }
+    ]
+  },
+  {
+    "aid": "20236",
+    "titles": [
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "Break Ups"
+      },
+      {
+        "lang": "x-kot",
+        "type": "main",
+        "text": "Jeolyeonjooui Sahang"
+      }
+    ]
+  },
+  {
+    "aid": "20237",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Digimon (2027)"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "デジモン (2027)"
       }
     ]
   }
