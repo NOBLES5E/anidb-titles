@@ -584363,5 +584363,90 @@
         "text": "デジモン (2027)"
       }
     ]
+  },
+  {
+    "aid": "20238",
+    "titles": [
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Chained Soldier Season 3"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Mato Seihei no Slave 3"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "魔都精兵のスレイブ3"
+      }
+    ]
+  },
+  {
+    "aid": "20239",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Shizun Qu Na Le: Bian Cheng Shen Shou Bei Wu Ge Tu`er rua Tu"
+      },
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "Taming My Fluffy Shizun"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Where did Master go? He turned into a divine beast and was rubbed bald by his five disciples"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "师尊去哪了：变成神兽被五个徒儿rua秃"
+      }
+    ]
+  },
+  {
+    "aid": "20240",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "short",
+        "text": "Chiramune S2"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Chitose-kun wa Ramune Bin no Naka (2026)"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "千歳くんはラムネ瓶のなか (2026)"
+      }
+    ]
+  },
+  {
+    "aid": "20241",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Boku no Hero Academia: I Am a Hero Too"
+      },
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "My Hero Academia: I Am a Hero Too"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "僕のヒーローアカデミア I am a hero too"
+      }
+    ]
   }
 ]
