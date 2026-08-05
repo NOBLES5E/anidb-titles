@@ -562554,6 +562554,11 @@
       },
       {
         "lang": "en",
+        "type": "official",
+        "text": "Cute High Earth Defense Club Hi-CARA!"
+      },
+      {
+        "lang": "en",
         "type": "syn",
         "text": "Cute High Earth Defense Club Stylish!"
       },
@@ -563148,13 +563153,13 @@
     "aid": "19260",
     "titles": [
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Medalist (2026)"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Medalist (2026)"
       },
       {
@@ -563408,9 +563413,9 @@
     "aid": "19271",
     "titles": [
       {
-        "lang": "en",
-        "type": "syn",
-        "text": "The Star Seekers"
+        "lang": "ja",
+        "type": "official",
+        "text": "THE STAR SEEKERS"
       },
       {
         "lang": "x-jat",
@@ -563418,9 +563423,9 @@
         "text": "The Star Seekers"
       },
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "THE STAR SEEKERS"
+        "lang": "en",
+        "type": "syn",
+        "text": "The Star Seekers"
       },
       {
         "lang": "ja",
@@ -584446,6 +584451,81 @@
         "lang": "ja",
         "type": "official",
         "text": "僕のヒーローアカデミア I am a hero too"
+      }
+    ]
+  },
+  {
+    "aid": "20242",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Jie Men Zhi Xia"
+      },
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "Under the Gate"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "界门之下"
+      }
+    ]
+  },
+  {
+    "aid": "20243",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Sai Ngoi"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "世外"
+      }
+    ]
+  },
+  {
+    "aid": "20244",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Shi Wai"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "世外"
+      }
+    ]
+  },
+  {
+    "aid": "20245",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Cheng Ye Xiao He"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "For the Win!"
+      },
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "To Be Winner"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "成也萧河"
       }
     ]
   }
