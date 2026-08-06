@@ -571925,7 +571925,7 @@
       {
         "lang": "en",
         "type": "official",
-        "text": "I Saved Myself with a Potion! : Life in Another World"
+        "text": "I Saved Myself with a Potion!: Life in Another World"
       },
       {
         "lang": "x-jat",
@@ -575055,17 +575055,17 @@
       {
         "lang": "en",
         "type": "syn",
-        "text": "A Wild Last Boss Appeared! 2"
+        "text": "A Wild Last Boss Appeared! (2026)"
       },
       {
         "lang": "x-jat",
         "type": "main",
-        "text": "Yasei no Last Boss ga Arawareta! 2"
+        "text": "Yasei no Last Boss ga Arawareta! (2026)"
       },
       {
         "lang": "ja",
         "type": "official",
-        "text": "野生のラスボスが現れた! 2"
+        "text": "野生のラスボスが現れた! (2026)"
       }
     ]
   },
@@ -584493,6 +584493,11 @@
     "aid": "20244",
     "titles": [
       {
+        "lang": "en",
+        "type": "official",
+        "text": "Another World (2025)"
+      },
+      {
         "lang": "x-zht",
         "type": "main",
         "text": "Shi Wai"
@@ -584526,6 +584531,41 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "成也萧河"
+      }
+    ]
+  },
+  {
+    "aid": "20246",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Dokagui Daisuki! Mochizuki-san"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "ドカ食いダイスキ! もちづきさん"
+      }
+    ]
+  },
+  {
+    "aid": "20247",
+    "titles": [
+      {
+        "lang": "x-kot",
+        "type": "main",
+        "text": "Yeonui Pyeonji"
+      },
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "Your Letter"
+      },
+      {
+        "lang": "ko",
+        "type": "official",
+        "text": "연의 편지"
       }
     ]
   }
