@@ -133123,6 +133123,11 @@
         "text": "True Blue~トゥルー・ブルー~"
       },
       {
+        "lang": "ru",
+        "type": "syn",
+        "text": "Настоящая грусть"
+      },
+      {
         "lang": "ko",
         "type": "syn",
         "text": "트루 블루"
@@ -155008,6 +155013,11 @@
         "text": "Innocent Blue: Clinical Records"
       },
       {
+        "lang": "ru",
+        "type": "syn",
+        "text": "Невинная грусть"
+      },
+      {
         "lang": "ko",
         "type": "syn",
         "text": "이노센트 블루"
@@ -155018,12 +155028,12 @@
     "aid": "3953",
     "titles": [
       {
-        "lang": "en",
+        "lang": "fr",
         "type": "official",
         "text": "Fighting Beauty Wulong"
       },
       {
-        "lang": "fr",
+        "lang": "en",
         "type": "official",
         "text": "Fighting Beauty Wulong"
       },
@@ -165286,6 +165296,11 @@
         "lang": "ja",
         "type": "official",
         "text": "True Blue~トゥルー・ブルー~外伝"
+      },
+      {
+        "lang": "ru",
+        "type": "syn",
+        "text": "Настоящая грусть - Генезис"
       }
     ]
   },
@@ -225203,7 +225218,7 @@
     "aid": "6613",
     "titles": [
       {
-        "lang": "en",
+        "lang": "fr",
         "type": "official",
         "text": "Katanagatari"
       },
@@ -225213,7 +225228,7 @@
         "text": "Katanagatari"
       },
       {
-        "lang": "fr",
+        "lang": "en",
         "type": "official",
         "text": "Katanagatari"
       },
@@ -225316,6 +225331,11 @@
         "lang": "x-jat",
         "type": "main",
         "text": "Triangle Blue"
+      },
+      {
+        "lang": "ru",
+        "type": "syn",
+        "text": "Синий треугольник"
       },
       {
         "lang": "ko",
@@ -284763,14 +284783,19 @@
     "aid": "8979",
     "titles": [
       {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Dark Blue"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "Dark Blue"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Dark Blue"
+        "lang": "ru",
+        "type": "syn",
+        "text": "Темно-синий"
       },
       {
         "lang": "ko",
@@ -302513,6 +302538,11 @@
         "text": "Reason ~Fragment of Your Overflowing Heart~"
       },
       {
+        "lang": "ru",
+        "type": "syn",
+        "text": "Осколки твоего сердца"
+      },
+      {
         "lang": "ko",
         "type": "syn",
         "text": "리 코토와리 ~너의 마음이 흘러넘친 조각~"
@@ -302688,14 +302718,14 @@
     "aid": "9677",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Log Horizon"
-      },
-      {
         "lang": "pl",
         "type": "official",
         "text": "Log horizon"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Log Horizon"
       },
       {
         "lang": "fr",
@@ -464868,14 +464898,19 @@
     "aid": "15705",
     "titles": [
       {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "White Blue"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "White Blue"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "White Blue"
+        "lang": "ru",
+        "type": "syn",
+        "text": "Белый Синий"
       },
       {
         "lang": "ko",
@@ -465058,13 +465093,13 @@
     "aid": "15713",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Shenmue the Animation"
       },
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Shenmue the Animation"
       },
       {
@@ -540038,6 +540073,11 @@
         "text": "Dearest Blue"
       },
       {
+        "lang": "ru",
+        "type": "syn",
+        "text": "Самый дорогой"
+      },
+      {
         "lang": "ko",
         "type": "syn",
         "text": "디어리스트 블루"
@@ -584566,6 +584606,101 @@
         "lang": "ko",
         "type": "official",
         "text": "연의 편지"
+      }
+    ]
+  },
+  {
+    "aid": "20248",
+    "titles": [
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Fabulous Beasts 6"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Fabulous Beasts 6th Season"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "There Are Fabulous Beasts: Season 6"
+      },
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "You Shou Yan 6"
+      },
+      {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "You Shou Yan 6th Season"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "有兽焉 第六季"
+      }
+    ]
+  },
+  {
+    "aid": "20249",
+    "titles": [
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "Yumi`s Cells: The Movie"
+      },
+      {
+        "lang": "x-kot",
+        "type": "main",
+        "text": "Yumiui Sepodeul Deo Mubi"
+      },
+      {
+        "lang": "ko",
+        "type": "official",
+        "text": "유미의 세포들 더 무비"
+      }
+    ]
+  },
+  {
+    "aid": "20250",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Sonyeonjangsu"
+      },
+      {
+        "lang": "ko",
+        "type": "official",
+        "text": "소년장수"
+      }
+    ]
+  },
+  {
+    "aid": "20251",
+    "titles": [
+      {
+        "lang": "x-kot",
+        "type": "main",
+        "text": "Sonyeonjangsu (2015)"
+      },
+      {
+        "lang": "ko",
+        "type": "official",
+        "text": "소년장수 (2015)"
+      }
+    ]
+  },
+  {
+    "aid": "20252",
+    "titles": [
+      {
+        "lang": "ko",
+        "type": "main",
+        "text": "Badass Girl : Run Hany"
       }
     ]
   }
