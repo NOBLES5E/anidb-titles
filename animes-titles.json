@@ -577959,6 +577959,11 @@
       },
       {
         "lang": "en",
+        "type": "official",
+        "text": "Versatile Mage (2026)"
+      },
+      {
+        "lang": "en",
         "type": "syn",
         "text": "Versatile Mage 7th Season"
       },
@@ -584701,6 +584706,61 @@
         "lang": "ko",
         "type": "main",
         "text": "Badass Girl : Run Hany"
+      }
+    ]
+  },
+  {
+    "aid": "20253",
+    "titles": [
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Full-Time Magister S8"
+      },
+      {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Quanzhi Fashi S8"
+      },
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Quanzhi Fashi VIII"
+      },
+      {
+        "lang": "x-zht",
+        "type": "short",
+        "text": "qzfs s8"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Versatile Mage S8"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "syn",
+        "text": "全职法师 第八季"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "全职法师VIII"
+      }
+    ]
+  },
+  {
+    "aid": "20254",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Destiny Unchain Online"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "Destiny Unchain Online"
       }
     ]
   }
