@@ -143438,6 +143438,11 @@
         "text": "BL1"
       },
       {
+        "lang": "cs",
+        "type": "official",
+        "text": "Black Lagoon"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Black Lagoon"
@@ -285441,6 +285446,11 @@
         "lang": "pl",
         "type": "syn",
         "text": "Cycata fantazja"
+      },
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "Funbag Fantasy"
       },
       {
         "lang": "x-jat",
@@ -527733,6 +527743,11 @@
         "text": "Da Zhuzai 3D"
       },
       {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Da Zhuzai: Nian Fan"
+      },
+      {
         "lang": "en",
         "type": "short",
         "text": "TGR"
@@ -527803,17 +527818,17 @@
     "aid": "18030",
     "titles": [
       {
+        "lang": "pl",
+        "type": "official",
+        "text": "Medalist"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Medalist"
       },
       {
         "lang": "en",
-        "type": "official",
-        "text": "Medalist"
-      },
-      {
-        "lang": "pl",
         "type": "official",
         "text": "Medalist"
       },
@@ -568669,12 +568684,12 @@
       },
       {
         "lang": "en",
-        "type": "official",
+        "type": "syn",
         "text": "Divine Love - Deep Blue"
       },
       {
         "lang": "en",
-        "type": "syn",
+        "type": "official",
         "text": "Divine Love: Deep Blue"
       },
       {
@@ -575219,6 +575234,11 @@
       },
       {
         "lang": "x-jat",
+        "type": "syn",
+        "text": "Otome Kaijuu"
+      },
+      {
+        "lang": "x-jat",
         "type": "main",
         "text": "Otome Kaijuu Caramelise"
       },
@@ -577408,14 +577428,14 @@
     "aid": "19892",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Luca"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "LUCA"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Luca"
       }
     ]
   },
@@ -577436,6 +577456,11 @@
         "lang": "en",
         "type": "syn",
         "text": "Da Zhuzai 3D 2nd Season"
+      },
+      {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Da Zhuzai: Nian Fan 2"
       },
       {
         "lang": "en",
@@ -584761,6 +584786,91 @@
         "lang": "ja",
         "type": "official",
         "text": "Destiny Unchain Online"
+      }
+    ]
+  },
+  {
+    "aid": "20255",
+    "titles": [
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Back Alley of Guyu Street"
+      },
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Guyu Jie Hou Xiang"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "谷雨街后巷"
+      }
+    ]
+  },
+  {
+    "aid": "20256",
+    "titles": [
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "Daqian Town"
+      },
+      {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Daqian Xiao Zhen"
+      },
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Daqian Xiaozhen"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "大千小镇"
+      }
+    ]
+  },
+  {
+    "aid": "20257",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Di Ling Ai: Shui Xin Chan"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Divine Love 2"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Divine Love: Entwined Water Hearts"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Divine Love: Water Heart Entwine"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "syn",
+        "text": "缔灵爱之默水玲珑2"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "syn",
+        "text": "缔灵爱之默水玲珑第二季"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "缔灵爱水心缠"
       }
     ]
   }
