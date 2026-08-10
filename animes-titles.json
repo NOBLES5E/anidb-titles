@@ -197708,6 +197708,11 @@
     "aid": "5432",
     "titles": [
       {
+        "lang": "pt",
+        "type": "official",
+        "text": "Doraemon E Os Sete Magos"
+      },
+      {
         "lang": "en",
         "type": "syn",
         "text": "Doraemon Movie 27"
@@ -225951,6 +225956,11 @@
         "lang": "x-jat",
         "type": "main",
         "text": "Black Lagoon: Roberta`s Blood Trail"
+      },
+      {
+        "lang": "cs",
+        "type": "official",
+        "text": "Black Lagoon: Robertina krvavá stopa"
       },
       {
         "lang": "lt",
@@ -451453,12 +451463,17 @@
         "text": "JJK"
       },
       {
-        "lang": "pl",
+        "lang": "en",
         "type": "official",
         "text": "Jujutsu Kaisen"
       },
       {
-        "lang": "en",
+        "lang": "fr",
+        "type": "official",
+        "text": "Jujutsu Kaisen"
+      },
+      {
+        "lang": "pl",
         "type": "official",
         "text": "Jujutsu Kaisen"
       },
@@ -514173,6 +514188,11 @@
         "text": "Undead Unluck"
       },
       {
+        "lang": "fr",
+        "type": "official",
+        "text": "Undead Unluck"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "アンデッドアンラック"
@@ -514253,13 +514273,13 @@
     "aid": "17590",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Punirunes"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Punirunes"
       },
       {
@@ -514283,14 +514303,14 @@
         "text": "CINDERELLA GIRLS 10th Anniversary Celebration Animation 「ETERNITY MEMORIES」"
       },
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "ETERNITY MEMORIES"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Eternity Memories"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "ETERNITY MEMORIES"
       },
       {
         "lang": "en",
@@ -515088,13 +515108,13 @@
         "text": "Frieren - Oltre la Fine del Viaggio"
       },
       {
-        "lang": "pt",
-        "type": "syn",
+        "lang": "pt-BR",
+        "type": "official",
         "text": "Frieren e a Jornada para o Além"
       },
       {
-        "lang": "pt-BR",
-        "type": "official",
+        "lang": "pt",
+        "type": "syn",
         "text": "Frieren e a Jornada para o Além"
       },
       {
@@ -522955,15 +522975,15 @@
       {
         "lang": "fr",
         "type": "official",
-        "text": "Les Carnets de l`apothicaire"
+        "text": "Les carnets de l`apothicaire"
       },
       {
-        "lang": "es",
+        "lang": "es-419",
         "type": "official",
         "text": "Los diarios de la boticaria"
       },
       {
-        "lang": "es-419",
+        "lang": "es",
         "type": "official",
         "text": "Los diarios de la boticaria"
       },
@@ -535860,7 +535880,7 @@
       {
         "lang": "fr",
         "type": "official",
-        "text": "DAN DA DAN"
+        "text": "Dan Da Dan"
       },
       {
         "lang": "pt-BR",
@@ -546573,17 +546593,12 @@
     "aid": "18654",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
-        "text": "Sakamoto Days"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Sakamoto Days"
       },
       {
-        "lang": "pl",
+        "lang": "fr",
         "type": "official",
         "text": "Sakamoto Days"
       },
@@ -546591,6 +546606,16 @@
         "lang": "ja",
         "type": "official",
         "text": "SAKAMOTO DAYS"
+      },
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "Sakamoto Days"
+      },
+      {
+        "lang": "pl",
+        "type": "official",
+        "text": "Sakamoto Days"
       },
       {
         "lang": "hu",
@@ -553215,12 +553240,22 @@
       {
         "lang": "en",
         "type": "syn",
+        "text": "Perfect World The Movie: Ashes of Fire"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
         "text": "Perfect World Theater Edition"
       },
       {
         "lang": "en",
         "type": "syn",
         "text": "Perfect World: Theatrical Movie"
+      },
+      {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Wanmei Shijie Movie: Huo Zhi Huijin"
       },
       {
         "lang": "x-zht",
@@ -553323,7 +553358,7 @@
     "aid": "18874",
     "titles": [
       {
-        "lang": "ja",
+        "lang": "ko",
         "type": "official",
         "text": "CITY THE ANIMATION"
       },
@@ -553333,7 +553368,7 @@
         "text": "City the Animation"
       },
       {
-        "lang": "ko",
+        "lang": "ja",
         "type": "official",
         "text": "CITY THE ANIMATION"
       },
@@ -553808,13 +553843,13 @@
     "aid": "18891",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Addition and Subtraction with Doraemon"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Addition and Subtraction with Doraemon"
       }
     ]
@@ -554433,13 +554468,13 @@
         "text": "육정"
       },
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "zh-Hans",
+        "type": "syn",
         "text": "育精"
       },
       {
-        "lang": "zh-Hans",
-        "type": "syn",
+        "lang": "ja",
+        "type": "official",
         "text": "育精"
       }
     ]
@@ -554538,13 +554573,13 @@
         "text": "kowloon"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Kowloon Generic Romance"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Kowloon Generic Romance"
       },
       {
@@ -580043,6 +580078,11 @@
     "aid": "20023",
     "titles": [
       {
+        "lang": "fr",
+        "type": "official",
+        "text": "L`héroïne au ruban"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "The Ribbon Hero"
@@ -584871,6 +584911,21 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "缔灵爱水心缠"
+      }
+    ]
+  },
+  {
+    "aid": "20258",
+    "titles": [
+      {
+        "lang": "en",
+        "type": "main",
+        "text": "One Piece: Adventure in the Ocean`s Navel"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "One Piece: Umi no Heso no Daibouken-hen"
       }
     ]
   }
