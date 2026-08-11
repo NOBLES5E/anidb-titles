@@ -197853,6 +197853,11 @@
     "aid": "5436",
     "titles": [
       {
+        "lang": "pl",
+        "type": "official",
+        "text": "Mała foczka"
+      },
+      {
         "lang": "en",
         "type": "syn",
         "text": "The Secret of the Seal"
@@ -197948,14 +197953,14 @@
     "aid": "5447",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Blame! (2007)"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "BLAME! (2007)"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Blame! (2007)"
       }
     ]
   },
@@ -482828,6 +482833,11 @@
         "text": "Saga of Tanya the Evil II"
       },
       {
+        "lang": "en",
+        "type": "syn",
+        "text": "Saga of Tanya the Evil Season 2"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Youjo Senki II"
@@ -483038,12 +483048,12 @@
         "text": "Backflip : le film"
       },
       {
-        "lang": "es",
+        "lang": "es-419",
         "type": "official",
         "text": "Backflip!! - La película"
       },
       {
-        "lang": "es-419",
+        "lang": "es",
         "type": "official",
         "text": "Backflip!! - La película"
       },
@@ -483103,13 +483113,13 @@
         "text": "Deep Insanity THE LOST CHILD"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Deep Insanity: The Lost Child"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Deep Insanity: The Lost Child"
       },
       {
@@ -574168,6 +574178,11 @@
         "text": "Marika`s Love Meter Malfunction"
       },
       {
+        "lang": "ru",
+        "type": "syn",
+        "text": "Уровень симпатии Марики ненормально высокий"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "茉莉花ちゃんの好感度はぶっ壊れている"
@@ -574913,13 +574928,13 @@
     "aid": "19765",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Psyren"
       },
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Psyren"
       },
       {
@@ -575648,13 +575663,13 @@
     "aid": "19799",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "One Punch Man (2027)"
       },
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "One Punch Man (2027)"
       },
       {
@@ -575898,14 +575913,14 @@
     "aid": "19813",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Chopper`s"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "CHOPPER`S"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Chopper`s"
       }
     ]
   },
@@ -576133,14 +576148,14 @@
     "aid": "19828",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "ZERO RISE"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Zero Rise"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "ZERO RISE"
       }
     ]
   },
@@ -577138,13 +577153,13 @@
     "aid": "19877",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Thunder 3"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Thunder 3"
       },
       {
@@ -577463,14 +577478,14 @@
     "aid": "19892",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "LUCA"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Luca"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "LUCA"
       }
     ]
   },
@@ -578678,14 +578693,14 @@
         "text": "Sensha Isu"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Tank Chair"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "TANK CHAIR"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Tank Chair"
       },
       {
         "lang": "ja",
@@ -578918,13 +578933,13 @@
     "aid": "19962",
     "titles": [
       {
-        "lang": "en",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "ETERNITY"
       },
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "en",
+        "type": "main",
         "text": "ETERNITY"
       }
     ]
@@ -579418,13 +579433,13 @@
     "aid": "19990",
     "titles": [
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "The Fable 2"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "The Fable 2"
       },
       {
@@ -579623,17 +579638,17 @@
         "text": "Hyakki Yakoushou"
       },
       {
-        "lang": "zh-Hans",
-        "type": "official",
-        "text": "百鬼夜行抄"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "百鬼夜行抄"
       },
       {
         "lang": "zh-Hant",
+        "type": "official",
+        "text": "百鬼夜行抄"
+      },
+      {
+        "lang": "zh-Hans",
         "type": "official",
         "text": "百鬼夜行抄"
       }
@@ -579893,13 +579908,13 @@
         "text": "CANDY CARIES"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Candy Caries"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Candy Caries"
       },
       {
@@ -581343,13 +581358,13 @@
     "aid": "20086",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Dengeki Daisy"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Dengeki Daisy"
       },
       {
@@ -582053,13 +582068,13 @@
     "aid": "20121",
     "titles": [
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Fool Night"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Fool Night"
       },
       {
@@ -582333,13 +582348,13 @@
     "aid": "20131",
     "titles": [
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Snowball Earth 2"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Snowball Earth 2"
       },
       {
@@ -583833,13 +583848,13 @@
     "aid": "20206",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Studio Cabana"
       },
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Studio Cabana"
       },
       {
@@ -584818,13 +584833,13 @@
     "aid": "20254",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Destiny Unchain Online"
       },
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Destiny Unchain Online"
       }
     ]
@@ -584926,6 +584941,106 @@
         "lang": "ja",
         "type": "official",
         "text": "One Piece: Umi no Heso no Daibouken-hen"
+      }
+    ]
+  },
+  {
+    "aid": "20259",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Akuyaku no Ending wa Shi Nomi"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Villains Are Destined to Die"
+      },
+      {
+        "lang": "ko",
+        "type": "official",
+        "text": "악역의 엔딩은 죽음뿐"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "悪役のエンディングは死のみ"
+      }
+    ]
+  },
+  {
+    "aid": "20260",
+    "titles": [
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Perfect World Movie: Nine Calamities Burning Heaven"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Perfect World Movie: Nine Tribulations Incinerate the Heavens"
+      },
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "Perfect World Movie: Ninefold The Burning Sky"
+      },
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Wanmei Shijie Movie: Jiu Jie Fen Tian"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "syn",
+        "text": "完美世界 剧场版之九劫焚天"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "syn",
+        "text": "完美世界之九劫焚天"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "完美世界剧场版 九劫焚天"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "syn",
+        "text": "完美世界剧场版 第二部"
+      }
+    ]
+  },
+  {
+    "aid": "20261",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Caishen Dou Zhanlong"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "财神窦占龙"
+      }
+    ]
+  },
+  {
+    "aid": "20262",
+    "titles": [
+      {
+        "lang": "zh-Hans",
+        "type": "main",
+        "text": "1999! Shenmi Xue Duice Bu"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "1999！神秘学对策部"
       }
     ]
   }
