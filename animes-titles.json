@@ -282648,13 +282648,13 @@
         "text": "Evangelion 4.0"
       },
       {
-        "lang": "it",
-        "type": "official",
+        "lang": "en",
+        "type": "syn",
         "text": "Evangelion: 3.0+1.0 Thrice Upon a Time"
       },
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "it",
+        "type": "official",
         "text": "Evangelion: 3.0+1.0 Thrice Upon a Time"
       },
       {
@@ -282663,14 +282663,19 @@
         "text": "Evangelion: 3.0+1.0 Trei Ori Ca Niciodată"
       },
       {
+        "lang": "en",
+        "type": "official",
+        "text": "Evangelion: 3.0+1.01 Thrice Upon a Time"
+      },
+      {
         "lang": "fr",
         "type": "official",
         "text": "Evangelion: 3.0+1.01 Thrice Upon a Time"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
-        "text": "Evangelion: 3.0+1.01 Thrice Upon a Time"
+        "text": "Evangelion: 3.0+1.11 Thrice Upon a Time"
       },
       {
         "lang": "x-jat",
@@ -457209,7 +457214,7 @@
       },
       {
         "lang": "en",
-        "type": "syn",
+        "type": "official",
         "text": "The God of War Dominates"
       },
       {
@@ -577068,6 +577073,11 @@
         "text": "Yani Neko"
       },
       {
+        "lang": "ru",
+        "type": "official",
+        "text": "Табакошка"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "ヤニねこ"
@@ -584850,6 +584860,11 @@
       {
         "lang": "en",
         "type": "syn",
+        "text": "APPLES"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
         "text": "Back Alley of Guyu Street"
       },
       {
@@ -585041,6 +585056,21 @@
         "lang": "zh",
         "type": "official",
         "text": "1999！神秘学对策部"
+      }
+    ]
+  },
+  {
+    "aid": "20263",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Akazukin, Tabi no Tochuu de Shitai to Deau."
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "赤ずきん, 旅の途中で死体と出会う."
       }
     ]
   }
