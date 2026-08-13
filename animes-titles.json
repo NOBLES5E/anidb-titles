@@ -360924,6 +360924,11 @@
       },
       {
         "lang": "x-jat",
+        "type": "short",
+        "text": "Watamote (2016)"
+      },
+      {
+        "lang": "x-jat",
         "type": "main",
         "text": "Watashi ga Motete Dou Sunda"
       },
@@ -576808,11 +576813,6 @@
         "text": "My Ribdiculous Reincarnation"
       },
       {
-        "lang": "x-jat",
-        "type": "short",
-        "text": "Yuusha no Rokkotsu de"
-      },
-      {
         "lang": "zh-Hans",
         "type": "official",
         "text": "女神“异世界转生想成为什么”我“勇者的肋骨”"
@@ -585071,6 +585071,21 @@
         "lang": "ja",
         "type": "official",
         "text": "赤ずきん, 旅の途中で死体と出会う."
+      }
+    ]
+  },
+  {
+    "aid": "20264",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Nezumi-kun no Chokki"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "ねずみくんのチョッキ"
       }
     ]
   }
