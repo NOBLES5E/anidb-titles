@@ -585088,5 +585088,20 @@
         "text": "ねずみくんのチョッキ"
       }
     ]
+  },
+  {
+    "aid": "20265",
+    "titles": [
+      {
+        "lang": "x-kot",
+        "type": "main",
+        "text": "Salangui Hachyuping: Golaeboseogui Jeonseol"
+      },
+      {
+        "lang": "ko",
+        "type": "official",
+        "text": "사랑의 하츄핑: 고래보석의 전설"
+      }
+    ]
   }
 ]
