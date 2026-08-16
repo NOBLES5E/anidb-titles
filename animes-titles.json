@@ -35068,12 +35068,12 @@
         "text": "Labirinto de Chamas"
       },
       {
-        "lang": "en",
+        "lang": "fr",
         "type": "official",
         "text": "Labyrinth of Flames"
       },
       {
-        "lang": "fr",
+        "lang": "en",
         "type": "official",
         "text": "Labyrinth of Flames"
       },
@@ -35153,13 +35153,13 @@
         "text": "Princess Tutu"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "fr",
+        "type": "official",
         "text": "Princess Tutu"
       },
       {
-        "lang": "fr",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Princess Tutu"
       },
       {
@@ -35191,6 +35191,11 @@
         "lang": "ja",
         "type": "official",
         "text": "プリンセスチュチュ"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "彩夢芭蕾"
       }
     ]
   },
@@ -515134,7 +515139,7 @@
       },
       {
         "lang": "pt",
-        "type": "syn",
+        "type": "official",
         "text": "Frieren e a Jornada para o Além"
       },
       {
@@ -553713,6 +553718,11 @@
         "text": "Frieren 2"
       },
       {
+        "lang": "pt",
+        "type": "official",
+        "text": "Frieren e a Jornada para o Além (2026)"
+      },
+      {
         "lang": "en",
         "type": "official",
         "text": "Frieren: Beyond Journey`s End (2026)"
@@ -554070,11 +554080,6 @@
       {
         "lang": "x-jat",
         "type": "main",
-        "text": "Hime Kishi wa Barbaroi no Yome"
-      },
-      {
-        "lang": "x-jat",
-        "type": "syn",
         "text": "Himekishi wa Barbaroi no Yome"
       },
       {
@@ -558969,11 +558974,6 @@
       },
       {
         "lang": "en",
-        "type": "syn",
-        "text": "Link Click Season 3"
-      },
-      {
-        "lang": "en",
         "type": "official",
         "text": "Link Click: Bridon Arc"
       },
@@ -559018,12 +559018,12 @@
         "text": "Bleach: Sennen Kessen-hen - Kashin-tan"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "Bleach: Thousand-Year Blood War - The Calamity"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "Bleach: Thousand-Year Blood War - The Calamity"
       },
@@ -559173,12 +559173,12 @@
         "text": "Futari Solo Camp"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "Solo Camping for Two"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "Solo Camping for Two"
       },
@@ -559303,13 +559303,13 @@
         "text": "Beyblade Burst QuadStrike"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Beyblade Burst QuadStrike"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Beyblade Burst QuadStrike"
       },
       {
@@ -559403,17 +559403,17 @@
     "aid": "19095",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "My Melody & Kuromi"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "My Melody & Kuromi"
       },
       {
         "lang": "en",
+        "type": "official",
+        "text": "My Melody & Kuromi"
+      },
+      {
+        "lang": "ja",
         "type": "official",
         "text": "My Melody & Kuromi"
       }
@@ -560018,14 +560018,14 @@
     "aid": "19120",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Smile Smile Ship Start!"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "smile smile ship Start!"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Smile Smile Ship Start!"
       }
     ]
   },
@@ -561100,7 +561100,7 @@
       {
         "lang": "x-jat",
         "type": "main",
-        "text": "Hime Kishi-sama no Himo"
+        "text": "Himekishi-sama no Himo"
       },
       {
         "lang": "en",
@@ -561378,13 +561378,13 @@
     "aid": "19171",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Dive In!"
       },
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Dive In!"
       },
       {
@@ -562068,12 +562068,12 @@
     "aid": "19204",
     "titles": [
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "A Gatherer`s Adventure in Isekai"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "A Gatherer`s Adventure in Isekai"
       },
@@ -562198,12 +562198,12 @@
         "text": "All You Need Is Kill"
       },
       {
-        "lang": "ja",
+        "lang": "en",
         "type": "official",
         "text": "All You Need Is Kill"
       },
       {
-        "lang": "en",
+        "lang": "ja",
         "type": "official",
         "text": "All You Need Is Kill"
       },
@@ -563263,13 +563263,13 @@
     "aid": "19260",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Medalist (2026)"
       },
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Medalist (2026)"
       },
       {
@@ -563523,11 +563523,6 @@
     "aid": "19271",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "THE STAR SEEKERS"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "The Star Seekers"
@@ -563536,6 +563531,11 @@
         "lang": "en",
         "type": "syn",
         "text": "The Star Seekers"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "THE STAR SEEKERS"
       },
       {
         "lang": "ja",
@@ -564163,13 +564163,13 @@
     "aid": "19300",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Sunny"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Sunny"
       }
     ]
@@ -566063,12 +566063,12 @@
         "text": "鬼の花嫁"
       },
       {
-        "lang": "zh-Hans",
+        "lang": "zh-Hant",
         "type": "official",
         "text": "鬼的新娘"
       },
       {
-        "lang": "zh-Hant",
+        "lang": "zh-Hans",
         "type": "official",
         "text": "鬼的新娘"
       }
@@ -566633,12 +566633,12 @@
         "text": "Kaguya-sama wa Kokurasetai: Otona e no Kaidan"
       },
       {
-        "lang": "en",
+        "lang": "fr",
         "type": "official",
         "text": "Kaguya-sama: Love Is War - Stairway to Adulthood"
       },
       {
-        "lang": "fr",
+        "lang": "en",
         "type": "official",
         "text": "Kaguya-sama: Love Is War - Stairway to Adulthood"
       },
@@ -577163,13 +577163,13 @@
     "aid": "19877",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Thunder 3"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Thunder 3"
       },
       {
@@ -577290,7 +577290,22 @@
       {
         "lang": "en",
         "type": "syn",
+        "text": "LINK CLICK 3"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
         "text": "Link Click III Part One"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Link Click S3"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Link Click Season 3"
       },
       {
         "lang": "x-zht",
@@ -577301,6 +577316,11 @@
         "lang": "zh-Hans",
         "type": "syn",
         "text": "时光代理人 第三季 [PART ONE]"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "时光代理人III -LINK CLICK-"
       },
       {
         "lang": "zh-Hans",
@@ -578373,9 +578393,19 @@
         "text": "Paws & Palaces"
       },
       {
+        "lang": "x-jat",
+        "type": "official",
+        "text": "Shikin: On Myao Bou - Shikinjou Neko Keibishitsu"
+      },
+      {
         "lang": "x-zht",
         "type": "main",
         "text": "Zi Jin: Yu Miao Fang"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "紫禁・御猫房〜紫禁城猫警備室〜"
       },
       {
         "lang": "zh-Hans",
@@ -579183,6 +579213,11 @@
         "text": "Frieren 3"
       },
       {
+        "lang": "pt",
+        "type": "official",
+        "text": "Frieren e a Jornada para o Além (2027)"
+      },
+      {
         "lang": "en",
         "type": "syn",
         "text": "Frieren: Beyond Journey`s End (2027)"
@@ -579303,14 +579338,14 @@
     "aid": "19982",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Koko"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "KOKO"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Koko"
       }
     ]
   },
