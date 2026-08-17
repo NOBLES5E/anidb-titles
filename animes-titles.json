@@ -268603,6 +268603,11 @@
         "text": "Sono Mukou no Mukougawa"
       },
       {
+        "lang": "en",
+        "type": "official",
+        "text": "The Other Side of the Other Side"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "その向こうの向こう側"
@@ -268648,17 +268653,7 @@
     "aid": "8348",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "BLOOD-C"
-      },
-      {
-        "lang": "zh-Hans",
-        "type": "official",
-        "text": "BLOOD-C"
-      },
-      {
-        "lang": "es",
+        "lang": "de",
         "type": "official",
         "text": "Blood-C"
       },
@@ -268668,14 +268663,24 @@
         "text": "Blood-C"
       },
       {
+        "lang": "es",
+        "type": "official",
+        "text": "Blood-C"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "BLOOD-C"
+      },
+      {
         "lang": "en",
         "type": "official",
         "text": "BLOOD-C"
       },
       {
-        "lang": "de",
+        "lang": "zh-Hans",
         "type": "official",
-        "text": "Blood-C"
+        "text": "BLOOD-C"
       },
       {
         "lang": "x-jat",
@@ -268843,13 +268848,13 @@
     "aid": "8357",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Kizumonogatari"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Kizumonogatari"
       },
       {
@@ -268873,12 +268878,12 @@
         "text": "伤物语"
       },
       {
-        "lang": "zh-Hant",
+        "lang": "ja",
         "type": "official",
         "text": "傷物語"
       },
       {
-        "lang": "ja",
+        "lang": "zh-Hant",
         "type": "official",
         "text": "傷物語"
       }
@@ -554263,6 +554268,11 @@
         "text": "The Elusive Samurai (2026)"
       },
       {
+        "lang": "en",
+        "type": "syn",
+        "text": "The Elusive Samurai Season 2"
+      },
+      {
         "lang": "zh-Hans",
         "type": "official",
         "text": "擅長逃跑的殿下 第二季"
@@ -579068,6 +579078,11 @@
         "text": "Hamehara"
       },
       {
+        "lang": "ko",
+        "type": "syn",
+        "text": "하메하라"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "ハメハラ"
@@ -579581,6 +579596,11 @@
         "lang": "x-jat",
         "type": "main",
         "text": "Juurin Oukoku"
+      },
+      {
+        "lang": "ko",
+        "type": "syn",
+        "text": "유린왕국"
       },
       {
         "lang": "ja",
@@ -580318,6 +580338,11 @@
         "text": "Harem Shima e Youkoso!"
       },
       {
+        "lang": "ko",
+        "type": "syn",
+        "text": "하렘섬에 어서오세요"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "ハーレム島へようこそ!"
@@ -580733,6 +580758,11 @@
         "text": "Deco x Deco The Animation"
       },
       {
+        "lang": "ko",
+        "type": "syn",
+        "text": "데코x데코"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "デコ×デコ THE ANIMATION"
@@ -581101,6 +581131,11 @@
         "lang": "x-jat",
         "type": "main",
         "text": "Inaka ni wa Kore Kurai Shika Goraku ga Nai"
+      },
+      {
+        "lang": "ko",
+        "type": "syn",
+        "text": "시골에는 오락이 이 정도 밖에 없다"
       },
       {
         "lang": "ja",
@@ -581573,13 +581608,13 @@
     "aid": "20096",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "NICKY"
       },
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "NICKY"
       }
     ]
@@ -581898,13 +581933,13 @@
     "aid": "20109",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Metafear"
       },
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Metafear"
       }
     ]
@@ -583018,13 +583053,13 @@
     "aid": "20163",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Here U Are"
       },
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Here U Are"
       },
       {
@@ -583158,13 +583193,13 @@
     "aid": "20170",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Murcielago"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Murcielago"
       },
       {
@@ -583186,6 +583221,11 @@
         "lang": "en",
         "type": "syn",
         "text": "Jurassic Shadows"
+      },
+      {
+        "lang": "x-jat",
+        "type": "syn",
+        "text": "Ryuugeshou no Shinobi"
       },
       {
         "lang": "x-jat",
@@ -583893,13 +583933,13 @@
     "aid": "20206",
     "titles": [
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Studio Cabana"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Studio Cabana"
       },
       {
@@ -583951,6 +583991,11 @@
         "lang": "x-jat",
         "type": "main",
         "text": "Kusunoki-san wa Koukou Debut ni Shippai Shite Iru"
+      },
+      {
+        "lang": "x-jat",
+        "type": "syn",
+        "text": "Kusunoki-san wa Koukou Debut ni Shippai Shiteiru"
       },
       {
         "lang": "en",
@@ -584893,13 +584938,13 @@
     "aid": "20254",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Destiny Unchain Online"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Destiny Unchain Online"
       }
     ]
@@ -585166,6 +585211,81 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "穿越时空成仙帝，系统迟到八万年"
+      }
+    ]
+  },
+  {
+    "aid": "20267",
+    "titles": [
+      {
+        "lang": "x-kot",
+        "type": "main",
+        "text": "Butagini Jugeojura"
+      },
+      {
+        "lang": "ko",
+        "type": "official",
+        "text": "부탁이니 죽어주라"
+      }
+    ]
+  },
+  {
+    "aid": "20268",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Bawang Long Lei Qi 3"
+      },
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Bawang Long Lei Qi: Lei Qi Zhi Duoshao"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Tyrannosaurus Rex Ricky 3"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "霸王龙雷奇之雷奇知多少"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "syn",
+        "text": "霸王龙雷奇第三季"
+      }
+    ]
+  },
+  {
+    "aid": "20269",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Bawang Long Lei Qi 2"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "霸王龙雷奇 第二季"
+      }
+    ]
+  },
+  {
+    "aid": "20270",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Bawang Long Lei Qi"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "霸王龙雷奇"
       }
     ]
   }
