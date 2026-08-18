@@ -331376,6 +331376,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "重装武器"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "重裝武器"
       }
     ]
   },
@@ -546583,6 +546588,11 @@
         "text": "Koukaku Kidoutai (2026)"
       },
       {
+        "lang": "de",
+        "type": "official",
+        "text": "The Ghost in the Shell"
+      },
+      {
         "lang": "en",
         "type": "syn",
         "text": "The Ghost in the Shell"
@@ -558545,17 +558555,17 @@
       {
         "lang": "en",
         "type": "syn",
-        "text": "Skip and Loafer 2"
+        "text": "Skip and Loafer 2nd Season"
       },
       {
         "lang": "x-jat",
         "type": "main",
-        "text": "Skip to Loafer 2"
+        "text": "Skip to Loafer 2nd Season"
       },
       {
         "lang": "ja",
         "type": "official",
-        "text": "スキップとローファー 2"
+        "text": "スキップとローファー 2nd season"
       }
     ]
   },
@@ -561413,6 +561423,11 @@
     "aid": "19172",
     "titles": [
       {
+        "lang": "en",
+        "type": "syn",
+        "text": "Cats and Dragon"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Neko to Ryuu"
@@ -562033,11 +562048,6 @@
     "aid": "19203",
     "titles": [
       {
-        "lang": "fr",
-        "type": "official",
-        "text": "Black Torch"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Black Torch"
@@ -562066,6 +562076,11 @@
         "lang": "ja",
         "type": "official",
         "text": "BLACK TORCH"
+      },
+      {
+        "lang": "fr",
+        "type": "official",
+        "text": "Black Torch"
       },
       {
         "lang": "ja",
@@ -577299,6 +577314,11 @@
     "titles": [
       {
         "lang": "en",
+        "type": "official",
+        "text": "Link Click (2026)"
+      },
+      {
+        "lang": "en",
         "type": "syn",
         "text": "LINK CLICK 3"
       },
@@ -585286,6 +585306,81 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "霸王龙雷奇"
+      }
+    ]
+  },
+  {
+    "aid": "20271",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Caishen Dou Zhanlong"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "God of Wealth Dou Zhanlong"
+      },
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "Golden Curse"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "财神窦占龙"
+      }
+    ]
+  },
+  {
+    "aid": "20272",
+    "titles": [
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Mini Link Click"
+      },
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Shiguang Zhaoxiang Guan de Richang"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "The Daily Life at Time Photo Studio"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "The Daily Life in Lightime Short"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "时光照相馆的日常"
+      }
+    ]
+  },
+  {
+    "aid": "20273",
+    "titles": [
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Mini Link Click S2"
+      },
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Shiguang Xiao Juchang"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "时光小剧场"
       }
     ]
   }
