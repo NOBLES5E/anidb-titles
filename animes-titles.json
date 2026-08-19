@@ -539064,6 +539064,11 @@
       },
       {
         "lang": "x-jat",
+        "type": "syn",
+        "text": "Tohai: Ura Rate Mahjong Tohai Roku"
+      },
+      {
+        "lang": "x-jat",
         "type": "main",
         "text": "Touhai: Ura Rate Mahjong Touhai Roku"
       },
@@ -575633,9 +575638,19 @@
         "text": "Kingdom (TV)"
       },
       {
+        "lang": "x-jat",
+        "type": "syn",
+        "text": "Kingdom 6th season 2nd part"
+      },
+      {
         "lang": "en",
         "type": "syn",
         "text": "Kingdom S6 Part II"
+      },
+      {
+        "lang": "x-jat",
+        "type": "syn",
+        "text": "Kingdom Season 6 Part 2"
       },
       {
         "lang": "ja",
@@ -575698,9 +575713,9 @@
     "aid": "19799",
     "titles": [
       {
-        "lang": "en",
-        "type": "syn",
-        "text": "One Punch Man (2027)"
+        "lang": "ja",
+        "type": "official",
+        "text": "ONE PUNCH MAN (2027)"
       },
       {
         "lang": "x-jat",
@@ -575708,9 +575723,19 @@
         "text": "One Punch Man (2027)"
       },
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "ONE PUNCH MAN (2027)"
+        "lang": "en",
+        "type": "syn",
+        "text": "One Punch Man (2027)"
+      },
+      {
+        "lang": "x-jat",
+        "type": "syn",
+        "text": "One Punch Man Season 3 Part 2"
+      },
+      {
+        "lang": "x-jat",
+        "type": "short",
+        "text": "opm s3p2"
       },
       {
         "lang": "ja",
@@ -575948,14 +575973,14 @@
     "aid": "19813",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "CHOPPER`S"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Chopper`s"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "CHOPPER`S"
       }
     ]
   },
@@ -577188,13 +577213,13 @@
     "aid": "19877",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Thunder 3"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Thunder 3"
       },
       {
@@ -577538,14 +577563,14 @@
     "aid": "19892",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Luca"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "LUCA"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Luca"
       }
     ]
   },
@@ -577761,6 +577786,11 @@
         "lang": "x-jat",
         "type": "main",
         "text": "Genshin"
+      },
+      {
+        "lang": "ja",
+        "type": "syn",
+        "text": "Genshin Impact"
       },
       {
         "lang": "ja",
@@ -578723,6 +578753,11 @@
         "text": "Boku no Kokoro no Yabai Yatsu (2027)"
       },
       {
+        "lang": "x-jat",
+        "type": "syn",
+        "text": "Boku no Kokoro no Yabai Yatsu 3"
+      },
+      {
         "lang": "pt",
         "type": "official",
         "text": "Os Perigos no Meu Coração (2027)"
@@ -578763,14 +578798,14 @@
         "text": "Sensha Isu"
       },
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "TANK CHAIR"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Tank Chair"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "TANK CHAIR"
       },
       {
         "lang": "ja",
@@ -579003,13 +579038,13 @@
     "aid": "19962",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "en",
+        "type": "main",
         "text": "ETERNITY"
       },
       {
-        "lang": "en",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "ETERNITY"
       }
     ]
@@ -579263,9 +579298,24 @@
         "text": "Sousou no Frieren (2027)"
       },
       {
+        "lang": "x-jat",
+        "type": "syn",
+        "text": "Sousou no Frieren: Ougonkyou Hen"
+      },
+      {
+        "lang": "x-jat",
+        "type": "syn",
+        "text": "Sousou no Frieren: Ougonkyou-hen"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "葬送のフリーレン (2027)"
+      },
+      {
+        "lang": "ja",
+        "type": "syn",
+        "text": "葬送のフリーレン 黄金郷編"
       }
     ]
   },
@@ -579673,13 +579723,13 @@
     "aid": "19998",
     "titles": [
       {
-        "lang": "en",
-        "type": "main",
+        "lang": "x-kot",
+        "type": "official",
         "text": "Metal Cardbot"
       },
       {
-        "lang": "x-kot",
-        "type": "official",
+        "lang": "en",
+        "type": "main",
         "text": "Metal Cardbot"
       }
     ]
@@ -579993,13 +580043,13 @@
         "text": "CANDY CARIES"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Candy Caries"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Candy Caries"
       },
       {
@@ -580676,6 +580726,11 @@
         "lang": "x-zht",
         "type": "main",
         "text": "Xing Chen Bian Di Qi Ji"
+      },
+      {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Xingchen Bian 7"
       },
       {
         "lang": "x-zht",
@@ -581383,6 +581438,11 @@
         "text": "Juuou Bushin Dandivine"
       },
       {
+        "lang": "x-jat",
+        "type": "syn",
+        "text": "Juuou Mujin Dandivine"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "獣王武神ダンデヴァイン"
@@ -581628,13 +581688,13 @@
     "aid": "20096",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "NICKY"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "NICKY"
       }
     ]
@@ -581953,13 +582013,13 @@
     "aid": "20109",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Metafear"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Metafear"
       }
     ]
@@ -583073,13 +583133,13 @@
     "aid": "20163",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Here U Are"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Here U Are"
       },
       {
@@ -583953,13 +584013,13 @@
     "aid": "20206",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Studio Cabana"
       },
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Studio Cabana"
       },
       {
@@ -584958,13 +585018,13 @@
     "aid": "20254",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Destiny Unchain Online"
       },
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Destiny Unchain Online"
       }
     ]
@@ -585198,6 +585258,11 @@
         "text": "Salangui Hachyuping: Golaeboseogui Jeonseol"
       },
       {
+        "lang": "en",
+        "type": "official",
+        "text": "Teenieping: Legend of the Whale Heartstone"
+      },
+      {
         "lang": "ko",
         "type": "official",
         "text": "사랑의 하츄핑: 고래보석의 전설"
@@ -585381,6 +585446,21 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "时光小剧场"
+      }
+    ]
+  },
+  {
+    "aid": "20274",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Bousei no Volicia"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "忘星のヴァリシア"
       }
     ]
   }
