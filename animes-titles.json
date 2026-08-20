@@ -479894,6 +479894,11 @@
     "titles": [
       {
         "lang": "en",
+        "type": "official",
+        "text": "DAKAICHI -I`m being harassed by the sexiest man of the year-: Spain Arc"
+      },
+      {
+        "lang": "en",
         "type": "syn",
         "text": "Dakaichi: I`m Being Harassed by the Sexiest Man of the Year - the Movie in Spain"
       },
@@ -509278,14 +509283,14 @@
     "aid": "17438",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "BanG Dream! Morfonication"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Bang Dream! Morfonication"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "BanG Dream! Morfonication"
       }
     ]
   },
@@ -509321,6 +509326,11 @@
         "lang": "x-jat",
         "type": "syn",
         "text": "Hibike! Euphonium: Ensemble Contest-hen"
+      },
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "Sound! Euphonium: Ensemble Contest"
       },
       {
         "lang": "en",
@@ -563728,6 +563738,11 @@
         "text": "A Love Too Captivating"
       },
       {
+        "lang": "en",
+        "type": "syn",
+        "text": "Is It Because of Love That I Can`t Resist?"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Tamaranai no wa Koi na no ka"
@@ -585461,6 +585476,36 @@
         "lang": "ja",
         "type": "official",
         "text": "忘星のヴァリシア"
+      }
+    ]
+  },
+  {
+    "aid": "20275",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Oshiri Tantei (2024)"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "おしりたんてい (2024)"
+      }
+    ]
+  },
+  {
+    "aid": "20276",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Oshiri Tantei (2025)"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "おしりたんてい (2025)"
       }
     ]
   }
