@@ -490275,31 +490275,6 @@
     ]
   },
   {
-    "aid": "16709",
-    "titles": [
-      {
-        "lang": "x-jat",
-        "type": "syn",
-        "text": "Gundam: SD Gundam World Heroes: The Legend of Dragon Knight"
-      },
-      {
-        "lang": "ja",
-        "type": "official",
-        "text": "SD GUNDAM WORLD HEROES THE LEGEND OF DRAGON KNIGHT"
-      },
-      {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "SD Gundam World Heroes: The Legend of Dragon Knight"
-      },
-      {
-        "lang": "ja",
-        "type": "syn",
-        "text": "SDガンダムワールド ヒーローズ THE LEGEND OF DRAGON KNIGHT"
-      }
-    ]
-  },
-  {
     "aid": "16710",
     "titles": [
       {
@@ -585506,6 +585481,81 @@
         "lang": "ja",
         "type": "official",
         "text": "おしりたんてい (2025)"
+      }
+    ]
+  },
+  {
+    "aid": "20277",
+    "titles": [
+      {
+        "lang": "x-kot",
+        "type": "main",
+        "text": "Bol-cheu-wa Beul-lib: Dalnala Ligeuui Jeontu"
+      },
+      {
+        "lang": "ko",
+        "type": "official",
+        "text": "볼츠와 블립: 달나라 리그의 전투"
+      }
+    ]
+  },
+  {
+    "aid": "20278",
+    "titles": [
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "Fate/Grand Order 藤丸立香はわからない (2026)"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai (2026)"
+      },
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "Fate/Grand Order: You`ve Lost Ritsuka Fujimaru (2026)"
+      }
+    ]
+  },
+  {
+    "aid": "20279",
+    "titles": [
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "Rising in The Fire"
+      },
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Xiang Huo Er Sheng"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "向火而生"
+      }
+    ]
+  },
+  {
+    "aid": "20280",
+    "titles": [
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "I Am the Only Human in School"
+      },
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Wo shi xue xiao wei yi de ren lei"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "我是學校唯一的人類"
       }
     ]
   }
