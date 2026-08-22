@@ -11676,6 +11676,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "未麻的部屋"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "藍色恐懼"
       }
     ]
   },
@@ -163053,13 +163058,13 @@
         "text": "Паприка"
       },
       {
-        "lang": "uk",
-        "type": "syn",
+        "lang": "ru",
+        "type": "official",
         "text": "Паприка"
       },
       {
-        "lang": "ru",
-        "type": "official",
+        "lang": "uk",
+        "type": "syn",
         "text": "Паприка"
       },
       {
@@ -163091,6 +163096,11 @@
         "lang": "zh-Hans",
         "type": "syn",
         "text": "盗梦侦探"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "盜夢偵探"
       },
       {
         "lang": "zh-Hans",
@@ -294433,12 +294443,12 @@
         "text": "In questo angolo di mondo"
       },
       {
-        "lang": "en",
+        "lang": "pl",
         "type": "official",
         "text": "In This Corner of the World"
       },
       {
-        "lang": "pl",
+        "lang": "en",
         "type": "official",
         "text": "In This Corner of the World"
       },
@@ -294458,12 +294468,12 @@
         "text": "konosumi"
       },
       {
-        "lang": "pt-BR",
+        "lang": "pt",
         "type": "official",
         "text": "Neste Canto do Mundo"
       },
       {
-        "lang": "pt",
+        "lang": "pt-BR",
         "type": "official",
         "text": "Neste Canto do Mundo"
       },
@@ -294486,6 +294496,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "在这世界的角落"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "謝謝你，在世界的角落找到我"
       }
     ]
   },
@@ -300648,13 +300663,13 @@
         "text": "THE LAST NARUTO THE MOVIE"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "The Last: Naruto the Movie"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "The Last: Naruto the Movie"
       },
       {
@@ -300713,12 +300728,12 @@
         "text": "The Garden of Words"
       },
       {
-        "lang": "fr",
+        "lang": "de",
         "type": "official",
         "text": "The Garden of Words"
       },
       {
-        "lang": "de",
+        "lang": "fr",
         "type": "official",
         "text": "The Garden of Words"
       },
@@ -300761,6 +300776,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "言叶之庭"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "言葉之庭"
       }
     ]
   },
@@ -377598,12 +377618,12 @@
         "text": "Night is Short, Walk On Girl"
       },
       {
-        "lang": "fr",
+        "lang": "en",
         "type": "official",
         "text": "The Night Is Short, Walk On Girl"
       },
       {
-        "lang": "en",
+        "lang": "fr",
         "type": "official",
         "text": "The Night Is Short, Walk On Girl"
       },
@@ -377631,6 +377651,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "春宵苦短,少女前进吧!"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "春宵苦短，少女前進吧！"
       }
     ]
   },
@@ -477603,12 +477628,12 @@
         "text": "qq s3"
       },
       {
-        "lang": "es",
+        "lang": "es-419",
         "type": "official",
         "text": "The Quintessential Quintuplets - La película"
       },
       {
-        "lang": "es-419",
+        "lang": "es",
         "type": "official",
         "text": "The Quintessential Quintuplets - La película"
       },
@@ -477636,6 +477661,11 @@
         "lang": "ru",
         "type": "official",
         "text": "Пять невест. Фильм"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "劇場版 五等分的新娘"
       },
       {
         "lang": "ja",
@@ -503288,6 +503318,11 @@
         "text": "かがみの孤城"
       },
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "鏡之孤城"
+      },
+      {
         "lang": "zh-Hans",
         "type": "official",
         "text": "镜之孤城"
@@ -503338,12 +503373,12 @@
         "text": "Spice and Wolf (2024)"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "Spice and Wolf: Merchant Meets the Wise Wolf"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "Spice and Wolf: Merchant Meets the Wise Wolf"
       },
@@ -545183,13 +545218,13 @@
         "text": "Arknights: Enshin Shomei"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Arknights: Rise from Ember"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Arknights: Rise from Ember"
       },
       {
@@ -545221,6 +545256,11 @@
         "lang": "ja",
         "type": "official",
         "text": "五等分の花嫁＊"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "五等分的新娘*"
       },
       {
         "lang": "zh-Hans",
@@ -585556,6 +585596,21 @@
         "lang": "zh-Hant",
         "type": "official",
         "text": "我是學校唯一的人類"
+      }
+    ]
+  },
+  {
+    "aid": "20281",
+    "titles": [
+      {
+        "lang": "ko",
+        "type": "official",
+        "text": "Bolts & Blip"
+      },
+      {
+        "lang": "x-kot",
+        "type": "main",
+        "text": "Bolts-wa Blip"
       }
     ]
   }
