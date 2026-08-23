@@ -547563,12 +547563,17 @@
     "aid": "18686",
     "titles": [
       {
+        "lang": "en",
+        "type": "official",
+        "text": "Gachiakuta"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Gachiakuta"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "Gachiakuta"
       },
@@ -556240,7 +556245,7 @@
       {
         "lang": "ja",
         "type": "official",
-        "text": "Agent Blue"
+        "text": "AGENT BLUE"
       }
     ]
   },
@@ -559378,6 +559383,16 @@
         "text": "Neko ni Naritai Tamagawa-kun"
       },
       {
+        "lang": "x-jat",
+        "type": "short",
+        "text": "Nekotama"
+      },
+      {
+        "lang": "ja",
+        "type": "short",
+        "text": "ねこたま"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "猫になりたい田万川くん"
@@ -560068,14 +560083,14 @@
     "aid": "19120",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "smile smile ship Start!"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Smile Smile Ship Start!"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "smile smile ship Start!"
       }
     ]
   },
@@ -561428,13 +561443,13 @@
     "aid": "19171",
     "titles": [
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Dive In!"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Dive In!"
       },
       {
@@ -562078,6 +562093,11 @@
     "aid": "19203",
     "titles": [
       {
+        "lang": "fr",
+        "type": "official",
+        "text": "Black Torch"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Black Torch"
@@ -562108,11 +562128,6 @@
         "text": "BLACK TORCH"
       },
       {
-        "lang": "fr",
-        "type": "official",
-        "text": "Black Torch"
-      },
-      {
         "lang": "ja",
         "type": "syn",
         "text": "ブラックトーチ"
@@ -562123,12 +562138,12 @@
     "aid": "19204",
     "titles": [
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "A Gatherer`s Adventure in Isekai"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "A Gatherer`s Adventure in Isekai"
       },
@@ -562253,12 +562268,12 @@
         "text": "All You Need Is Kill"
       },
       {
-        "lang": "en",
+        "lang": "ja",
         "type": "official",
         "text": "All You Need Is Kill"
       },
       {
-        "lang": "ja",
+        "lang": "en",
         "type": "official",
         "text": "All You Need Is Kill"
       },
@@ -563318,13 +563333,13 @@
     "aid": "19260",
     "titles": [
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Medalist (2026)"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Medalist (2026)"
       },
       {
@@ -563578,6 +563593,11 @@
     "aid": "19271",
     "titles": [
       {
+        "lang": "ja",
+        "type": "official",
+        "text": "THE STAR SEEKERS"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "The Star Seekers"
@@ -563586,11 +563606,6 @@
         "lang": "en",
         "type": "syn",
         "text": "The Star Seekers"
-      },
-      {
-        "lang": "ja",
-        "type": "official",
-        "text": "THE STAR SEEKERS"
       },
       {
         "lang": "ja",
@@ -564063,12 +564078,12 @@
         "text": "Kanan-sama wa Akumade Choroi"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "Mistress Kanan Is Devilishly Easy"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "Mistress Kanan Is Devilishly Easy"
       },
@@ -566083,6 +566098,11 @@
         "text": "Love Live! Hasu no Sora Jogakuin School Idol Club: Bloom Garden Party"
       },
       {
+        "lang": "en",
+        "type": "syn",
+        "text": "Love Live! Hasunosora Girls` High School Idol Club: Bloom Garden Party"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "ラブライブ! 蓮ノ空女学院スクールアイドルクラブ Bloom Garden Party"
@@ -566341,6 +566361,11 @@
         "lang": "en",
         "type": "syn",
         "text": "Jade Dynasty 3"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Jade Dynasty 3rd Season"
       },
       {
         "lang": "en",
@@ -567768,11 +567793,6 @@
     "aid": "19449",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Beastars Final Season (2026)"
-      },
-      {
         "lang": "en",
         "type": "official",
         "text": "Beastars Final Season (2026)"
@@ -567781,6 +567801,11 @@
         "lang": "ja",
         "type": "official",
         "text": "BEASTARS FINAL SEASON (2026)"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Beastars Final Season (2026)"
       },
       {
         "lang": "en",
@@ -568278,12 +568303,12 @@
         "text": "Kusunoki`s Garden of Gods"
       },
       {
-        "lang": "zh-Hant",
+        "lang": "zh-Hans",
         "type": "official",
         "text": "楠木邸的神明庭院"
       },
       {
-        "lang": "zh-Hans",
+        "lang": "zh-Hant",
         "type": "official",
         "text": "楠木邸的神明庭院"
       },
@@ -569088,9 +569113,9 @@
         "text": "SI-VIS - The Sound of Heroes"
       },
       {
-        "lang": "en",
+        "lang": "ja",
         "type": "official",
-        "text": "Si-Vis: The Sound of Heroes"
+        "text": "SI-VIS: The Sound of Heroes"
       },
       {
         "lang": "x-jat",
@@ -569098,9 +569123,9 @@
         "text": "Si-Vis: The Sound of Heroes"
       },
       {
-        "lang": "ja",
+        "lang": "en",
         "type": "official",
-        "text": "SI-VIS: The Sound of Heroes"
+        "text": "Si-Vis: The Sound of Heroes"
       },
       {
         "lang": "zh-Hans",
@@ -569873,6 +569898,11 @@
     "aid": "19532",
     "titles": [
       {
+        "lang": "ja",
+        "type": "official",
+        "text": "SEKIRO: NO DEFEAT"
+      },
+      {
         "lang": "en",
         "type": "official",
         "text": "Sekiro: No Defeat"
@@ -569881,11 +569911,6 @@
         "lang": "x-jat",
         "type": "main",
         "text": "Sekiro: No Defeat"
-      },
-      {
-        "lang": "ja",
-        "type": "official",
-        "text": "SEKIRO: NO DEFEAT"
       }
     ]
   },
@@ -570003,14 +570028,14 @@
     "aid": "19538",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "LIAR GAME"
-      },
-      {
         "lang": "en",
         "type": "official",
         "text": "Liar Game"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "LIAR GAME"
       },
       {
         "lang": "x-jat",
@@ -570593,13 +570618,13 @@
     "aid": "19566",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Bang Dream! Yumemita"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Bang Dream! Yumemita"
       },
       {
@@ -570968,12 +570993,12 @@
         "text": "Mofa Gongzhu De Xiao Fannao"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "The Fated Magical Princess: Who Made Me a Princess"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "The Fated Magical Princess: Who Made Me a Princess"
       },
@@ -585611,6 +585636,71 @@
         "lang": "x-kot",
         "type": "main",
         "text": "Bolts-wa Blip"
+      }
+    ]
+  },
+  {
+    "aid": "20282",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Zhu Xian: Zuizhong Ji"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "诛仙 最终季"
+      }
+    ]
+  },
+  {
+    "aid": "20284",
+    "titles": [
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "Maiden Blood"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Maiden Blood"
+      },
+      {
+        "lang": "ja",
+        "type": "syn",
+        "text": "メイデンブラッド"
+      }
+    ]
+  },
+  {
+    "aid": "20285",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Angry Rabbit"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "ANGRY RABBIT"
+      }
+    ]
+  },
+  {
+    "aid": "20286",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Super Ninja Neko"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "SUPER NINJA NEKO"
       }
     ]
   }
