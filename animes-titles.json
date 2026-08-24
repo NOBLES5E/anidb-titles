@@ -143701,6 +143701,11 @@
         "lang": "ja",
         "type": "official",
         "text": "十二戦支 爆烈エトレンジャー"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "十二生肖 爆烈戰士"
       }
     ]
   },
@@ -282868,6 +282873,11 @@
         "text": "乙女[おとめ]はお姉さま[ボク]に恋してる 2人のエルダー THE ANIMATION"
       },
       {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "少女愛上大姊姊 2"
+      },
+      {
         "lang": "zh-Hans",
         "type": "official",
         "text": "少女爱上姐姐 2人的Elder THE ANIMATION"
@@ -334631,6 +334641,11 @@
         "lang": "zh-Hant",
         "type": "official",
         "text": "山田君與7人魔女"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "山田君與7位魔女"
       }
     ]
   },
@@ -350611,6 +350626,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "房东妹子青春期"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "房東妹子思春期！"
       }
     ]
   },
@@ -351688,6 +351708,16 @@
     "aid": "11643",
     "titles": [
       {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Rewrite"
+      },
+      {
+        "lang": "fr",
+        "type": "official",
+        "text": "Rewrite"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "Rewrite"
@@ -351700,16 +351730,6 @@
       {
         "lang": "zh-Hans",
         "type": "official",
-        "text": "Rewrite"
-      },
-      {
-        "lang": "fr",
-        "type": "official",
-        "text": "Rewrite"
-      },
-      {
-        "lang": "x-jat",
-        "type": "main",
         "text": "Rewrite"
       },
       {
@@ -351841,6 +351861,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "七大罪 戒律的复活"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "七大罪 戒律的復活"
       }
     ]
   },
@@ -407393,6 +407418,11 @@
         "text": "はたらく細胞"
       },
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "工作細胞"
+      },
+      {
         "lang": "zh-Hans",
         "type": "official",
         "text": "工作细胞"
@@ -428306,6 +428336,11 @@
         "lang": "zh-Hans",
         "type": "syn",
         "text": "女高中生的虚度日常"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "女高中生的虛度日常"
       }
     ]
   },
@@ -428313,14 +428348,14 @@
     "aid": "14472",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Hero Mask"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "HERO MASK"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Hero Mask"
       },
       {
         "lang": "ja",
@@ -438711,6 +438746,11 @@
         "lang": "ja",
         "type": "official",
         "text": "はたらく細胞!!"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "工作細胞S2"
       },
       {
         "lang": "zh-Hans",
@@ -459158,6 +459198,11 @@
         "text": "はたらく細胞BLACK"
       },
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "工作細胞BLACK"
+      },
+      {
         "lang": "zh",
         "type": "syn",
         "text": "工作细胞 Black"
@@ -474268,6 +474313,11 @@
         "text": "サマータイムレンダ"
       },
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "夏日時光"
+      },
+      {
         "lang": "zh-Hans",
         "type": "official",
         "text": "夏日重现"
@@ -478816,6 +478866,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "舞动不止"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "舞動不止"
       }
     ]
   },
@@ -514973,6 +515028,11 @@
         "text": "女神咖啡厅"
       },
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "女神咖啡廳"
+      },
+      {
         "lang": "zh-Hans",
         "type": "official",
         "text": "女神的露天咖啡厅"
@@ -529358,6 +529418,11 @@
         "text": "女神咖啡厅 第二季"
       },
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "女神咖啡廳 第二季"
+      },
+      {
         "lang": "x-unk",
         "type": "syn",
         "text": "女神的露天咖啡厅 第二季"
@@ -529433,13 +529498,13 @@
     "aid": "18083",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Kizuna no Allele (2023)"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Kizuna no Allele (2023)"
       },
       {
@@ -530184,6 +530249,11 @@
       },
       {
         "lang": "zh-Hans",
+        "type": "official",
+        "text": "怪人的沙拉碗"
+      },
+      {
+        "lang": "zh-Hant",
         "type": "official",
         "text": "怪人的沙拉碗"
       }
@@ -552198,19 +552268,24 @@
     "aid": "18838",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Apocalypse Hotel"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Apocalypse Hotel"
       },
       {
         "lang": "ja",
         "type": "official",
         "text": "アポカリプスホテル"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "末世旅館"
       },
       {
         "lang": "zh-Hans",
@@ -559851,6 +559926,11 @@
         "lang": "ja",
         "type": "official",
         "text": "不思議の国でアリスと -Dive in Wonderland-"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "穿越吧！不思議少女"
       }
     ]
   },
@@ -580460,7 +580540,7 @@
       {
         "lang": "x-jat",
         "type": "main",
-        "text": "Harem Shima e Youkoso!"
+        "text": "Harem-tou e Youkoso!"
       },
       {
         "lang": "ko",
@@ -585643,6 +585723,26 @@
     "aid": "20282",
     "titles": [
       {
+        "lang": "en",
+        "type": "syn",
+        "text": "Jade Dynasty 4th Season"
+      },
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "Jade Dynasty Final Season"
+      },
+      {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Zhu Xian 4th Season"
+      },
+      {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Zhu Xian Di Si Ji"
+      },
+      {
         "lang": "x-zht",
         "type": "main",
         "text": "Zhu Xian: Zuizhong Ji"
@@ -585651,6 +585751,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "诛仙 最终季"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "syn",
+        "text": "诛仙 第四季"
       }
     ]
   },
@@ -585658,13 +585763,13 @@
     "aid": "20284",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Maiden Blood"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Maiden Blood"
       },
       {
@@ -585701,6 +585806,21 @@
         "lang": "ja",
         "type": "official",
         "text": "SUPER NINJA NEKO"
+      }
+    ]
+  },
+  {
+    "aid": "20287",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Feng Tian Qi"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "封天契"
       }
     ]
   }
