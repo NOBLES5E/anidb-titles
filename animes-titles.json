@@ -566743,6 +566743,11 @@
     "aid": "19400",
     "titles": [
       {
+        "lang": "es",
+        "type": "official",
+        "text": "De campesino cuarentón a espadachín legendario II"
+      },
+      {
         "lang": "en",
         "type": "syn",
         "text": "From Old Country Bumpkin to Master Swordsman II"
@@ -567836,6 +567841,11 @@
         "lang": "x-jat",
         "type": "main",
         "text": "Tooi-san wa Seishun Shitai! \"Baka to Sumaho to Romance to\""
+      },
+      {
+        "lang": "x-jat",
+        "type": "syn",
+        "text": "Tooi-san wa Seishun Shitai! Baka to Smartphone to Romance to"
       },
       {
         "lang": "ja",
@@ -574353,6 +574363,11 @@
         "text": "Marika`s Love Meter Malfunction"
       },
       {
+        "lang": "x-jat",
+        "type": "short",
+        "text": "marikowa"
+      },
+      {
         "lang": "ru",
         "type": "syn",
         "text": "Уровень симпатии Марики ненормально высокий"
@@ -580539,6 +580554,11 @@
     "titles": [
       {
         "lang": "x-jat",
+        "type": "syn",
+        "text": "Harem Shima e Youkoso!"
+      },
+      {
+        "lang": "x-jat",
         "type": "main",
         "text": "Harem-tou e Youkoso!"
       },
@@ -585783,14 +585803,14 @@
     "aid": "20285",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Angry Rabbit"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "ANGRY RABBIT"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Angry Rabbit"
       }
     ]
   },
@@ -585821,6 +585841,76 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "封天契"
+      }
+    ]
+  },
+  {
+    "aid": "20288",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Sanjiaozhou: Zaowuzhu Wanjia"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "三角洲：造物主玩家"
+      }
+    ]
+  },
+  {
+    "aid": "20289",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Bei Jiazu Paoqi, Wo Juexing Jiu Yi Shuxing Dian 2"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "被家族抛弃，我觉醒九亿属性点 第二季"
+      }
+    ]
+  },
+  {
+    "aid": "20290",
+    "titles": [
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "ONE PIECE FILM GOD VALLEY"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "One Piece Film: God Valley"
+      }
+    ]
+  },
+  {
+    "aid": "20291",
+    "titles": [
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "ONE PIECE FILM BAAD"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "One Piece Film: Baad"
+      }
+    ]
+  },
+  {
+    "aid": "20292",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Sky Kids BOOBY"
       }
     ]
   }
