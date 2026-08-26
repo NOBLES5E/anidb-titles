@@ -81068,6 +81068,11 @@
         "text": "Drakono kardas"
       },
       {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Long Dao Qi Yuan -DragonBlade-"
+      },
+      {
         "lang": "x-unk",
         "type": "syn",
         "text": "Lung do kei yuen"
@@ -138372,6 +138377,11 @@
   {
     "aid": "3188",
     "titles": [
+      {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Feng Ji Yun Nu"
+      },
       {
         "lang": "x-jat",
         "type": "main",
@@ -279080,12 +279090,22 @@
       {
         "lang": "x-zht",
         "type": "syn",
+        "text": "Chang Jiang 7 Hao Ai Di Qiu"
+      },
+      {
+        "lang": "x-zht",
+        "type": "syn",
         "text": "Chang Jiang 7 Hao: Ai Diqiu"
       },
       {
         "lang": "x-zht",
         "type": "syn",
         "text": "Chang Jiang Qi Hao: Ai Diqiu"
+      },
+      {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Changjiang 7 Hao Ai Diqiu"
       },
       {
         "lang": "x-zht",
@@ -279163,17 +279183,17 @@
         "text": "Space Battleship Yamato 2199"
       },
       {
-        "lang": "it",
-        "type": "official",
-        "text": "Star Blazers 2199"
-      },
-      {
         "lang": "de",
         "type": "official",
         "text": "Star Blazers 2199"
       },
       {
         "lang": "en",
+        "type": "official",
+        "text": "Star Blazers 2199"
+      },
+      {
+        "lang": "it",
         "type": "official",
         "text": "Star Blazers 2199"
       },
@@ -331638,6 +331658,11 @@
     "aid": "10873",
     "titles": [
       {
+        "lang": "en",
+        "type": "syn",
+        "text": "Flying Superboard (1998)"
+      },
+      {
         "lang": "x-kot",
         "type": "main",
         "text": "Narara Superboard (1998)"
@@ -331652,6 +331677,11 @@
   {
     "aid": "10874",
     "titles": [
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Flying Superboard (2001)"
+      },
       {
         "lang": "x-kot",
         "type": "main",
@@ -367833,6 +367863,11 @@
         "text": "Dabing Jinbao"
       },
       {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Dabing Jinbao Lixian Ji"
+      },
+      {
         "lang": "x-jat",
         "type": "official",
         "text": "Dragon Panda"
@@ -367856,6 +367891,11 @@
         "lang": "ja",
         "type": "official",
         "text": "ドラゴン・パンダ"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "大兵金宝历险记"
       },
       {
         "lang": "zh-Hant",
@@ -368058,12 +368098,12 @@
         "text": "Tales of Zestiria the Cross (2017)"
       },
       {
-        "lang": "en",
+        "lang": "ja",
         "type": "official",
         "text": "Tales of Zestiria the X (2017)"
       },
       {
-        "lang": "ja",
+        "lang": "en",
         "type": "official",
         "text": "Tales of Zestiria the X (2017)"
       },
@@ -384251,6 +384291,11 @@
         "lang": "x-kot",
         "type": "main",
         "text": "Seupideuwang Beongae"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Wings of Dragon"
       },
       {
         "lang": "ko",
@@ -407541,6 +407586,11 @@
         "lang": "x-zht",
         "type": "main",
         "text": "Chao You Bing"
+      },
+      {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Chao You Bing: Zhi Yong Zhe Chuan Shuo"
       },
       {
         "lang": "en",
@@ -436478,6 +436528,11 @@
         "text": "书虫的下克上～为了成为图书管理员而不择手段～"
       },
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "小書痴的下剋上：為了成為圖書管理員不擇手段！"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "本好きの下剋上 司書になるためには手段を選んでいられません"
@@ -438241,6 +438296,11 @@
         "lang": "en",
         "type": "syn",
         "text": "And2 Girls"
+      },
+      {
+        "lang": "x-unk",
+        "type": "syn",
+        "text": "And2! And2!"
       },
       {
         "lang": "zh-Hans",
@@ -441048,9 +441108,19 @@
         "text": "Dou Po Cang Qiong: Tebie Pian 2 - Sha Zhi Lan Ge"
       },
       {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Dou Po Cangqiong 2: Tebie Pian - Sha Zhi Lan Ge"
+      },
+      {
         "lang": "en",
         "type": "syn",
         "text": "Dou po Cangqiong 2nd Season: Song of Desert"
+      },
+      {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Doupo Cangqiong: Tebie Pian 2 - Sha Zhi Lan Ge"
       },
       {
         "lang": "zh-Hans",
@@ -497578,6 +497648,11 @@
         "text": "Fanren Xiu Xian Chuan: Mo Dao Zhengfeng"
       },
       {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Fanren Xiu Xian Zhuan 2nd Season"
+      },
+      {
         "lang": "zh-Hans",
         "type": "official",
         "text": "凡人修仙传 魔道争锋"
@@ -533321,6 +533396,11 @@
         "lang": "ja",
         "type": "official",
         "text": "転校先の清楚可憐な美少女が, 昔男子と思って一緒に遊んだ幼馴染だった件"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "轉學後班上的清純可愛美少女，竟是小時候玩在一起的哥兒們"
       }
     ]
   },
@@ -533398,13 +533478,13 @@
     "aid": "18216",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Tadaima, Okaeri"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Tadaima, Okaeri"
       },
       {
@@ -533907,6 +533987,11 @@
   {
     "aid": "18232",
     "titles": [
+      {
+        "lang": "pl",
+        "type": "syn",
+        "text": "Bohater bez klasy: Na co komu zdolności?!"
+      },
       {
         "lang": "en",
         "type": "official",
@@ -559234,6 +559319,11 @@
       },
       {
         "lang": "x-zht",
+        "type": "syn",
+        "text": "Bai She III: Fusheng"
+      },
+      {
+        "lang": "x-zht",
         "type": "main",
         "text": "Bai She: Fu Sheng"
       },
@@ -564926,6 +565016,11 @@
         "lang": "ja",
         "type": "official",
         "text": "ヒロイン? 聖女? いいえ, オールワークスメイドです (誇)!"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "女主角？聖女？都不對，我是雜役女僕（自豪）！"
       }
     ]
   },
@@ -585718,6 +585813,11 @@
         "text": "Wo shi xue xiao wei yi de ren lei"
       },
       {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Wo Shi Xuexiao Weiyi de Renlei"
+      },
+      {
         "lang": "zh-Hant",
         "type": "official",
         "text": "我是學校唯一的人類"
@@ -585783,13 +585883,13 @@
     "aid": "20284",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Maiden Blood"
       },
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Maiden Blood"
       },
       {
@@ -585803,14 +585903,14 @@
     "aid": "20285",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "ANGRY RABBIT"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Angry Rabbit"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "ANGRY RABBIT"
       }
     ]
   },
@@ -585838,6 +585938,11 @@
         "text": "Feng Tian Qi"
       },
       {
+        "lang": "en",
+        "type": "syn",
+        "text": "Heaven Sealing Contract"
+      },
+      {
         "lang": "zh-Hans",
         "type": "official",
         "text": "封天契"
@@ -585847,6 +585952,11 @@
   {
     "aid": "20288",
     "titles": [
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "Delta Force: The Creator"
+      },
       {
         "lang": "x-zht",
         "type": "main",
@@ -585866,6 +585976,11 @@
         "lang": "x-zht",
         "type": "main",
         "text": "Bei Jiazu Paoqi, Wo Juexing Jiu Yi Shuxing Dian 2"
+      },
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "Cast Out by My Family, I Awakened 900 Million Stat Points 2"
       },
       {
         "lang": "zh-Hans",
@@ -585911,6 +586026,411 @@
         "lang": "x-jat",
         "type": "main",
         "text": "Sky Kids BOOBY"
+      }
+    ]
+  },
+  {
+    "aid": "20293",
+    "titles": [
+      {
+        "lang": "zh-Hans",
+        "type": "main",
+        "text": "19 Tian"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "19天"
+      }
+    ]
+  },
+  {
+    "aid": "20294",
+    "titles": [
+      {
+        "lang": "zh-Hans",
+        "type": "main",
+        "text": "Alita De Shi Lian"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "阿莉塔的试炼"
+      }
+    ]
+  },
+  {
+    "aid": "20295",
+    "titles": [
+      {
+        "lang": "zh-Hans",
+        "type": "main",
+        "text": "Aoao Dai Bu"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "敖敖待捕"
+      }
+    ]
+  },
+  {
+    "aid": "20296",
+    "titles": [
+      {
+        "lang": "zh-Hans",
+        "type": "main",
+        "text": "Bai Lian Feisheng Lu"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "百炼飞升录"
+      }
+    ]
+  },
+  {
+    "aid": "20297",
+    "titles": [
+      {
+        "lang": "zh-Hans",
+        "type": "main",
+        "text": "Bai Lian Feisheng Lu Di Er Ji"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "百炼飞升录二季"
+      }
+    ]
+  },
+  {
+    "aid": "20298",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Bai Ri Cheng Cai"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "百日成财"
+      }
+    ]
+  },
+  {
+    "aid": "20299",
+    "titles": [
+      {
+        "lang": "zh-Hans",
+        "type": "main",
+        "text": "Bai She Zhuan: Bai Suzhen"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "白蛇传之白素贞"
+      }
+    ]
+  },
+  {
+    "aid": "20300",
+    "titles": [
+      {
+        "lang": "zh-Hant",
+        "type": "main",
+        "text": "Ban Shen Zhi Jing"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "半神之境"
+      }
+    ]
+  },
+  {
+    "aid": "20301",
+    "titles": [
+      {
+        "lang": "zh-Hant",
+        "type": "main",
+        "text": "Banshou Shaonian"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "扳手少年"
+      }
+    ]
+  },
+  {
+    "aid": "20302",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Bao Ke Meng Donghua Tujian: Xiaoqi Dao Zhong"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "宝可梦动画图鉴 小憩岛中"
+      }
+    ]
+  },
+  {
+    "aid": "20303",
+    "titles": [
+      {
+        "lang": "zh-Hant",
+        "type": "main",
+        "text": "Bei Xue"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "杯雪"
+      }
+    ]
+  },
+  {
+    "aid": "20304",
+    "titles": [
+      {
+        "lang": "zh-Hant",
+        "type": "main",
+        "text": "Chang An San Wan Li"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "长安三万里"
+      }
+    ]
+  },
+  {
+    "aid": "20305",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Chao Neng Fuke Jing"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "超能复刻镜"
+      }
+    ]
+  },
+  {
+    "aid": "20306",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Chen Feng Gui"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "乘风归"
+      }
+    ]
+  },
+  {
+    "aid": "20307",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Cheng Li Laile Liao Yi Tiao Long"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "城里来了一条龙"
+      }
+    ]
+  },
+  {
+    "aid": "20308",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Chong Chu Diqiu"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "冲出地球"
+      }
+    ]
+  },
+  {
+    "aid": "20309",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Chuan Shu Zijiu Zhinan: Xian Meng Pian"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "穿书自救指南之仙盟篇"
+      }
+    ]
+  },
+  {
+    "aid": "20310",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Da Yu Hai Tang: Rong Song Chuan"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "大鱼海棠之融松传"
+      }
+    ]
+  },
+  {
+    "aid": "20311",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Di Ling Qu: Loulan Wanjie Pian"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "地灵曲 楼兰完结篇"
+      }
+    ]
+  },
+  {
+    "aid": "20312",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Di Ling Qu: Nanjiang Miwu"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "地灵曲 南疆迷雾"
+      }
+    ]
+  },
+  {
+    "aid": "20313",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Dongfang Ye Que Shitang Donghua"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "东方夜雀食堂动画"
+      }
+    ]
+  },
+  {
+    "aid": "20315",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Duxing Yueqiu"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "独行月球"
+      }
+    ]
+  },
+  {
+    "aid": "20316",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Fei Ba! Lanqiu"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "飞吧！篮球"
+      }
+    ]
+  },
+  {
+    "aid": "20317",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Fei Ren Zai: Xian Shi Wan Jia"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "非人哉：限时玩家"
+      }
+    ]
+  },
+  {
+    "aid": "20318",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Feng Huo Zhan Ji"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "风火战纪"
+      }
+    ]
+  },
+  {
+    "aid": "20319",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Feng Shu Zhan Jing (2012)"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "锋速战警 (2012)"
+      }
+    ]
+  },
+  {
+    "aid": "20320",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Baoxiao Kung Fu"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "爆笑功夫"
       }
     ]
   }
