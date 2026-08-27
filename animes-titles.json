@@ -17455,32 +17455,12 @@
       {
         "lang": "en",
         "type": "syn",
-        "text": "Pretty Soldier Sailor Moon"
+        "text": "Pretty Guardian Sailor Moon"
       },
       {
-        "lang": "es-CA",
-        "type": "official",
-        "text": "Sailor Moon"
-      },
-      {
-        "lang": "nl",
+        "lang": "en",
         "type": "syn",
-        "text": "Sailor Moon"
-      },
-      {
-        "lang": "sv",
-        "type": "official",
-        "text": "Sailor Moon"
-      },
-      {
-        "lang": "pt-BR",
-        "type": "official",
-        "text": "Sailor Moon"
-      },
-      {
-        "lang": "de",
-        "type": "official",
-        "text": "Sailor Moon"
+        "text": "Pretty Soldier Sailor Moon"
       },
       {
         "lang": "fr",
@@ -17488,32 +17468,7 @@
         "text": "Sailor Moon"
       },
       {
-        "lang": "it",
-        "type": "official",
-        "text": "Sailor Moon"
-      },
-      {
-        "lang": "ro",
-        "type": "official",
-        "text": "Sailor Moon"
-      },
-      {
-        "lang": "en",
-        "type": "official",
-        "text": "Sailor Moon"
-      },
-      {
-        "lang": "fi",
-        "type": "official",
-        "text": "Sailor Moon"
-      },
-      {
-        "lang": "es",
-        "type": "official",
-        "text": "Sailor Moon"
-      },
-      {
-        "lang": "da",
+        "lang": "es-419",
         "type": "official",
         "text": "Sailor Moon"
       },
@@ -17523,7 +17478,57 @@
         "text": "Sailor Moon"
       },
       {
-        "lang": "es-419",
+        "lang": "es-CA",
+        "type": "official",
+        "text": "Sailor Moon"
+      },
+      {
+        "lang": "da",
+        "type": "official",
+        "text": "Sailor Moon"
+      },
+      {
+        "lang": "nl",
+        "type": "syn",
+        "text": "Sailor Moon"
+      },
+      {
+        "lang": "es",
+        "type": "official",
+        "text": "Sailor Moon"
+      },
+      {
+        "lang": "de",
+        "type": "official",
+        "text": "Sailor Moon"
+      },
+      {
+        "lang": "it",
+        "type": "official",
+        "text": "Sailor Moon"
+      },
+      {
+        "lang": "fi",
+        "type": "official",
+        "text": "Sailor Moon"
+      },
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "Sailor Moon"
+      },
+      {
+        "lang": "sv",
+        "type": "official",
+        "text": "Sailor Moon"
+      },
+      {
+        "lang": "ro",
+        "type": "official",
+        "text": "Sailor Moon"
+      },
+      {
+        "lang": "pt-BR",
         "type": "official",
         "text": "Sailor Moon"
       },
@@ -17548,14 +17553,14 @@
         "text": "Sailor Moon: Het meisje met de macht van de maannevel"
       },
       {
-        "lang": "nl",
-        "type": "syn",
-        "text": "Sailormoon"
-      },
-      {
         "lang": "x-jat",
         "type": "short",
         "text": "SailorMoon"
+      },
+      {
+        "lang": "nl",
+        "type": "syn",
+        "text": "Sailormoon"
       },
       {
         "lang": "nl",
@@ -52843,6 +52848,21 @@
     "aid": "885",
     "titles": [
       {
+        "lang": "pt-BR",
+        "type": "syn",
+        "text": "Amor Estranho"
+      },
+      {
+        "lang": "pt",
+        "type": "official",
+        "text": "Amor Estranho"
+      },
+      {
+        "lang": "pt",
+        "type": "syn",
+        "text": "Estranho Amor"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Hen"
@@ -52903,12 +52923,12 @@
     "aid": "887",
     "titles": [
       {
-        "lang": "en",
+        "lang": "es-419",
         "type": "official",
         "text": "Eiken"
       },
       {
-        "lang": "es-419",
+        "lang": "en",
         "type": "official",
         "text": "Eiken"
       },
@@ -52943,9 +52963,9 @@
         "text": "Dó-Ré-Mi"
       },
       {
-        "lang": "de",
-        "type": "official",
-        "text": "DoReMi"
+        "lang": "x-jat",
+        "type": "short",
+        "text": "Doremi"
       },
       {
         "lang": "pt",
@@ -52953,9 +52973,9 @@
         "text": "Doremi"
       },
       {
-        "lang": "x-jat",
-        "type": "short",
-        "text": "Doremi"
+        "lang": "de",
+        "type": "official",
+        "text": "DoReMi"
       },
       {
         "lang": "fr",
@@ -53103,12 +53123,12 @@
         "text": "Ghost in the shell 2"
       },
       {
-        "lang": "de",
+        "lang": "fr",
         "type": "official",
         "text": "Ghost in the Shell 2 - Innocence"
       },
       {
-        "lang": "fr",
+        "lang": "de",
         "type": "official",
         "text": "Ghost in the Shell 2 - Innocence"
       },
@@ -53118,7 +53138,7 @@
         "text": "Ghost in the Shell 2 - L`attacco dei cyborg"
       },
       {
-        "lang": "fi",
+        "lang": "pl",
         "type": "official",
         "text": "Ghost in the Shell 2: Innocence"
       },
@@ -53133,7 +53153,7 @@
         "text": "Ghost in the Shell 2: Innocence"
       },
       {
-        "lang": "pl",
+        "lang": "fi",
         "type": "official",
         "text": "Ghost in the Shell 2: Innocence"
       },
@@ -53158,13 +53178,13 @@
         "text": "Hing anumas 2: Süütus"
       },
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Innocence"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Innocence"
       },
       {
@@ -53243,12 +53263,12 @@
         "text": "Love Angel Legend Wedding Peach"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "Wedding Peach"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "Wedding Peach"
       },
@@ -53303,17 +53323,17 @@
         "text": "Wedding Peach Deluxe"
       },
       {
-        "lang": "en",
-        "type": "official",
-        "text": "Wedding Peach DX"
-      },
-      {
         "lang": "x-jat",
         "type": "short",
         "text": "Wedding Peach DX"
       },
       {
         "lang": "de",
+        "type": "official",
+        "text": "Wedding Peach DX"
+      },
+      {
+        "lang": "en",
         "type": "official",
         "text": "Wedding Peach DX"
       },
@@ -104593,6 +104613,11 @@
         "text": "Czarodziejka z Księżyca: Sailor Moon R the Movie"
       },
       {
+        "lang": "en",
+        "type": "syn",
+        "text": "Pretty Guardian Sailor Moon R the Movie"
+      },
+      {
         "lang": "x-jat",
         "type": "syn",
         "text": "Sailor Moon R Movie"
@@ -119195,6 +119220,11 @@
       {
         "lang": "en",
         "type": "syn",
+        "text": "Pretty Guardian Sailor Moon R"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
         "text": "Pretty Soldier Sailor Moon R"
       },
       {
@@ -119308,7 +119338,7 @@
         "text": "Sailor Moon e il mistero dei sogni"
       },
       {
-        "lang": "es",
+        "lang": "en",
         "type": "official",
         "text": "Sailor Moon Super S"
       },
@@ -119318,7 +119348,7 @@
         "text": "Sailor Moon Super S"
       },
       {
-        "lang": "en",
+        "lang": "es",
         "type": "official",
         "text": "Sailor Moon Super S"
       },
@@ -310850,7 +310880,7 @@
       {
         "lang": "en",
         "type": "syn",
-        "text": "-Dark night at NTR Village-, Kagachi-sama, please honor me with your presence"
+        "text": "Dark night at NTR Village: Kagachi-sama, please honor me with your presence"
       },
       {
         "lang": "x-jat",
@@ -329508,7 +329538,7 @@
         "text": "Yeongsimi"
       },
       {
-        "lang": "en",
+        "lang": "x-kot",
         "type": "main",
         "text": "Young-sim"
       },
@@ -333503,12 +333533,12 @@
         "text": "城下町のダンデライオン"
       },
       {
-        "lang": "zh-Hans",
+        "lang": "zh-Hant",
         "type": "official",
         "text": "城下町的蒲公英"
       },
       {
-        "lang": "zh-Hant",
+        "lang": "zh-Hans",
         "type": "official",
         "text": "城下町的蒲公英"
       }
@@ -333551,6 +333581,11 @@
         "lang": "ja",
         "type": "syn",
         "text": "ハーモニー"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "和諧"
       }
     ]
   },
@@ -337991,6 +338026,11 @@
         "lang": "en",
         "type": "official",
         "text": "Relife"
+      },
+      {
+        "lang": "de",
+        "type": "official",
+        "text": "ReLIFE"
       },
       {
         "lang": "ru",
@@ -385533,13 +385573,13 @@
     "aid": "12957",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Mitsuboshi Colors"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Mitsuboshi Colors"
       },
       {
@@ -385561,6 +385601,11 @@
         "lang": "ja",
         "type": "official",
         "text": "三ツ星カラーズ"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "三顆星彩色冒險"
       },
       {
         "lang": "zh-Hans",
@@ -389396,6 +389441,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "ReLIFE 完结篇"
+      },
+      {
+        "lang": "de",
+        "type": "official",
+        "text": "ReLIFE: Final Arc"
       },
       {
         "lang": "ko",
@@ -401058,9 +401108,24 @@
         "text": "Kokkoku"
       },
       {
+        "lang": "pt",
+        "type": "official",
+        "text": "Kokkoku: Momento a Momento"
+      },
+      {
+        "lang": "pt-BR",
+        "type": "syn",
+        "text": "Kokkoku: Momento a Momento"
+      },
+      {
         "lang": "en",
         "type": "syn",
         "text": "Moment by Moment"
+      },
+      {
+        "lang": "pt",
+        "type": "syn",
+        "text": "Momento a Momento"
       },
       {
         "lang": "ru",
@@ -401198,13 +401263,13 @@
     "aid": "13518",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Major 2nd"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Major 2nd"
       },
       {
@@ -408778,7 +408843,7 @@
     "aid": "13787",
     "titles": [
       {
-        "lang": "en",
+        "lang": "x-zht",
         "type": "main",
         "text": "Ling Yu"
       },
@@ -416553,8 +416618,13 @@
     "aid": "14065",
     "titles": [
       {
-        "lang": "en",
+        "lang": "x-zht",
         "type": "main",
+        "text": "Bainiao Gu"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
         "text": "Valley of White Birds"
       },
       {
@@ -442278,14 +442348,14 @@
         "text": "Fairy Gone (2019)"
       },
       {
-        "lang": "en",
-        "type": "official",
-        "text": "Fairy Gone (2019)"
-      },
-      {
         "lang": "zh-Hans",
         "type": "official",
         "text": "Fairy gone (2019)"
+      },
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "Fairy Gone (2019)"
       },
       {
         "lang": "x-jat",
@@ -442319,8 +442389,18 @@
     "titles": [
       {
         "lang": "en",
+        "type": "syn",
+        "text": "Flying Lotus - More (feat. Anderson .Paak)"
+      },
+      {
+        "lang": "en",
         "type": "main",
         "text": "More"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "More feat. Anderson .Paak"
       }
     ]
   },
@@ -442558,12 +442638,12 @@
     "aid": "14927",
     "titles": [
       {
-        "lang": "en",
+        "lang": "pt",
         "type": "official",
         "text": "Dino Girl Gauko"
       },
       {
-        "lang": "pt",
+        "lang": "en",
         "type": "official",
         "text": "Dino Girl Gauko"
       },
@@ -442693,14 +442773,14 @@
         "text": "Muteking (2021)"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Muteking the Dancing Hero"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "MUTEKING THE DANCING HERO"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Muteking the Dancing Hero"
       },
       {
         "lang": "en",
@@ -442803,14 +442883,14 @@
     "aid": "14939",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Listeners"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "LISTENERS"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Listeners"
       },
       {
         "lang": "zh-Hans",
@@ -442988,14 +443068,14 @@
         "text": "Ultraman (2022)"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Ultraman Season 2"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "ULTRAMAN SEASON 2"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Ultraman Season 2"
       },
       {
         "lang": "en",
@@ -443018,14 +443098,14 @@
     "aid": "14949",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
-        "text": "Inu-Oh"
-      },
-      {
         "lang": "x-jat",
         "type": "syn",
         "text": "Inu-oh"
+      },
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "Inu-Oh"
       },
       {
         "lang": "fr",
@@ -443038,12 +443118,12 @@
         "text": "Inu-Ou"
       },
       {
-        "lang": "zh-Hans",
+        "lang": "ja",
         "type": "official",
         "text": "犬王"
       },
       {
-        "lang": "ja",
+        "lang": "zh-Hans",
         "type": "official",
         "text": "犬王"
       }
@@ -443453,13 +443533,13 @@
         "text": "Isekai Quartet (2020)"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Isekai Quartet 2"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Isekai Quartet 2"
       },
       {
@@ -474584,8 +474664,18 @@
     "titles": [
       {
         "lang": "en",
-        "type": "main",
+        "type": "official",
         "text": "Origami of Landscape"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Sinu Nara Konnna Basyo De Ga Ii"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "死ぬならこんな場所でがいい"
       }
     ]
   },
@@ -475053,7 +475143,7 @@
     "aid": "16059",
     "titles": [
       {
-        "lang": "en",
+        "lang": "x-jat",
         "type": "main",
         "text": "Yebisu Celebrities 1st"
       },
@@ -475294,6 +475384,11 @@
     "titles": [
       {
         "lang": "en",
+        "type": "official",
+        "text": "In the Land of Leadale"
+      },
+      {
+        "lang": "de",
         "type": "official",
         "text": "In the Land of Leadale"
       },
@@ -482818,7 +482913,7 @@
     "aid": "16388",
     "titles": [
       {
-        "lang": "en",
+        "lang": "x-kot",
         "type": "main",
         "text": "Climbing"
       },
@@ -483380,7 +483475,7 @@
       {
         "lang": "en",
         "type": "main",
-        "text": "CRYSTAL CLEAR"
+        "text": "Crystal Clear"
       },
       {
         "lang": "ja",
@@ -484346,21 +484441,6 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "搜玄录之宸灵纪"
-      }
-    ]
-  },
-  {
-    "aid": "16433",
-    "titles": [
-      {
-        "lang": "en",
-        "type": "main",
-        "text": "AgainsttheGods"
-      },
-      {
-        "lang": "x-zht",
-        "type": "official",
-        "text": "Ni Tian Xie Shen"
       }
     ]
   },
@@ -533733,14 +533813,19 @@
     "aid": "18224",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "My Mother"
+        "lang": "th",
+        "type": "official",
+        "text": "My Mother THE ANIMATION"
       },
       {
-        "lang": "ja",
-        "type": "syn",
+        "lang": "x-tht",
+        "type": "main",
         "text": "My Mother The Animation"
+      },
+      {
+        "lang": "th",
+        "type": "syn",
+        "text": "ไม มอเธอร์ เดอะ แอนิเมชั่น"
       },
       {
         "lang": "ko",
@@ -557853,6 +557938,11 @@
         "text": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru"
       },
       {
+        "lang": "pl",
+        "type": "official",
+        "text": "Tryb piekła: Hardcorowy gracz dominuje w innym świecie ze śmietnikowym balansowaniem"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "ヘルモード ~やり込み好きのゲーマーは廃設定の異世界で無双する~"
@@ -560532,6 +560622,11 @@
   {
     "aid": "19131",
     "titles": [
+      {
+        "lang": "pl",
+        "type": "official",
+        "text": "Czarodziej Kunon potrafi widzieć"
+      },
       {
         "lang": "en",
         "type": "official",
@@ -579583,6 +579678,11 @@
         "text": "Hell Mode: Yarikomi Suki no Gamer wa Hai Settei no Isekai de Musou Suru (2026)"
       },
       {
+        "lang": "pl",
+        "type": "official",
+        "text": "Tryb piekła: Hardcorowy gracz dominuje w innym świecie ze śmietnikowym balansowaniem (2026)"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "ヘルモード ~やり込み好きのゲーマーは廃設定の異世界で無双する~ (2026)"
@@ -585685,6 +585785,11 @@
       {
         "lang": "en",
         "type": "syn",
+        "text": "Link Click SP2"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
         "text": "Mini Link Click S2"
       },
       {
@@ -586186,6 +586291,11 @@
         "lang": "zh-Hant",
         "type": "main",
         "text": "Bei Xue"
+      },
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "Cup of Snow"
       },
       {
         "lang": "zh",
