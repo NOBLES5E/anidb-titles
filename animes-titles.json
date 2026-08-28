@@ -4018,6 +4018,11 @@
         "text": "ラブひな Again"
       },
       {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "純情房東俏房客 Again"
+      },
+      {
         "lang": "zh-Hans",
         "type": "official",
         "text": "纯情房东俏房客 Again"
@@ -32673,12 +32678,12 @@
         "text": "Pilvede taga"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "The Place Promised in Our Early Days"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "The Place Promised in Our Early Days"
       },
@@ -32761,6 +32766,11 @@
         "lang": "ja",
         "type": "official",
         "text": "雲のむこう, 約束の場所"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "雲之彼端，約定的地方"
       }
     ]
   },
@@ -32873,7 +32883,7 @@
         "text": "Nanaka"
       },
       {
-        "lang": "en",
+        "lang": "fr",
         "type": "official",
         "text": "Nanaka 6/17"
       },
@@ -32883,7 +32893,7 @@
         "text": "Nanaka 6/17"
       },
       {
-        "lang": "fr",
+        "lang": "en",
         "type": "official",
         "text": "Nanaka 6/17"
       },
@@ -33378,12 +33388,12 @@
         "text": "Galaxy Express 999"
       },
       {
-        "lang": "fr",
+        "lang": "en",
         "type": "official",
         "text": "Galaxy Express 999"
       },
       {
-        "lang": "en",
+        "lang": "fr",
         "type": "official",
         "text": "Galaxy Express 999"
       },
@@ -33448,12 +33458,12 @@
         "text": "Galaxy Express 999 - The Movie"
       },
       {
-        "lang": "fr",
+        "lang": "en",
         "type": "official",
         "text": "Galaxy Express 999 (1979)"
       },
       {
-        "lang": "en",
+        "lang": "fr",
         "type": "official",
         "text": "Galaxy Express 999 (1979)"
       },
@@ -33588,7 +33598,7 @@
         "text": "Gensoumaden Saiyuuki"
       },
       {
-        "lang": "fr",
+        "lang": "pt",
         "type": "official",
         "text": "Saiyuki"
       },
@@ -33598,12 +33608,12 @@
         "text": "Saiyuki"
       },
       {
-        "lang": "de",
+        "lang": "fr",
         "type": "official",
         "text": "Saiyuki"
       },
       {
-        "lang": "pt",
+        "lang": "de",
         "type": "official",
         "text": "Saiyuki"
       },
@@ -33698,13 +33708,13 @@
     "aid": "490",
     "titles": [
       {
-        "lang": "de",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Fake"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "de",
+        "type": "official",
         "text": "Fake"
       },
       {
@@ -33843,22 +33853,22 @@
         "text": "Burn Up Excess"
       },
       {
+        "lang": "es",
+        "type": "official",
+        "text": "Burn Up! Excess"
+      },
+      {
         "lang": "pt-BR",
         "type": "official",
         "text": "Burn Up! Excess"
       },
       {
         "lang": "es",
-        "type": "official",
-        "text": "Burn Up! Excess"
-      },
-      {
-        "lang": "en",
         "type": "syn",
         "text": "Burn Up! X"
       },
       {
-        "lang": "es",
+        "lang": "en",
         "type": "syn",
         "text": "Burn Up! X"
       },
@@ -34018,13 +34028,13 @@
         "text": "Macross 7 Dynamite"
       },
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Macross Dynamite 7"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Macross Dynamite 7"
       },
       {
@@ -34113,12 +34123,7 @@
     "aid": "500",
     "titles": [
       {
-        "lang": "sv",
-        "type": "official",
-        "text": "Kai Doh Maru"
-      },
-      {
-        "lang": "fi",
+        "lang": "hu",
         "type": "official",
         "text": "Kai Doh Maru"
       },
@@ -34133,12 +34138,17 @@
         "text": "Kai Doh Maru"
       },
       {
-        "lang": "hu",
+        "lang": "sv",
         "type": "official",
         "text": "Kai Doh Maru"
       },
       {
         "lang": "en",
+        "type": "official",
+        "text": "Kai Doh Maru"
+      },
+      {
+        "lang": "fi",
         "type": "official",
         "text": "Kai Doh Maru"
       },
@@ -34488,13 +34498,13 @@
         "text": "Tsubasa Kapitány"
       },
       {
-        "lang": "ru",
-        "type": "syn",
+        "lang": "bg",
+        "type": "official",
         "text": "Капитан Цубаса"
       },
       {
-        "lang": "bg",
-        "type": "official",
+        "lang": "ru",
+        "type": "syn",
         "text": "Капитан Цубаса"
       },
       {
@@ -41843,7 +41853,7 @@
         "text": "scrapped"
       },
       {
-        "lang": "en",
+        "lang": "fr",
         "type": "official",
         "text": "Scrapped Princess"
       },
@@ -41853,7 +41863,7 @@
         "text": "Scrapped Princess"
       },
       {
-        "lang": "fr",
+        "lang": "en",
         "type": "official",
         "text": "Scrapped Princess"
       },
@@ -41908,6 +41918,11 @@
         "text": "すてプリ"
       },
       {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "公主流浪記"
+      },
+      {
         "lang": "zh-Hans",
         "type": "syn",
         "text": "废弃公主"
@@ -41916,6 +41931,11 @@
         "lang": "ja",
         "type": "syn",
         "text": "廃棄王女"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "廢棄公主"
       }
     ]
   },
@@ -50958,13 +50978,13 @@
     "aid": "836",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Popotan"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Popotan"
       },
       {
@@ -50998,6 +51018,16 @@
         "text": "D.C."
       },
       {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "D.C. ～戀愛學園～"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "D.C. ～青春戀歌～"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "D.C.: Da Capo"
@@ -51026,6 +51056,11 @@
         "lang": "zh-Hans",
         "type": "syn",
         "text": "初音岛"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "初音島"
       }
     ]
   },
@@ -229781,6 +229816,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "我的狐仙女友 ～真夏的大谢肉祭～"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "我的狐仙女友 OVA 盛夏的狂歡節"
       }
     ]
   },
@@ -233186,6 +233226,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "文学少女 剧场版"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "文學少女 劇場版"
       }
     ]
   },
@@ -236581,6 +236626,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "破刃之剑 剧场版"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "破刃之劍劇場版"
       },
       {
         "lang": "zh-Hans",
@@ -287261,6 +287311,11 @@
         "lang": "ja",
         "type": "official",
         "text": "楽園追放 -Expelled From Paradise-"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "樂園追放 -Expelled from Paradise-"
       }
     ]
   },
@@ -287613,13 +287668,13 @@
     "aid": "9109",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "663114"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "663114"
       }
     ]
@@ -287738,13 +287793,13 @@
         "text": "PES PEACE ECO SMILE"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "PES: Peace Eco Smile"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "PES: Peace Eco Smile"
       }
     ]
@@ -287798,13 +287853,13 @@
         "text": "Paz Curta"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Short Peace"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Short Peace"
       },
       {
@@ -287883,6 +287938,11 @@
         "text": "Psycho Pass"
       },
       {
+        "lang": "ja",
+        "type": "official",
+        "text": "PSYCHO-PASS"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Psycho-Pass"
@@ -287893,22 +287953,17 @@
         "text": "PSYCHO-PASS"
       },
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "PSYCHO-PASS"
-      },
-      {
-        "lang": "it",
-        "type": "official",
-        "text": "Psycho-Pass"
-      },
-      {
         "lang": "en",
         "type": "official",
         "text": "Psycho-Pass"
       },
       {
         "lang": "de",
+        "type": "official",
+        "text": "Psycho-Pass"
+      },
+      {
+        "lang": "it",
         "type": "official",
         "text": "Psycho-Pass"
       },
@@ -287978,7 +288033,7 @@
         "text": "Robono"
       },
       {
-        "lang": "es-419",
+        "lang": "ja",
         "type": "official",
         "text": "Robotics;Notes"
       },
@@ -287988,7 +288043,7 @@
         "text": "Robotics;Notes"
       },
       {
-        "lang": "ja",
+        "lang": "es-419",
         "type": "official",
         "text": "Robotics;Notes"
       },
@@ -321348,6 +321403,16 @@
         "text": "ひめゴト SECRET PRINCESS HIMEGOTO"
       },
       {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "偽姬日常"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "偽姬物語"
+      },
+      {
         "lang": "zh-Hans",
         "type": "official",
         "text": "搞姬日常"
@@ -321563,23 +321628,23 @@
         "text": "Initial D Final Stage"
       },
       {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Initial D Final Stage"
+      },
+      {
         "lang": "fr",
         "type": "official",
         "text": "Initial D Final Stage"
       },
       {
         "lang": "x-jat",
-        "type": "main",
-        "text": "Initial D Final Stage"
+        "type": "syn",
+        "text": "Initial D: Final Stage"
       },
       {
         "lang": "de",
         "type": "official",
-        "text": "Initial D: Final Stage"
-      },
-      {
-        "lang": "x-jat",
-        "type": "syn",
         "text": "Initial D: Final Stage"
       },
       {
@@ -321783,17 +321848,17 @@
     "aid": "10506",
     "titles": [
       {
-        "lang": "fr",
-        "type": "official",
-        "text": "Glasslip"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Glasslip"
       },
       {
         "lang": "en",
+        "type": "official",
+        "text": "Glasslip"
+      },
+      {
+        "lang": "fr",
         "type": "official",
         "text": "Glasslip"
       },
@@ -322268,17 +322333,17 @@
     "aid": "10525",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
-        "text": "Celestial Method"
-      },
-      {
         "lang": "es-419",
         "type": "official",
         "text": "Celestial Method"
       },
       {
         "lang": "es",
+        "type": "official",
+        "text": "Celestial Method"
+      },
+      {
+        "lang": "en",
         "type": "official",
         "text": "Celestial Method"
       },
@@ -322408,12 +322473,12 @@
         "text": "Shinmaou"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "The Testament of Sister New Devil"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "The Testament of Sister New Devil"
       },
@@ -322453,13 +322518,13 @@
         "text": "gugukoku"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Gugure! Kokkuri-san"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Gugure! Kokkuri-san"
       },
       {
@@ -322493,14 +322558,14 @@
         "text": "Gundam G no Reconguista"
       },
       {
-        "lang": "fr",
-        "type": "official",
-        "text": "Gundam reconguista in G"
-      },
-      {
         "lang": "en",
         "type": "official",
         "text": "Gundam Reconguista in G"
+      },
+      {
+        "lang": "fr",
+        "type": "official",
+        "text": "Gundam reconguista in G"
       },
       {
         "lang": "x-jat",
@@ -322523,13 +322588,13 @@
     "aid": "10532",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Toruru`s Adventure"
       },
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Toruru`s Adventure"
       }
     ]
@@ -328378,6 +328443,11 @@
         "text": "結城友奈は勇者である"
       },
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "結城友奈是勇者"
+      },
+      {
         "lang": "zh-Hans",
         "type": "official",
         "text": "结城友奈是勇者"
@@ -328388,17 +328458,17 @@
     "aid": "10751",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
-        "text": "Military!"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Military!"
       },
       {
         "lang": "fr",
+        "type": "official",
+        "text": "Military!"
+      },
+      {
+        "lang": "en",
         "type": "official",
         "text": "Military!"
       },
@@ -335311,6 +335381,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "我老婆是学生会长"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "我老婆是學生會長"
       }
     ]
   },
@@ -335578,12 +335653,12 @@
     "aid": "10981",
     "titles": [
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "Haikyu!! 2nd Season"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "Haikyu!! 2nd Season"
       },
@@ -335638,12 +335713,12 @@
         "text": "Brama: Jak rozpętała się wojna międzyświatowa"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "Gate"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "Gate"
       },
@@ -335778,12 +335853,12 @@
         "text": "終結的熾天使 名古屋決戰篇"
       },
       {
-        "lang": "x-zht",
+        "lang": "zh-Hans",
         "type": "official",
         "text": "终结的炽天使 名古屋决战篇"
       },
       {
-        "lang": "zh-Hans",
+        "lang": "x-zht",
         "type": "official",
         "text": "终结的炽天使 名古屋决战篇"
       }
@@ -336038,13 +336113,13 @@
         "text": "銀魂゜"
       },
       {
-        "lang": "zh-Hant",
-        "type": "official",
+        "lang": "ja",
+        "type": "syn",
         "text": "銀魂°"
       },
       {
-        "lang": "ja",
-        "type": "syn",
+        "lang": "zh-Hant",
+        "type": "official",
         "text": "銀魂°"
       },
       {
@@ -336123,13 +336198,13 @@
     "aid": "10997",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Charlotte"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Charlotte"
       },
       {
@@ -336138,7 +336213,7 @@
         "text": "Charlotte"
       },
       {
-        "lang": "ja",
+        "lang": "en",
         "type": "official",
         "text": "Charlotte"
       },
@@ -336213,13 +336288,13 @@
     "aid": "10999",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Robot Girls Z Plus"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Robot Girls Z Plus"
       },
       {
@@ -336373,14 +336448,14 @@
         "text": "Lovely X Cation - Start of Daydream That Continues Through All Eternity"
       },
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "LOVELY x CATION The Animation"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Lovely x Cation The Animation"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "LOVELY x CATION The Animation"
       }
     ]
   },
@@ -337188,14 +337263,14 @@
         "text": "Taboo Tattoo"
       },
       {
-        "lang": "en",
-        "type": "official",
-        "text": "Taboo Tattoo"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "TABOO TATTOO"
+      },
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "Taboo Tattoo"
       },
       {
         "lang": "ja",
@@ -337278,13 +337353,13 @@
     "aid": "11044",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Boku no Yayoi-san"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Boku no Yayoi-san"
       },
       {
@@ -356393,6 +356468,11 @@
         "text": "紅殻のパンドラ GHOST URN"
       },
       {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "紅殼的潘朵拉"
+      },
+      {
         "lang": "zh-Hans",
         "type": "official",
         "text": "红壳的潘多拉"
@@ -356503,17 +356583,17 @@
         "text": "Kara Kabuk"
       },
       {
+        "lang": "pl",
+        "type": "official",
+        "text": "Kuromukuro"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Kuromukuro"
       },
       {
         "lang": "en",
-        "type": "official",
-        "text": "Kuromukuro"
-      },
-      {
-        "lang": "pl",
         "type": "official",
         "text": "Kuromukuro"
       },
@@ -360626,6 +360706,11 @@
         "lang": "ru",
         "type": "official",
         "text": "Проза бродячих псов 2"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "文豪 Stray Dogs 第二季"
       },
       {
         "lang": "ja",
@@ -382023,6 +382108,11 @@
         "text": "アホガール"
       },
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "單蠢女孩"
+      },
+      {
         "lang": "zh-Hans",
         "type": "official",
         "text": "笨女孩"
@@ -382153,12 +382243,12 @@
     "aid": "12809",
     "titles": [
       {
-        "lang": "pt",
+        "lang": "en",
         "type": "official",
         "text": "Beyblade Burst Evolution"
       },
       {
-        "lang": "en",
+        "lang": "pt",
         "type": "official",
         "text": "Beyblade Burst Evolution"
       },
@@ -433648,6 +433738,16 @@
         "text": "まちカドまぞく"
       },
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "小惡魔女在街角"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "街角的魔族女孩"
+      },
+      {
         "lang": "zh-Hans",
         "type": "official",
         "text": "街角魔族"
@@ -433928,12 +434028,12 @@
         "text": "Nos mots comme des bulles"
       },
       {
-        "lang": "es",
+        "lang": "es-419",
         "type": "official",
         "text": "Palabras que burbujean como un refresco"
       },
       {
-        "lang": "es-419",
+        "lang": "es",
         "type": "official",
         "text": "Palabras que burbujean como un refresco"
       },
@@ -473528,19 +473628,24 @@
     "aid": "16007",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Pui Pui Molcar"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Pui Pui Molcar"
       },
       {
         "lang": "ja",
         "type": "official",
         "text": "PUI PUI モルカー"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "PUI PUI 天竺鼠車車"
       }
     ]
   },
@@ -483878,13 +483983,13 @@
         "text": "薄桜鬼"
       },
       {
-        "lang": "zh-Hant",
-        "type": "official",
+        "lang": "zh-Hans",
+        "type": "syn",
         "text": "薄櫻鬼"
       },
       {
-        "lang": "zh-Hans",
-        "type": "syn",
+        "lang": "zh-Hant",
+        "type": "official",
         "text": "薄櫻鬼"
       }
     ]
@@ -483903,23 +484008,23 @@
         "text": "Fins aviat, Don Glees!"
       },
       {
-        "lang": "en",
-        "type": "official",
-        "text": "Goodbye, Don Glees!"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Goodbye, Don Glees!"
       },
       {
-        "lang": "x-jat",
-        "type": "syn",
-        "text": "Goodbye, DonGlees!"
+        "lang": "en",
+        "type": "official",
+        "text": "Goodbye, Don Glees!"
       },
       {
         "lang": "it",
         "type": "official",
+        "text": "Goodbye, DonGlees!"
+      },
+      {
+        "lang": "x-jat",
+        "type": "syn",
         "text": "Goodbye, DonGlees!"
       },
       {
@@ -483931,6 +484036,11 @@
         "lang": "zh-Hans",
         "type": "syn",
         "text": "再見了，橡果兄弟！"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "再見了，橡果兄弟！－奇蹟的暑假－"
       },
       {
         "lang": "zh-Hans",
@@ -490438,6 +490548,11 @@
         "text": "僕愛"
       },
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "僕愛君愛：致我深愛的每個妳"
+      },
+      {
         "lang": "zh-Hans",
         "type": "official",
         "text": "致我深爱的每个你"
@@ -490471,6 +490586,11 @@
         "lang": "ru",
         "type": "official",
         "text": "Единственному мне, что любил тебя"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "僕愛君愛：致深愛妳的那個我"
       },
       {
         "lang": "ja",
@@ -526756,6 +526876,11 @@
         "lang": "ja",
         "type": "syn",
         "text": "スパイ教室 2nd season"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "間諜教室 第二季"
       }
     ]
   },
@@ -537253,6 +537378,11 @@
         "text": "剧场版 电锯人 蕾塞篇"
       },
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "劇場版 鏈鋸人 蕾潔篇"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "劇場版チェンソーマン レゼ篇"
@@ -547339,8 +547469,13 @@
     "titles": [
       {
         "lang": "en",
-        "type": "syn",
+        "type": "official",
         "text": "Dragon Prince Yuan"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "The Dragon Prince"
       },
       {
         "lang": "x-zht",
@@ -560891,6 +561026,11 @@
         "lang": "x-jat",
         "type": "main",
         "text": "Koori no Jouheki"
+      },
+      {
+        "lang": "x-jat",
+        "type": "syn",
+        "text": "Koori no Jyōheki"
       },
       {
         "lang": "cs",
@@ -584939,7 +585079,7 @@
       },
       {
         "lang": "x-zht",
-        "type": "main",
+        "type": "syn",
         "text": "Tai Gu Shen Zun"
       },
       {
@@ -584949,7 +585089,7 @@
       },
       {
         "lang": "x-zht",
-        "type": "syn",
+        "type": "main",
         "text": "Taigu Shenzun"
       },
       {
@@ -586541,6 +586681,91 @@
         "lang": "zh",
         "type": "official",
         "text": "爆笑功夫"
+      }
+    ]
+  },
+  {
+    "aid": "20321",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Ochiru Pato Tsuma Toshishita Otoko to no Jouji ni Oboreta Hate ni..."
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "堕ちるパート妻 年下男との情事に溺れた果てに..."
+      }
+    ]
+  },
+  {
+    "aid": "20322",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Boku no Suki na Hito ga Suki na Hito"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "My Crush`s Crush"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "ぼくの好きな人が好きな人"
+      }
+    ]
+  },
+  {
+    "aid": "20323",
+    "titles": [
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "My Grave Nourishes My Cultivation"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "My Tomb Can Nourish Cultivation"
+      },
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Wo De Fenzhong Neng Ziyang Xiuwei"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "我的坟冢能滋养修为"
+      }
+    ]
+  },
+  {
+    "aid": "20324",
+    "titles": [
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "My Junior Uncle Cannot Be This Strong"
+      },
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "My Young Master-Uncle Couldn`t Be This Powerful"
+      },
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Wojia Xiao Shishu Bukeneng Zheme Qiang"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "我家小师叔不可能这么强"
       }
     ]
   }
