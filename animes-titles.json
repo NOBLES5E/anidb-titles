@@ -375723,14 +375723,14 @@
         "text": "fag"
       },
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "FRAME ARMS GIRL"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Frame Arms Girl"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "FRAME ARMS GIRL"
       },
       {
         "lang": "en",
@@ -375801,6 +375801,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "名侦探柯南 殷红的恋歌"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "名偵探柯南：唐紅的戀歌"
       },
       {
         "lang": "ja",
@@ -430338,6 +430343,11 @@
         "text": "名侦探柯南 剧场版23:绀青之拳"
       },
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "名偵探柯南：紺青之拳"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "名探偵コナン 紺青の拳[フィスト]"
@@ -430393,12 +430403,12 @@
         "text": "Девушка-сэнрю"
       },
       {
-        "lang": "ja",
+        "lang": "zh-Hans",
         "type": "official",
         "text": "川柳少女"
       },
       {
-        "lang": "zh-Hans",
+        "lang": "ja",
         "type": "official",
         "text": "川柳少女"
       }
@@ -586690,7 +586700,7 @@
       {
         "lang": "x-jat",
         "type": "main",
-        "text": "Ochiru Pato Tsuma Toshishita Otoko to no Jouji ni Oboreta Hate ni..."
+        "text": "Ochiru Part Tsuma: Toshishita Otoko to no Jouji ni Oboreta Hate ni..."
       },
       {
         "lang": "ja",
