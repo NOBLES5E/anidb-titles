@@ -22258,6 +22258,11 @@
         "text": "名侦探柯南 计时引爆摩天楼"
       },
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "名偵探柯南：引爆摩天樓"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "名探偵コナン 時計じかけの摩天楼"
@@ -22363,32 +22368,12 @@
         "text": "Kurenai no Buta"
       },
       {
-        "lang": "fi",
-        "type": "official",
-        "text": "Porco Rosso"
-      },
-      {
         "lang": "it",
         "type": "official",
         "text": "Porco Rosso"
       },
       {
-        "lang": "et",
-        "type": "official",
-        "text": "Porco Rosso"
-      },
-      {
-        "lang": "de",
-        "type": "official",
-        "text": "Porco Rosso"
-      },
-      {
-        "lang": "da",
-        "type": "official",
-        "text": "Porco Rosso"
-      },
-      {
-        "lang": "no",
+        "lang": "es",
         "type": "official",
         "text": "Porco Rosso"
       },
@@ -22403,7 +22388,27 @@
         "text": "Porco Rosso"
       },
       {
-        "lang": "es",
+        "lang": "fi",
+        "type": "official",
+        "text": "Porco Rosso"
+      },
+      {
+        "lang": "de",
+        "type": "official",
+        "text": "Porco Rosso"
+      },
+      {
+        "lang": "da",
+        "type": "official",
+        "text": "Porco Rosso"
+      },
+      {
+        "lang": "et",
+        "type": "official",
+        "text": "Porco Rosso"
+      },
+      {
+        "lang": "no",
         "type": "official",
         "text": "Porco Rosso"
       },
@@ -22513,12 +22518,12 @@
         "text": "Порко Россо"
       },
       {
-        "lang": "ru",
+        "lang": "bg",
         "type": "official",
         "text": "Порко Россо"
       },
       {
-        "lang": "bg",
+        "lang": "ru",
         "type": "official",
         "text": "Порко Россо"
       },
@@ -52198,6 +52203,11 @@
         "text": "명탐정 코난: 베이커가의 망령"
       },
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "名偵探柯南：貝克街的亡靈"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "名探偵コナン ベイカー街[ストリート]の亡霊"
@@ -52288,13 +52298,13 @@
         "text": "Shoya Virgin Night"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Virgin Night"
       },
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Virgin Night"
       },
       {
@@ -62546,6 +62556,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "名侦探柯南 通往天国的倒数计时"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "名偵探柯南：往天國的倒數計時"
       },
       {
         "lang": "ja",
@@ -101138,6 +101153,11 @@
         "text": "名侦探柯南 迷宫的十字路口"
       },
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "名偵探柯南：迷宮的十字路"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "名探偵コナン 迷宮の十字路(クロスロード)"
@@ -112208,6 +112228,11 @@
         "text": "ยอดนักสืบจิ๋วโคนัน เดอะมูฟวี่ 8 ตอน มนตราแห่งรัตติกาลสีเงิน"
       },
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "名偵探柯南：銀翼的奇術師"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "名探偵コナン 銀翼の奇術師[マジシャン]"
@@ -122458,6 +122483,11 @@
         "text": "名侦探柯南 第14号目标"
       },
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "名偵探柯南：第14號獵物"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "名探偵コナン 14番目の標的(ターゲット)"
@@ -122548,6 +122578,11 @@
         "text": "名侦探柯南 世纪末的魔术师"
       },
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "名偵探柯南：世紀末的魔術師"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "名探偵コナン 世紀末の魔術師"
@@ -122626,6 +122661,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "名侦探柯南 瞳孔中的暗杀者"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "名偵探柯南：瞳孔中的暗殺者"
       },
       {
         "lang": "ja",
@@ -126781,6 +126821,11 @@
         "lang": "ja",
         "type": "kana",
         "text": "めいたんていコナン すいへいせんじょうのストラテジー"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "名偵探柯南：水平線上的陰謀"
       },
       {
         "lang": "ja",
@@ -162923,6 +162968,11 @@
         "text": "侦探们的镇魂歌"
       },
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "名偵探柯南：偵探們的鎮魂歌"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "名探偵コナン 探偵たちの鎮魂歌[レクイエム]"
@@ -185323,13 +185373,13 @@
         "text": "Piano Forest"
       },
       {
-        "lang": "es",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Piano no Mori"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "es",
+        "type": "official",
         "text": "Piano no Mori"
       },
       {
@@ -185363,13 +185413,13 @@
         "text": "The Piano Forest"
       },
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "pl",
+        "type": "official",
         "text": "The Piano Forest"
       },
       {
-        "lang": "pl",
-        "type": "official",
+        "lang": "en",
+        "type": "syn",
         "text": "The Piano Forest"
       },
       {
@@ -185486,6 +185536,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "名侦探柯南 绀碧之棺"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "名偵探柯南：紺碧之棺"
       },
       {
         "lang": "ja",
@@ -208443,6 +208498,11 @@
         "text": "名侦探柯南 战栗的乐谱"
       },
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "名偵探柯南：戰慄的樂譜"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "名探偵コナン 戦慄の楽譜 [フルスコア]"
@@ -216186,6 +216246,11 @@
         "lang": "ar",
         "type": "syn",
         "text": "المحقق كونان: مطارد الغراب"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "名偵探柯南：漆黑的追跡者"
       },
       {
         "lang": "ja",
@@ -240398,6 +240463,11 @@
         "text": "المحقق كونان: السفينة الضائعة في السماء"
       },
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "名偵探柯南：天空的劫難船"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "名探偵コナン 天空の難破船(ロスト・シップ)"
@@ -261941,6 +262011,11 @@
         "lang": "x-jat",
         "type": "main",
         "text": "Meitantei Conan: Chinmoku no Quarter"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "名偵探柯南：沉默的15分鐘"
       },
       {
         "lang": "ja",
@@ -316901,6 +316976,11 @@
         "lang": "zh-Hans",
         "type": "syn",
         "text": "名侦探柯南 异次元的狙击手"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "名偵探柯南：異次元的狙擊手"
       },
       {
         "lang": "ja",
@@ -403818,6 +403898,11 @@
         "text": "名侦探柯南 零的执行人"
       },
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "名偵探柯南：零的執行人"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "名探偵コナン ゼロの執行人"
@@ -422056,6 +422141,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "一弦定音!"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "一弦定音！"
       }
     ]
   },
@@ -422063,12 +422153,12 @@
     "aid": "14236",
     "titles": [
       {
-        "lang": "es-419",
+        "lang": "es",
         "type": "official",
         "text": "Destellos del mañana"
       },
       {
-        "lang": "es",
+        "lang": "es-419",
         "type": "official",
         "text": "Destellos del mañana"
       },
@@ -422083,13 +422173,13 @@
         "text": "Nijuuseiki Denki Mokuroku: Eureka Evrika"
       },
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "de",
+        "type": "official",
         "text": "Sparks of Tomorrow"
       },
       {
-        "lang": "de",
-        "type": "official",
+        "lang": "en",
+        "type": "syn",
         "text": "Sparks of Tomorrow"
       },
       {
@@ -431621,6 +431711,11 @@
         "lang": "ja",
         "type": "syn",
         "text": "この音とまれ! 第2クール"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "一弦定音！第二季"
       },
       {
         "lang": "zh-Hans",
@@ -441626,6 +441721,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "名侦探柯南 绯色的子弹"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "名偵探柯南：緋色的彈丸"
       },
       {
         "lang": "ja",
@@ -473463,6 +473563,11 @@
         "text": "Meitantei Conan: Hiiro no Fuzai Shoumei"
       },
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "名偵探柯南：緋色的不在場證明"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "名探偵コナン 緋色の不在証明"
@@ -488848,12 +488953,12 @@
         "text": "Mairimashita! Iruma-kun (2022)"
       },
       {
-        "lang": "pl",
+        "lang": "en",
         "type": "official",
         "text": "Welcome to Demon School! Iruma-kun (2022)"
       },
       {
-        "lang": "en",
+        "lang": "pl",
         "type": "official",
         "text": "Welcome to Demon School! Iruma-kun (2022)"
       },
@@ -488873,9 +488978,29 @@
     "aid": "16628",
     "titles": [
       {
+        "lang": "en",
+        "type": "syn",
+        "text": "Face King"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "King of Appearance"
+      },
+      {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Yan Wang"
+      },
+      {
         "lang": "x-zht",
         "type": "main",
         "text": "Yan Wang: Guai Hualang"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "syn",
+        "text": "颜王"
       },
       {
         "lang": "zh-Hans",
@@ -489128,17 +489253,17 @@
         "text": "FAIRY TAIL 100 YEARS QUEST"
       },
       {
-        "lang": "en",
-        "type": "official",
-        "text": "Fairy Tail: 100 Years Quest"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Fairy Tail: 100 Years Quest"
       },
       {
         "lang": "de",
+        "type": "official",
+        "text": "Fairy Tail: 100 Years Quest"
+      },
+      {
+        "lang": "en",
         "type": "official",
         "text": "Fairy Tail: 100 Years Quest"
       },
@@ -492373,12 +492498,12 @@
         "text": "Класс героев"
       },
       {
-        "lang": "ja",
+        "lang": "zh-Hans",
         "type": "official",
         "text": "英雄教室"
       },
       {
-        "lang": "zh-Hans",
+        "lang": "ja",
         "type": "official",
         "text": "英雄教室"
       }
@@ -492478,13 +492603,13 @@
     "aid": "16794",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Estab Life: Great Escape"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Estab Life: Great Escape"
       },
       {
@@ -492623,6 +492748,11 @@
     "aid": "16796",
     "titles": [
       {
+        "lang": "en",
+        "type": "official",
+        "text": "Tales of Luminaria the Fateful Crossroad"
+      },
+      {
         "lang": "de",
         "type": "official",
         "text": "Tales of Luminaria the Fateful Crossroad"
@@ -492631,11 +492761,6 @@
         "lang": "ja",
         "type": "official",
         "text": "TALES OF LUMINARIA The Fateful Crossroad"
-      },
-      {
-        "lang": "en",
-        "type": "official",
-        "text": "Tales of Luminaria the Fateful Crossroad"
       },
       {
         "lang": "x-jat",
@@ -492743,12 +492868,12 @@
         "text": "Dům na vlnách"
       },
       {
-        "lang": "es",
+        "lang": "es-419",
         "type": "official",
         "text": "Hogar a la deriva"
       },
       {
-        "lang": "es-419",
+        "lang": "es",
         "type": "official",
         "text": "Hogar a la deriva"
       },
@@ -493238,14 +493363,14 @@
     "aid": "16823",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "JUNK HEAD (2017)"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Junk Head (2017)"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "JUNK HEAD (2017)"
       }
     ]
   },
@@ -493623,12 +493748,12 @@
         "text": "Détective Conan : Apprenti criminel"
       },
       {
-        "lang": "es-419",
+        "lang": "es",
         "type": "official",
         "text": "Detective Conan: Hanzawa el Culpable"
       },
       {
-        "lang": "es",
+        "lang": "es-419",
         "type": "official",
         "text": "Detective Conan: Hanzawa el Culpable"
       },
@@ -497991,6 +498116,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "名侦探柯南 万圣节的新娘"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "名偵探柯南：萬聖節的新娘"
       },
       {
         "lang": "ja",
@@ -507131,6 +507261,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "名侦探柯南 黑铁的鱼影"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "名偵探柯南：黑鐵的魚影"
       },
       {
         "lang": "ja",
@@ -533821,6 +533956,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "名侦探柯南：百万美元的五棱星"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "名偵探柯南：100萬美元的五稜星"
       },
       {
         "lang": "ja",
@@ -586198,6 +586338,11 @@
         "text": "Heaven Sealing Contract"
       },
       {
+        "lang": "en",
+        "type": "syn",
+        "text": "Seal The Heaven Covenant"
+      },
+      {
         "lang": "zh-Hans",
         "type": "official",
         "text": "封天契"
@@ -586776,6 +586921,56 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "我家小师叔不可能这么强"
+      }
+    ]
+  },
+  {
+    "aid": "20326",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Niu Lai"
+      }
+    ]
+  },
+  {
+    "aid": "20327",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Huoxing Xi Lu 7 Hao"
+      },
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "No. 7 West Mars St."
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "火星西路7号"
+      }
+    ]
+  },
+  {
+    "aid": "20328",
+    "titles": [
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "Buddies for Bud"
+      },
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Tuanzimen de Shiming"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "团子们的使命"
       }
     ]
   }
