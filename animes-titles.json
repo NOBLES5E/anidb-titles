@@ -243058,6 +243058,11 @@
         "text": "Boku no Son Gokuu"
       },
       {
+        "lang": "en",
+        "type": "official",
+        "text": "My Son Goku"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "ぼくの孫悟空"
@@ -243823,13 +243828,13 @@
         "text": "High School of the Dead"
       },
       {
-        "lang": "it",
-        "type": "official",
+        "lang": "en",
+        "type": "syn",
         "text": "Highschool of the Dead"
       },
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "it",
+        "type": "official",
         "text": "Highschool of the Dead"
       },
       {
@@ -268683,6 +268688,16 @@
         "text": "Manyuu Hikenchou"
       },
       {
+        "lang": "pt",
+        "type": "official",
+        "text": "O Manual Secreto dos Seios Demoníacos"
+      },
+      {
+        "lang": "pt-BR",
+        "type": "syn",
+        "text": "O Manual Secreto dos Seios Demoníacos"
+      },
+      {
         "lang": "ko",
         "type": "syn",
         "text": "마유비 검첩"
@@ -268743,13 +268758,13 @@
     "aid": "8343",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "The Epic of Zektbach"
       },
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "The Epic of Zektbach"
       }
     ]
@@ -268833,9 +268848,9 @@
     "aid": "8348",
     "titles": [
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
-        "text": "Blood-C"
+        "text": "BLOOD-C"
       },
       {
         "lang": "x-jat",
@@ -268853,9 +268868,9 @@
         "text": "BLOOD-C"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
-        "text": "BLOOD-C"
+        "text": "Blood-C"
       },
       {
         "lang": "zh-Hans",
@@ -302721,6 +302736,11 @@
         "lang": "ja",
         "type": "official",
         "text": "機巧少女は傷つかない"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "機巧少女不會受傷"
       }
     ]
   },
@@ -562364,11 +562384,6 @@
       },
       {
         "lang": "x-jat",
-        "type": "short",
-        "text": "kiyoubinbou"
-      },
-      {
-        "lang": "x-jat",
         "type": "main",
         "text": "Yuusha Party o Oidasareta Kiyoubinbou"
       },
@@ -562376,11 +562391,6 @@
         "lang": "ja",
         "type": "official",
         "text": "勇者パーティを追い出された器用貧乏"
-      },
-      {
-        "lang": "ja",
-        "type": "short",
-        "text": "器用貧乏"
       },
       {
         "lang": "zh-Hans",
@@ -562563,12 +562573,12 @@
     "aid": "19200",
     "titles": [
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "Onmyo Kaiten Re:Birth Verse"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "Onmyo Kaiten Re:Birth Verse"
       },
@@ -562759,18 +562769,8 @@
       },
       {
         "lang": "x-jat",
-        "type": "short",
-        "text": "kamiina botan"
-      },
-      {
-        "lang": "x-jat",
         "type": "main",
         "text": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana"
-      },
-      {
-        "lang": "ja",
-        "type": "short",
-        "text": "上伊那ぼたん"
       },
       {
         "lang": "ja",
@@ -562818,17 +562818,17 @@
     "aid": "19208",
     "titles": [
       {
+        "lang": "en",
+        "type": "official",
+        "text": "All You Need Is Kill"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "All You Need Is Kill"
       },
       {
         "lang": "ja",
-        "type": "official",
-        "text": "All You Need Is Kill"
-      },
-      {
-        "lang": "en",
         "type": "official",
         "text": "All You Need Is Kill"
       },
@@ -562843,13 +562843,13 @@
     "aid": "19209",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Dead Account"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Dead Account"
       },
       {
@@ -568528,13 +568528,18 @@
     "aid": "19455",
     "titles": [
       {
+        "lang": "de",
+        "type": "official",
+        "text": "Ichijouma Mankitsu Gurashi!"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Ichijouma Mankitsu Gurashi!"
       },
       {
-        "lang": "x-jat",
-        "type": "syn",
+        "lang": "en",
+        "type": "official",
         "text": "Ichijyoma Mankitsu Gurashi!"
       },
       {
@@ -573773,13 +573778,13 @@
     "aid": "19688",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Dark Gathering 2"
       },
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Dark Gathering 2"
       },
       {
@@ -573829,18 +573834,8 @@
       },
       {
         "lang": "x-jat",
-        "type": "short",
-        "text": "saijo no osewa"
-      },
-      {
-        "lang": "x-jat",
         "type": "main",
         "text": "Saijo no Osewa: Takane no Hana-darake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) o Kagenagara Osewa Suru Koto ni Narimashita"
-      },
-      {
-        "lang": "ja",
-        "type": "short",
-        "text": "才女のお世話"
       },
       {
         "lang": "ja",
@@ -574078,12 +574073,12 @@
         "text": "Kozmička princeza Kaguya!"
       },
       {
-        "lang": "es-419",
+        "lang": "es",
         "type": "official",
         "text": "La princesa Kaguya del cosmos"
       },
       {
-        "lang": "es",
+        "lang": "es-419",
         "type": "official",
         "text": "La princesa Kaguya del cosmos"
       },
@@ -574363,6 +574358,11 @@
     "aid": "19713",
     "titles": [
       {
+        "lang": "en",
+        "type": "official",
+        "text": "Needy Girl Overdose"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Needy Girl Overdose"
@@ -574371,11 +574371,6 @@
         "lang": "ja",
         "type": "official",
         "text": "NEEDY GIRL OVERDOSE"
-      },
-      {
-        "lang": "en",
-        "type": "official",
-        "text": "Needy Girl Overdose"
       },
       {
         "lang": "ja",
@@ -575793,13 +575788,13 @@
     "aid": "19775",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Sakamoto Days (2027)"
       },
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Sakamoto Days (2027)"
       },
       {
@@ -576603,14 +576598,14 @@
     "aid": "19813",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Chopper`s"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "CHOPPER`S"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Chopper`s"
       }
     ]
   },
@@ -576838,14 +576833,14 @@
     "aid": "19828",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Zero Rise"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "ZERO RISE"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Zero Rise"
       }
     ]
   },
@@ -577038,12 +577033,12 @@
         "text": "Dogulwang"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "Tomb Raider King"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "Tomb Raider King"
       },
@@ -577843,13 +577838,13 @@
     "aid": "19877",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Thunder 3"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Thunder 3"
       },
       {
@@ -578193,14 +578188,14 @@
     "aid": "19892",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "LUCA"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Luca"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "LUCA"
       }
     ]
   },
@@ -578309,18 +578304,8 @@
       },
       {
         "lang": "x-jat",
-        "type": "short",
-        "text": "rakudai kenja"
-      },
-      {
-        "lang": "x-jat",
         "type": "main",
         "text": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S Rank Cheat Majutsushi Bouken Roku"
-      },
-      {
-        "lang": "ja",
-        "type": "short",
-        "text": "落第賢者"
       },
       {
         "lang": "ja",
@@ -578678,14 +578663,14 @@
     "aid": "19918",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Bang Dream! It`s MyGo!!!!! / Ave Mujica"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "BanG Dream! It`s MyGO!!!!! / Ave Mujica"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Bang Dream! It`s MyGo!!!!! / Ave Mujica"
       }
     ]
   },
@@ -579428,14 +579413,14 @@
         "text": "Sensha Isu"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Tank Chair"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "TANK CHAIR"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Tank Chair"
       },
       {
         "lang": "ja",
@@ -580058,14 +580043,14 @@
     "aid": "19982",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "KOKO"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Koko"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "KOKO"
       }
     ]
   },
@@ -580198,13 +580183,13 @@
     "aid": "19990",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "The Fable 2"
       },
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "The Fable 2"
       },
       {
@@ -580358,13 +580343,13 @@
     "aid": "19998",
     "titles": [
       {
-        "lang": "x-kot",
-        "type": "official",
+        "lang": "en",
+        "type": "main",
         "text": "Metal Cardbot"
       },
       {
-        "lang": "en",
-        "type": "main",
+        "lang": "x-kot",
+        "type": "official",
         "text": "Metal Cardbot"
       }
     ]
@@ -580678,13 +580663,13 @@
         "text": "CANDY CARIES"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Candy Caries"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Candy Caries"
       },
       {
@@ -580948,13 +580933,13 @@
     "aid": "20027",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Kagurabachi"
       },
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Kagurabachi"
       },
       {
@@ -582158,13 +582143,13 @@
     "aid": "20086",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Dengeki Daisy"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Dengeki Daisy"
       },
       {
@@ -582283,13 +582268,13 @@
     "aid": "20093",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Big Boss"
       },
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Big Boss"
       }
     ]
@@ -582653,13 +582638,13 @@
     "aid": "20109",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Metafear"
       },
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Metafear"
       }
     ]
@@ -583773,13 +583758,13 @@
     "aid": "20163",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Here U Are"
       },
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Here U Are"
       },
       {
@@ -584653,13 +584638,13 @@
     "aid": "20206",
     "titles": [
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Studio Cabana"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Studio Cabana"
       },
       {
@@ -585658,13 +585643,13 @@
     "aid": "20254",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Destiny Unchain Online"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Destiny Unchain Online"
       }
     ]
@@ -586278,13 +586263,13 @@
     "aid": "20284",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Maiden Blood"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Maiden Blood"
       },
       {
@@ -586968,9 +586953,84 @@
         "text": "Tuanzimen de Shiming"
       },
       {
-        "lang": "ja",
+        "lang": "zh",
         "type": "official",
         "text": "团子们的使命"
+      }
+    ]
+  },
+  {
+    "aid": "20329",
+    "titles": [
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "Pokémon ワイルドカード"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Pokemon: Wild Card"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Pokemon: Wild Card"
+      }
+    ]
+  },
+  {
+    "aid": "20330",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "8-gatsu 31-nichi no Long Summer"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "8月31日のロングサマー"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "The Long Summer of August 31"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "The Long Summer of August 31st"
+      }
+    ]
+  },
+  {
+    "aid": "20331",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Baki Gaiden: Retsu Kaiou wa Isekai Tensei Shitemo Ikkou ni Kamawan!"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "バキ外伝 烈海王は異世界転生しても一向にかまわんッッ"
+      }
+    ]
+  },
+  {
+    "aid": "20332",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Yamakawa Jun`ichi Anime Gekijou"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "山川純一アニメ劇場"
       }
     ]
   }
