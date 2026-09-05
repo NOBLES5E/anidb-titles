@@ -202208,6 +202208,11 @@
         "text": "出包王女"
       },
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "出包王女"
+      },
+      {
         "lang": "zh-Hans",
         "type": "official",
         "text": "出包王女ㅤ"
@@ -336344,6 +336349,11 @@
       },
       {
         "lang": "zh-Hans",
+        "type": "official",
+        "text": "出包王女Darkness 2nd"
+      },
+      {
+        "lang": "zh-Hant",
         "type": "official",
         "text": "出包王女Darkness 2nd"
       }
@@ -489338,6 +489348,11 @@
         "text": "Shadows House 2nd Season"
       },
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "SHADOWS HOUSE-影宅- 第2季"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "シャドーハウス 2nd Season"
@@ -584068,6 +584083,11 @@
         "text": "Kanojo Saimin"
       },
       {
+        "lang": "ko",
+        "type": "syn",
+        "text": "여친 최면"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "彼女催眠"
@@ -584113,13 +584133,13 @@
     "aid": "20163",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Here U Are"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Here U Are"
       },
       {
