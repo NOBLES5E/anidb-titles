@@ -106779,6 +106779,11 @@
       },
       {
         "lang": "x-jat",
+        "type": "syn",
+        "text": "Saiyuki"
+      },
+      {
+        "lang": "x-jat",
         "type": "main",
         "text": "Saiyuuki"
       },
@@ -401646,6 +401651,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "莉兹与青鸟"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "莉茲與青鳥"
       }
     ]
   },
@@ -406201,6 +406211,11 @@
         "lang": "ko",
         "type": "official",
         "text": "사신쨩 드롭킥"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "小邪神飛踢"
       },
       {
         "lang": "ja",
@@ -557389,13 +557404,8 @@
       },
       {
         "lang": "zh-Hans",
-        "type": "syn",
-        "text": "狐妖小红娘 黄风岭篇"
-      },
-      {
-        "lang": "zh-Hans",
         "type": "official",
-        "text": "狐妖小红娘13 黄风岭篇"
+        "text": "狐妖小红娘 黄风岭篇"
       }
     ]
   },
@@ -568711,11 +568721,6 @@
         "lang": "x-jat",
         "type": "main",
         "text": "Aishiteru Game o Owarasetai"
-      },
-      {
-        "lang": "x-jat",
-        "type": "syn",
-        "text": "Aishiteru Game wo Owarasetai"
       },
       {
         "lang": "en",
@@ -589136,6 +589141,21 @@
         "lang": "en",
         "type": "official",
         "text": "Di Gi Charat Christmas Special"
+      }
+    ]
+  },
+  {
+    "aid": "20343",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "LOCA!"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "ロカ"
       }
     ]
   }
