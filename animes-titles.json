@@ -209253,6 +209253,11 @@
         "text": "侵袭魔女"
       },
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "強襲魔女"
+      },
+      {
         "lang": "zh-Hans",
         "type": "syn",
         "text": "强袭魔女"
@@ -267138,6 +267143,11 @@
         "text": "ストライクウィッチーズ 劇場版"
       },
       {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "強襲魔女 劇場版"
+      },
+      {
         "lang": "zh-Hans",
         "type": "official",
         "text": "强袭魔女 剧场版"
@@ -267208,13 +267218,13 @@
         "text": "kamido"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Kamisama Dolls"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Kamisama Dolls"
       },
       {
@@ -268653,14 +268663,14 @@
         "text": "Lietaus miestas"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Rain Town"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "rain town"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Rain Town"
       }
     ]
   },
@@ -355671,6 +355681,11 @@
         "lang": "ja",
         "type": "official",
         "text": "劇場版 響け! ユーフォニアム ~北宇治高校吹奏楽部へようこそ~"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "電影版 吹響吧！上低音號～歡迎加入北宇治高中管樂社～"
       }
     ]
   },
@@ -361616,6 +361631,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "无畏魔女"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "無畏魔女"
       }
     ]
   },
@@ -361808,14 +361828,14 @@
         "text": "Eldlive"
       },
       {
-        "lang": "en",
-        "type": "official",
-        "text": "Eldlive"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "elDLIVE"
+      },
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "Eldlive"
       },
       {
         "lang": "ja",
@@ -361843,13 +361863,13 @@
     "aid": "11971",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Tiger Mask W"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Tiger Mask W"
       },
       {
@@ -361893,14 +361913,14 @@
         "text": "danmachi gaiden"
       },
       {
-        "lang": "en",
-        "type": "syn",
-        "text": "DanMachi Gaiden: Sword Oratoria"
-      },
-      {
         "lang": "fr",
         "type": "official",
         "text": "Danmachi Gaiden: Sword Oratoria"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "DanMachi Gaiden: Sword Oratoria"
       },
       {
         "lang": "de",
@@ -589156,6 +589176,26 @@
         "lang": "ja",
         "type": "official",
         "text": "ロカ"
+      }
+    ]
+  },
+  {
+    "aid": "20344",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Futanari Jinja wa Otome Ochinpo Soudansho"
+      },
+      {
+        "lang": "ja",
+        "type": "card",
+        "text": "ふたなり神社は乙女おチ○ポ相談所"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "ふたなり神社は乙女おチンポ相談所"
       }
     ]
   }
