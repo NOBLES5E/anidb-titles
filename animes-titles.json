@@ -486563,6 +486563,11 @@
         "text": "hamefurax ova"
       },
       {
+        "lang": "de",
+        "type": "official",
+        "text": "My Next Life as a Villainess: All Routes Lead to Doom! Ich habe die mir vorbestimmte Person getroffen"
+      },
+      {
         "lang": "en",
         "type": "official",
         "text": "My Next Life as a Villainess: All Routes Lead to Doom! X: I Met My Destined One..."
@@ -560404,11 +560409,6 @@
       },
       {
         "lang": "ja",
-        "type": "syn",
-        "text": "完堕ちX寝取られ家族 The Animation"
-      },
-      {
-        "lang": "ja",
         "type": "official",
         "text": "完堕ちX寝取られ家族 The Animation ~アナタ, 許して. 私たち, 浮気セックスに本気でハマっちゃったの~"
       }
@@ -560968,14 +560968,14 @@
         "text": "Nonohara Yuka no Himitsu no Haishin"
       },
       {
-        "lang": "ko",
-        "type": "syn",
-        "text": "OVA 노노하라 유카의 비밀 방송"
-      },
-      {
         "lang": "ru",
         "type": "syn",
         "text": "Секретные стримы Юки Нонохары"
+      },
+      {
+        "lang": "ko",
+        "type": "syn",
+        "text": "노노하라 유카의 비밀 방송"
       },
       {
         "lang": "ja",
@@ -567851,21 +567851,6 @@
         "lang": "ja",
         "type": "official",
         "text": "トリツカレ男"
-      }
-    ]
-  },
-  {
-    "aid": "19345",
-    "titles": [
-      {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Kidou Senshi Gundam Tekketsu no Orphans Urdr Hunt -Chiisana Chousen-Sha no Kiseki-"
-      },
-      {
-        "lang": "ja",
-        "type": "official",
-        "text": "機動戦士ガンダム 鉄血のオルフェンズ ウルズハント -小さな挑戦者の軌跡-"
       }
     ]
   },
@@ -583718,6 +583703,11 @@
         "text": "Pure x Holic: Junketsu Otome to Kon`in Kankei!? The Animation"
       },
       {
+        "lang": "ko",
+        "type": "syn",
+        "text": "퓨어 홀릭 ~순결한 처녀와 결혼하게 된다고!?~"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "ピュアホリック ～純潔乙女と婚姻カンケイ！？～ THE ANIMATION"
@@ -583746,6 +583736,11 @@
         "lang": "x-jat",
         "type": "main",
         "text": "Sare Tsuma wa Ubawaretai"
+      },
+      {
+        "lang": "ko",
+        "type": "syn",
+        "text": "네토라레 아내는 빼앗기고 싶다"
       },
       {
         "lang": "ja",
@@ -584198,13 +584193,13 @@
     "aid": "20093",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Big Boss"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Big Boss"
       }
     ]
@@ -584243,13 +584238,13 @@
     "aid": "20096",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "NICKY"
       },
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "NICKY"
       }
     ]
@@ -589196,6 +589191,31 @@
         "lang": "ja",
         "type": "official",
         "text": "ふたなり神社は乙女おチンポ相談所"
+      }
+    ]
+  },
+  {
+    "aid": "20345",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Shishite Ikiru SSS-kyuu Hunter"
+      },
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "SSS-Class Revival Hunter"
+      },
+      {
+        "lang": "ko",
+        "type": "official",
+        "text": "SSS급 죽어야 사는 헌터"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "死して生きるSSS級ハンター"
       }
     ]
   }
