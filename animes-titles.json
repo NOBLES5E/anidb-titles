@@ -429243,6 +429243,11 @@
         "text": "I Reincarnated into an Otome Game as a Villainess With Only Destruction Flags..."
       },
       {
+        "lang": "de",
+        "type": "official",
+        "text": "My Next Life as a Villainess – Wie überlebe ich in einem Dating-Game?"
+      },
+      {
         "lang": "en",
         "type": "official",
         "text": "My Next Life as a Villainess: All Routes Lead to Doom!"
@@ -452490,7 +452495,7 @@
       {
         "lang": "x-jat",
         "type": "main",
-        "text": "Tonari no Ie no Anette-san The Animation"
+        "text": "Tonari no Ie no Annet-san The Animation"
       },
       {
         "lang": "ru",
@@ -482340,7 +482345,7 @@
       {
         "lang": "x-jat",
         "type": "main",
-        "text": "Anette-san to Liliana-san The Animation"
+        "text": "Annet-san to Liliana-san The Animation"
       },
       {
         "lang": "ru",
@@ -488081,6 +488086,11 @@
         "lang": "x-zht",
         "type": "main",
         "text": "Ji Jia Shou Shen Zhi Baolie Feiche"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Opti-Morphs"
       },
       {
         "lang": "zh-Hans",
@@ -546715,21 +546725,6 @@
     ]
   },
   {
-    "aid": "18574",
-    "titles": [
-      {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "ThunderCats"
-      },
-      {
-        "lang": "ja",
-        "type": "official",
-        "text": "サンダーキャッツ"
-      }
-    ]
-  },
-  {
     "aid": "18576",
     "titles": [
       {
@@ -549078,7 +549073,7 @@
         "text": "Koukaku Kidoutai (2026)"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "The Ghost in the Shell"
       },
@@ -549088,8 +549083,13 @@
         "text": "The Ghost in the Shell"
       },
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "de",
+        "type": "official",
+        "text": "The Ghost in the Shell"
+      },
+      {
+        "lang": "it",
+        "type": "official",
         "text": "The Ghost in the Shell"
       },
       {
@@ -549123,11 +549123,6 @@
     "aid": "18654",
     "titles": [
       {
-        "lang": "fr",
-        "type": "official",
-        "text": "Sakamoto Days"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Sakamoto Days"
@@ -549144,6 +549139,11 @@
       },
       {
         "lang": "pl",
+        "type": "official",
+        "text": "Sakamoto Days"
+      },
+      {
+        "lang": "fr",
         "type": "official",
         "text": "Sakamoto Days"
       },
@@ -573308,6 +573308,11 @@
     "aid": "19576",
     "titles": [
       {
+        "lang": "en",
+        "type": "syn",
+        "text": "Balala The Fairies: Star Fate Butterfly Awakening"
+      },
+      {
         "lang": "x-zht",
         "type": "main",
         "text": "Balala Xiaomoxian: Xing Yuan Die Qi 1"
@@ -577901,6 +577906,11 @@
         "lang": "ja",
         "type": "official",
         "text": "mofusand"
+      },
+      {
+        "lang": "ja",
+        "type": "syn",
+        "text": "mofusand animation"
       }
     ]
   },
@@ -589216,6 +589226,21 @@
         "lang": "ja",
         "type": "official",
         "text": "死して生きるSSS級ハンター"
+      }
+    ]
+  },
+  {
+    "aid": "20346",
+    "titles": [
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "EAT-MAN The Over Order"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Eat-Man: The Over Order"
       }
     ]
   }
