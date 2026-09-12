@@ -489638,6 +489638,11 @@
         "text": "Liu Xing Huan Jian"
       },
       {
+        "lang": "en",
+        "type": "syn",
+        "text": "The Meteor Magic Sword"
+      },
+      {
         "lang": "zh-Hans",
         "type": "official",
         "text": "流星幻剑"
@@ -557423,9 +557428,24 @@
     "aid": "18928",
     "titles": [
       {
+        "lang": "en",
+        "type": "syn",
+        "text": "Fox Spirit Matchmaker Season 13"
+      },
+      {
+        "lang": "en",
+        "type": "short",
+        "text": "fsm s13"
+      },
+      {
         "lang": "x-zht",
         "type": "main",
         "text": "Hu Yao Xiao Hongniang: Huang Feng Ling Pian"
+      },
+      {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Huyao Xiao Hongniang 13: Huang Feng Ling Pian"
       },
       {
         "lang": "zh-Hans",
@@ -584573,13 +584593,13 @@
     "aid": "20109",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Metafear"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Metafear"
       }
     ]
@@ -584593,9 +584613,19 @@
         "text": "Eiga Sore Ike! Anpanman: Pantan to Yakusoku no Hoshi"
       },
       {
+        "lang": "en",
+        "type": "syn",
+        "text": "Go! Anpanman: Pantan and the Promised Star"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "えいがそれいけ! アンパンマン パンタンと約束の星"
+      },
+      {
+        "lang": "ja",
+        "type": "syn",
+        "text": "映画それいけ！アンパンマン パンタンと約束の星"
       }
     ]
   },
@@ -586093,9 +586123,19 @@
     "aid": "20185",
     "titles": [
       {
+        "lang": "en",
+        "type": "syn",
+        "text": "Dragon Heart: Adventures Beyond This World"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Dragon Heart: Reikai Tanbouki"
+      },
+      {
+        "lang": "x-unk",
+        "type": "syn",
+        "text": "Happy Science Movie 10"
       },
       {
         "lang": "ja",
@@ -586894,8 +586934,18 @@
     "titles": [
       {
         "lang": "en",
+        "type": "syn",
+        "text": "Eternal God Emperor"
+      },
+      {
+        "lang": "en",
         "type": "official",
         "text": "God of Eternity"
+      },
+      {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Wan Gu Shen Di"
       },
       {
         "lang": "x-zht",
@@ -586906,6 +586956,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "万古神帝"
+      },
+      {
+        "lang": "zh",
+        "type": "syn",
+        "text": "萬古神帝"
       }
     ]
   },
@@ -586934,6 +586989,16 @@
     "titles": [
       {
         "lang": "en",
+        "type": "syn",
+        "text": "Catastrophic Necromancer"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Necromancer: I Am A Disaster"
+      },
+      {
+        "lang": "en",
         "type": "official",
         "text": "Necromancer: I Am the Scourge"
       },
@@ -586941,6 +587006,11 @@
         "lang": "x-zht",
         "type": "main",
         "text": "Si Ling Fashi! Wo Ji Shi Tianzai"
+      },
+      {
+        "lang": "zh",
+        "type": "syn",
+        "text": "全民转职：死灵法师！我即是天灾"
       },
       {
         "lang": "zh-Hans",
@@ -587588,13 +587658,13 @@
     "aid": "20254",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Destiny Unchain Online"
       },
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Destiny Unchain Online"
       }
     ]
@@ -587947,6 +588017,11 @@
   {
     "aid": "20271",
     "titles": [
+      {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Cai Shen Dou Zhan Long"
+      },
       {
         "lang": "x-zht",
         "type": "main",
