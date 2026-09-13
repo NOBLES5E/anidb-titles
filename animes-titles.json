@@ -244388,6 +244388,11 @@
         "text": "Ganbare Goemon: Jigen Jou no Akumu"
       },
       {
+        "lang": "en",
+        "type": "syn",
+        "text": "Ganbare Goemon: Nightmare in the Dimensional Castle"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "がんばれゴエモン 次元城の悪夢"
@@ -244651,6 +244656,11 @@
         "lang": "x-jat",
         "type": "main",
         "text": "Ganbare Goemon: Chikyuu Kyuushutsu Daisakusen"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Ganbare Goemon: Earth Rescue Operation"
       },
       {
         "lang": "ja",
@@ -343917,11 +343927,6 @@
   {
     "aid": "11258",
     "titles": [
-      {
-        "lang": "ja",
-        "type": "syn",
-        "text": "Netora Serare"
-      },
       {
         "lang": "x-jat",
         "type": "main",
@@ -589316,6 +589321,21 @@
         "lang": "x-jat",
         "type": "main",
         "text": "Eat-Man: The Over Order"
+      }
+    ]
+  },
+  {
+    "aid": "20347",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Eiga Uchuu Nanchara Kotetsu-kun: Ukkari Detekita Uchuujin o Sagase!"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "映画 宇宙なんちゃら こてつくん うっかり出てきた宇宙人を探せ!"
       }
     ]
   }
