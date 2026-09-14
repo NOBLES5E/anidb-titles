@@ -262308,6 +262308,11 @@
         "text": "Calabash Brothers"
       },
       {
+        "lang": "en",
+        "type": "syn",
+        "text": "Gourd Brothers"
+      },
+      {
         "lang": "x-zht",
         "type": "main",
         "text": "Hulu Xiongdi"
@@ -298161,6 +298166,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "天才麻将少女 全国篇"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "天才麻將少女 全國篇"
       }
     ]
   },
@@ -361868,13 +361878,13 @@
     "aid": "11971",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Tiger Mask W"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Tiger Mask W"
       },
       {
@@ -361892,6 +361902,16 @@
   {
     "aid": "11972",
     "titles": [
+      {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Nu Wa Cheng Zhang Ri Ji"
+      },
+      {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Nuwa Cheng Zhang Riji"
+      },
       {
         "lang": "x-zht",
         "type": "main",
@@ -423493,12 +423513,12 @@
     "aid": "14236",
     "titles": [
       {
-        "lang": "es",
+        "lang": "es-419",
         "type": "official",
         "text": "Destellos del mañana"
       },
       {
-        "lang": "es-419",
+        "lang": "es",
         "type": "official",
         "text": "Destellos del mañana"
       },
@@ -423521,6 +423541,11 @@
         "lang": "en",
         "type": "syn",
         "text": "Sparks of Tomorrow"
+      },
+      {
+        "lang": "cs",
+        "type": "official",
+        "text": "Záblesky zítřka"
       },
       {
         "lang": "ja",
@@ -460341,6 +460366,11 @@
         "lang": "ja",
         "type": "official",
         "text": "劇場版 異世界かるてっと ~あなざーわーるど~"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "劇場版 異世界四重奏 ～Another World～"
       },
       {
         "lang": "zh-Hans",
@@ -561604,11 +561634,6 @@
       },
       {
         "lang": "x-jat",
-        "type": "syn",
-        "text": "Mahou Shoujo Lyrical Nanoha EXCEEDS - Gun Blaze Vengeance"
-      },
-      {
-        "lang": "x-jat",
         "type": "main",
         "text": "Mahou Shoujo Lyrical Nanoha Exceeds: Gun Blaze Vengeance"
       },
@@ -568831,6 +568856,11 @@
         "lang": "ja",
         "type": "official",
         "text": "異世界かるてっと3"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "異世界四重奏 3"
       }
     ]
   },
@@ -575093,6 +575123,11 @@
         "text": "Shi Wangzhe A? Di 5 Ji: Feng Wu Leiting Chang`an Juan"
       },
       {
+        "lang": "x-unk",
+        "type": "syn",
+        "text": "Shi Wangzhe A? Di Wu Ji: Feng Wu Leiting Chang`an Juan"
+      },
+      {
         "lang": "x-zht",
         "type": "syn",
         "text": "Shi Wangzhe A? Season 5"
@@ -575473,13 +575508,13 @@
         "text": "Ghost Concert - missing Songs"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Ghost Concert: Missing Songs"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Ghost Concert: Missing Songs"
       },
       {
@@ -576013,12 +576048,12 @@
         "text": "Kozmička princeza Kaguya!"
       },
       {
-        "lang": "es",
+        "lang": "es-419",
         "type": "official",
         "text": "La princesa Kaguya del cosmos"
       },
       {
-        "lang": "es-419",
+        "lang": "es",
         "type": "official",
         "text": "La princesa Kaguya del cosmos"
       },
@@ -589006,6 +589041,11 @@
         "lang": "en",
         "type": "syn",
         "text": "Pokemon: Wild Card"
+      },
+      {
+        "lang": "x-jat",
+        "type": "syn",
+        "text": "Pokemon: Wildcard"
       }
     ]
   },
@@ -589336,6 +589376,26 @@
         "lang": "ja",
         "type": "official",
         "text": "映画 宇宙なんちゃら こてつくん うっかり出てきた宇宙人を探せ!"
+      }
+    ]
+  },
+  {
+    "aid": "20348",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Shin Tennis no Ouji-sama: U-17 World Cup - Kesshou Member Ketteisen"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "The Prince of Tennis II: U-17 World Cup Finals Members Decisive Match"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "新テニスの王子様 U-17 WORLD CUP 決勝メンバー決定戦"
       }
     ]
   }
