@@ -42843,6 +42843,11 @@
         "text": "Harlock Saga: Nibelung no Yubiwa"
       },
       {
+        "lang": "x-jat",
+        "type": "syn",
+        "text": "Harlock Saga: Niibarungu no Yubiwa"
+      },
+      {
         "lang": "en",
         "type": "syn",
         "text": "Harlock Saga: The Ring of the Nibelung"
@@ -42856,6 +42861,11 @@
         "lang": "x-jat",
         "type": "main",
         "text": "Herlock Saga"
+      },
+      {
+        "lang": "x-jat",
+        "type": "syn",
+        "text": "Herlock Saga: Nibelung no Yubiwa"
       },
       {
         "lang": "ja",
@@ -42873,7 +42883,7 @@
         "text": "Sonic"
       },
       {
-        "lang": "fr",
+        "lang": "pl",
         "type": "official",
         "text": "Sonic X"
       },
@@ -42893,7 +42903,7 @@
         "text": "Sonic X"
       },
       {
-        "lang": "pl",
+        "lang": "fr",
         "type": "official",
         "text": "Sonic X"
       },
@@ -76708,22 +76718,17 @@
         "text": "Futari wa Pretty Cure"
       },
       {
+        "lang": "pl",
+        "type": "official",
+        "text": "Jesteśmy Pretty Cure"
+      },
+      {
         "lang": "x-jat",
         "type": "short",
         "text": "precure"
       },
       {
-        "lang": "de",
-        "type": "official",
-        "text": "Pretty Cure"
-      },
-      {
         "lang": "es",
-        "type": "official",
-        "text": "Pretty Cure"
-      },
-      {
-        "lang": "en",
         "type": "official",
         "text": "Pretty Cure"
       },
@@ -76733,7 +76738,17 @@
         "text": "Pretty Cure"
       },
       {
+        "lang": "en",
+        "type": "official",
+        "text": "Pretty Cure"
+      },
+      {
         "lang": "pt",
+        "type": "official",
+        "text": "Pretty Cure"
+      },
+      {
+        "lang": "de",
         "type": "official",
         "text": "Pretty Cure"
       },
@@ -76773,12 +76788,12 @@
         "text": "ふたりはプリキュア"
       },
       {
-        "lang": "zh-Hans",
+        "lang": "zh",
         "type": "official",
         "text": "光之美少女"
       },
       {
-        "lang": "zh",
+        "lang": "zh-Hans",
         "type": "official",
         "text": "光之美少女"
       }
@@ -267876,6 +267891,11 @@
         "lang": "x-zht",
         "type": "main",
         "text": "Hu wang gui lai"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Tiger Returns"
       },
       {
         "lang": "zh",
@@ -563525,6 +563545,11 @@
       {
         "lang": "en",
         "type": "syn",
+        "text": "The Sword Immortal Is Here S2"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
         "text": "The Sword Immortal Season 02"
       },
       {
@@ -578628,6 +578653,11 @@
         "text": "Yoroi Shin Den Samurai Troopers (2026)"
       },
       {
+        "lang": "x-jat",
+        "type": "syn",
+        "text": "Yoroi Shin Den Samurai Troopers Part 2"
+      },
+      {
         "lang": "en",
         "type": "official",
         "text": "Yoroi-Shinden Samurai Troopers (2026)"
@@ -589396,6 +589426,111 @@
         "lang": "ja",
         "type": "official",
         "text": "新テニスの王子様 U-17 WORLD CUP 決勝メンバー決定戦"
+      }
+    ]
+  },
+  {
+    "aid": "20349",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Gekijouban Idolmaster: SideM Fantastic Battle Fes - Who goes first"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "劇場版 アイドルマスター SideM F＠NTASTIC BATTLE FES ～Who goes first～"
+      }
+    ]
+  },
+  {
+    "aid": "20350",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Funsou Deshitara Hatta Made"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "紛争でしたら八田まで"
+      }
+    ]
+  },
+  {
+    "aid": "20351",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Haha Da Maoxian"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "哈哈大冒险"
+      }
+    ]
+  },
+  {
+    "aid": "20352",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "He Nu`er De Richang"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "和女儿的日常"
+      }
+    ]
+  },
+  {
+    "aid": "20353",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Hen Chun Hen Aimei"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "很纯很暧昧"
+      }
+    ]
+  },
+  {
+    "aid": "20354",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Hua Kai Zhang Meili"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "花开张美丽"
+      }
+    ]
+  },
+  {
+    "aid": "20355",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Huang Li Shi"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "黄历师"
       }
     ]
   }
