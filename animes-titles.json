@@ -452753,14 +452753,14 @@
     "aid": "15252",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Start"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "START"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Start"
       }
     ]
   },
@@ -452813,6 +452813,11 @@
         "text": "Shoujo Kageki Revue Starlight: Rondo Rondo Rondo"
       },
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "少女☆歌劇 Revue Starlight RONDO·RONDO·RONDO"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "少女☆歌劇 レヴュースタァライト ロンド・ロンド・ロンド"
@@ -452841,6 +452846,11 @@
         "lang": "ja",
         "type": "official",
         "text": "劇場版 少女☆歌劇 レヴュースタァライト"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "劇場版 少女☆歌劇Revue Starlight"
       }
     ]
   },
@@ -452848,14 +452858,14 @@
     "aid": "15256",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Argonavis from Bang Dream! Animation"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "ARGONAVIS from BanG Dream! ANIMATION"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Argonavis from Bang Dream! Animation"
       },
       {
         "lang": "x-jat",
@@ -468021,6 +468031,11 @@
         "lang": "ja",
         "type": "official",
         "text": "ウマ娘 プリティーダービー Season 2"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "賽馬娘 Pretty Derby 第二季"
       },
       {
         "lang": "zh-Hans",
@@ -493653,6 +493668,16 @@
         "text": "Jingling Meng Xie Luo Li"
       },
       {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Jingling Meng Yeloli"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "The Fairy Dream of Yeloli"
+      },
+      {
         "lang": "zh-Hans",
         "type": "official",
         "text": "精灵梦叶罗丽"
@@ -494313,13 +494338,13 @@
     "aid": "16794",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Estab Life: Great Escape"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Estab Life: Great Escape"
       },
       {
@@ -509608,12 +509633,12 @@
         "text": "Shen Yin Wangzuo"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "Throne of Seal"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "Throne of Seal"
       },
@@ -509646,6 +509671,11 @@
         "lang": "ja",
         "type": "official",
         "text": "ウマ娘 プリティーダービー Road to the Top"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "賽馬娘 Pretty Derby ROAD TO THE TOP"
       },
       {
         "lang": "zh-Hans",
@@ -535533,14 +535563,14 @@
         "text": "Sindualidade Noir (2024)"
       },
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "SYNDUALITY noir (2024)"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Synduality Noir (2024)"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "SYNDUALITY noir (2024)"
       },
       {
         "lang": "ko",
@@ -535595,6 +535625,11 @@
       {
         "lang": "x-jat",
         "type": "main",
+        "text": "Magical Explorer"
+      },
+      {
+        "lang": "en",
+        "type": "official",
         "text": "Magical Explorer"
       },
       {
@@ -540446,6 +540481,11 @@
         "lang": "ja",
         "type": "official",
         "text": "ウマ娘 プリティーダービー 新時代の扉"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "賽馬娘Pretty Derby：新時代之門"
       }
     ]
   },
@@ -551568,6 +551608,11 @@
         "text": "Magic Knight Rayearth (2026)"
       },
       {
+        "lang": "en",
+        "type": "official",
+        "text": "Magic Knight Rayearth (2026)"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "魔法騎士レイアース (2026)"
@@ -552847,6 +552892,11 @@
   {
     "aid": "18777",
     "titles": [
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "Dark Machine the Animation"
+      },
       {
         "lang": "x-jat",
         "type": "main",
@@ -555359,6 +555409,11 @@
       },
       {
         "lang": "de",
+        "type": "official",
+        "text": "Romelia War Chronicle"
+      },
+      {
+        "lang": "en",
         "type": "official",
         "text": "Romelia War Chronicle"
       },
@@ -561354,8 +561409,13 @@
     "titles": [
       {
         "lang": "en",
-        "type": "syn",
+        "type": "official",
         "text": "As a Reincarnated Aristocrat, I`ll Use My Appraisal Skill to Rise in the World (2026)"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "As a Reincarnated Aristocrat, I`ll Use My Appraisal Skill to Rise in the World Season 3"
       },
       {
         "lang": "x-jat",
@@ -563284,7 +563344,7 @@
       },
       {
         "lang": "en",
-        "type": "syn",
+        "type": "official",
         "text": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!"
       },
       {
@@ -564594,7 +564654,7 @@
     "titles": [
       {
         "lang": "en",
-        "type": "syn",
+        "type": "official",
         "text": "A Tale of the Secret Saint"
       },
       {
@@ -573633,6 +573693,11 @@
     "aid": "19586",
     "titles": [
       {
+        "lang": "en",
+        "type": "official",
+        "text": "#I`m Looking for a Zombie"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "#Zombie Sagashitemasu"
@@ -574409,7 +574474,7 @@
       },
       {
         "lang": "en",
-        "type": "syn",
+        "type": "official",
         "text": "Hotel Inhumans (2026)"
       },
       {
@@ -575009,8 +575074,8 @@
     "titles": [
       {
         "lang": "en",
-        "type": "syn",
-        "text": "Even Though I`m a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé"
+        "type": "official",
+        "text": "Even Though I`m a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiance"
       },
       {
         "lang": "x-jat",
@@ -577824,8 +577889,13 @@
     "titles": [
       {
         "lang": "en",
-        "type": "syn",
+        "type": "official",
         "text": "A Wild Last Boss Appeared! (2026)"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "A Wild Last Boss Appeared! Season 2"
       },
       {
         "lang": "x-jat",
@@ -577863,13 +577933,13 @@
     "aid": "19779",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Gachiakuta 2"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Gachiakuta 2"
       },
       {
@@ -578889,6 +578959,11 @@
     "titles": [
       {
         "lang": "x-jat",
+        "type": "syn",
+        "text": "Mamono Kurai no Boukensha: Ore Dake Mamono wo Kuratte Tsuyoku Naru"
+      },
+      {
+        "lang": "x-jat",
         "type": "main",
         "text": "Mamonogurai no Boukensha: Ore dake Mamono o Kuratte Tsuyoku Naru"
       },
@@ -579824,7 +579899,7 @@
       },
       {
         "lang": "en",
-        "type": "syn",
+        "type": "official",
         "text": "Hello, I Am a Witch and My Crush Wants Me to Make a Love Potion!"
       },
       {
@@ -581169,7 +581244,7 @@
     "titles": [
       {
         "lang": "en",
-        "type": "syn",
+        "type": "official",
         "text": "So What`s Wrong with Getting Reborn as a Goblin?"
       },
       {
@@ -581560,6 +581635,11 @@
       {
         "lang": "x-jat",
         "type": "main",
+        "text": "Vertex Force"
+      },
+      {
+        "lang": "en",
+        "type": "official",
         "text": "Vertex Force"
       },
       {
@@ -583109,7 +583189,7 @@
       },
       {
         "lang": "en",
-        "type": "syn",
+        "type": "official",
         "text": "The World`s Strongest Witch"
       },
       {
@@ -589419,8 +589499,8 @@
       },
       {
         "lang": "en",
-        "type": "syn",
-        "text": "The Prince of Tennis II: U-17 World Cup Finals Members Decisive Match"
+        "type": "official",
+        "text": "The Prince of Tennis II: U-17 World Cup - Final Member Selection Match"
       },
       {
         "lang": "ja",
@@ -589531,6 +589611,321 @@
         "lang": "zh",
         "type": "official",
         "text": "黄历师"
+      }
+    ]
+  },
+  {
+    "aid": "20356",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Huoli Shaonian Wang 3: Xuji"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "火力少年王3续集"
+      }
+    ]
+  },
+  {
+    "aid": "20357",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Huoli Shaonian Wang: Chuanqi Zaixian"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "火力少年王之传奇再现"
+      }
+    ]
+  },
+  {
+    "aid": "20358",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Huoli Shaonian Wang: Chuanqi Zaixian: Xuji"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "火力少年王之传奇再现续集"
+      }
+    ]
+  },
+  {
+    "aid": "20359",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Jiangnan"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "江南"
+      }
+    ]
+  },
+  {
+    "aid": "20360",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Jian Yu Yuanzheng: Insomnia De Naxie Shier"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "剑与远征-伊索米亚的那些事儿"
+      }
+    ]
+  },
+  {
+    "aid": "20361",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Jingling Meng Yeloli Di 9 Ji: Ni Wang Zhi Zhan"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "精灵梦叶罗丽 第9季 逆亡之战"
+      }
+    ]
+  },
+  {
+    "aid": "20362",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Jingling Meng Yeloli Di 10 Ji"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "精灵梦叶罗丽 第10季"
+      }
+    ]
+  },
+  {
+    "aid": "20363",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Jingling Meng Yeloli Di 11 Ji"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "精灵梦叶罗丽 第11季"
+      }
+    ]
+  },
+  {
+    "aid": "20364",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Jingling Meng Yeloli Di 11 Ji Xia"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "精灵梦叶罗丽 第11季 下"
+      }
+    ]
+  },
+  {
+    "aid": "20365",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Yeloli: Shijian Yu"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "叶罗丽时间雨"
+      }
+    ]
+  },
+  {
+    "aid": "20366",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Jingling Meng Yeloli x Jin Huaguan"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "精灵梦叶罗丽X金花冠"
+      }
+    ]
+  },
+  {
+    "aid": "20367",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Yelolii: Luolimo Shui Yu"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "叶罗丽默水语"
+      }
+    ]
+  },
+  {
+    "aid": "20368",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Yelolii: Yue Ling Shi"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "叶罗丽月灵石"
+      }
+    ]
+  },
+  {
+    "aid": "20369",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Yeloli: Jin Liu Xin"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "叶罗丽金鎏心"
+      }
+    ]
+  },
+  {
+    "aid": "20370",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Jingling Meng Yeloli x Guang Fuchen"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "精灵梦叶罗丽X光浮尘"
+      }
+    ]
+  },
+  {
+    "aid": "20371",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Jingling Meng Yeloli x Bing Lianhua"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "精灵梦叶罗丽X冰莲花"
+      }
+    ]
+  },
+  {
+    "aid": "20372",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Jiu Jiu Ba Shi Yi"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "九九八十一"
+      }
+    ]
+  },
+  {
+    "aid": "20373",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Jixian Chengshi"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "极限城市"
+      }
+    ]
+  },
+  {
+    "aid": "20374",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Haru to Gen: 70-sai, Hajimete no Kosodate"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "ハルとゲン ~70歳, はじめての子育て~"
+      }
+    ]
+  },
+  {
+    "aid": "20375",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Funbarus"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "ふんばるず"
+      }
+    ]
+  },
+  {
+    "aid": "20376",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Kaiju Yi Zuo Shan 2"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "开局一座山 2"
       }
     ]
   }
