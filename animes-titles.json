@@ -23313,12 +23313,12 @@
     "aid": "318",
     "titles": [
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
-        "text": "After Rabbit"
+        "text": "Angel`s Egg"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "Angel`s Egg"
       },
@@ -126178,6 +126178,11 @@
         "text": "Il mago pancione Etcì"
       },
       {
+        "lang": "pt",
+        "type": "official",
+        "text": "O Génio Desastrado"
+      },
+      {
         "lang": "pt-BR",
         "type": "syn",
         "text": "O Gênio Maluco"
@@ -197514,6 +197519,11 @@
       },
       {
         "lang": "zh-Hant",
+        "type": "syn",
+        "text": "超時空要塞F"
+      },
+      {
+        "lang": "zh-Hant",
         "type": "official",
         "text": "超時空要塞Frontier"
       }
@@ -197588,17 +197598,17 @@
         "text": "Gunslinger Girl - IL TEATRINO"
       },
       {
-        "lang": "en",
-        "type": "official",
-        "text": "Gunslinger Girl: Il Teatrino"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Gunslinger Girl: Il Teatrino"
       },
       {
         "lang": "de",
+        "type": "official",
+        "text": "Gunslinger Girl: Il Teatrino"
+      },
+      {
+        "lang": "en",
         "type": "official",
         "text": "Gunslinger Girl: Il Teatrino"
       },
@@ -197708,24 +197718,24 @@
         "text": "Aria - The Origination"
       },
       {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Aria the Origination"
+      },
+      {
         "lang": "it",
         "type": "official",
         "text": "Aria the Origination"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "fr",
+        "type": "official",
         "text": "Aria the Origination"
       },
       {
         "lang": "ja",
         "type": "official",
         "text": "ARIA The ORIGINATION"
-      },
-      {
-        "lang": "fr",
-        "type": "official",
-        "text": "Aria the Origination"
       },
       {
         "lang": "en",
@@ -198153,13 +198163,13 @@
         "text": "The Secret of the Seal"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "pt",
+        "type": "official",
         "text": "Tottoi"
       },
       {
-        "lang": "pt",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Tottoi"
       },
       {
@@ -198243,14 +198253,14 @@
     "aid": "5447",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "BLAME! (2007)"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Blame! (2007)"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "BLAME! (2007)"
       }
     ]
   },
@@ -198293,12 +198303,12 @@
     "aid": "5452",
     "titles": [
       {
-        "lang": "de",
+        "lang": "en",
         "type": "syn",
         "text": "Debt Sisters"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "syn",
         "text": "Debt Sisters"
       },
@@ -198488,7 +198498,7 @@
     "aid": "5459",
     "titles": [
       {
-        "lang": "fr",
+        "lang": "en",
         "type": "official",
         "text": ".hack//G.U. Trilogy"
       },
@@ -198498,12 +198508,12 @@
         "text": ".hack//G.U. Trilogy"
       },
       {
-        "lang": "en",
+        "lang": "ja",
         "type": "official",
         "text": ".hack//G.U. Trilogy"
       },
       {
-        "lang": "ja",
+        "lang": "fr",
         "type": "official",
         "text": ".hack//G.U. Trilogy"
       },
@@ -199253,13 +199263,13 @@
     "aid": "5499",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "1001 Nights"
       },
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "1001 Nights"
       },
       {
@@ -226676,6 +226686,11 @@
         "lang": "ja",
         "type": "official",
         "text": "劇場版 マクロスF 虚空歌姫~イツワリノウタヒメ~"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "劇場版超時空要塞F～虛空歌姬～"
       }
     ]
   },
@@ -226748,12 +226763,12 @@
         "text": "そらのおとしもの"
       },
       {
-        "lang": "zh-Hant",
+        "lang": "zh-Hans",
         "type": "official",
         "text": "天降之物"
       },
       {
-        "lang": "zh-Hans",
+        "lang": "zh-Hant",
         "type": "official",
         "text": "天降之物"
       }
@@ -226762,6 +226777,16 @@
   {
     "aid": "6662",
     "titles": [
+      {
+        "lang": "pt-BR",
+        "type": "official",
+        "text": "Fairy Tail"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Fairy Tail"
+      },
       {
         "lang": "pt",
         "type": "official",
@@ -226780,16 +226805,6 @@
       {
         "lang": "fr",
         "type": "official",
-        "text": "Fairy Tail"
-      },
-      {
-        "lang": "pt-BR",
-        "type": "official",
-        "text": "Fairy Tail"
-      },
-      {
-        "lang": "x-jat",
-        "type": "main",
         "text": "Fairy Tail"
       },
       {
@@ -258341,6 +258356,11 @@
         "lang": "ja",
         "type": "official",
         "text": "劇場版 マクロスF 恋離飛翼~サヨナラノツバサ~"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "劇場版超時空要塞F～戀離飛翼～"
       }
     ]
   },
@@ -272876,6 +272896,11 @@
         "lang": "x-zht",
         "type": "syn",
         "text": "Kung Fu Liao Li Niang"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Kungfu Cooking Girls"
       },
       {
         "lang": "zh",
@@ -343258,7 +343283,7 @@
         "text": "YBJ"
       },
       {
-        "lang": "fr",
+        "lang": "en",
         "type": "official",
         "text": "Young Black Jack"
       },
@@ -343268,7 +343293,7 @@
         "text": "Young Black Jack"
       },
       {
-        "lang": "en",
+        "lang": "fr",
         "type": "official",
         "text": "Young Black Jack"
       },
@@ -343337,6 +343362,11 @@
   {
     "aid": "11230",
     "titles": [
+      {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Lao Fu Zi Shui Hu Chuan"
+      },
       {
         "lang": "x-zht",
         "type": "syn",
@@ -345195,6 +345225,11 @@
       {
         "lang": "x-zht",
         "type": "syn",
+        "text": "Shan T Lao Fu Zi"
+      },
+      {
+        "lang": "x-zht",
+        "type": "syn",
         "text": "Shan T Laofuzi"
       },
       {
@@ -345232,6 +345267,11 @@
   {
     "aid": "11298",
     "titles": [
+      {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Lao Fu Zi: Xiao Shui Hu Chuan Qi"
+      },
       {
         "lang": "x-zht",
         "type": "syn",
@@ -397883,6 +397923,11 @@
         "text": "극장판 마크로스 Δ 격정의 왈큐레"
       },
       {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "劇場版 超時空要塞Δ 激情的女武神"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "劇場版マクロスΔ[デルタ] 激情のワルキューレ"
@@ -397973,7 +398018,7 @@
         "text": "Eu Quero Comer o Teu Pâncreas"
       },
       {
-        "lang": "es-419",
+        "lang": "en",
         "type": "official",
         "text": "I Want to Eat Your Pancreas"
       },
@@ -397983,7 +398028,7 @@
         "text": "I want to eat your pancreas"
       },
       {
-        "lang": "en",
+        "lang": "es-419",
         "type": "official",
         "text": "I Want to Eat Your Pancreas"
       },
@@ -417243,6 +417288,11 @@
         "text": "Ma Ma Mi Ya"
       },
       {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Mama Mi Ya"
+      },
+      {
         "lang": "zh",
         "type": "official",
         "text": "妈妈咪鸭"
@@ -417278,13 +417328,13 @@
         "text": "icm"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Isekai Cheat Magician"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Isekai Cheat Magician"
       },
       {
@@ -427898,6 +427948,11 @@
         "text": "Macross: Gekijouban Macross Delta: Zettai Live!!!!!!"
       },
       {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "劇場版 超時空要塞Δ 絕對LIVE!!!!!!"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "劇場版マクロスΔ 絶対LIVE!!!!!!"
@@ -435688,6 +435743,11 @@
         "text": "kuiba movie 4"
       },
       {
+        "lang": "en",
+        "type": "syn",
+        "text": "Kuiba the Last"
+      },
+      {
         "lang": "x-zht",
         "type": "syn",
         "text": "Zuihou De Kuiba"
@@ -436018,6 +436078,11 @@
         "text": "a3"
       },
       {
+        "lang": "en",
+        "type": "official",
+        "text": "A3! Season Spring & Summer"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "A3! Season Spring & Summer"
@@ -436026,11 +436091,6 @@
         "lang": "ja",
         "type": "official",
         "text": "A3! SEASON SPRING & SUMMER"
-      },
-      {
-        "lang": "en",
-        "type": "official",
-        "text": "A3! Season Spring & Summer"
       },
       {
         "lang": "ja",
@@ -444149,6 +444209,11 @@
       },
       {
         "lang": "x-zht",
+        "type": "syn",
+        "text": "Mao Yao De Huo Han"
+      },
+      {
+        "lang": "x-zht",
         "type": "main",
         "text": "Mao Yao De Youhuo"
       },
@@ -445089,6 +445154,11 @@
       },
       {
         "lang": "x-zht",
+        "type": "syn",
+        "text": "Huangli Shi"
+      },
+      {
+        "lang": "x-zht",
         "type": "main",
         "text": "Li Shi"
       },
@@ -445133,12 +445203,12 @@
         "text": "たまよみ"
       },
       {
-        "lang": "zh-Hans",
+        "lang": "ja",
         "type": "official",
         "text": "球詠"
       },
       {
-        "lang": "ja",
+        "lang": "zh-Hans",
         "type": "official",
         "text": "球詠"
       }
@@ -445233,13 +445303,13 @@
         "text": "Isekai Quartet (2020)"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Isekai Quartet 2"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Isekai Quartet 2"
       },
       {
@@ -445308,13 +445378,13 @@
     "aid": "14966",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Vlad Love"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Vlad Love"
       },
       {
@@ -446098,11 +446168,6 @@
         "text": "El timador timado"
       },
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "GREAT PRETENDER"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Great Pretender"
@@ -446111,6 +446176,11 @@
         "lang": "fr",
         "type": "official",
         "text": "Great Pretender"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "GREAT PRETENDER"
       },
       {
         "lang": "zh-Hant",
@@ -476491,6 +476561,11 @@
         "lang": "ja",
         "type": "official",
         "text": "劇場短編マクロスfrontier~時の迷宮~"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "超時空要塞F～時間的迷宮～"
       }
     ]
   },
@@ -495764,6 +495839,11 @@
       },
       {
         "lang": "x-zht",
+        "type": "syn",
+        "text": "Lie Huo Jiao Chou"
+      },
+      {
+        "lang": "x-zht",
         "type": "main",
         "text": "Liehuo Jiao Chou"
       },
@@ -496038,14 +496118,14 @@
     "aid": "16858",
     "titles": [
       {
-        "lang": "zh-Hans",
-        "type": "official",
-        "text": "BEASTY"
-      },
-      {
         "lang": "x-zht",
         "type": "main",
         "text": "Beasty"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "BEASTY"
       }
     ]
   },
@@ -516046,6 +516126,11 @@
         "lang": "x-jat",
         "type": "syn",
         "text": "Haikyuu!!: Gomi Suteba no Kessen"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "劇場版 排球少年!! 垃圾場的決戰"
       },
       {
         "lang": "ja",
@@ -587048,7 +587133,7 @@
         "text": "The Eternal Supreme, Li Yunxiao"
       },
       {
-        "lang": "zh",
+        "lang": "x-zht",
         "type": "main",
         "text": "Wangu Zhizun: Li Yunxiao Zhuan"
       },
@@ -588360,7 +588445,7 @@
       {
         "lang": "x-zht",
         "type": "main",
-        "text": "Wo shi xue xiao wei yi de ren lei"
+        "text": "Wo Shi Xue Xiao Wei Yi de Ren Lei"
       },
       {
         "lang": "x-zht",
@@ -589926,6 +590011,281 @@
         "lang": "zh",
         "type": "official",
         "text": "开局一座山 2"
+      }
+    ]
+  },
+  {
+    "aid": "20377",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Kuiba: Shu Tu - Xiangsheng Pian"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "魁拔之殊途 相生篇"
+      }
+    ]
+  },
+  {
+    "aid": "20378",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "La La La De Ma Xi Ya Dierji"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "啦啦啦德玛西亚 第二季"
+      }
+    ]
+  },
+  {
+    "aid": "20379",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Aoki Denshou: Welsh & Shedar"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "The Azure Legend: Welsh & Shedar"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "蒼き伝承 ウェルシュ＆シェダー"
+      }
+    ]
+  },
+  {
+    "aid": "20380",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "La La La De Ma Xi Ya Disanji"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "啦啦啦德玛西亚 第三季"
+      }
+    ]
+  },
+  {
+    "aid": "20381",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Chao Shenxueyuan"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "超神学院"
+      }
+    ]
+  },
+  {
+    "aid": "20382",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Lang Lang Shaonu Lan"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "狼狼少女蓝"
+      }
+    ]
+  },
+  {
+    "aid": "20383",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Lang Lang Shan Xiao Yaoguai"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "浪浪山小妖怪"
+      }
+    ]
+  },
+  {
+    "aid": "20384",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Liaozhai: Lanre Si"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "聊斋：兰若寺"
+      }
+    ]
+  },
+  {
+    "aid": "20385",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Liaotian Qun De Richang Shenghuo"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "聊天群的日常生活"
+      }
+    ]
+  },
+  {
+    "aid": "20386",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Liu Yao"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "六爻"
+      }
+    ]
+  },
+  {
+    "aid": "20387",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Lutu Weiji! Sheng Freya Hao Tebie Shijian"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "旅途危機！聖芙蕾雅號特別事件"
+      }
+    ]
+  },
+  {
+    "aid": "20388",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Mingwang Huan Shi Lu"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "明王幻世录"
+      }
+    ]
+  },
+  {
+    "aid": "20389",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Tai Lao Niangniang Yu baicha Xianzi"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "太姥娘娘与白茶仙子"
+      }
+    ]
+  },
+  {
+    "aid": "20390",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Pro, Pro, Pro!!"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "Pro,Pro,Pro!!"
+      }
+    ]
+  },
+  {
+    "aid": "20391",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Nanyou Zong Zai Xiuluochang"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "男友总在修罗场"
+      }
+    ]
+  },
+  {
+    "aid": "20392",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Nan Hong"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "难哄"
+      }
+    ]
+  },
+  {
+    "aid": "20393",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Mo You Ji"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "魔游纪"
+      }
+    ]
+  },
+  {
+    "aid": "20394",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Mo You Ji: Rengong Zhineng Fuzhu Pian"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "魔游纪 人工智能辅助篇"
       }
     ]
   }
