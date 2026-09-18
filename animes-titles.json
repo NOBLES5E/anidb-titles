@@ -40783,7 +40783,7 @@
         "text": "D.N Angel"
       },
       {
-        "lang": "fr",
+        "lang": "fi",
         "type": "official",
         "text": "D.N. Angel"
       },
@@ -40793,18 +40793,18 @@
         "text": "D.N. Angel"
       },
       {
-        "lang": "fi",
+        "lang": "fr",
         "type": "official",
         "text": "D.N. Angel"
       },
       {
-        "lang": "x-jat",
-        "type": "syn",
+        "lang": "pl",
+        "type": "official",
         "text": "D.N.Angel"
       },
       {
-        "lang": "pl",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "syn",
         "text": "D.N.Angel"
       },
       {
@@ -40839,7 +40839,7 @@
       },
       {
         "lang": "zh-Hans",
-        "type": "syn",
+        "type": "official",
         "text": "天使怪盗"
       }
     ]
@@ -54403,7 +54403,7 @@
         "text": "Jaunojo Stimo nuotykiai"
       },
       {
-        "lang": "cs",
+        "lang": "pl",
         "type": "official",
         "text": "Steamboy"
       },
@@ -54438,17 +54438,17 @@
         "text": "Steamboy"
       },
       {
-        "lang": "pl",
-        "type": "official",
-        "text": "Steamboy"
-      },
-      {
         "lang": "fr",
         "type": "official",
         "text": "Steamboy"
       },
       {
         "lang": "pt",
+        "type": "official",
+        "text": "Steamboy"
+      },
+      {
+        "lang": "cs",
         "type": "official",
         "text": "Steamboy"
       },
@@ -54494,7 +54494,7 @@
       },
       {
         "lang": "zh-Hans",
-        "type": "syn",
+        "type": "official",
         "text": "蒸汽男孩"
       }
     ]
@@ -90823,12 +90823,7 @@
         "text": "Gendai Shikaku Bunka Kenkyuu Kai"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Genshiken"
-      },
-      {
-        "lang": "de",
+        "lang": "pl",
         "type": "official",
         "text": "Genshiken"
       },
@@ -90838,7 +90833,12 @@
         "text": "Genshiken"
       },
       {
-        "lang": "pl",
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Genshiken"
+      },
+      {
+        "lang": "de",
         "type": "official",
         "text": "Genshiken"
       },
@@ -90899,7 +90899,7 @@
       },
       {
         "lang": "zh-Hans",
-        "type": "syn",
+        "type": "official",
         "text": "现视研"
       },
       {
@@ -162698,13 +162698,13 @@
     "aid": "4176",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Himawari!"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Himawari!"
       },
       {
@@ -162779,7 +162779,7 @@
       },
       {
         "lang": "zh-Hans",
-        "type": "syn",
+        "type": "official",
         "text": "月面兔兵器米娜"
       }
     ]
@@ -162788,13 +162788,13 @@
     "aid": "4178",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Zegapain"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Zegapain"
       },
       {
@@ -176900,7 +176900,7 @@
       {
         "lang": "x-jat",
         "type": "main",
-        "text": "Jigoku Shoujo Futakomori"
+        "text": "Jigoku Shoujo: Futagomori"
       },
       {
         "lang": "x-jat",
@@ -176955,7 +176955,7 @@
       {
         "lang": "ja",
         "type": "official",
-        "text": "地獄少女二籠"
+        "text": "地獄少女 二籠"
       }
     ]
   },
@@ -179753,13 +179753,13 @@
     "aid": "4743",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Hidamari Sketch"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Hidamari Sketch"
       },
       {
@@ -179794,7 +179794,7 @@
       },
       {
         "lang": "zh-Hans",
-        "type": "syn",
+        "type": "official",
         "text": "向阳素描"
       }
     ]
@@ -180684,7 +180684,7 @@
       },
       {
         "lang": "zh-Hans",
-        "type": "syn",
+        "type": "official",
         "text": "偶像大师 Xenoglossia"
       }
     ]
@@ -200779,7 +200779,7 @@
       },
       {
         "lang": "zh-Hans",
-        "type": "syn",
+        "type": "official",
         "text": "我家有个狐仙大人"
       }
     ]
@@ -204198,13 +204198,13 @@
         "text": "かんなぎ"
       },
       {
-        "lang": "zh-Hant",
+        "lang": "zh-Hans",
         "type": "official",
         "text": "神薙"
       },
       {
-        "lang": "zh-Hans",
-        "type": "syn",
+        "lang": "zh-Hant",
+        "type": "official",
         "text": "神薙"
       }
     ]
@@ -206795,7 +206795,7 @@
       {
         "lang": "x-jat",
         "type": "main",
-        "text": "Jigoku Shoujo Mitsuganae"
+        "text": "Jigoku Shoujo: Mitsuganae"
       },
       {
         "lang": "x-jat",
@@ -206845,7 +206845,7 @@
       {
         "lang": "ja",
         "type": "official",
-        "text": "地獄少女三鼎"
+        "text": "地獄少女 三鼎"
       }
     ]
   },
@@ -207999,7 +207999,7 @@
       },
       {
         "lang": "zh-Hans",
-        "type": "syn",
+        "type": "official",
         "text": "龙与虎"
       },
       {
@@ -208013,13 +208013,13 @@
     "aid": "5910",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Hyakko"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Hyakko"
       },
       {
@@ -211048,7 +211048,7 @@
     "aid": "6048",
     "titles": [
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "Black Butler"
       },
@@ -211058,7 +211058,7 @@
         "text": "Black Butler"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "Black Butler"
       },
@@ -211149,7 +211149,7 @@
       },
       {
         "lang": "zh-Hans",
-        "type": "syn",
+        "type": "official",
         "text": "黑执事"
       },
       {
@@ -217454,7 +217454,7 @@
       },
       {
         "lang": "zh-Hans",
-        "type": "syn",
+        "type": "official",
         "text": "战国BASARA"
       },
       {
@@ -219444,7 +219444,7 @@
       },
       {
         "lang": "zh-Hans",
-        "type": "syn",
+        "type": "official",
         "text": "机巧魔神"
       }
     ]
@@ -220084,7 +220084,7 @@
       },
       {
         "lang": "zh-Hans",
-        "type": "syn",
+        "type": "official",
         "text": "浪漫追星社"
       }
     ]
@@ -230034,7 +230034,7 @@
       },
       {
         "lang": "zh-Hans",
-        "type": "syn",
+        "type": "official",
         "text": "怪谈餐馆"
       }
     ]
@@ -252544,13 +252544,8 @@
       },
       {
         "lang": "x-jat",
-        "type": "syn",
-        "text": "Mayoelle Otokonoko"
-      },
-      {
-        "lang": "x-jat",
         "type": "main",
-        "text": "Mayoeru Otokonoko"
+        "text": "Mayoelle Otokonoko"
       },
       {
         "lang": "x-jat",
@@ -252588,13 +252583,13 @@
         "text": "IS: Infinite Stratos"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "IS: Infinite Stratos"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "IS: Infinite Stratos"
       },
       {
@@ -252638,13 +252633,13 @@
     "aid": "7728",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "syn",
         "text": "Saiyuki Gaiden"
       },
       {
-        "lang": "x-jat",
-        "type": "syn",
+        "lang": "en",
+        "type": "official",
         "text": "Saiyuki Gaiden"
       },
       {
@@ -252703,12 +252698,7 @@
         "text": "Steins;Gate"
       },
       {
-        "lang": "en",
-        "type": "official",
-        "text": "Steins;Gate"
-      },
-      {
-        "lang": "it",
+        "lang": "fr",
         "type": "official",
         "text": "Steins;Gate"
       },
@@ -252718,7 +252708,12 @@
         "text": "Steins;Gate"
       },
       {
-        "lang": "fr",
+        "lang": "it",
+        "type": "official",
+        "text": "Steins;Gate"
+      },
+      {
+        "lang": "en",
         "type": "official",
         "text": "Steins;Gate"
       },
@@ -256133,7 +256128,7 @@
     "aid": "7873",
     "titles": [
       {
-        "lang": "pl",
+        "lang": "en",
         "type": "official",
         "text": "Fractale"
       },
@@ -256143,7 +256138,7 @@
         "text": "Fractale"
       },
       {
-        "lang": "en",
+        "lang": "pl",
         "type": "official",
         "text": "Fractale"
       },
@@ -256229,7 +256224,7 @@
       },
       {
         "lang": "zh-Hans",
-        "type": "syn",
+        "type": "official",
         "text": "花开伊吕波"
       },
       {
@@ -256363,22 +256358,22 @@
         "text": ".hack//Lượng tử"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": ".hack//Quantum"
-      },
-      {
-        "lang": "ja",
-        "type": "official",
-        "text": ".hack//Quantum"
-      },
-      {
         "lang": "en",
         "type": "official",
         "text": ".hack//Quantum"
       },
       {
+        "lang": "x-jat",
+        "type": "main",
+        "text": ".hack//Quantum"
+      },
+      {
         "lang": "de",
+        "type": "official",
+        "text": ".hack//Quantum"
+      },
+      {
+        "lang": "ja",
         "type": "official",
         "text": ".hack//Quantum"
       },
@@ -256473,7 +256468,7 @@
     "aid": "7889",
     "titles": [
       {
-        "lang": "en",
+        "lang": "ja",
         "type": "official",
         "text": "Forsaken"
       },
@@ -256483,7 +256478,7 @@
         "text": "Forsaken"
       },
       {
-        "lang": "ja",
+        "lang": "en",
         "type": "official",
         "text": "Forsaken"
       },
@@ -267910,7 +267905,7 @@
       {
         "lang": "x-zht",
         "type": "main",
-        "text": "Hu wang gui lai"
+        "text": "Hu Wang Gui Lai"
       },
       {
         "lang": "en",
@@ -268704,7 +268699,7 @@
       },
       {
         "lang": "zh-Hans",
-        "type": "syn",
+        "type": "official",
         "text": "境界线上的地平线"
       }
     ]
@@ -268718,14 +268713,14 @@
         "text": "Lietaus miestas"
       },
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "rain town"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Rain Town"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "rain town"
       }
     ]
   },
@@ -269806,11 +269801,6 @@
         "lang": "ja",
         "type": "official",
         "text": "ロウきゅーぶ!"
-      },
-      {
-        "lang": "zh-Hans",
-        "type": "syn",
-        "text": "萝球社!"
       },
       {
         "lang": "zh-Hans",
@@ -416350,12 +416340,12 @@
       {
         "lang": "x-jat",
         "type": "main",
-        "text": "Sword Gai The Animation Part II"
+        "text": "Sword Gai The Animation (2018)"
       },
       {
         "lang": "ja",
         "type": "official",
-        "text": "ソードガイ The Animation PartII"
+        "text": "ソードガイ The Animation (2018)"
       },
       {
         "lang": "ja",
@@ -420725,7 +420715,7 @@
       {
         "lang": "x-zht",
         "type": "main",
-        "text": "Hong Mao Lan Tu Qi Xia Chuan"
+        "text": "Hong Mao Lan Tu Qi Xia Zhuan"
       },
       {
         "lang": "en",
@@ -429880,7 +429870,7 @@
       {
         "lang": "zh-Hans",
         "type": "official",
-        "text": "若能與你共乘海浪之上"
+        "text": "若能与你共乘海浪之上"
       }
     ]
   },
@@ -456574,7 +456564,7 @@
       },
       {
         "lang": "zh-Hant",
-        "type": "syn",
+        "type": "official",
         "text": "來自深淵 烈日的黃金鄉"
       },
       {
@@ -458775,7 +458765,7 @@
       {
         "lang": "x-zht",
         "type": "main",
-        "text": "Fanren Xiuxian Chuan: Feng Qi Tian Nan"
+        "text": "Fanren Xiuxian Zhuan: Feng Qi Tian Nan"
       },
       {
         "lang": "zh-Hans",
@@ -472678,12 +472668,12 @@
         "text": "A Harem in the Fantasy World Dungeon"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "Harem in the Labyrinth of Another World"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "Harem in the Labyrinth of Another World"
       },
@@ -472739,7 +472729,7 @@
       },
       {
         "lang": "zh-Hant",
-        "type": "syn",
+        "type": "official",
         "text": "異世界迷宮裡的後宮生活"
       }
     ]
@@ -474039,7 +474029,7 @@
       },
       {
         "lang": "zh-Hans",
-        "type": "syn",
+        "type": "official",
         "text": "式守同学不只可爱而已"
       },
       {
@@ -474058,14 +474048,14 @@
     "aid": "15965",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Hologram Circus"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "HOLOGRAM CIRCUS"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Hologram Circus"
       }
     ]
   },
@@ -475434,7 +475424,7 @@
       },
       {
         "lang": "zh-Hans",
-        "type": "syn",
+        "type": "official",
         "text": "少女前线"
       }
     ]
@@ -479349,7 +479339,7 @@
       },
       {
         "lang": "zh-Hans",
-        "type": "syn",
+        "type": "official",
         "text": "半妖的夜叉姬 第二季"
       }
     ]
@@ -480709,7 +480699,7 @@
       },
       {
         "lang": "zh-Hans",
-        "type": "syn",
+        "type": "official",
         "text": "风都侦探"
       }
     ]
@@ -487009,7 +486999,7 @@
       },
       {
         "lang": "zh-Hant",
-        "type": "syn",
+        "type": "official",
         "text": "繼母的拖油瓶是我的前女友"
       },
       {
@@ -488089,7 +488079,7 @@
       },
       {
         "lang": "zh-Hans",
-        "type": "syn",
+        "type": "official",
         "text": "我家师傅没有尾巴"
       },
       {
@@ -490485,16 +490475,16 @@
       {
         "lang": "x-zht",
         "type": "main",
-        "text": "Hu Yao Xiao Hongniang: Mu Tiancheng Pian"
-      },
-      {
-        "lang": "zh-Hans",
-        "type": "syn",
-        "text": "狐妖小红娘 沐天城篇"
+        "text": "Hu Yao Xiao Hongniang: Mutian Cheng Pian"
       },
       {
         "lang": "zh-Hans",
         "type": "official",
+        "text": "狐妖小红娘 沐天城篇"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "syn",
         "text": "狐妖小红娘9 沐天城篇"
       }
     ]
@@ -490524,12 +490514,12 @@
       },
       {
         "lang": "zh-Hans",
-        "type": "syn",
+        "type": "official",
         "text": "狐妖小红娘 两生花篇"
       },
       {
         "lang": "zh-Hans",
-        "type": "official",
+        "type": "syn",
         "text": "狐妖小红娘10 两生花篇"
       }
     ]
@@ -492263,12 +492253,12 @@
         "text": "Kidou Senshi Gundam: Suisei no Majo"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "Mobile Suit Gundam: The Witch from Mercury"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "Mobile Suit Gundam: The Witch from Mercury"
       },
@@ -492284,7 +492274,7 @@
       },
       {
         "lang": "zh-Hans",
-        "type": "syn",
+        "type": "official",
         "text": "机动战士高达：水星的魔女"
       },
       {
@@ -492294,7 +492284,7 @@
       },
       {
         "lang": "zh-Hant",
-        "type": "syn",
+        "type": "official",
         "text": "機動戰士鋼彈 水星的魔女"
       }
     ]
@@ -492333,12 +492323,12 @@
         "text": "Kidou Senshi Gundam: Cucuruz Doan no Shima"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "Mobile Suit Gundam: Cucuruz Doan`s Island"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "Mobile Suit Gundam: Cucuruz Doan`s Island"
       },
@@ -496249,28 +496239,18 @@
       },
       {
         "lang": "x-zht",
-        "type": "main",
-        "text": "Hu Yao Xiao Hongniang Di Shiyi Ji"
-      },
-      {
-        "lang": "x-zht",
         "type": "syn",
         "text": "Hu Yao Xiao Hongniang Season 11"
       },
       {
         "lang": "x-zht",
-        "type": "syn",
+        "type": "main",
         "text": "Hu Yao Xiao Hongniang: Wu Mu Pian"
       },
       {
         "lang": "zh-Hans",
-        "type": "syn",
+        "type": "official",
         "text": "狐妖小红娘 无暮篇"
-      },
-      {
-        "lang": "zh-Hans",
-        "type": "syn",
-        "text": "狐妖小红娘 第十一季"
       },
       {
         "lang": "zh-Hans",
@@ -496279,7 +496259,7 @@
       },
       {
         "lang": "zh-Hans",
-        "type": "official",
+        "type": "syn",
         "text": "狐妖小红娘11 无暮篇"
       }
     ]
@@ -499888,11 +499868,6 @@
         "text": "女性向游戏世界对路人角色很不友好"
       },
       {
-        "lang": "zh-Hans",
-        "type": "syn",
-        "text": "女性向遊戲世界對路人角色很不友好"
-      },
-      {
         "lang": "zh-Hant",
         "type": "official",
         "text": "女性向遊戲世界對路人角色很不友好"
@@ -500810,7 +500785,7 @@
       {
         "lang": "x-zht",
         "type": "main",
-        "text": "Fanren Xiuxian Chuan: Feng Qi Tian Nan Er"
+        "text": "Fanren Xiu Xian Chuan: Feng Qi Tian Nan Er"
       },
       {
         "lang": "zh-Hans",
@@ -505799,7 +505774,7 @@
       },
       {
         "lang": "zh-Hans",
-        "type": "syn",
+        "type": "official",
         "text": "点满农民相关技能后，不知为何就变强了。"
       },
       {
@@ -505809,7 +505784,7 @@
       },
       {
         "lang": "zh-Hant",
-        "type": "syn",
+        "type": "official",
         "text": "點滿農民相關技能後，不知為何就變強了。"
       }
     ]
@@ -506084,11 +506059,6 @@
       },
       {
         "lang": "zh-Hant",
-        "type": "syn",
-        "text": "無職轉生～到了異世界就拿出真本事 第二季"
-      },
-      {
-        "lang": "zh-Hant",
         "type": "official",
         "text": "無職轉生～到了異世界就拿出真本事～ 第二季"
       }
@@ -506273,12 +506243,12 @@
         "text": "Guild of Depravity"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "Immoral Guild"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "Immoral Guild"
       },
@@ -518829,13 +518799,13 @@
       },
       {
         "lang": "x-jat",
-        "type": "short",
-        "text": "danmachi s5"
+        "type": "syn",
+        "text": "DanMachi Season 4 Part 2"
       },
       {
         "lang": "x-jat",
         "type": "syn",
-        "text": "DanMachi Season 4 Part 2"
+        "text": "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth IV - Fuka Fumi Yaku Wazawai-hen"
       },
       {
         "lang": "x-jat",
@@ -518848,7 +518818,7 @@
         "text": "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth IV Part 2"
       },
       {
-        "lang": "x-unk",
+        "lang": "x-jat",
         "type": "syn",
         "text": "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth Season 4 Part 2"
       },
@@ -518856,6 +518826,11 @@
         "lang": "en",
         "type": "official",
         "text": "Is It Wrong to Try to Pick Up Girls in a Dungeon? IV (2023)"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Is It Wrong to Try to Pick Up Girls in a Dungeon? IV: Deep Chapter - Calamity Arc"
       },
       {
         "lang": "th",
@@ -518866,6 +518841,11 @@
         "lang": "ja",
         "type": "official",
         "text": "ダンジョンに出会いを求めるのは間違っているだろうか FAMILIA MYTH IV (2023)"
+      },
+      {
+        "lang": "ja",
+        "type": "syn",
+        "text": "ダンジョンに出会いを求めるのは間違っているだろうかIV 深章 厄災篇"
       },
       {
         "lang": "ja",
@@ -537335,12 +537315,12 @@
       {
         "lang": "x-zht",
         "type": "main",
-        "text": "Fanren Xiu Xian Chuan: Xinghai Feichi Pian Xuzhang"
+        "text": "Fanren Xiu Xian Chuan: Xinghai Feichi Xuzhang"
       },
       {
         "lang": "zh-Hans",
         "type": "official",
-        "text": "凡人修仙传 星海飞驰篇 序章"
+        "text": "凡人修仙传 星海飞驰 序章"
       }
     ]
   },
@@ -537417,6 +537397,11 @@
   {
     "aid": "18267",
     "titles": [
+      {
+        "lang": "x-jat",
+        "type": "short",
+        "text": "danmachi s5"
+      },
       {
         "lang": "en",
         "type": "syn",
@@ -539810,12 +539795,12 @@
       {
         "lang": "x-zht",
         "type": "main",
-        "text": "Fanren Xiu Xian Chuan: Di San Ji"
+        "text": "Fanren Xiu Xian Chuan: Xinghai Feichi"
       },
       {
         "lang": "zh-Hans",
         "type": "official",
-        "text": "凡人修仙传 第三季"
+        "text": "凡人修仙传 星海飞驰"
       }
     ]
   },
@@ -546970,7 +546955,7 @@
       {
         "lang": "en",
         "type": "syn",
-        "text": "Jade Dynasty 2"
+        "text": "Jade Dynasty (2024)"
       },
       {
         "lang": "en",
@@ -546985,7 +546970,7 @@
       {
         "lang": "x-zht",
         "type": "main",
-        "text": "Zhu Xian 2"
+        "text": "Zhu Xian (2024)"
       },
       {
         "lang": "x-zht",
@@ -547004,13 +546989,13 @@
       },
       {
         "lang": "zh-Hans",
-        "type": "syn",
-        "text": "诛仙 第2季"
+        "type": "official",
+        "text": "诛仙 (2024)"
       },
       {
         "lang": "zh-Hans",
-        "type": "official",
-        "text": "诛仙 第二季"
+        "type": "syn",
+        "text": "诛仙 第2季"
       }
     ]
   },
@@ -547305,11 +547290,6 @@
       {
         "lang": "x-zht",
         "type": "main",
-        "text": "Hu Yao Xiao Hongniang (2024)"
-      },
-      {
-        "lang": "x-zht",
-        "type": "syn",
         "text": "Hu Yao Xiao Hongniang: Jing Hua Yuan Pian"
       },
       {
@@ -547319,8 +547299,8 @@
       },
       {
         "lang": "zh-Hans",
-        "type": "syn",
-        "text": "狐妖小红娘 (2024)"
+        "type": "official",
+        "text": "狐妖小红娘 镜花缘篇"
       },
       {
         "lang": "zh-Hans",
@@ -547329,7 +547309,7 @@
       },
       {
         "lang": "zh-Hans",
-        "type": "official",
+        "type": "syn",
         "text": "狐妖小红娘12 镜花缘篇"
       }
     ]
@@ -547428,13 +547408,13 @@
     "aid": "18591",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Cardfight!! Vanguard: Divinez Season 2"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Cardfight!! Vanguard: Divinez Season 2"
       },
       {
@@ -549455,12 +549435,12 @@
       {
         "lang": "x-zht",
         "type": "main",
-        "text": "You Shou Yan 2"
+        "text": "You Shou Yan (2023)"
       },
       {
         "lang": "zh-Hans",
         "type": "official",
-        "text": "有兽焉 第二季"
+        "text": "有兽焉 (2023)"
       }
     ]
   },
@@ -550344,11 +550324,6 @@
       },
       {
         "lang": "x-zht",
-        "type": "main",
-        "text": "Shixiong A Shixiong 3"
-      },
-      {
-        "lang": "x-zht",
         "type": "syn",
         "text": "Shixiong A Shixiong 3rd Season"
       },
@@ -550360,6 +550335,11 @@
       {
         "lang": "en",
         "type": "syn",
+        "text": "Shixiong A Shixiong Nian Fan"
+      },
+      {
+        "lang": "x-zht",
+        "type": "main",
         "text": "Shixiong A Shixiong Nian Fan"
       },
       {
@@ -550385,7 +550365,7 @@
       {
         "lang": "zh-Hans",
         "type": "official",
-        "text": "师兄啊师兄 第三季"
+        "text": "师兄啊师兄年番"
       }
     ]
   },
@@ -556329,13 +556309,13 @@
       },
       {
         "lang": "x-jat",
-        "type": "main",
-        "text": "Tensei Shitara Slime Datta Ken (2026)"
+        "type": "syn",
+        "text": "Tensei Shitara Slime Datta Ken 4th Season"
       },
       {
         "lang": "x-jat",
-        "type": "syn",
-        "text": "Tensei Shitara Slime Datta Ken 4th Season"
+        "type": "main",
+        "text": "Tensei Shitara Slime Datta Ken Dai 4 Ki"
       },
       {
         "lang": "x-jat",
@@ -556344,8 +556324,18 @@
       },
       {
         "lang": "x-jat",
+        "type": "syn",
+        "text": "Tensei Shitara Slime Datta Ken S4 Part 1"
+      },
+      {
+        "lang": "x-jat",
         "type": "short",
         "text": "TenSura S4"
+      },
+      {
+        "lang": "x-jat",
+        "type": "short",
+        "text": "TenSura S4P1"
       },
       {
         "lang": "en",
@@ -556375,7 +556365,7 @@
       {
         "lang": "ja",
         "type": "official",
-        "text": "転生したらスライムだった件 (2026)"
+        "text": "転生したらスライムだった件 第4期"
       }
     ]
   },
@@ -557115,7 +557105,7 @@
       {
         "lang": "x-zht",
         "type": "main",
-        "text": "Wuhang Zhanshen"
+        "text": "Wuxing Zhanshen"
       },
       {
         "lang": "zh-Hans",
@@ -557139,11 +557129,6 @@
       },
       {
         "lang": "x-zht",
-        "type": "main",
-        "text": "Wuhang Zhanshen 2"
-      },
-      {
-        "lang": "x-zht",
         "type": "syn",
         "text": "Wuhang Zhanshen 2nd Season"
       },
@@ -557151,6 +557136,11 @@
         "lang": "x-zht",
         "type": "syn",
         "text": "Wuhang Zhanshen Di Er Ji"
+      },
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Wuxing Zhanshen 2"
       },
       {
         "lang": "zh-Hans",
@@ -562831,6 +562821,11 @@
         "lang": "x-zht",
         "type": "main",
         "text": "Quanzhi Gaoshou Q"
+      },
+      {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Quanzhi Gaoshou: Rongyao Xiao Juchang"
       },
       {
         "lang": "zh-Hans",
@@ -573468,6 +573463,11 @@
         "text": "Tefuda ga Oome no Victoria"
       },
       {
+        "lang": "x-jat",
+        "type": "syn",
+        "text": "Tefuda ga Oume no Victoria"
+      },
+      {
         "lang": "en",
         "type": "official",
         "text": "Victoria of Many Faces"
@@ -574894,8 +574894,13 @@
       },
       {
         "lang": "x-jat",
-        "type": "main",
+        "type": "syn",
         "text": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natte Ita."
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara Juunen ga Tattara Densetsu ni Natte Ita."
       },
       {
         "lang": "x-jat",
@@ -575008,9 +575013,9 @@
     "aid": "19640",
     "titles": [
       {
-        "lang": "en",
-        "type": "syn",
-        "text": "Witch Watch 2"
+        "lang": "ja",
+        "type": "official",
+        "text": "WITCH WATCH 2"
       },
       {
         "lang": "x-jat",
@@ -575018,9 +575023,9 @@
         "text": "Witch Watch 2"
       },
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "WITCH WATCH 2"
+        "lang": "en",
+        "type": "syn",
+        "text": "Witch Watch 2"
       }
     ]
   },
@@ -583654,13 +583659,13 @@
     "titles": [
       {
         "lang": "x-jat",
-        "type": "main",
-        "text": "Tensei Shitara Slime Datta Ken (2027)"
+        "type": "syn",
+        "text": "Tensei Shitara Slime Datta Ken 4th Season Part 2"
       },
       {
         "lang": "x-jat",
-        "type": "syn",
-        "text": "Tensei Shitara Slime Datta Ken 4th Season Part 2"
+        "type": "main",
+        "text": "Tensei Shitara Slime Datta Ken Dai 4 Ki (2027)"
       },
       {
         "lang": "x-jat",
@@ -583673,6 +583678,11 @@
         "text": "TenSura S4 Part 2"
       },
       {
+        "lang": "x-jat",
+        "type": "short",
+        "text": "TenSura S4P2"
+      },
+      {
         "lang": "en",
         "type": "official",
         "text": "That Time I Got Reincarnated as a Slime (2027)"
@@ -583680,7 +583690,7 @@
       {
         "lang": "ja",
         "type": "official",
-        "text": "転生したらスライムだった件 (2027)"
+        "text": "転生したらスライムだった件 第4期 (2027)"
       }
     ]
   },
@@ -590286,6 +590296,96 @@
         "lang": "zh",
         "type": "official",
         "text": "魔游纪 人工智能辅助篇"
+      }
+    ]
+  },
+  {
+    "aid": "20395",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Nuo Ya Dongwu Zhansuo Donghua Xiao Juchang"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "諾亞動物診所病歷記錄簿"
+      }
+    ]
+  },
+  {
+    "aid": "20396",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Qiaohu Tansuo Qimiao Shijie"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "巧虎探索奇妙世界"
+      }
+    ]
+  },
+  {
+    "aid": "20397",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Peng Ran Xindong"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "怦然心动"
+      }
+    ]
+  },
+  {
+    "aid": "20398",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Qingwa Wangguo: Jixian Yundong"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "青蛙王国之极限运动"
+      }
+    ]
+  },
+  {
+    "aid": "20399",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Qingwa Wangguo: Qihuan Nuwang Lixian"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "青蛙王国之奇幻女王历险"
+      }
+    ]
+  },
+  {
+    "aid": "20400",
+    "titles": [
+      {
+        "lang": "x-kot",
+        "type": "main",
+        "text": "Laon-ui Namja"
+      },
+      {
+        "lang": "ko",
+        "type": "official",
+        "text": "라온의 남자"
       }
     ]
   }
