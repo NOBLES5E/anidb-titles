@@ -71858,13 +71858,13 @@
         "text": "La cicatrice de la sirène"
       },
       {
-        "lang": "fr",
-        "type": "syn",
+        "lang": "en",
+        "type": "official",
         "text": "Mermaid`s Scar"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "fr",
+        "type": "syn",
         "text": "Mermaid`s Scar"
       },
       {
@@ -71988,9 +71988,19 @@
     "aid": "1305",
     "titles": [
       {
+        "lang": "en",
+        "type": "syn",
+        "text": "Galaxy Warring State Chronicle Rai"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Ginga Sengoku Gun Yuuden Rai"
+      },
+      {
+        "lang": "x-jat",
+        "type": "syn",
+        "text": "Ginga Sengoku Gun`yūden Rai"
       },
       {
         "lang": "x-jat",
@@ -277578,14 +277588,14 @@
     "aid": "8693",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Nexus"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "nexus"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Nexus"
       }
     ]
   },
@@ -277676,6 +277686,11 @@
         "lang": "ja",
         "type": "official",
         "text": "劇場版 とある魔術の禁書目録[インデックス] エンデュミオンの奇蹟"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "魔法禁書目錄劇場版－安迪米昂的奇蹟－"
       }
     ]
   },
@@ -310563,12 +310578,12 @@
         "text": "Little Witch Academia: The Enchanted Parade"
       },
       {
-        "lang": "en",
+        "lang": "pl",
         "type": "official",
         "text": "Little Witch Academia: The Enchanted Parade"
       },
       {
-        "lang": "pl",
+        "lang": "en",
         "type": "official",
         "text": "Little Witch Academia: The Enchanted Parade"
       },
@@ -310601,6 +310616,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "小魔女学园 魔法游行"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "小魔女學園 魔法遊行"
       }
     ]
   },
@@ -327616,6 +327636,11 @@
         "lang": "ja",
         "type": "official",
         "text": "ハイスクールDxD BorN"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "惡魔高校 D×D BorN"
       }
     ]
   },
@@ -355471,6 +355496,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "我的英雄学院"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "我的英雄學院"
       }
     ]
   },
@@ -362053,6 +362083,11 @@
         "text": "剑姬神圣谭 在地下城寻求邂逅是否搞错了什么 外传"
       },
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚"
+      },
+      {
         "lang": "zh-Hans",
         "type": "official",
         "text": "期待在地下城邂逅有错吗 外传 剑姬神圣谭"
@@ -367168,6 +367203,11 @@
         "text": "カードキャプターさくら クリアカード編"
       },
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "庫洛魔法使 透明牌篇"
+      },
+      {
         "lang": "zh-Hans",
         "type": "official",
         "text": "魔卡少女樱 CLEAR CARD篇"
@@ -367288,13 +367328,13 @@
         "text": "ATOM THE BEGINNING"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Atom: The Beginning"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Atom: The Beginning"
       },
       {
@@ -367528,13 +367568,13 @@
     "aid": "12158",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Mahou Shoujo? Naria Girls"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Mahou Shoujo? Naria Girls"
       },
       {
@@ -367593,13 +367633,13 @@
     "aid": "12192",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Gakuen Handsome"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Gakuen Handsome"
       },
       {
@@ -367728,14 +367768,14 @@
     "aid": "12197",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "SUPER LOVERS 2"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Super Lovers 2"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "SUPER LOVERS 2"
       },
       {
         "lang": "en",
@@ -367778,13 +367818,13 @@
     "aid": "12199",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Heybot!"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Heybot!"
       },
       {
@@ -367873,13 +367913,13 @@
         "text": "終末的伊澤塔"
       },
       {
-        "lang": "x-unk",
-        "type": "syn",
+        "lang": "zh-Hans",
+        "type": "official",
         "text": "终末的伊泽塔"
       },
       {
-        "lang": "zh-Hans",
-        "type": "official",
+        "lang": "x-unk",
+        "type": "syn",
         "text": "终末的伊泽塔"
       }
     ]
@@ -367903,14 +367943,14 @@
     "aid": "12203",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "USALULLABY"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Usalullaby"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "USALULLABY"
       }
     ]
   },
@@ -367993,14 +368033,14 @@
     "aid": "12209",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "DEVOUR DINNER"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Devour Dinner"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "DEVOUR DINNER"
       }
     ]
   },
@@ -368008,14 +368048,14 @@
     "aid": "12210",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "JAM"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Jam"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "JAM"
       }
     ]
   },
@@ -368053,14 +368093,14 @@
     "aid": "12214",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Playground"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "PLAYGROUND"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Playground"
       }
     ]
   },
@@ -368113,13 +368153,13 @@
     "aid": "12218",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "2010"
       },
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "2010"
       }
     ]
@@ -371003,6 +371043,11 @@
         "text": "sin 七大罪"
       },
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "sin 七大罪"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Sin: Nanatsu no Taizai"
@@ -371043,17 +371088,17 @@
         "text": "Divina Juventud"
       },
       {
+        "lang": "fr",
+        "type": "official",
+        "text": "Seiren"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Seiren"
       },
       {
         "lang": "en",
-        "type": "official",
-        "text": "Seiren"
-      },
-      {
-        "lang": "fr",
         "type": "official",
         "text": "Seiren"
       },
@@ -387106,6 +387151,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "剧场版 吹响！悠风号～想要传达的旋律～"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "劇場版 吹響吧！上低音號～想傳達的旋律～"
       },
       {
         "lang": "ja",
@@ -418498,14 +418548,14 @@
         "text": "Bang Dream! (2020)"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Bang Dream! 3rd Season"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "BanG Dream! 3rd Season"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Bang Dream! 3rd Season"
       },
       {
         "lang": "en",
@@ -418541,6 +418591,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "BanG Dream! 少女乐团派对！"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "BanG Dream！Girls Band Party!☆PICO"
       },
       {
         "lang": "ko",
@@ -444528,9 +444583,9 @@
         "text": "Muteking (2021)"
       },
       {
-        "lang": "ja",
+        "lang": "en",
         "type": "official",
-        "text": "MUTEKING THE DANCING HERO"
+        "text": "Muteking the Dancing Hero"
       },
       {
         "lang": "x-jat",
@@ -444538,9 +444593,9 @@
         "text": "Muteking the Dancing Hero"
       },
       {
-        "lang": "en",
+        "lang": "ja",
         "type": "official",
-        "text": "Muteking the Dancing Hero"
+        "text": "MUTEKING THE DANCING HERO"
       },
       {
         "lang": "ja",
@@ -444576,6 +444631,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "吹响吧！上低音号 第三季"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "吹響吧！上低音號 久美子三年級篇"
       },
       {
         "lang": "ja",
@@ -505681,6 +505741,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "灰色:幻影扳机"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "灰色：幻影扳機"
       }
     ]
   },
@@ -520266,6 +520331,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "因为不是真正的伙伴而被逐出勇者队伍，流落到边境展开慢活人生 第二季"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "因為不是真正的夥伴而被逐出勇者隊伍，流落到邊境展開慢活人生 第二季"
       },
       {
         "lang": "ja",
@@ -538983,6 +539053,11 @@
         "text": "小书痴的下克上 〜为了成为图书管理员而不择手段〜 第四季"
       },
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "小書痴的下剋上 為了成為圖書管理員不擇手段！領主的養女"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "本好きの下剋上 司書になるためには手段を選んでいられません 領主の養女"
@@ -540666,6 +540741,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "咒术回战 死灭回游 前篇"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "咒術迴戰 死滅迴游 前篇"
       }
     ]
   },
@@ -541538,13 +541618,13 @@
         "text": "Dorohedoro S2"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Dorohedoro Season 2"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Dorohedoro Season 2"
       },
       {
@@ -542088,14 +542168,14 @@
     "aid": "18418",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Nocturnal"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "NocturnaL"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Nocturnal"
       },
       {
         "lang": "ko",
@@ -542268,13 +542348,13 @@
         "text": "Monogatari Series - Off and Monster Season"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Monogatari Series: Off & Monster Season"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Monogatari Series: Off & Monster Season"
       },
       {
@@ -542613,12 +542693,12 @@
         "text": "Failure Frame"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells"
       },
@@ -543043,12 +543123,12 @@
         "text": "Majority Rule"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "Tasuketsu: Fate of the Majority"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "Tasuketsu: Fate of the Majority"
       },
@@ -543833,13 +543913,13 @@
     "aid": "18484",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Sorairo Utility (2025)"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Sorairo Utility (2025)"
       },
       {
@@ -544063,17 +544143,17 @@
     "aid": "18493",
     "titles": [
       {
-        "lang": "pl",
-        "type": "official",
-        "text": "Look Back"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Look Back"
       },
       {
         "lang": "en",
+        "type": "official",
+        "text": "Look Back"
+      },
+      {
+        "lang": "pl",
         "type": "official",
         "text": "Look Back"
       },
@@ -544223,12 +544303,12 @@
         "text": "Tensei Akujo no Kurorekishi"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "The Dark History of the Reincarnated Villainess"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "The Dark History of the Reincarnated Villainess"
       },
@@ -544258,12 +544338,12 @@
         "text": "Arwah Berduka yang Ingin Pensiun ~ Jurus Pemburu Terlemah dalam Membina Grup Terkuat ~"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "Let This Grieving Soul Retire"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "Let This Grieving Soul Retire"
       },
@@ -544363,12 +544443,12 @@
         "text": "Chi`s Sweet Adventure – Sommarlov"
       },
       {
-        "lang": "pt-BR",
+        "lang": "pt",
         "type": "official",
         "text": "Chi`s Sweet Adventure: Férias de Verão"
       },
       {
-        "lang": "pt",
+        "lang": "pt-BR",
         "type": "official",
         "text": "Chi`s Sweet Adventure: Férias de Verão"
       },
@@ -556366,6 +556446,11 @@
         "lang": "ja",
         "type": "official",
         "text": "転生したらスライムだった件 第4期"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "關於我轉生變成史萊姆這檔事 第四季"
       }
     ]
   },
@@ -556466,6 +556551,11 @@
         "lang": "ja",
         "type": "official",
         "text": "葬送のフリーレン (2026)"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "葬送的芙莉莲 第二季"
       }
     ]
   },
@@ -557104,6 +557194,11 @@
       },
       {
         "lang": "x-zht",
+        "type": "syn",
+        "text": "Wuhang Zhanshen"
+      },
+      {
+        "lang": "x-zht",
         "type": "main",
         "text": "Wuxing Zhanshen"
       },
@@ -557126,6 +557221,11 @@
         "lang": "en",
         "type": "syn",
         "text": "Five Element God of War 2nd Season"
+      },
+      {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Wuhang Zhanshen 2"
       },
       {
         "lang": "x-zht",
@@ -557208,13 +557308,13 @@
         "text": "육정"
       },
       {
-        "lang": "zh-Hans",
-        "type": "syn",
+        "lang": "ja",
+        "type": "official",
         "text": "育精"
       },
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "zh-Hans",
+        "type": "syn",
         "text": "育精"
       }
     ]
@@ -557313,13 +557413,13 @@
         "text": "kowloon"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Kowloon Generic Romance"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Kowloon Generic Romance"
       },
       {
@@ -557378,13 +557478,13 @@
         "text": "Ji Yao Lu: Qicheng Pian"
       },
       {
-        "lang": "pt",
-        "type": "official",
+        "lang": "pt-BR",
+        "type": "syn",
         "text": "Outra Jornada ao Oeste"
       },
       {
-        "lang": "pt-BR",
-        "type": "syn",
+        "lang": "pt",
+        "type": "official",
         "text": "Outra Jornada ao Oeste"
       },
       {
@@ -557803,13 +557903,13 @@
         "text": "HIGH CARD THE FLOWERS BLOOM"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "High Card: The Flowers Bloom"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "High Card: The Flowers Bloom"
       }
     ]
@@ -558118,13 +558218,13 @@
     "aid": "18943",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "en",
+        "type": "main",
         "text": "I.Cinnamoroll"
       },
       {
-        "lang": "en",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "I.Cinnamoroll"
       }
     ]
@@ -574445,17 +574545,17 @@
       {
         "lang": "x-jat",
         "type": "main",
-        "text": "Shin Samurai-den Yaiba 2"
+        "text": "Shin Samurai-den Yaiba (2027)"
       },
       {
         "lang": "en",
         "type": "syn",
-        "text": "Yaiba: Samurai Legend 2"
+        "text": "Yaiba: Samurai Legend (2027)"
       },
       {
         "lang": "ja",
         "type": "official",
-        "text": "真･侍伝 YAIBA 2"
+        "text": "真･侍伝 YAIBA (2027)"
       }
     ]
   },
@@ -589480,21 +589580,6 @@
     ]
   },
   {
-    "aid": "20342",
-    "titles": [
-      {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "De Ji Kyaratto Kurisumasu Supesharu"
-      },
-      {
-        "lang": "en",
-        "type": "official",
-        "text": "Di Gi Charat Christmas Special"
-      }
-    ]
-  },
-  {
     "aid": "20343",
     "titles": [
       {
@@ -590386,6 +590471,106 @@
         "lang": "ko",
         "type": "official",
         "text": "라온의 남자"
+      }
+    ]
+  },
+  {
+    "aid": "20401",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Kajitsu The Animation"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "夏日 The Animation"
+      }
+    ]
+  },
+  {
+    "aid": "20402",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Gals` Fiction The Animation"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "ギャルズフィクション THE ANIMATION"
+      }
+    ]
+  },
+  {
+    "aid": "20403",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Josemaru"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "じょせまる"
+      }
+    ]
+  },
+  {
+    "aid": "20404",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Neko to Ryuu (2027)"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "The Cat and the Dragon (2027)"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "猫と竜 (2027)"
+      }
+    ]
+  },
+  {
+    "aid": "20405",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Shin Oishinbo"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "新 美味しんぼ"
+      }
+    ]
+  },
+  {
+    "aid": "20406",
+    "titles": [
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Daemons of the Shadow Realm 2"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Yomi no Tsugai 2"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "黄泉のツガイ 2"
       }
     ]
   }
