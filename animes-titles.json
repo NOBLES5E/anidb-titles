@@ -350511,6 +350511,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "动画锻炼！EX"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "動畫鍛鍊！EX"
       }
     ]
   },
@@ -350853,13 +350858,13 @@
         "text": "Prince of Stride Alternative"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Prince of Stride: Alternative"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Prince of Stride: Alternative"
       },
       {
@@ -380626,6 +380631,11 @@
         "lang": "ja",
         "type": "official",
         "text": "斉木楠雄のΨ難 (2018)"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "齊木楠雄的災難 第二季"
       },
       {
         "lang": "zh-Hans",
@@ -437276,6 +437286,11 @@
         "lang": "ja",
         "type": "official",
         "text": "鬼滅の刃 兄妹の絆"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "鬼滅之刃 兄妹之絆"
       }
     ]
   },
@@ -437503,13 +437518,13 @@
     "aid": "14696",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Beyond Creation"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Beyond Creation"
       }
     ]
@@ -492452,6 +492467,11 @@
   {
     "aid": "16705",
     "titles": [
+      {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "BLACK ROCK SHOOTER DAWN FALL"
+      },
       {
         "lang": "pl",
         "type": "official",
@@ -561656,6 +561676,11 @@
         "lang": "ja",
         "type": "official",
         "text": "ぷにるはかわいいスライム (2025)"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "噗妮露是可愛史萊姆 第二季"
       }
     ]
   },
@@ -579683,6 +579708,16 @@
         "text": "Mouse Cursor de Genjitsu o Sousa Dekiru You ni Natta no de, Onnanoko o Ippai Click Shima~su"
       },
       {
+        "lang": "en",
+        "type": "syn",
+        "text": "Now That I Can Control Reality With A Mouse Cursor, I’m Gonna Click Away On The Girls!"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Now That I Can Control the Real World With My Mouse Cursor, I Click On a Lot of Girls."
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "マウスカーソルで現実を操作できるようになったので, 女の子をいっぱいクリックしまーす"
@@ -580013,12 +580048,12 @@
     "aid": "19873",
     "titles": [
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "Chainsmoker Cat"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "Chainsmoker Cat"
       },
@@ -589553,6 +589588,16 @@
         "text": "Hitozukiai ga Nigate na Miboujin no Yukionna-san to Noroi no Yubiwa"
       },
       {
+        "lang": "en",
+        "type": "syn",
+        "text": "The Lonely Snow Widow and the Cursed Ring"
+      },
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "The Shy Snow Woman and the Cursed Ring"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "人付き合いが苦手な未亡人の雪女さんと呪いの指輪"
@@ -590571,6 +590616,26 @@
         "lang": "ja",
         "type": "official",
         "text": "黄泉のツガイ 2"
+      }
+    ]
+  },
+  {
+    "aid": "20407",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den (2027)"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court (2027)"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "ふつつかな悪女ではございますが ~雛宮蝶鼠とりかえ伝~ (2027)"
       }
     ]
   }
