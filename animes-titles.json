@@ -145388,6 +145388,11 @@
         "text": "虫师"
       },
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "蟲師"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "蟲師"
@@ -187983,23 +187988,13 @@
     "aid": "5044",
     "titles": [
       {
-        "lang": "en",
+        "lang": "fr",
         "type": "official",
         "text": "Blue Dragon"
       },
       {
         "lang": "x-jat",
         "type": "main",
-        "text": "Blue Dragon"
-      },
-      {
-        "lang": "pt",
-        "type": "official",
-        "text": "Blue Dragon"
-      },
-      {
-        "lang": "fr",
-        "type": "official",
         "text": "Blue Dragon"
       },
       {
@@ -188014,6 +188009,16 @@
       },
       {
         "lang": "pt-BR",
+        "type": "official",
+        "text": "Blue Dragon"
+      },
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "Blue Dragon"
+      },
+      {
+        "lang": "pt",
         "type": "official",
         "text": "Blue Dragon"
       },
@@ -188085,7 +188090,7 @@
       {
         "lang": "x-jat",
         "type": "syn",
-        "text": "Doraemon: Nobita to Ginga Chotokkyu"
+        "text": "Doraemon: Nobita to Ginga Choutokkyuu"
       },
       {
         "lang": "x-jat",
@@ -188105,7 +188110,12 @@
       {
         "lang": "ja",
         "type": "official",
-        "text": "ドラえもん のび太と銀河超特急(エクスプレス)"
+        "text": "ドラえもん のび太と銀河超特急"
+      },
+      {
+        "lang": "ja",
+        "type": "card",
+        "text": "ドラえもん のび太と銀河超特急[エクスプレス]"
       },
       {
         "lang": "zh-Hans",
@@ -195518,19 +195528,19 @@
     "aid": "5308",
     "titles": [
       {
+        "lang": "ja",
+        "type": "official",
+        "text": "100%"
+      },
+      {
         "lang": "x-jat",
         "type": "short",
         "text": "100%"
       },
       {
         "lang": "ja",
-        "type": "official",
+        "type": "card",
         "text": "100%[A Hundred Percents]"
-      },
-      {
-        "lang": "en",
-        "type": "syn",
-        "text": "A Hundred Percents"
       },
       {
         "lang": "x-jat",
@@ -195563,13 +195573,13 @@
         "text": "Padangių Klajokliai"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "et",
+        "type": "official",
         "text": "Sky Crawlers"
       },
       {
-        "lang": "et",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Sky Crawlers"
       },
       {
@@ -202248,13 +202258,13 @@
         "text": "NAA"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Neo Angelique Abyss"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Neo Angelique Abyss"
       },
       {
@@ -202305,7 +202315,7 @@
       {
         "lang": "x-jat",
         "type": "main",
-        "text": "To Love-Ru: Trouble"
+        "text": "To Love-Ru"
       },
       {
         "lang": "en",
@@ -202320,6 +202330,11 @@
       {
         "lang": "ja",
         "type": "official",
+        "text": "To LOVEる"
+      },
+      {
+        "lang": "ja",
+        "type": "card",
         "text": "To LOVEる -とらぶる-"
       },
       {
@@ -202349,7 +202364,7 @@
       },
       {
         "lang": "ja",
-        "type": "syn",
+        "type": "kana",
         "text": "とらぶる"
       },
       {
@@ -205694,7 +205709,7 @@
       },
       {
         "lang": "ja",
-        "type": "syn",
+        "type": "kana",
         "text": "ビートショット!!"
       }
     ]
@@ -221694,13 +221709,13 @@
       },
       {
         "lang": "x-jat",
-        "type": "syn",
-        "text": "To Love-Ru OVA"
+        "type": "main",
+        "text": "To Love-Ru (2009)"
       },
       {
         "lang": "x-jat",
-        "type": "main",
-        "text": "To Love-Ru: Trouble (2009)"
+        "type": "syn",
+        "text": "To Love-Ru OVA"
       },
       {
         "lang": "ko",
@@ -221709,8 +221724,13 @@
       },
       {
         "lang": "ja",
-        "type": "official",
+        "type": "card",
         "text": "To LOVEる -とらぶる- (2009)"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "To LOVEる (2009)"
       },
       {
         "lang": "x-jat",
@@ -251680,7 +251700,7 @@
       {
         "lang": "x-jat",
         "type": "main",
-        "text": "Motto To Love-Ru: Trouble"
+        "text": "Motto To Love-Ru"
       },
       {
         "lang": "en",
@@ -251705,6 +251725,11 @@
       {
         "lang": "ja",
         "type": "official",
+        "text": "もっとTo LOVEる"
+      },
+      {
+        "lang": "ja",
+        "type": "card",
         "text": "もっとTo LOVEる -とらぶる-"
       },
       {
@@ -252168,14 +252193,14 @@
     "aid": "7706",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "CYNICAL HYSTERIE HOUR"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Cynical Hysterie Hour"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "CYNICAL HYSTERIE HOUR"
       },
       {
         "lang": "ja",
@@ -288728,13 +288753,13 @@
         "text": "littbus"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Little Busters!"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Little Busters!"
       },
       {
@@ -288785,7 +288810,7 @@
       {
         "lang": "x-jat",
         "type": "main",
-        "text": "To Love-Ru: Trouble - Darkness"
+        "text": "To Love-Ru: Darkness"
       },
       {
         "lang": "en",
@@ -288799,8 +288824,13 @@
       },
       {
         "lang": "ja",
-        "type": "official",
+        "type": "card",
         "text": "To LOVEる -とらぶる- ダークネス"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "To LOVEる ダークネス"
       },
       {
         "lang": "x-jat",
@@ -289410,7 +289440,7 @@
       {
         "lang": "x-jat",
         "type": "main",
-        "text": "To Love-Ru: Trouble - Darkness OAD"
+        "text": "To Love-Ru: Darkness OAD"
       },
       {
         "lang": "ko",
@@ -289420,7 +289450,7 @@
       {
         "lang": "ja",
         "type": "official",
-        "text": "To LOVEる -とらぶる- ダークネス OAD"
+        "text": "To LOVEる ダークネス OAD"
       },
       {
         "lang": "x-jat",
@@ -289493,17 +289523,17 @@
     "aid": "9166",
     "titles": [
       {
+        "lang": "de",
+        "type": "official",
+        "text": "Senran Kagura"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Senran Kagura"
       },
       {
         "lang": "en",
-        "type": "official",
-        "text": "Senran Kagura"
-      },
-      {
-        "lang": "de",
         "type": "official",
         "text": "Senran Kagura"
       },
@@ -290223,9 +290253,9 @@
         "text": "Gekiga Hyouryuu"
       },
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "TATSUMI"
+        "lang": "fr",
+        "type": "syn",
+        "text": "Tatsumi"
       },
       {
         "lang": "x-jat",
@@ -290233,9 +290263,9 @@
         "text": "Tatsumi"
       },
       {
-        "lang": "fr",
-        "type": "syn",
-        "text": "Tatsumi"
+        "lang": "ja",
+        "type": "official",
+        "text": "TATSUMI"
       },
       {
         "lang": "mn",
@@ -290678,11 +290708,6 @@
         "text": "Girls and Panzer"
       },
       {
-        "lang": "ja",
-        "type": "syn",
-        "text": "GIRLS und PANZER"
-      },
-      {
         "lang": "de",
         "type": "official",
         "text": "Girls und Panzer"
@@ -290696,6 +290721,11 @@
         "lang": "x-jat",
         "type": "main",
         "text": "Girls und Panzer"
+      },
+      {
+        "lang": "ja",
+        "type": "syn",
+        "text": "GIRLS und PANZER"
       },
       {
         "lang": "x-jat",
@@ -290793,14 +290823,14 @@
         "text": "As Long as There`s Love, It Doesn`t Matter If He Is My Brother, Right?"
       },
       {
-        "lang": "en",
-        "type": "official",
-        "text": "OniAi"
-      },
-      {
         "lang": "x-jat",
         "type": "short",
         "text": "oniai"
+      },
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "OniAi"
       },
       {
         "lang": "x-jat",
@@ -291293,19 +291323,14 @@
         "text": "Btoom"
       },
       {
-        "lang": "de",
+        "lang": "ja",
         "type": "official",
-        "text": "Btooom!"
+        "text": "BTOOOM!"
       },
       {
         "lang": "x-jat",
         "type": "main",
         "text": "Btooom!"
-      },
-      {
-        "lang": "ja",
-        "type": "official",
-        "text": "BTOOOM!"
       },
       {
         "lang": "en",
@@ -291319,6 +291344,11 @@
       },
       {
         "lang": "es",
+        "type": "official",
+        "text": "Btooom!"
+      },
+      {
+        "lang": "de",
         "type": "official",
         "text": "Btooom!"
       },
@@ -291358,7 +291388,7 @@
     "aid": "9250",
     "titles": [
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "Little Witch Academia"
       },
@@ -291373,7 +291403,7 @@
         "text": "Little Witch Academia"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "Little Witch Academia"
       },
@@ -291973,13 +292003,13 @@
     "aid": "9270",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Wonderful Rush"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Wonderful Rush"
       }
     ]
@@ -292068,13 +292098,13 @@
     "aid": "9275",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Surprise 4 U."
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Surprise 4 U."
       }
     ]
@@ -292373,12 +292403,12 @@
         "text": "今日のあすかショー"
       },
       {
-        "lang": "zh-Hans",
+        "lang": "zh-Hant",
         "type": "official",
         "text": "天然萌少女明日香"
       },
       {
-        "lang": "zh-Hant",
+        "lang": "zh-Hans",
         "type": "official",
         "text": "天然萌少女明日香"
       }
@@ -292888,14 +292918,14 @@
         "text": "JoJo`s Bizarre Adventure"
       },
       {
-        "lang": "fr",
-        "type": "official",
-        "text": "Jojo`s Bizarre Adventure (2012)"
-      },
-      {
         "lang": "en",
         "type": "official",
         "text": "JoJo`s Bizarre Adventure (2012)"
+      },
+      {
+        "lang": "fr",
+        "type": "official",
+        "text": "Jojo`s Bizarre Adventure (2012)"
       },
       {
         "lang": "en",
@@ -306204,7 +306234,7 @@
       },
       {
         "lang": "ja",
-        "type": "syn",
+        "type": "kana",
         "text": "ピューパ"
       }
     ]
@@ -317221,6 +317251,11 @@
         "lang": "ja",
         "type": "official",
         "text": "蟲師 特別篇 日蝕む翳"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "蟲師 蝕日之翳"
       }
     ]
   },
@@ -319706,6 +319741,11 @@
         "lang": "ja",
         "type": "official",
         "text": "蟲師 続章"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "蟲師 續章"
       }
     ]
   },
@@ -336931,6 +336971,11 @@
         "lang": "ja",
         "type": "official",
         "text": "蟲師 続章 鈴の雫"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "蟲師 續章 鈴之雫"
       }
     ]
   },
@@ -336950,7 +336995,7 @@
       {
         "lang": "x-jat",
         "type": "main",
-        "text": "To Love-Ru: Trouble - Darkness 2nd"
+        "text": "To Love-Ru: Darkness 2nd"
       },
       {
         "lang": "en",
@@ -336964,8 +337009,13 @@
       },
       {
         "lang": "ja",
-        "type": "official",
+        "type": "card",
         "text": "To LOVEる -とらぶる- ダークネス2nd"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "To LOVEる ダークネス2nd"
       },
       {
         "lang": "x-jat",
@@ -336978,12 +337028,12 @@
         "text": "Любовные неприятности: Тьма 2"
       },
       {
-        "lang": "zh-Hans",
+        "lang": "zh-Hant",
         "type": "official",
         "text": "出包王女Darkness 2nd"
       },
       {
-        "lang": "zh-Hant",
+        "lang": "zh-Hans",
         "type": "official",
         "text": "出包王女Darkness 2nd"
       }
@@ -376968,14 +377018,14 @@
         "text": "fag"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Frame Arms Girl"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "FRAME ARMS GIRL"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Frame Arms Girl"
       },
       {
         "lang": "en",
@@ -376989,7 +377039,7 @@
       },
       {
         "lang": "ja",
-        "type": "syn",
+        "type": "kana",
         "text": "フレームアームズ・ガール"
       },
       {
@@ -385930,7 +385980,7 @@
       {
         "lang": "x-jat",
         "type": "main",
-        "text": "To Love-Ru: Trouble - Multiplication - Mae kara Ushiro kara"
+        "text": "To Love-Ru: Multiplication - Mae kara Ushiro kara"
       },
       {
         "lang": "en",
@@ -385944,8 +385994,13 @@
       },
       {
         "lang": "ja",
-        "type": "official",
+        "type": "card",
         "text": "To LOVEる -とらぶる- Multiplication ~前から後ろから~"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "To LOVEる Multiplication ~前から後ろから~"
       },
       {
         "lang": "zh-Hans",
@@ -385958,13 +386013,13 @@
     "aid": "12910",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Crocotires Traction AAA"
       },
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Crocotires Traction AAA"
       }
     ]
@@ -386013,14 +386068,14 @@
     "aid": "12915",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "HAPPY PARTY TRAIN"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Happy Party Train"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "HAPPY PARTY TRAIN"
       },
       {
         "lang": "x-jat",
@@ -426269,12 +426324,12 @@
       },
       {
         "lang": "ja",
-        "type": "official",
+        "type": "card",
         "text": "ボクと彼女[ナース]の研修日誌 THE ANIMATION"
       },
       {
         "lang": "ja",
-        "type": "syn",
+        "type": "official",
         "text": "ボクと彼女の研修日誌 THE ANIMATION"
       }
     ]
@@ -449904,12 +449959,12 @@
       },
       {
         "lang": "ja",
-        "type": "official",
+        "type": "card",
         "text": "ボクと彼女[女医]の診察日誌 THE ANIMATION"
       },
       {
         "lang": "ja",
-        "type": "syn",
+        "type": "official",
         "text": "ボクと彼女の診察日誌 THE ANIMATION"
       }
     ]
@@ -554825,7 +554880,7 @@
       {
         "lang": "ja",
         "type": "official",
-        "text": "神聖昂燐ダクリュオン・ルナ"
+        "text": "神聖昂燐ダクリュオン・ルナ 〜堕聖母誕生〜"
       }
     ]
   },
@@ -590636,6 +590691,26 @@
         "lang": "ja",
         "type": "official",
         "text": "ふつつかな悪女ではございますが ~雛宮蝶鼠とりかえ伝~ (2027)"
+      }
+    ]
+  },
+  {
+    "aid": "20408",
+    "titles": [
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Grand Blue Dreaming Season 4"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Grand Blue Season 4"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "ぐらんぶる Season 4"
       }
     ]
   }
