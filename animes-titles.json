@@ -135843,7 +135843,7 @@
     "aid": "3104",
     "titles": [
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "Chu2"
       },
@@ -135853,7 +135853,7 @@
         "text": "Chu2"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "Chu2"
       },
@@ -135861,6 +135861,11 @@
         "lang": "en",
         "type": "syn",
         "text": "Chu²"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Kiss x2"
       },
       {
         "lang": "en",
@@ -382923,6 +382928,11 @@
         "text": "Ho Dong Wangjawa Rang Nang Gongju"
       },
       {
+        "lang": "en",
+        "type": "syn",
+        "text": "Prince Moon and Princess Sun"
+      },
+      {
         "lang": "ko",
         "type": "official",
         "text": "호동왕자와 락랑공주"
@@ -454236,6 +454246,11 @@
         "lang": "en",
         "type": "syn",
         "text": "Ascendance of a Bookworm S2"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Ascendance of a Bookworm Season 2"
       },
       {
         "lang": "x-jat",
@@ -542786,6 +542801,11 @@
         "lang": "x-jat",
         "type": "syn",
         "text": "Hazurewaku"
+      },
+      {
+        "lang": "x-jat",
+        "type": "syn",
+        "text": "Hazurewaku no \"Joutai Ijou Skill\" de Saikyou ni Natta Ore ga Subete o Juurin Suru made"
       },
       {
         "lang": "en",
