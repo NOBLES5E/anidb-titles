@@ -17868,8 +17868,8 @@
         "text": "Naruto"
       },
       {
-        "lang": "lv",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Naruto"
       },
       {
@@ -17953,8 +17953,8 @@
         "text": "Naruto"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "lv",
+        "type": "official",
         "text": "Naruto"
       },
       {
@@ -17993,6 +17993,11 @@
         "text": "Phénomène Naruto"
       },
       {
+        "lang": "uk",
+        "type": "syn",
+        "text": "Наруто"
+      },
+      {
         "lang": "bg",
         "type": "official",
         "text": "Наруто"
@@ -18003,22 +18008,17 @@
         "text": "Наруто"
       },
       {
-        "lang": "uk",
-        "type": "syn",
-        "text": "Наруто"
-      },
-      {
         "lang": "he",
         "type": "official",
         "text": "נארוטו"
       },
       {
-        "lang": "fa",
+        "lang": "ar",
         "type": "official",
         "text": "ناروتو"
       },
       {
-        "lang": "ar",
+        "lang": "fa",
         "type": "official",
         "text": "ناروتو"
       },
@@ -18049,7 +18049,7 @@
       },
       {
         "lang": "zh-Hans",
-        "type": "syn",
+        "type": "official",
         "text": "火影忍者"
       }
     ]
@@ -32799,7 +32799,7 @@
       },
       {
         "lang": "zh-Hans",
-        "type": "syn",
+        "type": "official",
         "text": "云之彼端, 约定的地方"
       },
       {
@@ -42859,13 +42859,13 @@
       },
       {
         "lang": "x-jat",
-        "type": "main",
-        "text": "Herlock Saga"
+        "type": "syn",
+        "text": "Herlock Saga: Nibelung no Yubiwa"
       },
       {
         "lang": "x-jat",
-        "type": "syn",
-        "text": "Herlock Saga: Nibelung no Yubiwa"
+        "type": "main",
+        "text": "Herlock Saga: Nibelung no Yubiwa - Rhein no Ougon"
       },
       {
         "lang": "ja",
@@ -58871,6 +58871,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "超时空要塞 可曾记得爱"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "超時空要塞 愛‧還記得嗎"
       },
       {
         "lang": "ja",
@@ -140204,7 +140209,7 @@
       },
       {
         "lang": "zh-Hans",
-        "type": "syn",
+        "type": "official",
         "text": "不可思议的教室"
       }
     ]
@@ -207793,13 +207798,13 @@
         "text": "Mobile Suit Gundam 00 Season 2"
       },
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "de",
+        "type": "official",
         "text": "Mobile Suit Gundam 00 Second Season"
       },
       {
-        "lang": "de",
-        "type": "official",
+        "lang": "en",
+        "type": "syn",
         "text": "Mobile Suit Gundam 00 Second Season"
       },
       {
@@ -207824,7 +207829,7 @@
       },
       {
         "lang": "zh-Hans",
-        "type": "syn",
+        "type": "official",
         "text": "机动战士高达00第二季"
       },
       {
@@ -216491,6 +216496,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "天才麻将少女"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "天才麻將少女"
       }
     ]
   },
@@ -216548,21 +216558,6 @@
         "text": "Razboaiele Verii"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Summer Wars"
-      },
-      {
-        "lang": "fi",
-        "type": "official",
-        "text": "Summer Wars"
-      },
-      {
-        "lang": "en",
-        "type": "official",
-        "text": "Summer Wars"
-      },
-      {
         "lang": "pl",
         "type": "official",
         "text": "Summer Wars"
@@ -216573,7 +216568,22 @@
         "text": "Summer Wars"
       },
       {
+        "lang": "fi",
+        "type": "official",
+        "text": "Summer Wars"
+      },
+      {
         "lang": "fr",
+        "type": "official",
+        "text": "Summer Wars"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Summer Wars"
+      },
+      {
+        "lang": "en",
         "type": "official",
         "text": "Summer Wars"
       },
@@ -224019,7 +224029,7 @@
       },
       {
         "lang": "zh-Hans",
-        "type": "syn",
+        "type": "official",
         "text": "学生会的一己之见"
       },
       {
@@ -277773,6 +277783,11 @@
     "aid": "8699",
     "titles": [
       {
+        "lang": "en",
+        "type": "official",
+        "text": "009 Re:Cyborg"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "009 Re:Cyborg"
@@ -277781,11 +277796,6 @@
         "lang": "ja",
         "type": "official",
         "text": "009 RE:CYBORG"
-      },
-      {
-        "lang": "en",
-        "type": "official",
-        "text": "009 Re:Cyborg"
       },
       {
         "lang": "de",
@@ -277856,6 +277866,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "天才麻将少女 阿知贺篇 episode of side-A"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "天才麻將少女 阿知賀編"
       }
     ]
   },
@@ -277898,14 +277913,14 @@
     "aid": "8706",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "melody"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Melody"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "melody"
       }
     ]
   },
@@ -286873,13 +286888,13 @@
         "text": "Gundam: Ring of Gundam"
       },
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Ring of Gundam"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Ring of Gundam"
       },
       {
@@ -286923,13 +286938,13 @@
         "text": "Fate: Fate/Kaleid Liner Prisma Illya"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Fate/Kaleid Liner Prisma Illya"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Fate/Kaleid Liner Prisma Illya"
       },
       {
@@ -286946,6 +286961,11 @@
         "lang": "ja",
         "type": "official",
         "text": "Fate/kaleid liner プリズマ☆イリヤ"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "Fate/kaleid liner 魔法少女☆伊莉雅"
       },
       {
         "lang": "zh-Hans",
@@ -313408,13 +313428,13 @@
         "text": "Fate: Fate/Kaleid Liner Prisma Illya Zwei!"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "syn",
         "text": "Fate/Kaleid Liner Prisma Illya 2wei!"
       },
       {
-        "lang": "x-jat",
-        "type": "syn",
+        "lang": "en",
+        "type": "official",
         "text": "Fate/Kaleid Liner Prisma Illya 2wei!"
       },
       {
@@ -313439,6 +313459,11 @@
       },
       {
         "lang": "zh-Hans",
+        "type": "official",
+        "text": "Fate/kaleid liner 魔法少女☆伊莉雅 2wei!"
+      },
+      {
+        "lang": "zh-Hant",
         "type": "official",
         "text": "Fate/kaleid liner 魔法少女☆伊莉雅 2wei!"
       },
@@ -313703,22 +313728,22 @@
     "aid": "10111",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
-        "text": "Barakamon"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Barakamon"
       },
       {
-        "lang": "bg",
+        "lang": "en",
+        "type": "official",
+        "text": "Barakamon"
+      },
+      {
+        "lang": "ru",
         "type": "syn",
         "text": "Баракамон"
       },
       {
-        "lang": "ru",
+        "lang": "bg",
         "type": "syn",
         "text": "Баракамон"
       },
@@ -331378,7 +331403,7 @@
         "text": "SB69"
       },
       {
-        "lang": "zh-Hans",
+        "lang": "ja",
         "type": "official",
         "text": "SHOW BY ROCK!!"
       },
@@ -331393,7 +331418,7 @@
         "text": "Show by Rock!!"
       },
       {
-        "lang": "ja",
+        "lang": "zh-Hans",
         "type": "official",
         "text": "SHOW BY ROCK!!"
       }
@@ -331486,6 +331511,11 @@
         "lang": "ja",
         "type": "official",
         "text": "Fate/kaleid liner プリズマ☆イリヤ 2wei Herz!"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "Fate/kaleid liner 魔法少女☆伊莉雅 2wei Herz!"
       },
       {
         "lang": "zh-Hans",
@@ -352873,13 +352903,13 @@
         "text": "Fate: Fate/Kaleid Liner Prisma Illya Drei!!"
       },
       {
-        "lang": "x-jat",
-        "type": "syn",
+        "lang": "en",
+        "type": "official",
         "text": "Fate/Kaleid Liner Prisma Illya 3rei!!"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "syn",
         "text": "Fate/Kaleid Liner Prisma Illya 3rei!!"
       },
       {
@@ -352903,6 +352933,11 @@
         "text": "Fate/kaleid liner プリズマ☆イリヤ プリズマ☆イリヤ ドライ!!"
       },
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "Fate/kaleid liner 魔法少女☆伊莉雅 3rei!!"
+      },
+      {
         "lang": "zh-Hans",
         "type": "official",
         "text": "Fate/kaleid liner 魔法少女☆依莉雅 3rei!!"
@@ -352918,13 +352953,13 @@
     "aid": "11643",
     "titles": [
       {
-        "lang": "fr",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Rewrite"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "fr",
+        "type": "official",
         "text": "Rewrite"
       },
       {
@@ -356096,6 +356131,11 @@
         "lang": "en",
         "type": "syn",
         "text": "Please Tell Me! Galko-chan"
+      },
+      {
+        "lang": "ru",
+        "type": "official",
+        "text": "Расскажи нам, Гяруко!"
       },
       {
         "lang": "uk",
@@ -391468,6 +391508,11 @@
         "text": "CotE s1"
       },
       {
+        "lang": "pt",
+        "type": "syn",
+        "text": "Turma de Elite"
+      },
+      {
         "lang": "en",
         "type": "short",
         "text": "Youjitsu"
@@ -391633,7 +391678,7 @@
     "aid": "13160",
     "titles": [
       {
-        "lang": "en",
+        "lang": "zh-Hans",
         "type": "official",
         "text": "Slow Start"
       },
@@ -391643,7 +391688,7 @@
         "text": "Slow Start"
       },
       {
-        "lang": "zh-Hans",
+        "lang": "en",
         "type": "official",
         "text": "Slow Start"
       },
@@ -391673,12 +391718,12 @@
         "text": "Chao Zhi Neng Zu Qiu"
       },
       {
-        "lang": "en",
+        "lang": "pt",
         "type": "official",
         "text": "GGO Football"
       },
       {
-        "lang": "pt",
+        "lang": "en",
         "type": "official",
         "text": "GGO Football"
       },
@@ -391978,12 +392023,12 @@
         "text": "Donzelas com Catanas"
       },
       {
-        "lang": "pt",
+        "lang": "pt-BR",
         "type": "syn",
         "text": "Donzelas com Catanas ~ Donzelas do Santuário Toji"
       },
       {
-        "lang": "pt-BR",
+        "lang": "pt",
         "type": "syn",
         "text": "Donzelas com Catanas ~ Donzelas do Santuário Toji"
       },
@@ -392950,6 +392995,11 @@
       {
         "lang": "zh-Hans",
         "type": "official",
+        "text": "吹响吧! 上低音号~誓言的终章~"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "syn",
         "text": "吹响吧！上低音号~誓言的终曲~"
       }
     ]
@@ -393078,13 +393128,13 @@
     "aid": "13214",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Midnight Crazy Trail"
       },
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Midnight Crazy Trail"
       },
       {
@@ -423786,6 +423836,11 @@
         "lang": "x-jat",
         "type": "syn",
         "text": "Fate: Fate/Grand Order: Zettai Majuu Sensen Babylonia"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "Fate/Grand Order - 絕對魔獸戰線巴比倫尼亞 -"
       },
       {
         "lang": "ja",
@@ -454499,7 +454554,7 @@
       },
       {
         "lang": "zh-Hant",
-        "type": "syn",
+        "type": "official",
         "text": "國王排名"
       },
       {
@@ -461663,13 +461718,13 @@
         "text": "てんちそうぞうデザインぶ"
       },
       {
-        "lang": "zh",
+        "lang": "zh-Hans",
         "type": "official",
         "text": "天地创造设计部"
       },
       {
-        "lang": "zh-Hans",
-        "type": "syn",
+        "lang": "zh",
+        "type": "official",
         "text": "天地创造设计部"
       },
       {
@@ -493613,6 +493668,11 @@
     "aid": "16752",
     "titles": [
       {
+        "lang": "en",
+        "type": "syn",
+        "text": "Book of Spirits"
+      },
+      {
         "lang": "x-zht",
         "type": "main",
         "text": "Shu Ling Ji"
@@ -493627,6 +493687,11 @@
   {
     "aid": "16753",
     "titles": [
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Book of Spirits 2"
+      },
       {
         "lang": "x-zht",
         "type": "main",
@@ -494448,12 +494513,12 @@
         "text": "Класс героев"
       },
       {
-        "lang": "zh-Hans",
+        "lang": "ja",
         "type": "official",
         "text": "英雄教室"
       },
       {
-        "lang": "ja",
+        "lang": "zh-Hans",
         "type": "official",
         "text": "英雄教室"
       }
@@ -494553,13 +494618,13 @@
     "aid": "16794",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Estab Life: Great Escape"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Estab Life: Great Escape"
       },
       {
@@ -494618,12 +494683,12 @@
         "text": "Kotaro Vai Morar Sozinho"
       },
       {
-        "lang": "es-419",
+        "lang": "es",
         "type": "official",
         "text": "Kotaro vive solo"
       },
       {
-        "lang": "es",
+        "lang": "es-419",
         "type": "official",
         "text": "Kotaro vive solo"
       },
@@ -494698,17 +494763,17 @@
     "aid": "16796",
     "titles": [
       {
+        "lang": "de",
+        "type": "official",
+        "text": "Tales of Luminaria the Fateful Crossroad"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "TALES OF LUMINARIA The Fateful Crossroad"
       },
       {
         "lang": "en",
-        "type": "official",
-        "text": "Tales of Luminaria the Fateful Crossroad"
-      },
-      {
-        "lang": "de",
         "type": "official",
         "text": "Tales of Luminaria the Fateful Crossroad"
       },
@@ -495313,14 +495378,14 @@
     "aid": "16823",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Junk Head (2017)"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "JUNK HEAD (2017)"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Junk Head (2017)"
       }
     ]
   },
@@ -495423,13 +495488,13 @@
     "aid": "16827",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Sugar Apple Fairy Tale"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Sugar Apple Fairy Tale"
       },
       {
@@ -495703,12 +495768,12 @@
         "text": "Détective Conan : Apprenti criminel"
       },
       {
-        "lang": "es",
+        "lang": "es-419",
         "type": "official",
         "text": "Detective Conan: Hanzawa el Culpable"
       },
       {
-        "lang": "es-419",
+        "lang": "es",
         "type": "official",
         "text": "Detective Conan: Hanzawa el Culpable"
       },
@@ -502690,7 +502755,7 @@
       {
         "lang": "zh-Hans",
         "type": "official",
-        "text": "一人之下5 决战！碧游村"
+        "text": "一人之下5 决战! 碧游村"
       }
     ]
   },
@@ -511513,14 +511578,29 @@
     "aid": "17426",
     "titles": [
       {
+        "lang": "en",
+        "type": "syn",
+        "text": "Book of Spirits 3"
+      },
+      {
         "lang": "x-zht",
         "type": "main",
+        "text": "Shu Ling Ji (2022)"
+      },
+      {
+        "lang": "x-zht",
+        "type": "syn",
         "text": "Shu Ling Ji 3"
+      },
+      {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Shu Ling Ji 3rd Season"
       },
       {
         "lang": "zh-Hans",
         "type": "official",
-        "text": "书灵记 第三季"
+        "text": "书灵记 (2022)"
       }
     ]
   },
@@ -511618,14 +511698,14 @@
         "text": "Paradox Live"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Paradox Live the Animation"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "Paradox Live THE ANIMATION"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Paradox Live the Animation"
       },
       {
         "lang": "en",
@@ -517051,6 +517131,11 @@
         "lang": "x-zht",
         "type": "main",
         "text": "Jian Xian Zai Ci"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Sword Immortal Is Here"
       },
       {
         "lang": "en",
@@ -542215,21 +542300,6 @@
     ]
   },
   {
-    "aid": "18416",
-    "titles": [
-      {
-        "lang": "en",
-        "type": "official",
-        "text": "Night Life"
-      },
-      {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Yoasobi Gurashi"
-      }
-    ]
-  },
-  {
     "aid": "18417",
     "titles": [
       {
@@ -542258,14 +542328,14 @@
     "aid": "18418",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "NocturnaL"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Nocturnal"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "NocturnaL"
       },
       {
         "lang": "ko",
@@ -542738,9 +542808,19 @@
         "text": "Hahanoha"
       },
       {
+        "lang": "pl",
+        "type": "syn",
+        "text": "Mój tata jest bohaterem, mama duchem, a ja się odrodziłam"
+      },
+      {
         "lang": "en",
         "type": "syn",
         "text": "Reincarnated as the Daughter of the Legendary Hero and the Queen of Spirits"
+      },
+      {
+        "lang": "pl",
+        "type": "syn",
+        "text": "Tata to bohater, mama to duch, a ja jestem reinkarnantką"
       },
       {
         "lang": "zh-Hans",
@@ -542783,12 +542863,12 @@
         "text": "Failure Frame"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells"
       },
@@ -543218,12 +543298,12 @@
         "text": "Majority Rule"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "Tasuketsu: Fate of the Majority"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "Tasuketsu: Fate of the Majority"
       },
@@ -544008,13 +544088,13 @@
     "aid": "18484",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Sorairo Utility (2025)"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Sorairo Utility (2025)"
       },
       {
@@ -544238,17 +544318,17 @@
     "aid": "18493",
     "titles": [
       {
+        "lang": "pl",
+        "type": "official",
+        "text": "Look Back"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Look Back"
       },
       {
         "lang": "en",
-        "type": "official",
-        "text": "Look Back"
-      },
-      {
-        "lang": "pl",
         "type": "official",
         "text": "Look Back"
       },
@@ -544398,12 +544478,12 @@
         "text": "Tensei Akujo no Kurorekishi"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "The Dark History of the Reincarnated Villainess"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "The Dark History of the Reincarnated Villainess"
       },
@@ -544433,12 +544513,12 @@
         "text": "Arwah Berduka yang Ingin Pensiun ~ Jurus Pemburu Terlemah dalam Membina Grup Terkuat ~"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "Let This Grieving Soul Retire"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "Let This Grieving Soul Retire"
       },
@@ -544538,12 +544618,12 @@
         "text": "Chi`s Sweet Adventure – Sommarlov"
       },
       {
-        "lang": "pt",
+        "lang": "pt-BR",
         "type": "official",
         "text": "Chi`s Sweet Adventure: Férias de Verão"
       },
       {
-        "lang": "pt-BR",
+        "lang": "pt",
         "type": "official",
         "text": "Chi`s Sweet Adventure: Férias de Verão"
       },
@@ -548401,6 +548481,11 @@
         "lang": "x-jat",
         "type": "main",
         "text": "Awajima Hyakkei"
+      },
+      {
+        "lang": "ru",
+        "type": "syn",
+        "text": "Сто видов Авадзимы"
       },
       {
         "lang": "zh-Hans",
@@ -563880,7 +563965,7 @@
       {
         "lang": "en",
         "type": "syn",
-        "text": "The Sword Immortal is Here 2nd Season"
+        "text": "Sword Immortal Is Here 2nd Season"
       },
       {
         "lang": "en",
@@ -564983,13 +565068,18 @@
     "aid": "19203",
     "titles": [
       {
-        "lang": "fr",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Black Torch"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
+        "text": "BLACK TORCH"
+      },
+      {
+        "lang": "fr",
+        "type": "official",
         "text": "Black Torch"
       },
       {
@@ -565014,11 +565104,6 @@
       },
       {
         "lang": "ja",
-        "type": "official",
-        "text": "BLACK TORCH"
-      },
-      {
-        "lang": "ja",
         "type": "syn",
         "text": "ブラックトーチ"
       }
@@ -565028,14 +565113,14 @@
     "aid": "19204",
     "titles": [
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "A Gatherer`s Adventure in Isekai"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
-        "text": "A Gatherer`s Adventure in Isekai"
+        "text": "Das Reisetagebuch des Sammlers"
       },
       {
         "lang": "x-jat",
@@ -567633,6 +567718,11 @@
     "aid": "19324",
     "titles": [
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "29 歲單身中堅冒險家的日常"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "29-sai Dokushin Chuuken Boukensha no Nichijou"
@@ -569544,7 +569634,7 @@
       },
       {
         "lang": "en",
-        "type": "syn",
+        "type": "official",
         "text": "From Old Country Bumpkin to Master Swordsman II"
       },
       {
@@ -570425,7 +570515,7 @@
       {
         "lang": "en",
         "type": "official",
-        "text": "There Was a Cute Girl in the Hero`s Party, so I Tried Confessing to Her"
+        "text": "There Was a Cute Girl in the Hero`s Party, So I Tried Confessing to Her"
       },
       {
         "lang": "x-jat",
@@ -580698,6 +580788,11 @@
         "text": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S Rank Cheat Majutsushi Bouken Roku"
       },
       {
+        "lang": "pl",
+        "type": "syn",
+        "text": "Z cienia do potęgi: Drugie odrodzenie Bezużytecznego Mędrca"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "落第賢者の学院無双 ~二度目の転生, Sランクチート魔術師冒険録~"
@@ -583191,6 +583286,11 @@
         "lang": "x-jat",
         "type": "main",
         "text": "Arafoo Kenja no Isekai Seikatsu Nikki"
+      },
+      {
+        "lang": "x-unk",
+        "type": "syn",
+        "text": "Around 40 Kenja no Isekai Seikatsu Nikki"
       },
       {
         "lang": "en",
@@ -586131,6 +586231,11 @@
         "lang": "x-jat",
         "type": "main",
         "text": "Kanojo Saimin"
+      },
+      {
+        "lang": "ja",
+        "type": "card",
+        "text": "OVA 彼女催眠"
       },
       {
         "lang": "ko",
@@ -590731,6 +590836,126 @@
         "lang": "ja",
         "type": "official",
         "text": "ぐらんぶる Season 4"
+      }
+    ]
+  },
+  {
+    "aid": "20409",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Otonari no Nie"
+      },
+      {
+        "lang": "ja",
+        "type": "card",
+        "text": "OVA お隣の贄"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "お隣の贄"
+      }
+    ]
+  },
+  {
+    "aid": "20410",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Odekake Hololive"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "おでかけホロライブ"
+      }
+    ]
+  },
+  {
+    "aid": "20411",
+    "titles": [
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "From Old Country Bumpkin to Master Swordsman III"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Katainaka no Ossan, Kensei ni Naru III"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "片田舎のおっさん, 剣聖になるIII"
+      }
+    ]
+  },
+  {
+    "aid": "20412",
+    "titles": [
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Slay the Gods: The Dead of Cangnan"
+      },
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Zhan Shen: Fanchen Shenyu - The Dead of Cangnan"
+      },
+      {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Zhan Shen: Fanchen Shenyu Movie - Cangnan Zhi Shang"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "斩神之凡尘神域 THE DEAD OF CANGNAN"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "syn",
+        "text": "斩神之凡尘神域剧场版 沧南之殇"
+      }
+    ]
+  },
+  {
+    "aid": "20413",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Phantom Busters"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Phantom Busters"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "ファントムバスターズ"
+      }
+    ]
+  },
+  {
+    "aid": "20414",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Meitantei Conan: 30-gou Satsujin Jiken"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "名探偵コナン 30号殺人事件"
       }
     ]
   }
