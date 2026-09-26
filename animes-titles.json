@@ -162774,13 +162774,13 @@
     "titles": [
       {
         "lang": "x-jat",
-        "type": "main",
-        "text": "Getsumen To Heiki Mina"
+        "type": "syn",
+        "text": "Getsumen Usagi Heiki Miina"
       },
       {
         "lang": "x-jat",
-        "type": "syn",
-        "text": "Getsumen Usagi Heiki Miina"
+        "type": "main",
+        "text": "Getsumento Heiki Mina"
       },
       {
         "lang": "en",
@@ -343470,7 +343470,17 @@
       {
         "lang": "x-zht",
         "type": "syn",
+        "text": "Lao Fu Zi: Shui hu zhuan"
+      },
+      {
+        "lang": "x-zht",
+        "type": "syn",
         "text": "Laofuzi Shui Hu Chuan"
+      },
+      {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Lo Fu Chi sui foo chuen"
       },
       {
         "lang": "x-zht",
@@ -343479,8 +343489,18 @@
       },
       {
         "lang": "en",
+        "type": "syn",
+        "text": "Old Master Q: Water Margin"
+      },
+      {
+        "lang": "en",
         "type": "official",
         "text": "Old Master Q: Water Tiger"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "syn",
+        "text": "七彩卡通老夫子：水虎傳"
       },
       {
         "lang": "zh-Hant",
@@ -343548,12 +343568,12 @@
         "text": "saimut"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "Undefeated Bahamut Chronicle"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "Undefeated Bahamut Chronicle"
       },
@@ -343583,13 +343603,13 @@
     "aid": "11234",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Hundred"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Hundred"
       },
       {
@@ -343643,13 +343663,13 @@
     "aid": "11238",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Monster Strike"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Monster Strike"
       },
       {
@@ -343893,11 +343913,6 @@
     "aid": "11251",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
-        "text": "Bikini Warriors"
-      },
-      {
         "lang": "de",
         "type": "official",
         "text": "Bikini Warriors"
@@ -343905,6 +343920,11 @@
       {
         "lang": "x-jat",
         "type": "main",
+        "text": "Bikini Warriors"
+      },
+      {
+        "lang": "en",
+        "type": "official",
         "text": "Bikini Warriors"
       },
       {
@@ -443109,11 +443129,6 @@
       },
       {
         "lang": "x-zht",
-        "type": "main",
-        "text": "Dou Po Cang Qiong: Tebie Pian 2 - Sha Zhi Lan Ge"
-      },
-      {
-        "lang": "x-zht",
         "type": "syn",
         "text": "Dou Po Cangqiong 2: Tebie Pian - Sha Zhi Lan Ge"
       },
@@ -443121,6 +443136,11 @@
         "lang": "en",
         "type": "syn",
         "text": "Dou po Cangqiong 2nd Season: Song of Desert"
+      },
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Dou Po Cangqiong: Tebie Pian 2 - Sha Zhi Lan Ge"
       },
       {
         "lang": "x-zht",
@@ -443575,7 +443595,7 @@
       {
         "lang": "x-zht",
         "type": "main",
-        "text": "Dou Po Cang Qiong: Q Ban Xiao Juchang"
+        "text": "Dou Po Cangqiong: Q Ban Xiao Juchang"
       },
       {
         "lang": "zh-Hans",
@@ -443590,7 +443610,7 @@
       {
         "lang": "x-zht",
         "type": "main",
-        "text": "Dou Po Cang Qiong: Q Ban Xiao Juchang 2"
+        "text": "Dou Po Cangqiong: Q Ban Xiao Juchang 2"
       },
       {
         "lang": "zh-Hans",
@@ -560005,7 +560025,7 @@
       {
         "lang": "x-jat",
         "type": "main",
-        "text": "Ikuiku Succubus Saikyouiku"
+        "text": "Iku Iku Succubus Saikyouiku"
       },
       {
         "lang": "ko",
@@ -567790,12 +567810,17 @@
       {
         "lang": "x-zht",
         "type": "main",
-        "text": "Ququ Bucai, Zaixia Yeguai Di Er Ji"
+        "text": "Ququ Bucai, Zaixia Yeguai 2"
       },
       {
         "lang": "zh-Hans",
         "type": "official",
-        "text": "区区不才，在下野怪 第二季"
+        "text": "区区不才, 在下野怪 2"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "syn",
+        "text": "区区不才, 在下野怪 第二季"
       }
     ]
   },
@@ -583974,6 +583999,11 @@
       },
       {
         "lang": "x-jat",
+        "type": "syn",
+        "text": "Tensei Shitara Slime Datta Ken 4th Season Part 3"
+      },
+      {
+        "lang": "x-jat",
         "type": "main",
         "text": "Tensei Shitara Slime Datta Ken Dai 4 Ki (2027)"
       },
@@ -589715,31 +589745,6 @@
     ]
   },
   {
-    "aid": "20337",
-    "titles": [
-      {
-        "lang": "ja",
-        "type": "official",
-        "text": "Ai no Yakusoku"
-      },
-      {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Ai no Yakusoku"
-      }
-    ]
-  },
-  {
-    "aid": "20338",
-    "titles": [
-      {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "SINoALICE: Ichiban Saigo no Monogatari"
-      }
-    ]
-  },
-  {
     "aid": "20339",
     "titles": [
       {
@@ -590928,13 +590933,13 @@
     "aid": "20413",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Phantom Busters"
       },
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Phantom Busters"
       },
       {
@@ -590956,6 +590961,86 @@
         "lang": "ja",
         "type": "official",
         "text": "名探偵コナン 30号殺人事件"
+      }
+    ]
+  },
+  {
+    "aid": "20415",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Elf-sensei no Toilet wa Doko Desuka?"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Where Is the Elf Teacher`s Toilet?"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "エルフ先生のトイレはどこですか?"
+      }
+    ]
+  },
+  {
+    "aid": "20416",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Tensei Shitara Slime Datta Ken: Clayman Revenge"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "That Time I Got Reincarnated as a Slime: Clayman Revenge"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "転生したらスライムだった件 クレイマンREVENGE"
+      }
+    ]
+  },
+  {
+    "aid": "20417",
+    "titles": [
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Draw This, Then Die! 2"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Kore Kaite Shine 2"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "これ描いて死ね 2"
+      }
+    ]
+  },
+  {
+    "aid": "20418",
+    "titles": [
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing - S-Class Dungeon Conquest Arc"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Hell Mode: Yarikomi Suki no Gamer wa Hai Settei no Isekai de Musou Suru - S-kyuu Dungeon Kouryaku Hen"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "ヘルモード ~やり込み好きのゲーマーは廃設定の異世界で無双する~ S級ダンジョン攻略編"
       }
     ]
   }
