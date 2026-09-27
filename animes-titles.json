@@ -261186,6 +261186,11 @@
         "lang": "ja",
         "type": "official",
         "text": "ユメミル, アニメ onちゃん"
+      },
+      {
+        "lang": "ja",
+        "type": "syn",
+        "text": "ユメミル, アニメ「onちゃん」"
       }
     ]
   },
@@ -383728,13 +383733,13 @@
     "aid": "12811",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "a_caFe"
       },
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "a_caFe"
       }
     ]
@@ -383743,14 +383748,14 @@
     "aid": "12812",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "HAPPY WEEKEND"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Happy Weekend"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "HAPPY WEEKEND"
       }
     ]
   },
@@ -383760,7 +383765,7 @@
       {
         "lang": "x-jat",
         "type": "main",
-        "text": "2002-nen Harmoni Ondo"
+        "text": "2002-nen Halmeoni Ondo"
       },
       {
         "lang": "ja",
@@ -383769,8 +383774,13 @@
       },
       {
         "lang": "ja",
-        "type": "official",
+        "type": "card",
         "text": "2002年ばあちゃん[ハルモニ]音頭"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "2002年ばあちゃん音頭"
       }
     ]
   },
@@ -383933,24 +383943,24 @@
         "text": "New Game! 第二季"
       },
       {
-        "lang": "en",
-        "type": "official",
-        "text": "New Game!!"
-      },
-      {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "New Game!!"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "NEW GAME!!"
       },
       {
+        "lang": "en",
+        "type": "official",
+        "text": "New Game!!"
+      },
+      {
         "lang": "zh-Hans",
         "type": "official",
         "text": "NEW GAME!!"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "New Game!!"
       },
       {
         "lang": "x-jat",
@@ -383973,14 +383983,14 @@
     "aid": "12820",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
-        "text": "The Idolm@ster Side M"
-      },
-      {
         "lang": "fr",
         "type": "official",
         "text": "THE IDOLM@STER Side M"
+      },
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "The Idolm@ster Side M"
       },
       {
         "lang": "ja",
@@ -440858,6 +440868,11 @@
         "text": "Re: 从零开始的异世界生活 第二季"
       },
       {
+        "lang": "es",
+        "type": "syn",
+        "text": "Re:Zero - Empezar de cero en un mundo diferente (2020)"
+      },
+      {
         "lang": "en",
         "type": "syn",
         "text": "Re:Zero - Starting Life in Another World - Season 2"
@@ -464011,6 +464026,11 @@
         "lang": "zh-Hans",
         "type": "syn",
         "text": "Re: 从零开始的异世界生活 第二季 后半部分"
+      },
+      {
+        "lang": "es",
+        "type": "syn",
+        "text": "Re:Zero - Empezar de cero en un mundo diferente (2021)"
       },
       {
         "lang": "en",
@@ -528453,6 +528473,11 @@
         "text": "Re: 从零开始的异世界生活 第三季"
       },
       {
+        "lang": "es",
+        "type": "syn",
+        "text": "Re:Zero - Empezar de cero en un mundo diferente (2024)"
+      },
+      {
         "lang": "en",
         "type": "official",
         "text": "Re:Zero - Starting Life in Another World (2024)"
@@ -543684,7 +543709,7 @@
       },
       {
         "lang": "en",
-        "type": "syn",
+        "type": "official",
         "text": "I Picked Up Lots of Attributes"
       },
       {
@@ -563728,6 +563753,11 @@
         "text": "Mezametara Saikyou Soubi to Uchuusen Mochi Datta no de, Ikkodate Mezashite Youhei to Shite Jiyuu ni Ikitai"
       },
       {
+        "lang": "x-jat",
+        "type": "short",
+        "text": "Mezameza"
+      },
+      {
         "lang": "en",
         "type": "official",
         "text": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!"
@@ -563736,6 +563766,11 @@
         "lang": "x-jat",
         "type": "short",
         "text": "saikyou uchuusen"
+      },
+      {
+        "lang": "ja",
+        "type": "short",
+        "text": "めざめざ"
       },
       {
         "lang": "ja",
@@ -566062,6 +566097,11 @@
   {
     "aid": "19242",
     "titles": [
+      {
+        "lang": "es",
+        "type": "syn",
+        "text": "Re:Zero - Empezar de cero en un mundo diferente (2026)"
+      },
       {
         "lang": "en",
         "type": "official",
@@ -577863,14 +577903,14 @@
     "aid": "19757",
     "titles": [
       {
-        "lang": "en",
-        "type": "syn",
-        "text": "Code Geass: Aspar the Star Chaser"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Code Geass: Hoshi Oi no Aspar"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Code Geass: Star Chaser Aspal"
       },
       {
         "lang": "ja",
@@ -578301,6 +578341,11 @@
         "lang": "en",
         "type": "syn",
         "text": "A Wild Last Boss Appeared! Season 2"
+      },
+      {
+        "lang": "de",
+        "type": "official",
+        "text": "A Wild Last Boss Appeared! Staffel 2"
       },
       {
         "lang": "x-jat",
@@ -583999,13 +584044,13 @@
       },
       {
         "lang": "x-jat",
-        "type": "syn",
-        "text": "Tensei Shitara Slime Datta Ken 4th Season Part 3"
+        "type": "main",
+        "text": "Tensei Shitara Slime Datta Ken Dai 4 Ki (2027)"
       },
       {
         "lang": "x-jat",
-        "type": "main",
-        "text": "Tensei Shitara Slime Datta Ken Dai 4 Ki (2027)"
+        "type": "syn",
+        "text": "Tensei Shitara Slime Datta Ken Dai 4 Ki Dai 3 Cour"
       },
       {
         "lang": "x-jat",
@@ -584031,6 +584076,11 @@
         "lang": "ja",
         "type": "official",
         "text": "転生したらスライムだった件 第4期 (2027)"
+      },
+      {
+        "lang": "ja",
+        "type": "syn",
+        "text": "転生したらスライムだった件 第4期 第3クール"
       }
     ]
   },
@@ -584504,6 +584554,11 @@
       },
       {
         "lang": "x-jat",
+        "type": "syn",
+        "text": "Tempal - Item no Chikara"
+      },
+      {
+        "lang": "x-jat",
         "type": "main",
         "text": "Tempal: Item no Chikara"
       },
@@ -584683,13 +584738,13 @@
     "aid": "20086",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Dengeki Daisy"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Dengeki Daisy"
       },
       {
@@ -584808,13 +584863,13 @@
     "aid": "20093",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Big Boss"
       },
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Big Boss"
       }
     ]
@@ -584853,13 +584908,13 @@
     "aid": "20096",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "NICKY"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "NICKY"
       }
     ]
@@ -586318,13 +586373,13 @@
     "aid": "20163",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Here U Are"
       },
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Here U Are"
       },
       {
@@ -591041,6 +591096,21 @@
         "lang": "ja",
         "type": "official",
         "text": "ヘルモード ~やり込み好きのゲーマーは廃設定の異世界で無双する~ S級ダンジョン攻略編"
+      }
+    ]
+  },
+  {
+    "aid": "20419",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "[Watashi no Ofuru de Waruin dakedo] to Okaasama (Heroine) ni Torimaki wo Oshitsukerare, Totsuida Henkyou demo Yome Atsukai Saremasen ga, Okage de Jiyuu ni Ikiraremasu!"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "【私のおふるで悪いんだけど】とお母様(ヒロイン)に取り巻きを押し付けられ、嫁いだ辺境でも嫁扱いされませんが、おかげで自由に生きれます！"
       }
     ]
   }
