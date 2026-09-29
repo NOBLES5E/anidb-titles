@@ -30250,7 +30250,7 @@
       {
         "lang": "x-jat",
         "type": "main",
-        "text": "Rurouni Kenshin: Meiji Kenkaku Romantan - Ishinshishi e no Requiem"
+        "text": "Rurouni Kenshin: Meiji Kenkaku Romantan - Ishin Shishi e no Chinkonka"
       },
       {
         "lang": "en",
@@ -94274,13 +94274,8 @@
     "titles": [
       {
         "lang": "x-jat",
-        "type": "syn",
-        "text": "Gosenzo-sama Banbanzai!"
-      },
-      {
-        "lang": "x-jat",
         "type": "main",
-        "text": "Gosenzosama Banbanzai!"
+        "text": "Gosenzo-sama Banbanzai!"
       },
       {
         "lang": "ja",
@@ -115448,14 +115443,14 @@
         "text": "Space Symphony Maetel Galaxy Express 999 Outside"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Space Symphony Maetel: Ginga Tetsudou 999 Gaiden"
-      },
-      {
         "lang": "en",
         "type": "syn",
         "text": "Space Symphony Maetel: The Legend of Galaxy Express"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Uchuu Koukyoushi Maetel: Ginga Tetsudou 999 Gaiden"
       },
       {
         "lang": "ja",
@@ -118958,11 +118953,6 @@
         "text": "Little Nemo"
       },
       {
-        "lang": "fr",
-        "type": "official",
-        "text": "Little Nemo"
-      },
-      {
         "lang": "de",
         "type": "official",
         "text": "Little Nemo - Abenteuer im Schlummerland"
@@ -118971,6 +118961,11 @@
         "lang": "en",
         "type": "official",
         "text": "Little Nemo: Adventures in Slumberland"
+      },
+      {
+        "lang": "fr",
+        "type": "official",
+        "text": "Little Nemo: les Aventures au pays de Slumberland"
       },
       {
         "lang": "cs",
@@ -119003,11 +118998,6 @@
     "aid": "2531",
     "titles": [
       {
-        "lang": "pt-BR",
-        "type": "official",
-        "text": "Lensman"
-      },
-      {
         "lang": "x-jat",
         "type": "short",
         "text": "Lensman"
@@ -119018,18 +119008,23 @@
         "text": "Lensman"
       },
       {
+        "lang": "pt-BR",
+        "type": "official",
+        "text": "Lensman"
+      },
+      {
         "lang": "pl",
         "type": "official",
         "text": "Lensman, Czyli Moc Soczewki"
       },
       {
-        "lang": "el",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "SF Shin Seiki Lensman"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "el",
+        "type": "official",
         "text": "SF Shin Seiki Lensman"
       },
       {
@@ -144103,6 +144098,11 @@
     "aid": "3404",
     "titles": [
       {
+        "lang": "de",
+        "type": "official",
+        "text": "Android Girl Arisa"
+      },
+      {
         "lang": "en",
         "type": "official",
         "text": "Arisa"
@@ -144116,11 +144116,6 @@
         "lang": "x-jat",
         "type": "main",
         "text": "Moke Moke Taishou Dendou Musume Arisa"
-      },
-      {
-        "lang": "de",
-        "type": "official",
-        "text": "Mokemoke Taisho Dendo Musume Arisa"
       },
       {
         "lang": "x-jat",
@@ -219788,19 +219783,9 @@
         "text": "ハヤテのごとく!! アツがナツいぜ 水着編!"
       },
       {
-        "lang": "zh",
-        "type": "official",
-        "text": "旋风管家 OVA"
-      },
-      {
         "lang": "zh-Hans",
         "type": "official",
         "text": "旋风管家 泳装篇"
-      },
-      {
-        "lang": "zh-Hans",
-        "type": "syn",
-        "text": "旋风管家ova"
       }
     ]
   },
@@ -219848,14 +219833,14 @@
         "text": "COBRA THE ANIMATION コブラ タイム・ドライブ"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Cobra The Animation: Time Drive"
-      },
-      {
         "lang": "en",
         "type": "official",
         "text": "Cobra the Animation: Time Drive"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Cobra The Animation: Time Drive"
       }
     ]
   },
@@ -219948,14 +219933,14 @@
         "text": "La casa dei piccoli cubi"
       },
       {
-        "lang": "en",
-        "type": "official",
-        "text": "La Maison en Petits Cubes"
-      },
-      {
         "lang": "fr",
         "type": "official",
         "text": "La Maison en petits cubes"
+      },
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "La Maison en Petits Cubes"
       },
       {
         "lang": "ja",
@@ -219993,12 +219978,12 @@
         "text": "Atom: Bremen Four"
       },
       {
-        "lang": "it",
+        "lang": "en",
         "type": "official",
         "text": "Bremen 4"
       },
       {
-        "lang": "en",
+        "lang": "it",
         "type": "official",
         "text": "Bremen 4"
       },
@@ -225201,11 +225186,6 @@
         "lang": "x-jat",
         "type": "main",
         "text": "Doraemon: Nobita no Little Star Wars"
-      },
-      {
-        "lang": "x-jat",
-        "type": "syn",
-        "text": "Doraemon: Nobita no Uchukosenso"
       },
       {
         "lang": "en",
@@ -272934,11 +272914,6 @@
       },
       {
         "lang": "x-zht",
-        "type": "main",
-        "text": "Kung Fu Cooking Girls"
-      },
-      {
-        "lang": "x-zht",
         "type": "syn",
         "text": "Kung Fu Liao Li Niang"
       },
@@ -272946,6 +272921,11 @@
         "lang": "en",
         "type": "syn",
         "text": "Kungfu Cooking Girls"
+      },
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Kungfu Liaoli Niang"
       },
       {
         "lang": "zh",
@@ -275357,11 +275337,6 @@
   {
     "aid": "8602",
     "titles": [
-      {
-        "lang": "en",
-        "type": "official",
-        "text": "Lesbian Citizen Naoko-san (2012)"
-      },
       {
         "lang": "x-jat",
         "type": "main",
@@ -347078,9 +347053,9 @@
         "text": "Re:Zero"
       },
       {
-        "lang": "de",
+        "lang": "es",
         "type": "official",
-        "text": "Re:Zero - Starting Life in Another World"
+        "text": "Re:Zero - Empezar de cero en un mundo diferente"
       },
       {
         "lang": "en",
@@ -347088,9 +347063,9 @@
         "text": "Re:Zero - Starting Life in Another World"
       },
       {
-        "lang": "es",
+        "lang": "de",
         "type": "official",
-        "text": "Re:Zero -Empezar de cero en un mundo diferente-"
+        "text": "Re:Zero - Starting Life in Another World"
       },
       {
         "lang": "vi",
@@ -389155,7 +389130,7 @@
       {
         "lang": "x-jat",
         "type": "main",
-        "text": "Time Bokan: Gyakushuu no San-Okunin"
+        "text": "Time Bokan: Gyakushuu no San Akunin"
       },
       {
         "lang": "en",
@@ -396943,13 +396918,13 @@
         "text": "Tsuukaa"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Two Car"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Two Car"
       },
       {
@@ -397053,6 +397028,11 @@
     "aid": "13325",
     "titles": [
       {
+        "lang": "es",
+        "type": "syn",
+        "text": "La chica satélite y el chico vaca"
+      },
+      {
         "lang": "x-unk",
         "type": "syn",
         "text": "Ooleebyeol ilhowa eollugso"
@@ -397153,13 +397133,13 @@
         "text": "P5A"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Persona 5 the Animation"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Persona 5 the Animation"
       },
       {
@@ -397223,14 +397203,14 @@
     "aid": "13334",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "BORUTO"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Boruto"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "BORUTO"
       },
       {
         "lang": "ja",
@@ -397423,13 +397403,13 @@
     "aid": "13339",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Color Noise"
       },
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Color Noise"
       }
     ]
@@ -397558,12 +397538,12 @@
         "text": "Recommendation of the Wonderful Virtual Life"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "Recovery of an MMO Junkie"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "Recovery of an MMO Junkie"
       },
@@ -397643,14 +397623,14 @@
     "aid": "13347",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "KNIGHTS OF THE ZODIAC: SAINT SEIYA"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Knights of the Zodiac: Saint Seiya"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "KNIGHTS OF THE ZODIAC: SAINT SEIYA"
       },
       {
         "lang": "ja",
@@ -407240,7 +407220,7 @@
       {
         "lang": "x-jat",
         "type": "main",
-        "text": "Lupin Sansei: Lupin wa Ima mo Moete Iru ka?"
+        "text": "Lupin Sansei: Lupin wa Ima mo Moete Iruka?"
       },
       {
         "lang": "en",
@@ -451113,13 +451093,13 @@
         "text": "Appare Ranman!"
       },
       {
-        "lang": "x-jat",
-        "type": "syn",
+        "lang": "de",
+        "type": "official",
         "text": "Appare-Ranman!"
       },
       {
-        "lang": "de",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "syn",
         "text": "Appare-Ranman!"
       },
       {
@@ -451158,18 +451138,13 @@
         "text": "sao4 part 2"
       },
       {
-        "lang": "x-unk",
-        "type": "syn",
-        "text": "Sword Art Online: Alicization - War of Underworld - The Last Season"
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Sword Art Online: Alicization - War of Underworld (2020)"
       },
       {
         "lang": "en",
         "type": "official",
-        "text": "Sword Art Online: Alicization - War of Underworld (2020)"
-      },
-      {
-        "lang": "x-jat",
-        "type": "main",
         "text": "Sword Art Online: Alicization - War of Underworld (2020)"
       },
       {
@@ -451199,7 +451174,7 @@
       },
       {
         "lang": "zh-Hant",
-        "type": "official",
+        "type": "syn",
         "text": "刀劍神域 Alicization War of Underworld -THE LAST SEASON-"
       }
     ]
@@ -476666,11 +476641,6 @@
         "lang": "x-jat",
         "type": "main",
         "text": "Shinigami Bocchan to Kuro Maid"
-      },
-      {
-        "lang": "x-jat",
-        "type": "short",
-        "text": "shinmaid"
       },
       {
         "lang": "en",
@@ -520365,7 +520335,7 @@
       {
         "lang": "en",
         "type": "official",
-        "text": "Campfire Cooking in Another World with My Absurd Skills"
+        "text": "Campfire Cooking in Another World with My Absurd Skill"
       },
       {
         "lang": "fr",
@@ -523588,6 +523558,11 @@
         "text": "Tensei Shitara Ken Deshita II"
       },
       {
+        "lang": "x-jat",
+        "type": "syn",
+        "text": "Tensei shitara Ken deshita S2"
+      },
+      {
         "lang": "ko",
         "type": "official",
         "text": "전생했더니 검이었습니다 Ⅱ"
@@ -525063,6 +525038,11 @@
     "aid": "17839",
     "titles": [
       {
+        "lang": "en",
+        "type": "syn",
+        "text": "Magical Girl Raising Project Restart"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Mahou Shoujo Ikusei Keikaku Restart"
@@ -525463,14 +525443,14 @@
     "aid": "17859",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "BIOHAZARD: DEATH ISLAND"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Biohazard: Death Island"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "BIOHAZARD: DEATH ISLAND"
       },
       {
         "lang": "pt",
@@ -525638,13 +525618,13 @@
         "text": "Lycoris Recoil 莉可麗絲：友誼是時間的竊賊"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Lycoris Recoil: Friends Are Thieves of Time."
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Lycoris Recoil: Friends Are Thieves of Time."
       },
       {
@@ -525693,13 +525673,13 @@
     "aid": "17866",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Ishura"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Ishura"
       },
       {
@@ -525718,14 +525698,14 @@
     "aid": "17867",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "KUROMI`S PRETTY JOURNEY"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Kuromi`s Pretty Journey"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "KUROMI`S PRETTY JOURNEY"
       }
     ]
   },
@@ -526413,11 +526393,6 @@
     "aid": "17888",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Taisu Project"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "TAISU PROJECT"
@@ -526426,6 +526401,11 @@
         "lang": "zh",
         "type": "official",
         "text": "TAISU PROJECT"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Taisu Project"
       },
       {
         "lang": "zh-Hans",
@@ -526528,14 +526508,14 @@
     "aid": "17893",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Wander Burabura Bakkamu"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "WANDER BURABURA BAKKAMU"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Wander Burabura Bakkamu"
       },
       {
         "lang": "en",
@@ -526928,12 +526908,12 @@
         "text": "Nigewaka"
       },
       {
-        "lang": "en",
+        "lang": "fr",
         "type": "official",
         "text": "The Elusive Samurai"
       },
       {
-        "lang": "fr",
+        "lang": "en",
         "type": "official",
         "text": "The Elusive Samurai"
       },
@@ -527008,12 +526988,12 @@
         "text": "Mahou Shoujo ni Akogarete"
       },
       {
-        "lang": "es-419",
+        "lang": "es",
         "type": "official",
         "text": "Me encantan las Magical Girls"
       },
       {
-        "lang": "es",
+        "lang": "es-419",
         "type": "official",
         "text": "Me encantan las Magical Girls"
       },
@@ -527858,13 +527838,13 @@
     "aid": "17932",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Bakugan: Legends"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Bakugan: Legends"
       },
       {
@@ -527943,12 +527923,12 @@
         "text": "KonoFuka"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "Quality Assurance in Another World"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "Quality Assurance in Another World"
       },
@@ -528188,12 +528168,12 @@
         "text": "오오쿠"
       },
       {
-        "lang": "zh-Hans",
+        "lang": "ja",
         "type": "official",
         "text": "大奥"
       },
       {
-        "lang": "ja",
+        "lang": "zh-Hans",
         "type": "official",
         "text": "大奥"
       },
@@ -530149,13 +530129,8 @@
     "titles": [
       {
         "lang": "x-zht",
-        "type": "syn",
-        "text": "Huo Feng Liao Yuan"
-      },
-      {
-        "lang": "x-zht",
         "type": "main",
-        "text": "The Ravages of Time"
+        "text": "Huo Feng Liao Yuan"
       },
       {
         "lang": "en",
@@ -535067,11 +535042,6 @@
   {
     "aid": "18174",
     "titles": [
-      {
-        "lang": "x-jat",
-        "type": "syn",
-        "text": "Ane Joku Tsukushi"
-      },
       {
         "lang": "en",
         "type": "syn",
@@ -551913,14 +551883,14 @@
         "text": "Mushoku Tensei III: Isekai Ittara Honki Dasu"
       },
       {
+        "lang": "en",
+        "type": "official",
+        "text": "Mushoku Tensei III: Jobless Reincarnation"
+      },
+      {
         "lang": "x-jat",
         "type": "syn",
         "text": "Mushoku Tensei S3"
-      },
-      {
-        "lang": "en",
-        "type": "official",
-        "text": "Mushoku Tensei: Jobless Reincarnation Season 3"
       },
       {
         "lang": "x-jat",
@@ -561445,7 +561415,7 @@
       {
         "lang": "x-jat",
         "type": "main",
-        "text": "Oniisan... Ohitori desu ka?"
+        "text": "Onii-san... Ohitori Desuka?"
       },
       {
         "lang": "ko",
@@ -565613,11 +565583,6 @@
         "text": "Girls und Panzer - MLLSD"
       },
       {
-        "lang": "en",
-        "type": "syn",
-        "text": "Girls und Panzer das Finale: Part 5"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Girls und Panzer: Motto Love Love Sakusen Desu!"
@@ -565813,13 +565778,13 @@
     "aid": "19230",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Digimon Beatbreak"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Digimon Beatbreak"
       },
       {
@@ -566063,13 +566028,13 @@
     "aid": "19239",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Future Kid Takara"
       },
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Future Kid Takara"
       }
     ]
@@ -570244,6 +570209,11 @@
       },
       {
         "lang": "x-jat",
+        "type": "syn",
+        "text": "Vigilante: Boku no Hero Academia Illegals - Aizawa Gakusei Hen"
+      },
+      {
+        "lang": "x-jat",
         "type": "main",
         "text": "Vigilante: Boku no Hero Academia Illegals (2026)"
       },
@@ -570256,6 +570226,11 @@
         "lang": "ja",
         "type": "official",
         "text": "ヴィジランテ -僕のヒーローアカデミア ILLEGALS- (2026)"
+      },
+      {
+        "lang": "ja",
+        "type": "syn",
+        "text": "ヴィジランテ -僕のヒーローアカデミア ILLEGALS- 相澤学生編"
       }
     ]
   },
@@ -571008,13 +570983,13 @@
     "aid": "19455",
     "titles": [
       {
-        "lang": "de",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Ichijouma Mankitsu Gurashi!"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "de",
+        "type": "official",
         "text": "Ichijouma Mankitsu Gurashi!"
       },
       {
@@ -571278,11 +571253,6 @@
     "aid": "19469",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "MAO"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Mao"
@@ -571291,6 +571261,11 @@
         "lang": "en",
         "type": "syn",
         "text": "Mao"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "MAO"
       },
       {
         "lang": "x-unk",
@@ -571348,22 +571323,22 @@
         "text": "Kami no Niwatsuki Kusunoki-tei"
       },
       {
-        "lang": "de",
-        "type": "official",
-        "text": "Kusunoki`s Garden of Gods"
-      },
-      {
         "lang": "en",
         "type": "official",
         "text": "Kusunoki`s Garden of Gods"
       },
       {
-        "lang": "zh-Hans",
+        "lang": "de",
+        "type": "official",
+        "text": "Kusunoki`s Garden of Gods"
+      },
+      {
+        "lang": "zh-Hant",
         "type": "official",
         "text": "楠木邸的神明庭院"
       },
       {
-        "lang": "zh-Hant",
+        "lang": "zh-Hans",
         "type": "official",
         "text": "楠木邸的神明庭院"
       },
@@ -571928,13 +571903,13 @@
         "text": "TAMALA 2030 -a punk cat in dark-"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Tamala 2030: A Punk Cat in Dark"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Tamala 2030: A Punk Cat in Dark"
       }
     ]
@@ -572173,9 +572148,9 @@
         "text": "SI-VIS - The Sound of Heroes"
       },
       {
-        "lang": "ja",
+        "lang": "en",
         "type": "official",
-        "text": "SI-VIS: The Sound of Heroes"
+        "text": "Si-Vis: The Sound of Heroes"
       },
       {
         "lang": "x-jat",
@@ -572183,9 +572158,9 @@
         "text": "Si-Vis: The Sound of Heroes"
       },
       {
-        "lang": "en",
+        "lang": "ja",
         "type": "official",
-        "text": "Si-Vis: The Sound of Heroes"
+        "text": "SI-VIS: The Sound of Heroes"
       },
       {
         "lang": "zh-Hans",
@@ -572498,13 +572473,13 @@
     "aid": "19513",
     "titles": [
       {
-        "lang": "es-419",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Akane-banashi"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "es-419",
+        "type": "official",
         "text": "Akane-banashi"
       },
       {
@@ -572958,6 +572933,11 @@
     "aid": "19532",
     "titles": [
       {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Sekiro: No Defeat"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "SEKIRO: NO DEFEAT"
@@ -572965,11 +572945,6 @@
       {
         "lang": "en",
         "type": "official",
-        "text": "Sekiro: No Defeat"
-      },
-      {
-        "lang": "x-jat",
-        "type": "main",
         "text": "Sekiro: No Defeat"
       }
     ]
@@ -573088,11 +573063,6 @@
     "aid": "19538",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
-        "text": "Liar Game"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "LIAR GAME"
@@ -573100,6 +573070,11 @@
       {
         "lang": "x-jat",
         "type": "main",
+        "text": "Liar Game"
+      },
+      {
+        "lang": "en",
+        "type": "official",
         "text": "Liar Game"
       },
       {
@@ -574583,14 +574558,14 @@
     "aid": "19604",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Death Stranding Mosquito"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "DEATH STRANDING MOSQUITO"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Death Stranding Mosquito"
       }
     ]
   },
@@ -574738,13 +574713,13 @@
     "aid": "19613",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Re:Monster 2"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Re:Monster 2"
       },
       {
@@ -574762,11 +574737,6 @@
   {
     "aid": "19614",
     "titles": [
-      {
-        "lang": "en",
-        "type": "syn",
-        "text": "Dr. Stone S4"
-      },
       {
         "lang": "en",
         "type": "syn",
@@ -574898,13 +574868,13 @@
     "aid": "19620",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Blue Lock: Neo Egoist League"
       },
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Blue Lock: Neo Egoist League"
       },
       {
@@ -574918,13 +574888,13 @@
     "aid": "19621",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Hotel Inhumans (2026)"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Hotel Inhumans (2026)"
       },
       {
@@ -575378,11 +575348,6 @@
     "aid": "19640",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "WITCH WATCH 2"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Witch Watch 2"
@@ -575391,6 +575356,11 @@
         "lang": "en",
         "type": "syn",
         "text": "Witch Watch 2"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "WITCH WATCH 2"
       }
     ]
   },
@@ -575733,13 +575703,13 @@
     "aid": "19657",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "High School! Kimengumi (2026)"
       },
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "High School! Kimengumi (2026)"
       },
       {
@@ -576013,13 +575983,13 @@
     "aid": "19672",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Run Run Lantern"
       },
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Run Run Lantern"
       }
     ]
@@ -576298,13 +576268,13 @@
     "aid": "19688",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Dark Gathering (2027)"
       },
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Dark Gathering (2027)"
       },
       {
@@ -576593,12 +576563,12 @@
         "text": "Kozmička princeza Kaguya!"
       },
       {
-        "lang": "es-419",
+        "lang": "es",
         "type": "official",
         "text": "La princesa Kaguya del cosmos"
       },
       {
-        "lang": "es",
+        "lang": "es-419",
         "type": "official",
         "text": "La princesa Kaguya del cosmos"
       },
@@ -576878,6 +576848,11 @@
     "aid": "19713",
     "titles": [
       {
+        "lang": "en",
+        "type": "official",
+        "text": "Needy Girl Overdose"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Needy Girl Overdose"
@@ -576886,11 +576861,6 @@
         "lang": "ja",
         "type": "official",
         "text": "NEEDY GIRL OVERDOSE"
-      },
-      {
-        "lang": "en",
-        "type": "official",
-        "text": "Needy Girl Overdose"
       },
       {
         "lang": "ja",
@@ -578308,6 +578278,11 @@
     "aid": "19775",
     "titles": [
       {
+        "lang": "ja",
+        "type": "official",
+        "text": "SAKAMOTO DAYS (2027)"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Sakamoto Days (2027)"
@@ -578316,11 +578291,6 @@
         "lang": "en",
         "type": "syn",
         "text": "Sakamoto Days (2027)"
-      },
-      {
-        "lang": "ja",
-        "type": "official",
-        "text": "SAKAMOTO DAYS (2027)"
       }
     ]
   },
@@ -578513,14 +578483,14 @@
     "aid": "19783",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Mofusand"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "mofusand"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Mofusand"
       },
       {
         "lang": "ja",
@@ -579133,14 +579103,14 @@
     "aid": "19813",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Chopper`s"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "CHOPPER`S"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Chopper`s"
       }
     ]
   },
@@ -580293,12 +580263,12 @@
     "aid": "19873",
     "titles": [
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "Chainsmoker Cat"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "Chainsmoker Cat"
       },
@@ -580398,13 +580368,13 @@
     "aid": "19877",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Thunder 3"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Thunder 3"
       },
       {
@@ -581228,14 +581198,14 @@
     "aid": "19918",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "BanG Dream! It`s MyGO!!!!! / Ave Mujica"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Bang Dream! It`s MyGo!!!!! / Ave Mujica"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "BanG Dream! It`s MyGO!!!!! / Ave Mujica"
       }
     ]
   },
@@ -582613,14 +582583,14 @@
     "aid": "19982",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Koko"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "KOKO"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Koko"
       }
     ]
   },
@@ -582653,14 +582623,14 @@
     "aid": "19984",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Fate Strange Fake 2nd Season"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "Fate strange Fake 2nd Season"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Fate Strange Fake 2nd Season"
       }
     ]
   },
@@ -582753,13 +582723,13 @@
     "aid": "19990",
     "titles": [
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "The Fable 2"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "The Fable 2"
       },
       {
@@ -582963,17 +582933,17 @@
         "text": "Hyakki Yakoushou"
       },
       {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "百鬼夜行抄"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "百鬼夜行抄"
       },
       {
         "lang": "zh-Hant",
-        "type": "official",
-        "text": "百鬼夜行抄"
-      },
-      {
-        "lang": "zh-Hans",
         "type": "official",
         "text": "百鬼夜行抄"
       }
@@ -583233,13 +583203,13 @@
         "text": "CANDY CARIES"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Candy Caries"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Candy Caries"
       },
       {
@@ -583428,14 +583398,14 @@
         "text": "L`héroïne au ruban"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "The Ribbon Hero"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "THE RIBBON HERO"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "The Ribbon Hero"
       },
       {
         "lang": "ja",
@@ -583475,12 +583445,12 @@
       {
         "lang": "ja",
         "type": "official",
-        "text": "SWORD ART ONLINE Unanswered//butterfly"
+        "text": "Unanswered//butterfly SWORD ART ONLINE"
       },
       {
         "lang": "x-jat",
         "type": "main",
-        "text": "Sword Art Online: Unanswered//Butterfly"
+        "text": "Unanswered//Butterfly: Sword Art Online"
       }
     ]
   },
@@ -584215,7 +584185,7 @@
       {
         "lang": "x-jat",
         "type": "main",
-        "text": "Omae, Tanuki ni Naranee ka?"
+        "text": "Omae, Tanuki ni Naraneeka?"
       },
       {
         "lang": "ja",
@@ -584873,13 +584843,13 @@
     "aid": "20093",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Big Boss"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Big Boss"
       }
     ]
@@ -586383,13 +586353,13 @@
     "aid": "20163",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Here U Are"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Here U Are"
       },
       {
@@ -586815,7 +586785,7 @@
       {
         "lang": "x-jat",
         "type": "main",
-        "text": "Watashi o Center ni Suru to Chikaimasu ka?"
+        "text": "Watashi o Center ni Suru to Chikaimasuka?"
       },
       {
         "lang": "ja",
@@ -587278,13 +587248,13 @@
     "aid": "20206",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Studio Cabana"
       },
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Studio Cabana"
       },
       {
@@ -588973,14 +588943,14 @@
     "aid": "20286",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Super Ninja Neko"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "SUPER NINJA NEKO"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Super Ninja Neko"
       }
     ]
   },
@@ -589971,6 +589941,11 @@
         "lang": "x-jat",
         "type": "main",
         "text": "Shin Tennis no Ouji-sama: U-17 World Cup - Kesshou Member Ketteisen"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "The Prince of Tennis II - U-17 World Cup Final Member Selection Match"
       },
       {
         "lang": "en",
@@ -590998,13 +590973,13 @@
     "aid": "20413",
     "titles": [
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Phantom Busters"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Phantom Busters"
       },
       {
@@ -591170,7 +591145,7 @@
       {
         "lang": "en",
         "type": "official",
-        "text": "Mushoku Tensei: Jobless Reincarnation Season 3 (2027)"
+        "text": "Mushoku Tensei III: Jobless Reincarnation (2027)"
       },
       {
         "lang": "x-jat",
@@ -591191,6 +591166,81 @@
         "lang": "ja",
         "type": "syn",
         "text": "無職転生III ~異世界行ったら本気だす~ 第2クール"
+      }
+    ]
+  },
+  {
+    "aid": "20423",
+    "titles": [
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Everyone`s Darling Has a Secret"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Houkago no Idol ni wa Himitsu ga Aru"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "放課後のアイドルには秘密がある"
+      }
+    ]
+  },
+  {
+    "aid": "20424",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Anemone (2027)"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "姉モネ"
+      }
+    ]
+  },
+  {
+    "aid": "20425",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Umayuru: Full Gate!"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "うまゆるふるげ〜と!"
+      }
+    ]
+  },
+  {
+    "aid": "20426",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Liar Game 2"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Liar Game 2"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "LIAR GAME 2"
+      },
+      {
+        "lang": "ja",
+        "type": "syn",
+        "text": "ライアーゲーム 2"
       }
     ]
   }
