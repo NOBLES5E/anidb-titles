@@ -268733,6 +268733,11 @@
         "text": "境界線上のホライゾン"
       },
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "境界線上的地平線"
+      },
+      {
         "lang": "zh-Hans",
         "type": "official",
         "text": "境界线上的地平线"
@@ -283131,6 +283136,11 @@
         "lang": "ja",
         "type": "official",
         "text": "境界線上のホライゾン II"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "境界線上的地平線 第二季"
       },
       {
         "lang": "zh-Hans",
@@ -569728,12 +569738,12 @@
         "text": "Kaguya-sama wa Kokurasetai: Otona e no Kaidan"
       },
       {
-        "lang": "fr",
+        "lang": "en",
         "type": "official",
         "text": "Kaguya-sama: Love Is War - Stairway to Adulthood"
       },
       {
-        "lang": "en",
+        "lang": "fr",
         "type": "official",
         "text": "Kaguya-sama: Love Is War - Stairway to Adulthood"
       },
@@ -569741,6 +569751,11 @@
         "lang": "ja",
         "type": "official",
         "text": "かぐや様は告らせたい 大人への階段"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "輝夜姬想讓人告白 邁向大人的階梯"
       },
       {
         "lang": "zh-Hans",
@@ -591241,6 +591256,36 @@
         "lang": "ja",
         "type": "syn",
         "text": "ライアーゲーム 2"
+      }
+    ]
+  },
+  {
+    "aid": "20427",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Akuryou Taisan! Onegai! Iro Kamisama"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "悪霊退散! おねが～い! 色神様"
+      }
+    ]
+  },
+  {
+    "aid": "20428",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Ra/Radio Noise * Planet"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "ラ/ラジオノイズ ＊ プラネット"
       }
     ]
   }
