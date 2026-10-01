@@ -289568,6 +289568,11 @@
         "text": "閃乱カグラ"
       },
       {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "閃亂神樂"
+      },
+      {
         "lang": "zh-Hans",
         "type": "official",
         "text": "闪乱神乐"
@@ -359589,6 +359594,11 @@
       },
       {
         "lang": "zh-Hans",
+        "type": "official",
+        "text": "斯特拉的魔法"
+      },
+      {
+        "lang": "zh-Hant",
         "type": "official",
         "text": "斯特拉的魔法"
       }
@@ -523398,24 +523408,24 @@
         "text": "Spy x Family Code: White"
       },
       {
-        "lang": "es-419",
-        "type": "official",
-        "text": "SPY x FAMILY CÓDIGO: Blanco"
-      },
-      {
         "lang": "es",
         "type": "official",
         "text": "Spy x Family Código: Blanco"
       },
       {
-        "lang": "pt",
+        "lang": "es-419",
         "type": "official",
-        "text": "Spy x Family Código: Branco"
+        "text": "SPY x FAMILY CÓDIGO: Blanco"
       },
       {
         "lang": "pt-BR",
         "type": "official",
         "text": "SPY x FAMILY CÓDIGO: Branco"
+      },
+      {
+        "lang": "pt",
+        "type": "official",
+        "text": "Spy x Family Código: Branco"
       },
       {
         "lang": "zh-Hant",
@@ -523561,6 +523571,11 @@
         "lang": "en",
         "type": "official",
         "text": "Reincarnated as a Sword II"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Reincarnated as a Sword Season 2"
       },
       {
         "lang": "x-jat",
@@ -543471,6 +543486,11 @@
         "lang": "x-jat",
         "type": "main",
         "text": "Nukitashi the Animation"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "NUKITASHI 住在拔作島上的我該如何是好？"
       },
       {
         "lang": "de",
@@ -564169,6 +564189,11 @@
     "titles": [
       {
         "lang": "en",
+        "type": "official",
+        "text": "A Certain Dark Item"
+      },
+      {
+        "lang": "en",
         "type": "syn",
         "text": "A Certain Item of the Dark Side"
       },
@@ -565028,12 +565053,12 @@
     "aid": "19200",
     "titles": [
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "Onmyo Kaiten Re:Birth Verse"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "Onmyo Kaiten Re:Birth Verse"
       },
@@ -565278,13 +565303,13 @@
         "text": "All You Need Is Kill"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "All You Need Is Kill"
       },
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "All You Need Is Kill"
       },
       {
@@ -565298,13 +565323,13 @@
     "aid": "19209",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Dead Account"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Dead Account"
       },
       {
@@ -566038,13 +566063,13 @@
     "aid": "19239",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Future Kid Takara"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Future Kid Takara"
       }
     ]
@@ -566608,11 +566633,6 @@
     "aid": "19271",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "THE STAR SEEKERS"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "The Star Seekers"
@@ -566621,6 +566641,11 @@
         "lang": "en",
         "type": "syn",
         "text": "The Star Seekers"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "THE STAR SEEKERS"
       },
       {
         "lang": "ja",
@@ -575499,7 +575524,7 @@
       },
       {
         "lang": "en",
-        "type": "syn",
+        "type": "official",
         "text": "Super Psychic Policeman Chojo"
       },
       {
@@ -576900,12 +576925,12 @@
       {
         "lang": "x-jat",
         "type": "main",
-        "text": "Kashita Maryoku wa \"Ribobarai\" de Kyousei Choushuu: Youzumi to Party Tsuihou Sareta Ore wa, Kawaii Support Yousei to Issho ni Toritateta Maryoku o Un`you Shite Saikyou o Mezasu."
+        "text": "Kashita Maryoku wa \"Revo-barai\" de Kyousei Choushuu: Youzumi to Party Tsuihou Sareta Ore wa, Kawaii Support Yousei to Issho ni Toritateta Maryoku o Un`you Shite Saikyou o Mezasu."
       },
       {
         "lang": "en",
         "type": "syn",
-        "text": "Magic Repo Man: Dumped by My Party, I’ll Cash In with a Cute Support Fairy to Become the Strongest!"
+        "text": "Magic Repo Man: Dumped by My Party, I`ll Cash In with a Cute Support Fairy to Become the Strongest!"
       },
       {
         "lang": "ja",
@@ -577819,7 +577844,7 @@
     "titles": [
       {
         "lang": "en",
-        "type": "syn",
+        "type": "official",
         "text": "Horror Collector"
       },
       {
@@ -578759,7 +578784,7 @@
     "titles": [
       {
         "lang": "en",
-        "type": "syn",
+        "type": "official",
         "text": "Tougen Anki: Nikko Kegon Falls Arc"
       },
       {
@@ -579254,7 +579279,7 @@
     "titles": [
       {
         "lang": "en",
-        "type": "syn",
+        "type": "official",
         "text": "Full Clearing Another World Under a Goddess with Zero Believers"
       },
       {
@@ -581963,14 +581988,14 @@
         "text": "Sensha Isu"
       },
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "TANK CHAIR"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Tank Chair"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "TANK CHAIR"
       },
       {
         "lang": "ja",
@@ -581989,7 +582014,7 @@
     "titles": [
       {
         "lang": "en",
-        "type": "syn",
+        "type": "official",
         "text": "From Far Away"
       },
       {
@@ -582056,6 +582081,11 @@
         "lang": "x-jat",
         "type": "main",
         "text": "Shiotaiou no Satou-san ga Ore ni dake Amai"
+      },
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "The Cold Sato-san Is Only Sweet to Me"
       },
       {
         "lang": "en",
@@ -584647,6 +584677,11 @@
   {
     "aid": "20081",
     "titles": [
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "Dandivine"
+      },
       {
         "lang": "x-jat",
         "type": "main",
@@ -591238,6 +591273,11 @@
     "aid": "20426",
     "titles": [
       {
+        "lang": "ja",
+        "type": "official",
+        "text": "LIAR GAME 2"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Liar Game 2"
@@ -591246,11 +591286,6 @@
         "lang": "en",
         "type": "syn",
         "text": "Liar Game 2"
-      },
-      {
-        "lang": "ja",
-        "type": "official",
-        "text": "LIAR GAME 2"
       },
       {
         "lang": "ja",
@@ -591286,6 +591321,121 @@
         "lang": "ja",
         "type": "official",
         "text": "ラ/ラジオノイズ ＊ プラネット"
+      }
+    ]
+  },
+  {
+    "aid": "20429",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Daxia Shou Mu Ren"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "The Gravekeeper of Great Xia"
+      },
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "The Guardian of Daxia"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "大夏守墓人"
+      }
+    ]
+  },
+  {
+    "aid": "20430",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Kawaisouni! Theater"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "可哀想に！劇場"
+      }
+    ]
+  },
+  {
+    "aid": "20431",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Thunder 3 (2027)"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Thunder 3 (2027)"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "サンダー3 (2027)"
+      }
+    ]
+  },
+  {
+    "aid": "20432",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Seirei Gensouki 3"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Seirei Gensouki: Spirit Chronicles 3"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "精霊幻想記3"
+      }
+    ]
+  },
+  {
+    "aid": "20433",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Kizu Darake Seijo yori Houfuku o Komete Season 2"
+      },
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "With Vengeance, Sincerely, Your Broken Saintess Season 2"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "傷だらけ聖女より報復をこめて Season2"
+      }
+    ]
+  },
+  {
+    "aid": "20434",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Obocchama-kun Reborn"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "おぼっちゃまくん REBORN"
       }
     ]
   }
