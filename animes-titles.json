@@ -199948,6 +199948,11 @@
         "text": "記憶女神"
       },
       {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "記憶女神的女兒們"
+      },
+      {
         "lang": "zh-Hans",
         "type": "syn",
         "text": "记忆女神的女儿们"
@@ -524628,6 +524633,11 @@
         "text": "Made in Abyss (2026)"
       },
       {
+        "lang": "en",
+        "type": "syn",
+        "text": "Made in Abyss: Awakening Mystery"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "メイドインアビス (2026)"
@@ -563041,6 +563051,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "阿尔玛酱想成为家人"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "阿爾瑪醬想成為家人"
       }
     ]
   },
@@ -569013,9 +569028,19 @@
         "text": "Renegade Immortal: Battle of the God"
       },
       {
+        "lang": "en",
+        "type": "official",
+        "text": "Renegade Immortal: Divine Descent"
+      },
+      {
         "lang": "x-zht",
         "type": "syn",
         "text": "Xian Ni Juchang Ban: Shenlin Zhi Zhan"
+      },
+      {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Xian Ni Movie: Shenlin Zhi Zhan"
       },
       {
         "lang": "x-zht",
@@ -591436,6 +591461,91 @@
         "lang": "ja",
         "type": "official",
         "text": "おぼっちゃまくん REBORN"
+      }
+    ]
+  },
+  {
+    "aid": "20435",
+    "titles": [
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Chocot Yabacity"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Chokotto Yabacity"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "ちょこっとヤバシティ"
+      }
+    ]
+  },
+  {
+    "aid": "20436",
+    "titles": [
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "Renegade Immortal Movie: Slaying the Blood Progenitor"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Renegade Immortal: Battle of the Immortal Slayer"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Renegade Immortal: Slaying the Blood Progenitor"
+      },
+      {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Xian Ni Juchang Ban: Shi Xian Zhi Zhan"
+      },
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Xian Ni Movie: Shi Xian Zhi Zhan"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "仙逆剧场版 弑仙之战"
+      }
+    ]
+  },
+  {
+    "aid": "20437",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Sylvanian Families: Freya no Colorful Everyday"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "シルバニアファミリー フレアのカラフル・エブリデイ"
+      }
+    ]
+  },
+  {
+    "aid": "20438",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Meiji-hen"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "明治編"
       }
     ]
   }
