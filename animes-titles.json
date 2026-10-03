@@ -30250,7 +30250,7 @@
       {
         "lang": "x-jat",
         "type": "main",
-        "text": "Rurouni Kenshin: Meiji Kenkaku Romantan - Ishin Shishi e no Chinkonka"
+        "text": "Rurouni Kenshin: Meiji Kenkaku Romantan - Ishin Shishi e no Requiem"
       },
       {
         "lang": "en",
@@ -30271,6 +30271,11 @@
         "lang": "ja",
         "type": "official",
         "text": "るろうに剣心 -明治剣客浪漫譚- 維新志士への鎮魂歌"
+      },
+      {
+        "lang": "ja",
+        "type": "card",
+        "text": "るろうに剣心 -明治剣客浪漫譚- 維新志士への鎮魂歌[れくいえむ]"
       },
       {
         "lang": "zh-Hans",
@@ -30438,17 +30443,17 @@
         "text": "Heiða í Ölpunum"
       },
       {
-        "lang": "nl",
-        "type": "official",
-        "text": "Heidi"
-      },
-      {
         "lang": "pt-BR",
         "type": "official",
         "text": "Heidi"
       },
       {
-        "lang": "de",
+        "lang": "en",
+        "type": "syn",
+        "text": "Heidi"
+      },
+      {
+        "lang": "fr",
         "type": "official",
         "text": "Heidi"
       },
@@ -30468,17 +30473,12 @@
         "text": "Heidi"
       },
       {
-        "lang": "es-CA",
+        "lang": "pt",
         "type": "official",
         "text": "Heidi"
       },
       {
-        "lang": "en",
-        "type": "syn",
-        "text": "Heidi"
-      },
-      {
-        "lang": "fr",
+        "lang": "tr",
         "type": "official",
         "text": "Heidi"
       },
@@ -30493,12 +30493,17 @@
         "text": "Heidi"
       },
       {
-        "lang": "pt",
+        "lang": "es-CA",
         "type": "official",
         "text": "Heidi"
       },
       {
-        "lang": "tr",
+        "lang": "nl",
+        "type": "official",
+        "text": "Heidi"
+      },
+      {
+        "lang": "de",
         "type": "official",
         "text": "Heidi"
       },
@@ -30618,13 +30623,13 @@
         "text": "Chikyuu Bouei Kigyou Dai-Guard"
       },
       {
-        "lang": "fr",
-        "type": "short",
+        "lang": "en",
+        "type": "official",
         "text": "Dai-Guard"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "fr",
+        "type": "short",
         "text": "Dai-Guard"
       },
       {
@@ -30648,24 +30653,19 @@
     "aid": "429",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "X"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "X"
       },
       {
         "lang": "en",
         "type": "official",
         "text": "X"
-      },
-      {
-        "lang": "it",
-        "type": "official",
-        "text": "X - The Movie"
       },
       {
         "lang": "en",
@@ -30678,18 +30678,23 @@
         "text": "X - The Movie"
       },
       {
+        "lang": "it",
+        "type": "official",
+        "text": "X - The Movie"
+      },
+      {
         "lang": "x-unk",
         "type": "syn",
         "text": "X (1996)"
       },
       {
-        "lang": "fr",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "syn",
         "text": "X 1999"
       },
       {
-        "lang": "x-jat",
-        "type": "syn",
+        "lang": "fr",
+        "type": "official",
         "text": "X 1999"
       },
       {
@@ -30833,17 +30838,17 @@
         "text": "arc"
       },
       {
+        "lang": "cs",
+        "type": "official",
+        "text": "Arc the Lad"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Arc the Lad"
       },
       {
         "lang": "ro",
-        "type": "official",
-        "text": "Arc the Lad"
-      },
-      {
-        "lang": "cs",
         "type": "official",
         "text": "Arc the Lad"
       },
@@ -30978,13 +30983,13 @@
         "text": "Slayers - La città dei Golem"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "fr",
+        "type": "official",
         "text": "Slayers Great"
       },
       {
-        "lang": "fr",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Slayers Great"
       },
       {
@@ -31058,14 +31063,14 @@
         "text": "YUA"
       },
       {
-        "lang": "x-jat",
-        "type": "short",
-        "text": "yua tv1"
-      },
-      {
         "lang": "en",
         "type": "short",
         "text": "YUA TV1"
+      },
+      {
+        "lang": "x-jat",
+        "type": "short",
+        "text": "yua tv1"
       },
       {
         "lang": "en",
@@ -31098,12 +31103,12 @@
         "text": "New Snow White`s Legend Pretear"
       },
       {
-        "lang": "en",
+        "lang": "fr",
         "type": "official",
         "text": "Pretear"
       },
       {
-        "lang": "fr",
+        "lang": "en",
         "type": "official",
         "text": "Pretear"
       },
@@ -31163,13 +31168,13 @@
     "aid": "441",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "fr",
+        "type": "official",
         "text": "A.D. Police"
       },
       {
-        "lang": "fr",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "A.D. Police"
       },
       {
@@ -31178,7 +31183,7 @@
         "text": "A.D. Police Files"
       },
       {
-        "lang": "de",
+        "lang": "fi",
         "type": "official",
         "text": "AD Police"
       },
@@ -31193,7 +31198,7 @@
         "text": "AD Police"
       },
       {
-        "lang": "fi",
+        "lang": "de",
         "type": "official",
         "text": "AD Police"
       },
@@ -31368,17 +31373,17 @@
         "text": "s4"
       },
       {
-        "lang": "fr",
-        "type": "official",
-        "text": "Stratos 4"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Stratos 4"
       },
       {
         "lang": "pt-BR",
+        "type": "official",
+        "text": "Stratos 4"
+      },
+      {
+        "lang": "fr",
         "type": "official",
         "text": "Stratos 4"
       },
@@ -31618,6 +31623,11 @@
         "text": "Vilkų lietus"
       },
       {
+        "lang": "es",
+        "type": "official",
+        "text": "Wolf`s Rain"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Wolf`s Rain"
@@ -31634,11 +31644,6 @@
       },
       {
         "lang": "pl",
-        "type": "official",
-        "text": "Wolf`s Rain"
-      },
-      {
-        "lang": "es",
         "type": "official",
         "text": "Wolf`s Rain"
       },
@@ -31928,7 +31933,7 @@
         "text": "Silent Mobius"
       },
       {
-        "lang": "fr",
+        "lang": "de",
         "type": "official",
         "text": "Silent Möbius"
       },
@@ -31938,7 +31943,7 @@
         "text": "Silent Möbius"
       },
       {
-        "lang": "de",
+        "lang": "fr",
         "type": "official",
         "text": "Silent Möbius"
       },
@@ -31973,24 +31978,24 @@
         "text": "Burn Up! Warrior"
       },
       {
-        "lang": "es",
-        "type": "syn",
-        "text": "Burn Up! Warriors"
-      },
-      {
         "lang": "en",
         "type": "syn",
         "text": "Burn Up! Warriors"
       },
       {
-        "lang": "de",
-        "type": "official",
-        "text": "Burn-Up W"
+        "lang": "es",
+        "type": "syn",
+        "text": "Burn Up! Warriors"
       },
       {
         "lang": "x-jat",
         "type": "main",
         "text": "Burn-up W"
+      },
+      {
+        "lang": "de",
+        "type": "official",
+        "text": "Burn-Up W"
       },
       {
         "lang": "en",
@@ -32243,12 +32248,12 @@
         "text": "Ona a její kočka"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "She and Her Cat"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "She and Her Cat"
       },
@@ -32558,12 +32563,12 @@
         "text": "L/R"
       },
       {
-        "lang": "fr",
+        "lang": "de",
         "type": "official",
         "text": "L/R - Licensed by Royalty"
       },
       {
-        "lang": "de",
+        "lang": "fr",
         "type": "official",
         "text": "L/R - Licensed by Royalty"
       },
@@ -465278,6 +465283,11 @@
         "text": "偶像大师百万现场！"
       },
       {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "偶像大師 百萬人演唱會！"
+      },
+      {
         "lang": "zh-Hans",
         "type": "syn",
         "text": "百万现场！"
@@ -489561,6 +489571,11 @@
         "lang": "ja",
         "type": "official",
         "text": "ヒロインたるもの! ~嫌われヒロインと内緒のお仕事~"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "成為女主角！~被討厭的女主角和秘密的工作~"
       },
       {
         "lang": "zh-Hans",
@@ -522733,11 +522748,6 @@
     "aid": "17767",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "Unnamed Memory"
-      },
-      {
         "lang": "en",
         "type": "official",
         "text": "Unnamed Memory"
@@ -522745,6 +522755,11 @@
       {
         "lang": "x-jat",
         "type": "main",
+        "text": "Unnamed Memory"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
         "text": "Unnamed Memory"
       },
       {
@@ -522976,6 +522991,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "夜樱家的大作战"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "夜櫻家大作戰"
       }
     ]
   },
@@ -527958,12 +527978,12 @@
         "text": "KonoFuka"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "Quality Assurance in Another World"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "Quality Assurance in Another World"
       },
@@ -528021,6 +528041,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "反派千金Lv99 ~虽然我是隐藏BOSS但我可不是魔王~"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "反派千金等級99～我是隱藏頭目但不是魔王～"
       },
       {
         "lang": "ja",
@@ -528138,12 +528163,12 @@
         "text": "Ooku: A belső palota"
       },
       {
-        "lang": "es-419",
+        "lang": "es",
         "type": "official",
         "text": "Ōoku: Los aposentos privados"
       },
       {
-        "lang": "es",
+        "lang": "es-419",
         "type": "official",
         "text": "Ōoku: Los aposentos privados"
       },
@@ -530246,6 +530271,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "重启人生的千金小姐正在攻略龙帝陛下"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "重啟人生的千金小姐正在攻略龍帝陛下"
       }
     ]
   },
@@ -532249,6 +532279,11 @@
       },
       {
         "lang": "zh-Hant",
+        "type": "official",
+        "text": "公主殿下，「拷問」的時間到了"
+      },
+      {
+        "lang": "zh-Hant",
         "type": "syn",
         "text": "公主殿下，的時間到了"
       },
@@ -532538,14 +532573,14 @@
     "aid": "18093",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "Fate strange Fake"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Fate Strange Fake"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "Fate strange Fake"
       },
       {
         "lang": "en",
@@ -541708,9 +541743,19 @@
         "text": "Spare Me, Great Lord! 2nd Season"
       },
       {
+        "lang": "en",
+        "type": "syn",
+        "text": "Spare Me, Great Lord! Season 2"
+      },
+      {
         "lang": "zh-Hans",
         "type": "syn",
         "text": "大王饶命 2"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "syn",
+        "text": "大王饶命 第2季"
       },
       {
         "lang": "zh-Hans",
@@ -547063,6 +547108,11 @@
         "text": "himegou2"
       },
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "公主殿下，「拷問」的時間到了 第二季"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "姫様\"拷問\"の時間です (2026)"
@@ -548821,6 +548871,11 @@
         "lang": "ja",
         "type": "official",
         "text": "きのこいぬ"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "菇狗"
       }
     ]
   },
@@ -549814,6 +549869,11 @@
       },
       {
         "lang": "zh-Hans",
+        "type": "official",
+        "text": "9-nine- 支配者的王冠"
+      },
+      {
+        "lang": "zh-Hant",
         "type": "official",
         "text": "9-nine- 支配者的王冠"
       },
@@ -553898,6 +553958,11 @@
         "text": "Sekrety Cichej Wiedźmy"
       },
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "Silent Witch 沉默魔女的祕密"
+      },
+      {
         "lang": "zh-Hans",
         "type": "syn",
         "text": "Silent Witch 沉默魔女的秘密"
@@ -556518,6 +556583,11 @@
         "text": "ゴリラの神から加護された令嬢は王立騎士団で可愛がられる"
       },
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "受到猩猩之神庇佑的大小姐受到王立騎士團寵愛"
+      },
+      {
         "lang": "zh-Hans",
         "type": "official",
         "text": "受到猩猩之神庇护的大小姐在皇家骑士团受到宠爱"
@@ -557216,6 +557286,11 @@
         "lang": "ja",
         "type": "official",
         "text": "夜桜さんちの大作戦 (2026)"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "夜櫻家大作戰 第二季"
       }
     ]
   },
@@ -559403,9 +559478,9 @@
     "aid": "18984",
     "titles": [
       {
-        "lang": "en",
+        "lang": "ja",
         "type": "official",
-        "text": "Sakamoto Days (2025)"
+        "text": "SAKAMOTO DAYS (2025)"
       },
       {
         "lang": "x-jat",
@@ -559413,9 +559488,9 @@
         "text": "Sakamoto Days (2025)"
       },
       {
-        "lang": "ja",
+        "lang": "en",
         "type": "official",
-        "text": "SAKAMOTO DAYS (2025)"
+        "text": "Sakamoto Days (2025)"
       },
       {
         "lang": "en",
@@ -559451,6 +559526,11 @@
         "lang": "ja",
         "type": "official",
         "text": "ボールパークでつかまえて!"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "來到棒球場捕捉我吧!"
       },
       {
         "lang": "zh-Hans",
@@ -559733,12 +559813,12 @@
         "text": "Busamen Gachi Fighter"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "Uglymug, Epicfighter"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "Uglymug, Epicfighter"
       },
@@ -559988,14 +560068,14 @@
         "text": "Cat`s Eye – Ein Supertrio"
       },
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "CAT`S EYE (2025)"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Cat`s Eye (2025)"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "CAT`S EYE (2025)"
       },
       {
         "lang": "en",
@@ -562796,6 +562876,11 @@
         "lang": "ja",
         "type": "official",
         "text": "キミと越えて恋になる"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "跨越種族與你相戀"
       }
     ]
   },
@@ -567861,6 +567946,11 @@
         "lang": "ja",
         "type": "official",
         "text": "うるわしの宵の月"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "皎潔深宵之月"
       }
     ]
   },
@@ -567951,6 +568041,11 @@
         "lang": "ja",
         "type": "official",
         "text": "自称悪役令嬢な婚約者の観察記録."
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "自稱惡役千金的未婚妻觀察紀錄。"
       }
     ]
   },
@@ -569071,6 +569166,11 @@
         "lang": "en",
         "type": "official",
         "text": "Wash It All Away"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "可以幫忙洗乾淨嗎？"
       },
       {
         "lang": "ja",
@@ -570763,6 +570863,16 @@
         "text": "Apothecary Diaries Season 3"
       },
       {
+        "lang": "pt-BR",
+        "type": "syn",
+        "text": "Diários de uma Apotecária (2026)"
+      },
+      {
+        "lang": "pt-BR",
+        "type": "syn",
+        "text": "Diários de uma Apotecária S3"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Kusuriya no Hitorigoto (2026)"
@@ -570883,11 +570993,6 @@
     "aid": "19449",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
-        "text": "Beastars Final Season (2026)"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "BEASTARS FINAL SEASON (2026)"
@@ -570895,6 +571000,11 @@
       {
         "lang": "x-jat",
         "type": "main",
+        "text": "Beastars Final Season (2026)"
+      },
+      {
+        "lang": "en",
+        "type": "official",
         "text": "Beastars Final Season (2026)"
       },
       {
@@ -570928,13 +571038,13 @@
     "aid": "19451",
     "titles": [
       {
-        "lang": "de",
-        "type": "syn",
+        "lang": "en",
+        "type": "official",
         "text": "Daemons of the Shadow Realm"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "de",
+        "type": "syn",
         "text": "Daemons of the Shadow Realm"
       },
       {
@@ -575158,6 +575268,11 @@
         "text": "オタクに優しいギャルはいない!?"
       },
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "哪裡有溫柔對待阿宅的辣妹！？"
+      },
+      {
         "lang": "zh-Hans",
         "type": "official",
         "text": "没有辣妹会对阿宅温柔！？"
@@ -575963,6 +576078,11 @@
         "text": "最強の職業は勇者でも賢者でもなく鑑定士 (仮) らしいですよ?"
       },
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "最強的職業不是勇者也不是賢者好像是鑑定士（暫定）的樣子"
+      },
+      {
         "lang": "zh-Hans",
         "type": "official",
         "text": "最强的职业不是勇者也不是贤者好像是鉴定士(伪)的样子"
@@ -576048,13 +576168,13 @@
     "aid": "19672",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Run Run Lantern"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Run Run Lantern"
       }
     ]
@@ -577698,6 +577818,11 @@
         "text": "灰原くんの強くて青春ニューゲーム"
       },
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "灰原同學重返過去，開啟所向無敵的第二輪青春遊戲"
+      },
+      {
         "lang": "zh-Hans",
         "type": "official",
         "text": "灰原君的青春二周目"
@@ -578733,13 +578858,13 @@
     "aid": "19793",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Undead Unluck 2"
       },
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Undead Unluck 2"
       },
       {
@@ -578807,6 +578932,11 @@
   {
     "aid": "19795",
     "titles": [
+      {
+        "lang": "x-jat",
+        "type": "syn",
+        "text": "Tougen Anki - Nikko Kegon no Taki-hen"
+      },
       {
         "lang": "en",
         "type": "official",
@@ -591546,6 +591676,46 @@
         "lang": "ja",
         "type": "official",
         "text": "明治編"
+      }
+    ]
+  },
+  {
+    "aid": "20439",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Da Wang Rao Ming 3"
+      },
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Dawang Raoming 3"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Spare Me, Great Lord! 3rd Season"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Spare Me, Great Lord! Season 3"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "syn",
+        "text": "大王饶命 第3季"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "大王饶命 第三季"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "syn",
+        "text": "大王饶命3"
       }
     ]
   }
