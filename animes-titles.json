@@ -2341,6 +2341,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "十二国记"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "十二國記"
       }
     ]
   },
@@ -320518,6 +320523,11 @@
         "text": "Токийско чудовище"
       },
       {
+        "lang": "uk",
+        "type": "official",
+        "text": "Токійський ґуль"
+      },
+      {
         "lang": "fa",
         "type": "syn",
         "text": "آزارگر توکیو"
@@ -349593,6 +349603,11 @@
         "text": "劇場版 艦これ"
       },
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "劇場版 艦隊Collection"
+      },
+      {
         "lang": "ja",
         "type": "syn",
         "text": "劇場版 艦隊これくしょん"
@@ -349628,14 +349643,14 @@
     "aid": "11491",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Diabolik Lovers (2015)"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "DIABOLIK LOVERS (2015)"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Diabolik Lovers (2015)"
       },
       {
         "lang": "x-jat",
@@ -484391,6 +484406,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "青之芦苇"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "青之蘆葦"
       }
     ]
   },
@@ -488243,9 +488263,9 @@
     "aid": "16502",
     "titles": [
       {
-        "lang": "de",
+        "lang": "ja",
         "type": "official",
-        "text": "Digimon Ghost Game"
+        "text": "DIGIMON Ghost Game"
       },
       {
         "lang": "x-jat",
@@ -488253,12 +488273,12 @@
         "text": "Digimon Ghost Game"
       },
       {
-        "lang": "ja",
+        "lang": "en",
         "type": "official",
-        "text": "DIGIMON Ghost Game"
+        "text": "Digimon Ghost Game"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "Digimon Ghost Game"
       },
@@ -488291,6 +488311,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "数码宝贝幽灵游戏"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "數碼寶貝 幽靈遊戲"
       }
     ]
   },
@@ -505971,6 +505996,11 @@
         "lang": "x-jat",
         "type": "short",
         "text": "CotE s2"
+      },
+      {
+        "lang": "pt",
+        "type": "syn",
+        "text": "Turma de Elite 2.ª Temporada"
       },
       {
         "lang": "x-jat",
@@ -546443,6 +546473,11 @@
         "text": "鹿乃子乃子乃子虎视眈眈"
       },
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "鹿乃子乃子乃子虎視眈眈"
+      },
+      {
         "lang": "zh-Hans",
         "type": "syn",
         "text": "鹿乃子大摇大摆虎视眈眈"
@@ -551970,7 +552005,7 @@
       {
         "lang": "x-jat",
         "type": "main",
-        "text": "Tensei Kizoku, Kantei Skill de Nariagaru (2024)"
+        "text": "Tensei Kizoku, Kantei Skill de Nariagaru Dai 2 Ki"
       },
       {
         "lang": "x-jat",
@@ -551980,7 +552015,7 @@
       {
         "lang": "ja",
         "type": "official",
-        "text": "転生貴族, 鑑定スキルで成り上がる (2024)"
+        "text": "転生貴族, 鑑定スキルで成り上がる 第2期"
       },
       {
         "lang": "zh-Hans",
@@ -553836,6 +553871,11 @@
         "lang": "ja",
         "type": "official",
         "text": "ニワトリ・ファイター"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "雞鬥士"
       }
     ]
   },
@@ -554983,6 +555023,11 @@
         "text": "戦隊レッド 異世界で冒険者になる"
       },
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "紅戰士在異世界成了冒險者"
+      },
+      {
         "lang": "zh-Hans",
         "type": "official",
         "text": "红战士转职冒险者"
@@ -556001,6 +556046,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "欢迎来到实力至上主义教室 第四季"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "歡迎來到實力至上主義的教室 第四季 2年級篇 第一學期"
       }
     ]
   },
@@ -560446,6 +560496,11 @@
         "lang": "zh-Hans",
         "type": "syn",
         "text": "醜男真戰士"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "醜男真戰士"
       }
     ]
   },
@@ -562520,12 +562575,12 @@
       {
         "lang": "x-jat",
         "type": "main",
-        "text": "Tensei Kizoku, Kantei Skill de Nariagaru (2026)"
+        "text": "Tensei Kizoku, Kantei Skill de Nariagaru Dai 3 Ki"
       },
       {
         "lang": "ja",
         "type": "official",
-        "text": "転生貴族, 鑑定スキルで成り上がる (2026)"
+        "text": "転生貴族, 鑑定スキルで成り上がる 第3期"
       }
     ]
   },
@@ -562533,13 +562588,13 @@
     "aid": "19071",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "MF Ghost 3rd Season"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "MF Ghost 3rd Season"
       },
       {
@@ -574321,6 +574376,11 @@
         "lang": "ja",
         "type": "official",
         "text": "藤本タツキ17-26"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "藤本樹 17-26"
       }
     ]
   },
@@ -581263,6 +581323,11 @@
         "text": "Doumo, Suki na Hito ni Horegusuri o Irai Sareta Majo Desu."
       },
       {
+        "lang": "x-jat",
+        "type": "syn",
+        "text": "Doumo, Suki na Hito ni Horegusuri wo Irai sareta Majo desu."
+      },
+      {
         "lang": "en",
         "type": "official",
         "text": "Hello, I Am a Witch and My Crush Wants Me to Make a Love Potion!"
@@ -582955,7 +583020,7 @@
       {
         "lang": "x-jat",
         "type": "main",
-        "text": "Kanata Kara"
+        "text": "Kanata kara"
       },
       {
         "lang": "ja",
@@ -591993,9 +592058,14 @@
     "aid": "20414",
     "titles": [
       {
+        "lang": "en",
+        "type": "official",
+        "text": "Detective Conan: The Counterfeit Crime Case of Ultra 30"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
-        "text": "Meitantei Conan: 30-gou Satsujin Jiken"
+        "text": "Meitantei Conan: 30 Gou Satsujin Jiken"
       },
       {
         "lang": "ja",
@@ -592806,6 +592876,41 @@
         "lang": "ja",
         "type": "official",
         "text": "満州アヘンスクワッド"
+      }
+    ]
+  },
+  {
+    "aid": "20455",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "AOTU Shijie REBORN: Di Yi Pianzhang Monu Xianjing"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "凹凸世界REBORN 第一篇章 魔女陷阱"
+      }
+    ]
+  },
+  {
+    "aid": "20456",
+    "titles": [
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "The Record of a Fallen Vampire"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Vampire Juuji-kai"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "ヴァンパイア十字界"
       }
     ]
   }
