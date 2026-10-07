@@ -39133,12 +39133,12 @@
         "text": "VIRUS - VIRUS BUSTER SERGE -"
       },
       {
-        "lang": "en",
+        "lang": "pl",
         "type": "official",
         "text": "Virus Buster Serge"
       },
       {
-        "lang": "pl",
+        "lang": "en",
         "type": "official",
         "text": "Virus Buster Serge"
       },
@@ -39188,21 +39188,6 @@
         "text": "SD!"
       },
       {
-        "lang": "it",
-        "type": "official",
-        "text": "Slam Dunk"
-      },
-      {
-        "lang": "fr",
-        "type": "official",
-        "text": "Slam Dunk"
-      },
-      {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Slam Dunk"
-      },
-      {
         "lang": "en",
         "type": "official",
         "text": "Slam Dunk"
@@ -39216,6 +39201,21 @@
         "lang": "ja",
         "type": "official",
         "text": "SLAM DUNK"
+      },
+      {
+        "lang": "fr",
+        "type": "official",
+        "text": "Slam Dunk"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Slam Dunk"
+      },
+      {
+        "lang": "it",
+        "type": "official",
+        "text": "Slam Dunk"
       },
       {
         "lang": "x-jat",
@@ -39256,6 +39256,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "灌篮高手"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "灌籃高手"
       },
       {
         "lang": "zh",
@@ -81230,12 +81235,12 @@
       {
         "lang": "x-jat",
         "type": "main",
-        "text": "Cyborg 009"
+        "text": "Cyborg 009 (1968)"
       },
       {
         "lang": "ja",
         "type": "official",
-        "text": "サイボーグ009"
+        "text": "サイボーグ009 (1968)"
       }
     ]
   },
@@ -107040,17 +107045,12 @@
       {
         "lang": "x-jat",
         "type": "main",
-        "text": "Cyborg 009 (1966)"
-      },
-      {
-        "lang": "x-unk",
-        "type": "syn",
-        "text": "Saibôgu 009"
+        "text": "Cyborg 009"
       },
       {
         "lang": "ja",
         "type": "official",
-        "text": "サイボーグ009 (1966)"
+        "text": "サイボーグ009"
       }
     ]
   },
@@ -125210,17 +125210,17 @@
       {
         "lang": "x-jat",
         "type": "main",
-        "text": "Doraemon: Nobita to Fushigi Kaze Tsukai"
-      },
-      {
-        "lang": "ja",
-        "type": "official",
-        "text": "ドラえもん のび太とふしぎ風使い"
+        "text": "Eiga Doraemon: Nobita to Fushigi Kaze Tsukai"
       },
       {
         "lang": "zh-Hans",
         "type": "official",
         "text": "哆啦A梦 大雄与风之使者"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "映画ドラえもん のび太とふしぎ風使い"
       }
     ]
   },
@@ -144314,6 +144314,11 @@
       },
       {
         "lang": "zh-Hans",
+        "type": "official",
+        "text": "灼眼的夏娜"
+      },
+      {
+        "lang": "zh-Hant",
         "type": "official",
         "text": "灼眼的夏娜"
       }
@@ -167758,14 +167763,14 @@
         "text": "True Tears"
       },
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "true tears"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "True Tears"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "true tears"
       },
       {
         "lang": "bg",
@@ -167796,6 +167801,11 @@
         "lang": "zh-Hans",
         "type": "syn",
         "text": "真实之泪"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "真實之淚"
       }
     ]
   },
@@ -169446,6 +169456,11 @@
         "lang": "ja",
         "type": "official",
         "text": "劇場版 灼眼のシャナ"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "劇場版 灼眼的夏娜"
       }
     ]
   },
@@ -169618,18 +169633,8 @@
         "text": "Kawaler miecza"
       },
       {
-        "lang": "pt",
-        "type": "official",
-        "text": "Le Chevalier D`Eon"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
-        "text": "Le Chevalier D`Eon"
-      },
-      {
-        "lang": "it",
-        "type": "official",
         "text": "Le Chevalier D`Eon"
       },
       {
@@ -169654,6 +169659,16 @@
       },
       {
         "lang": "cs",
+        "type": "official",
+        "text": "Le Chevalier D`Eon"
+      },
+      {
+        "lang": "pt",
+        "type": "official",
+        "text": "Le Chevalier D`Eon"
+      },
+      {
+        "lang": "it",
         "type": "official",
         "text": "Le Chevalier D`Eon"
       },
@@ -170068,17 +170083,17 @@
         "text": "Kanon(新)"
       },
       {
+        "lang": "uk",
+        "type": "syn",
+        "text": "Канон (2006)"
+      },
+      {
         "lang": "ru",
         "type": "syn",
         "text": "Канон (2006)"
       },
       {
         "lang": "bg",
-        "type": "syn",
-        "text": "Канон (2006)"
-      },
-      {
-        "lang": "uk",
         "type": "syn",
         "text": "Канон (2006)"
       },
@@ -170263,12 +170278,12 @@
         "text": "Ghost in the Shell - Stand Alone Complex - Solid State Society"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "Ghost in the Shell: Stand Alone Complex - Solid State Society"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "Ghost in the Shell: Stand Alone Complex - Solid State Society"
       },
@@ -180671,6 +180686,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "蔷薇少女 序曲"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "薔薇少女 ～序曲～"
       }
     ]
   },
@@ -180731,6 +180751,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "偶像大师 Xenoglossia"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "偶像大師 XENOGLOSSIA"
       }
     ]
   },
@@ -191513,13 +191538,13 @@
         "text": "Shakugan no Shana 2"
       },
       {
-        "lang": "x-jat",
-        "type": "syn",
+        "lang": "de",
+        "type": "official",
         "text": "Shakugan no Shana II"
       },
       {
-        "lang": "de",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "syn",
         "text": "Shakugan no Shana II"
       },
       {
@@ -191611,6 +191636,11 @@
         "lang": "ja",
         "type": "official",
         "text": "灼眼のシャナII[Second]"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "灼眼的夏娜 II"
       },
       {
         "lang": "zh-Hans",
@@ -191723,6 +191753,11 @@
         "text": "Bavel`in Kitabı"
       },
       {
+        "lang": "en",
+        "type": "official",
+        "text": "Bavel`s Book"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Bavel`s Book"
@@ -191731,11 +191766,6 @@
         "lang": "ja",
         "type": "official",
         "text": "Bavel`s book"
-      },
-      {
-        "lang": "en",
-        "type": "official",
-        "text": "Bavel`s Book"
       },
       {
         "lang": "ja",
@@ -192223,7 +192253,7 @@
         "text": "Išvaduotoja Kait"
       },
       {
-        "lang": "ja",
+        "lang": "en",
         "type": "official",
         "text": "Kite Liberator"
       },
@@ -192233,7 +192263,7 @@
         "text": "Kite Liberator"
       },
       {
-        "lang": "en",
+        "lang": "ja",
         "type": "official",
         "text": "Kite Liberator"
       },
@@ -192318,13 +192348,13 @@
         "text": "sketchbook"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Sketchbook: Full Color`s"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Sketchbook: Full Color`s"
       },
       {
@@ -192863,13 +192893,13 @@
         "text": "Dead Girls: Red Garden"
       },
       {
-        "lang": "x-jat",
-        "type": "syn",
+        "lang": "en",
+        "type": "official",
         "text": "Red Garden: Dead Girls"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "syn",
         "text": "Red Garden: Dead Girls"
       },
       {
@@ -197681,6 +197711,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "神枪少女 -IL TEATRINO-"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "神槍少女 -IL TEATRINO-"
       }
     ]
   },
@@ -197768,6 +197803,11 @@
         "text": "Aria - The Origination"
       },
       {
+        "lang": "ja",
+        "type": "official",
+        "text": "ARIA The ORIGINATION"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Aria the Origination"
@@ -197781,11 +197821,6 @@
         "lang": "fr",
         "type": "official",
         "text": "Aria the Origination"
-      },
-      {
-        "lang": "ja",
-        "type": "official",
-        "text": "ARIA The ORIGINATION"
       },
       {
         "lang": "en",
@@ -213703,19 +213738,24 @@
         "text": "Gunslinger Girl - Il Teatrino OVA"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Gunslinger Girl: Il Teatrino OVA"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Gunslinger Girl: Il Teatrino OVA"
       },
       {
         "lang": "ja",
         "type": "official",
         "text": "ガンスリンガー ガール -IL TEATRINO- OVA"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "神槍少女 -IL TEATRINO- OVA"
       }
     ]
   },
@@ -213728,13 +213768,13 @@
         "text": "IDES S2"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "pt",
+        "type": "official",
         "text": "Initial D Extra Stage 2"
       },
       {
-        "lang": "pt",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Initial D Extra Stage 2"
       },
       {
@@ -229169,6 +229209,11 @@
       },
       {
         "lang": "zh-Hans",
+        "type": "official",
+        "text": "灼眼的夏娜S"
+      },
+      {
+        "lang": "zh-Hant",
         "type": "official",
         "text": "灼眼的夏娜S"
       }
@@ -272613,6 +272658,11 @@
         "text": "灼眼的夏娜 Final"
       },
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "灼眼的夏娜 III Final"
+      },
+      {
         "lang": "zh-Hans",
         "type": "official",
         "text": "灼眼的夏娜III -Final-"
@@ -282818,12 +282868,12 @@
         "text": "So, I Can`t Fuck Her!"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "So, I Can`t Play H!"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "So, I Can`t Play H!"
       },
@@ -282841,6 +282891,11 @@
         "lang": "zh-Hans",
         "type": "syn",
         "text": "美少女死神 还我H之魂!"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "美少女死神 還我H之魂!"
       }
     ]
   },
@@ -300453,12 +300508,12 @@
         "text": "ImoCho"
       },
       {
-        "lang": "en",
+        "lang": "es",
         "type": "official",
         "text": "Recently, My Sister Is Unusual"
       },
       {
-        "lang": "es",
+        "lang": "en",
         "type": "official",
         "text": "Recently, My Sister Is Unusual"
       },
@@ -300481,6 +300536,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "最近, 妹妹的样子有点怪?"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "最近，妹妹的樣子有點怪？"
       }
     ]
   },
@@ -306281,6 +306341,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "农林"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "農林"
       }
     ]
   },
@@ -317306,6 +317371,11 @@
         "lang": "ja",
         "type": "official",
         "text": "寄生獣 セイの格率"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "寄生獸：生命的準則"
       }
     ]
   },
@@ -337591,6 +337661,11 @@
         "lang": "ja",
         "type": "official",
         "text": "旦那が何を言っているかわからない件 2スレ目"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "關於聽不懂老公在說什麼這件事 第二季"
       }
     ]
   },
@@ -337608,14 +337683,14 @@
         "text": "Lovely X Cation - Start of Daydream That Continues Through All Eternity"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Lovely x Cation The Animation"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "LOVELY x CATION The Animation"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Lovely x Cation The Animation"
       }
     ]
   },
@@ -339536,6 +339611,11 @@
         "lang": "ja",
         "type": "official",
         "text": "赤髪の白雪姫 Snow White with the Red Hair"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "赤髮白雪姬"
       }
     ]
   },
@@ -339583,12 +339663,12 @@
         "text": "Etsuraku no Tane"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "Frantic Tentacles - The Animation"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "Frantic Tentacles - The Animation"
       },
@@ -346553,7 +346633,7 @@
     "aid": "11345",
     "titles": [
       {
-        "lang": "en",
+        "lang": "fr",
         "type": "official",
         "text": "Dimension W"
       },
@@ -346568,7 +346648,7 @@
         "text": "Dimension W"
       },
       {
-        "lang": "fr",
+        "lang": "en",
         "type": "official",
         "text": "Dimension W"
       },
@@ -346626,6 +346706,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "阿松"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "阿松"
       }
     ]
   },
@@ -346676,6 +346761,11 @@
         "lang": "ja",
         "type": "official",
         "text": "赤髪の白雪姫 Snow White with the Red Hair (2016)"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "赤髮白雪姬 第二季"
       }
     ]
   },
@@ -365033,13 +365123,13 @@
         "text": "kemofure"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "fr",
+        "type": "official",
         "text": "Kemono Friends"
       },
       {
-        "lang": "fr",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Kemono Friends"
       },
       {
@@ -365098,6 +365188,11 @@
         "text": "planetarian ~星の人~"
       },
       {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "planetarian ～星之人～"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Planetarian: Hoshi no Hito"
@@ -365133,14 +365228,14 @@
         "text": "Www.Wagnaria!!"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Www.Working!!"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "WWW.WORKING!!"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Www.Working!!"
       },
       {
         "lang": "zh-Hans",
@@ -365683,13 +365778,13 @@
         "text": "batoga"
       },
       {
-        "lang": "fr",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Battle Girl High School"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "fr",
+        "type": "official",
         "text": "Battle Girl High School"
       },
       {
@@ -365816,6 +365911,11 @@
         "lang": "ko",
         "type": "official",
         "text": "Planetarian ~작은 별의 꿈~"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "planetarian ～星之夢～"
       },
       {
         "lang": "x-jat",
@@ -373106,6 +373206,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "偶像事变"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "偶像選舉"
       }
     ]
   },
@@ -413536,6 +413641,11 @@
         "lang": "ja",
         "type": "syn",
         "text": "イングレス"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "虛擬入口"
       }
     ]
   },
@@ -460768,6 +460878,11 @@
         "text": "舞伎家的料理人"
       },
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "舞伎家的料理人"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "舞妓さんちのまかないさん"
@@ -468198,13 +468313,13 @@
     "aid": "15734",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Gekidol"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Gekidol"
       },
       {
@@ -468238,13 +468353,18 @@
         "text": "Sword Art Online the Movie: Progressive - Aria of a Starless Night"
       },
       {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "刀剑神域进击篇: 无星之夜"
+      },
+      {
         "lang": "zh-Hant",
         "type": "official",
         "text": "刀劍神域劇場版－Progressive－無星夜的詠嘆調"
       },
       {
         "lang": "zh-Hans",
-        "type": "official",
+        "type": "syn",
         "text": "剧场版 刀剑神域 进击篇 无星之夜的咏叹调"
       },
       {
@@ -492368,13 +492488,13 @@
     "aid": "16681",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Cardfight!! Vanguard: Will+Dress"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Cardfight!! Vanguard: Will+Dress"
       },
       {
@@ -492441,6 +492561,11 @@
         "lang": "x-zht",
         "type": "main",
         "text": "Chuanyue Huoxian: Youling Jihua"
+      },
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "CrossFire: Project Ghost"
       },
       {
         "lang": "zh-Hans",
@@ -492873,12 +492998,12 @@
         "text": "Kidou Senshi Gundam: Cucuruz Doan no Shima"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "Mobile Suit Gundam: Cucuruz Doan`s Island"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "Mobile Suit Gundam: Cucuruz Doan`s Island"
       },
@@ -542419,7 +542544,7 @@
       },
       {
         "lang": "en",
-        "type": "syn",
+        "type": "official",
         "text": "The Tale of The Spirit Stone"
       },
       {
@@ -542434,7 +542559,7 @@
     "titles": [
       {
         "lang": "x-zht",
-        "type": "main",
+        "type": "syn",
         "text": "Jing Cui Xian Zun 2"
       },
       {
@@ -542443,9 +542568,19 @@
         "text": "Jing Cui Xian Zun Part 2"
       },
       {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Jing Cui Xian Zun Xia"
+      },
+      {
         "lang": "en",
         "type": "syn",
         "text": "The Tale of The Spirit Stone 2"
+      },
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "The Tale of The Spirit Stone Part 2"
       },
       {
         "lang": "zh-Hans",
@@ -542463,13 +542598,13 @@
         "text": "Dorohedoro S2"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Dorohedoro Season 2"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Dorohedoro Season 2"
       },
       {
@@ -558020,12 +558155,12 @@
       {
         "lang": "x-jat",
         "type": "main",
-        "text": "Uchuu Senkan Yamato (Shinsaku Anime Eizou)"
+        "text": "Uchuu Senkan Yamato Root 2199"
       },
       {
         "lang": "ja",
         "type": "official",
-        "text": "宇宙戦艦ヤマト (新作アニメ映像)"
+        "text": "宇宙戦艦ヤマト√2199"
       }
     ]
   },
@@ -562650,7 +562785,7 @@
       {
         "lang": "x-jat",
         "type": "main",
-        "text": "Hateshi Naki Scarlet"
+        "text": "Hateshinaki Scarlet"
       },
       {
         "lang": "pl",
@@ -566521,6 +566656,11 @@
         "lang": "en",
         "type": "official",
         "text": "Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court"
+      },
+      {
+        "lang": "ru",
+        "type": "syn",
+        "text": "Хоть я и бездарная злодейка: Сказка о том, как бабочка и крыса поменялись местами в девичьем дворе"
       },
       {
         "lang": "ja",
@@ -576443,6 +576583,11 @@
         "text": "Chou Jun! Choujou-senpai"
       },
       {
+        "lang": "x-jat",
+        "type": "syn",
+        "text": "Choujun! Choujou-senpai"
+      },
+      {
         "lang": "en",
         "type": "official",
         "text": "Super Psychic Policeman Chojo"
@@ -582968,6 +583113,16 @@
     "aid": "19951",
     "titles": [
       {
+        "lang": "de",
+        "type": "official",
+        "text": "Battle Spirits [Re] ZEKKAI NO KU"
+      },
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "Battle Spirits [Re] Zekkai no Ku"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Battle Spirits [Re] Zekkai no Kuu"
@@ -582976,6 +583131,11 @@
         "lang": "ja",
         "type": "official",
         "text": "Battle Spirits [Re] 絶界の空"
+      },
+      {
+        "lang": "x-jat",
+        "type": "syn",
+        "text": "Battle Spirits Re - Zekkai no Kuu"
       }
     ]
   },
