@@ -181218,6 +181218,11 @@
         "text": "Venus Versus Virus"
       },
       {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "Venus Versus Virus 除魔維納斯"
+      },
+      {
         "lang": "x-jat",
         "type": "syn",
         "text": "Venus vs. Virus"
@@ -206463,6 +206468,11 @@
         "text": "魔法使的条件 夏季的天空"
       },
       {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "魔法使的條件 夏日的天空"
+      },
+      {
         "lang": "zh-Hans",
         "type": "syn",
         "text": "魔法使的注意事项~夏之空~"
@@ -210496,6 +210506,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "夕阳染红的街道"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "夕陽染紅的坡道"
       },
       {
         "lang": "zh-Hans",
@@ -245636,6 +245651,11 @@
         "lang": "ja",
         "type": "official",
         "text": "世紀末オカルト学院"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "世紀末超自然學院"
       },
       {
         "lang": "zh-Hans",
@@ -313928,13 +313948,13 @@
     "aid": "10111",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Barakamon"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Barakamon"
       },
       {
@@ -313971,6 +313991,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "元气囝仔"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "元氣囝仔"
       }
     ]
   },
@@ -325826,6 +325851,11 @@
         "lang": "ja",
         "type": "official",
         "text": "対魔導学園35試験小隊"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "對魔導學園35試驗小隊"
       }
     ]
   },
@@ -334333,6 +334363,11 @@
         "text": "亚尔斯兰战记"
       },
       {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "亞爾斯蘭戰記"
+      },
+      {
         "lang": "zh-Hans",
         "type": "syn",
         "text": "阿尔斯兰战记"
@@ -336666,6 +336701,11 @@
         "lang": "ja",
         "type": "short",
         "text": "チェンクロ"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "鎖鏈戰記 赫克瑟塔斯之光"
       },
       {
         "lang": "zh-Hans",
@@ -343868,14 +343908,19 @@
     "aid": "11234",
     "titles": [
       {
+        "lang": "en",
+        "type": "official",
+        "text": "Hundred"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Hundred"
       },
       {
-        "lang": "en",
+        "lang": "zh-Hant",
         "type": "official",
-        "text": "Hundred"
+        "text": "Hundred 百武裝戰記"
       },
       {
         "lang": "ru",
@@ -354766,6 +354811,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "亚尔斯兰战记 风尘乱舞"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "亞爾斯蘭戰記 風塵亂舞"
       }
     ]
   },
@@ -356523,14 +356573,14 @@
     "aid": "11759",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "SECRET JOURNEY"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Secret Journey"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "SECRET JOURNEY"
       },
       {
         "lang": "fr",
@@ -356578,12 +356628,12 @@
     "aid": "11761",
     "titles": [
       {
-        "lang": "ko",
+        "lang": "en",
         "type": "official",
         "text": "BBK/BRNK"
       },
       {
-        "lang": "en",
+        "lang": "ko",
         "type": "official",
         "text": "BBK/BRNK"
       },
@@ -356621,6 +356671,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "舞兵器舞乱伎"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "舞武器舞亂伎"
       }
     ]
   },
@@ -356656,6 +356711,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "正确的KADO"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "正確的卡多"
       },
       {
         "lang": "ja",
@@ -356698,13 +356758,13 @@
     "aid": "11764",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Show by Rock!! Short!!"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Show by Rock!! Short!!"
       },
       {
@@ -356888,8 +356948,8 @@
     "aid": "11777",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Scandal Anime"
       },
       {
@@ -356898,8 +356958,8 @@
         "text": "SCANDAL ANIME"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Scandal Anime"
       }
     ]
@@ -356918,12 +356978,12 @@
         "text": "Gantz: Osaka Arc"
       },
       {
-        "lang": "ja",
+        "lang": "pl",
         "type": "official",
         "text": "GANTZ:O"
       },
       {
-        "lang": "pl",
+        "lang": "ja",
         "type": "official",
         "text": "GANTZ:O"
       },
@@ -356948,17 +357008,17 @@
     "aid": "11780",
     "titles": [
       {
+        "lang": "fr",
+        "type": "official",
+        "text": "Luck & Logic"
+      },
+      {
         "lang": "x-jat",
         "type": "syn",
         "text": "Luck & Logic"
       },
       {
         "lang": "en",
-        "type": "official",
-        "text": "Luck & Logic"
-      },
-      {
-        "lang": "fr",
         "type": "official",
         "text": "Luck & Logic"
       },
@@ -357023,14 +357083,14 @@
         "text": "!אשמה"
       },
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "BLAME! (2017)"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Blame! (2017)"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "BLAME! (2017)"
       },
       {
         "lang": "ru",
@@ -359048,12 +359108,12 @@
         "text": "Berserk"
       },
       {
-        "lang": "en",
+        "lang": "it",
         "type": "official",
         "text": "Berserk (2016)"
       },
       {
-        "lang": "it",
+        "lang": "en",
         "type": "official",
         "text": "Berserk (2016)"
       },
@@ -359063,13 +359123,13 @@
         "text": "Berserk (Saison 1)"
       },
       {
-        "lang": "ru",
-        "type": "official",
+        "lang": "bg",
+        "type": "syn",
         "text": "Берсерк (2016)"
       },
       {
-        "lang": "bg",
-        "type": "syn",
+        "lang": "ru",
+        "type": "official",
         "text": "Берсерк (2016)"
       },
       {
@@ -359081,6 +359141,11 @@
         "lang": "zh-Hans",
         "type": "short",
         "text": "剑风传奇"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "烙印勇士"
       }
     ]
   },
@@ -359461,6 +359526,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "野良和皇女和流浪猫之心"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "野良與皇女與流浪貓之心"
       }
     ]
   },
@@ -359473,13 +359543,13 @@
         "text": "teekyu alt"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Usakame"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Usakame"
       },
       {
@@ -363888,7 +363958,7 @@
     "aid": "12014",
     "titles": [
       {
-        "lang": "en",
+        "lang": "zh-Hant",
         "type": "official",
         "text": "91 Days"
       },
@@ -363899,6 +363969,11 @@
       },
       {
         "lang": "ja",
+        "type": "official",
+        "text": "91 Days"
+      },
+      {
+        "lang": "en",
         "type": "official",
         "text": "91 Days"
       },
@@ -364038,7 +364113,7 @@
         "text": "Ilha"
       },
       {
-        "lang": "zh-Hans",
+        "lang": "zh-Hant",
         "type": "official",
         "text": "ISLAND"
       },
@@ -364056,6 +364131,11 @@
         "lang": "en",
         "type": "official",
         "text": "Island"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "ISLAND"
       },
       {
         "lang": "ru",
@@ -381321,6 +381401,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "舞动青春"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "舞動青春"
       }
     ]
   },
@@ -381363,13 +381448,13 @@
     "aid": "12702",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Master of Torque Epilogue"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Master of Torque Epilogue"
       },
       {
@@ -381418,7 +381503,7 @@
         "text": "Fate / Apokrifek"
       },
       {
-        "lang": "en",
+        "lang": "zh-Hant",
         "type": "official",
         "text": "Fate/Apocrypha"
       },
@@ -381429,6 +381514,11 @@
       },
       {
         "lang": "ja",
+        "type": "official",
+        "text": "Fate/Apocrypha"
+      },
+      {
+        "lang": "en",
         "type": "official",
         "text": "Fate/Apocrypha"
       },
@@ -385891,6 +385981,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "地狱少女 宵伽"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "地獄少女 宵伽"
       },
       {
         "lang": "ja",
@@ -393508,13 +393603,13 @@
     "aid": "13214",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Midnight Crazy Trail"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Midnight Crazy Trail"
       },
       {
@@ -393616,6 +393711,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "关于我女友是个一本正经的碧池这件事"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "我的女友是個過度認真的處女 Bitch"
       }
     ]
   },
@@ -403693,17 +403793,17 @@
         "text": "Date a Live (2019)"
       },
       {
+        "lang": "en",
+        "type": "official",
+        "text": "Date a Live III"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Date a Live III"
       },
       {
         "lang": "de",
-        "type": "official",
-        "text": "Date a Live III"
-      },
-      {
-        "lang": "en",
         "type": "official",
         "text": "Date a Live III"
       },
@@ -403781,6 +403881,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "我喜欢的是妹妹但不是妹妹"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "我喜歡的妹妹不是妹妹"
       }
     ]
   },
@@ -403803,11 +403908,6 @@
     "aid": "13536",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
-        "text": "Banana Fish"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Banana Fish"
@@ -403816,6 +403916,11 @@
         "lang": "ja",
         "type": "official",
         "text": "BANANA FISH"
+      },
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "Banana Fish"
       },
       {
         "lang": "tr",
@@ -403931,6 +404036,11 @@
         "lang": "ja",
         "type": "official",
         "text": "ピアノの森 (2018)"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "琴之森 2018"
       },
       {
         "lang": "zh-Hans",
@@ -410838,13 +410948,13 @@
         "text": "Hanebad!"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Hanebado!"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Hanebado!"
       },
       {
@@ -410871,6 +410981,11 @@
         "lang": "ja",
         "type": "official",
         "text": "はねバド!"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "羽球戰爭！"
       },
       {
         "lang": "zh-Hans",
@@ -413903,13 +414018,13 @@
         "text": "PSYCHO-PASS SS"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Psycho-Pass: Sinners of the System"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Psycho-Pass: Sinners of the System"
       },
       {
@@ -413943,12 +414058,12 @@
         "text": "norsekai"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "The Master of Ragnarok & Blesser of Einherjar"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "The Master of Ragnarok & Blesser of Einherjar"
       },
@@ -414043,6 +414158,11 @@
         "text": "からくりサーカス"
       },
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "傀儡馬戲團"
+      },
+      {
         "lang": "zh-Hans",
         "type": "official",
         "text": "魔偶马戏团"
@@ -414093,12 +414213,12 @@
         "text": "ブギーポップは笑わない"
       },
       {
-        "lang": "zh-Hant",
+        "lang": "zh-Hans",
         "type": "official",
         "text": "不吉波普不笑"
       },
       {
-        "lang": "zh-Hans",
+        "lang": "zh-Hant",
         "type": "official",
         "text": "不吉波普不笑"
       }
@@ -424263,6 +424383,11 @@
         "text": "軒轅剣・蒼き曜"
       },
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "軒轅劍 蒼之曜"
+      },
+      {
         "lang": "zh-Hans",
         "type": "official",
         "text": "轩辕剑"
@@ -431403,17 +431528,17 @@
         "text": "Enn Enn no Shouboutai"
       },
       {
-        "lang": "it",
-        "type": "official",
-        "text": "Fire Force"
-      },
-      {
         "lang": "de",
         "type": "official",
         "text": "Fire Force"
       },
       {
         "lang": "en",
+        "type": "official",
+        "text": "Fire Force"
+      },
+      {
+        "lang": "it",
         "type": "official",
         "text": "Fire Force"
       },
@@ -431496,6 +431621,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "迷你刀使"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "迷你馭刀巫女"
       }
     ]
   },
@@ -438653,13 +438783,13 @@
     "aid": "14717",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Granbelm"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Granbelm"
       },
       {
@@ -438681,6 +438811,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "满月之战"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "滿月之戰"
       }
     ]
   },
@@ -454043,6 +454178,11 @@
         "text": "Nomad - Megalo Box 2"
       },
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "NOMAD MEGALOBOX 機甲拳擊 第二季"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "NOMAD メガロボクス2"
@@ -455721,6 +455861,11 @@
         "lang": "ja",
         "type": "official",
         "text": "刀使ノ巫女 刻みし一閃の燈火"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "馭刀巫女 刻印一閃的燈火"
       }
     ]
   },
@@ -469723,13 +469868,13 @@
         "text": "WEP"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Wonder Egg Priority"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Wonder Egg Priority"
       },
       {
@@ -469821,6 +469966,11 @@
         "lang": "ja",
         "type": "syn",
         "text": "憂国のモリアーティ(2クール目)"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "憂國的莫里亞蒂 後半"
       }
     ]
   },
@@ -546320,7 +546470,22 @@
       {
         "lang": "en",
         "type": "syn",
+        "text": "Asura (2024)"
+      },
+      {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Kuang Wang"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
         "text": "The Westward - The Mad King"
+      },
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "The Westward: Asura"
       },
       {
         "lang": "x-zht",
@@ -546335,12 +546500,22 @@
       {
         "lang": "zh-Hans",
         "type": "syn",
+        "text": "狂王"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "syn",
         "text": "狂王Asura"
       },
       {
         "lang": "zh-Hans",
         "type": "official",
         "text": "西行纪之狂王"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "syn",
+        "text": "龙神万相之狂王"
       }
     ]
   },
@@ -575583,11 +575758,6 @@
         "text": "Hanaori-san wa Tensei Shite mo Kenka ga Shitai"
       },
       {
-        "lang": "x-jat",
-        "type": "syn",
-        "text": "Hanaori-san wa Tensei shitemo Kenka ga Shitai"
-      },
-      {
         "lang": "en",
         "type": "syn",
         "text": "Hanaori-san Wants to Have a Fight Even if She Reincarnates"
@@ -576431,6 +576601,11 @@
         "lang": "x-jat",
         "type": "main",
         "text": "Tetsuryo! Meet with Tetsudou Musume"
+      },
+      {
+        "lang": "x-jat",
+        "type": "syn",
+        "text": "Tetsuryou! Meet with Tetsudou Musume"
       },
       {
         "lang": "ja",
@@ -585658,6 +585833,11 @@
         "text": "Hyouken no Majutsushi ga Sekai o Suberu II"
       },
       {
+        "lang": "x-jat",
+        "type": "syn",
+        "text": "Hyouken no Majutsushi ga Sekai wo Suberu S2"
+      },
+      {
         "lang": "en",
         "type": "official",
         "text": "The Iceblade Sorcerer Shall Rule the World II"
@@ -586018,12 +586198,12 @@
     "aid": "20081",
     "titles": [
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "Dandivine"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "Dandivine"
       },
@@ -586113,13 +586293,13 @@
     "aid": "20086",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Dengeki Daisy"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Dengeki Daisy"
       },
       {
@@ -586238,13 +586418,13 @@
     "aid": "20093",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Big Boss"
       },
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Big Boss"
       }
     ]
@@ -586838,13 +587018,13 @@
     "aid": "20121",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Fool Night"
       },
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Fool Night"
       },
       {
@@ -587118,13 +587298,13 @@
     "aid": "20131",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Snowball Earth 2"
       },
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Snowball Earth 2"
       },
       {
@@ -587753,13 +587933,13 @@
     "aid": "20163",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Here U Are"
       },
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Here U Are"
       },
       {
@@ -588648,13 +588828,13 @@
     "aid": "20206",
     "titles": [
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Studio Cabana"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Studio Cabana"
       },
       {
@@ -590333,14 +590513,14 @@
     "aid": "20285",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "ANGRY RABBIT"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Angry Rabbit"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "ANGRY RABBIT"
       }
     ]
   },
@@ -591023,13 +591203,13 @@
         "text": "Pokémon ワイルドカード"
       },
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Pokemon: Wild Card"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Pokemon: Wild Card"
       },
       {
@@ -592378,13 +592558,13 @@
     "aid": "20413",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Phantom Busters"
       },
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Phantom Busters"
       },
       {
@@ -592633,14 +592813,14 @@
     "aid": "20426",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "LIAR GAME 2"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Liar Game 2"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "LIAR GAME 2"
       },
       {
         "lang": "en",
@@ -593266,6 +593446,56 @@
         "lang": "ja",
         "type": "official",
         "text": "片腕"
+      }
+    ]
+  },
+  {
+    "aid": "20458",
+    "titles": [
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "Asura 2"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Asura S2"
+      },
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Kuang Wang 2"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Kuang Wang 2nd Season"
+      },
+      {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Kuang Wang Di Er Ji"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "syn",
+        "text": "狂王 第2季"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "syn",
+        "text": "狂王 第二季"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "狂王2"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "syn",
+        "text": "龙神万相之狂王2"
       }
     ]
   }
