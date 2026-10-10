@@ -329425,7 +329425,7 @@
       {
         "lang": "uk",
         "type": "official",
-        "text": "Повелитель стріл та Діва Війни"
+        "text": "Король Магічних Стріл та Ванадіс"
       },
       {
         "lang": "ko",
@@ -567713,6 +567713,11 @@
     "aid": "19263",
     "titles": [
       {
+        "lang": "x-jat",
+        "type": "short",
+        "text": "shanfro 3"
+      },
+      {
         "lang": "en",
         "type": "official",
         "text": "Shangri-La Frontier (2027)"
@@ -570954,7 +570959,7 @@
       },
       {
         "lang": "en",
-        "type": "syn",
+        "type": "official",
         "text": "Teenage Mercenary"
       },
       {
@@ -581068,6 +581073,11 @@
         "text": "Doukyo Shite Iru Kensei no Onna Shishou ga Kawaisugite Mainichi Shiawase Desu"
       },
       {
+        "lang": "en",
+        "type": "syn",
+        "text": "My Sword Saint Master Is Too Cute to Live With!"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "同居している剣聖の女師匠が可愛すぎて毎日幸せです"
@@ -581553,6 +581563,11 @@
         "text": "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei Shita Kami-goroshi no Bujin no Karei Naru Musouroku"
       },
       {
+        "lang": "pt",
+        "type": "syn",
+        "text": "Nia Liston, a Menina Implacável"
+      },
+      {
         "lang": "en",
         "type": "syn",
         "text": "Nia Liston: The Merciless Maiden"
@@ -581848,13 +581863,13 @@
     "aid": "19877",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Thunder 3"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Thunder 3"
       },
       {
@@ -582258,9 +582273,19 @@
         "text": "The Great Ruler S2"
       },
       {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "大主宰 年番2"
+      },
+      {
         "lang": "zh-Hans",
         "type": "syn",
         "text": "大主宰 第二季"
+      },
+      {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "大主宰2"
       },
       {
         "lang": "zh-Hans",
@@ -584380,7 +584405,7 @@
       {
         "lang": "x-jat",
         "type": "main",
-        "text": "Juurin Oukoku"
+        "text": "Juurin Oukoku: Elf Oukoku wa Kyodai Naedoko ni"
       },
       {
         "lang": "ko",
@@ -584390,7 +584415,7 @@
       {
         "lang": "ja",
         "type": "official",
-        "text": "蹂躙王国"
+        "text": "蹂躙王国 ~エルフ王国は巨大苗床に~"
       }
     ]
   },
@@ -585015,17 +585040,17 @@
       {
         "lang": "en",
         "type": "syn",
-        "text": "Berserk of Gluttony 2"
+        "text": "Berserk of Gluttony Season 2"
       },
       {
         "lang": "x-jat",
         "type": "main",
-        "text": "Boushoku no Berserk 2"
+        "text": "Boushoku no Berserk Season 2"
       },
       {
         "lang": "ja",
         "type": "official",
-        "text": "暴食のベルセルク 2"
+        "text": "暴食のベルセルク Season 2"
       }
     ]
   },
@@ -590073,6 +590098,11 @@
         "text": "Akazukin, Tabi no Tochuu de Shitai to Deau."
       },
       {
+        "lang": "en",
+        "type": "official",
+        "text": "Red Riding Hood: A Detective Story"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "赤ずきん, 旅の途中で死体と出会う."
@@ -592558,13 +592588,13 @@
     "aid": "20413",
     "titles": [
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Phantom Busters"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Phantom Busters"
       },
       {
@@ -592813,6 +592843,11 @@
     "aid": "20426",
     "titles": [
       {
+        "lang": "en",
+        "type": "syn",
+        "text": "Liar Game 2"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Liar Game 2"
@@ -592821,11 +592856,6 @@
         "lang": "ja",
         "type": "official",
         "text": "LIAR GAME 2"
-      },
-      {
-        "lang": "en",
-        "type": "syn",
-        "text": "Liar Game 2"
       },
       {
         "lang": "ja",
@@ -593496,6 +593526,86 @@
         "lang": "zh-Hans",
         "type": "syn",
         "text": "龙神万相之狂王2"
+      }
+    ]
+  },
+  {
+    "aid": "20459",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Saikon Shounin o Youkyuushimasu"
+      },
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "The Remarried Empress"
+      },
+      {
+        "lang": "ko",
+        "type": "official",
+        "text": "재혼 황후"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "再婚承認を要求します"
+      }
+    ]
+  },
+  {
+    "aid": "20460",
+    "titles": [
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "The Boxer"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "The Boxer"
+      },
+      {
+        "lang": "ko",
+        "type": "official",
+        "text": "더 복서"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "ザ・ボクサー"
+      }
+    ]
+  },
+  {
+    "aid": "20461",
+    "titles": [
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "How I Became King by Eating Monsters"
+      },
+      {
+        "lang": "x-jat",
+        "type": "short",
+        "text": "monniku"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Monster no Niku o Kutte Itara Oui ni Tsuita Ken"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "モンスターの肉を食っていたら王位に就いた件"
+      },
+      {
+        "lang": "ja",
+        "type": "short",
+        "text": "モン肉"
       }
     ]
   }
