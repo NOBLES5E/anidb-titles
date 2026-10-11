@@ -583160,6 +583160,11 @@
       {
         "lang": "en",
         "type": "syn",
+        "text": "Paw and Palaces"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
         "text": "Paws & Palaces"
       },
       {
@@ -592613,6 +592618,11 @@
         "text": "Detective Conan: The Counterfeit Crime Case of Ultra 30"
       },
       {
+        "lang": "de",
+        "type": "official",
+        "text": "Detektiv Conan: The Counterfeit Crime Case of Ultra 30"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Meitantei Conan: 30 Gou Satsujin Jiken"
@@ -592843,9 +592853,9 @@
     "aid": "20426",
     "titles": [
       {
-        "lang": "en",
-        "type": "syn",
-        "text": "Liar Game 2"
+        "lang": "ja",
+        "type": "official",
+        "text": "LIAR GAME 2"
       },
       {
         "lang": "x-jat",
@@ -592853,9 +592863,9 @@
         "text": "Liar Game 2"
       },
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "LIAR GAME 2"
+        "lang": "en",
+        "type": "syn",
+        "text": "Liar Game 2"
       },
       {
         "lang": "ja",
@@ -593606,6 +593616,66 @@
         "lang": "ja",
         "type": "short",
         "text": "モン肉"
+      }
+    ]
+  },
+  {
+    "aid": "20462",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Dr. Stone: Terraforming"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "Dr.STONE TERRAFORMING"
+      }
+    ]
+  },
+  {
+    "aid": "20463",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Yuu-san chi! from Yuu-hachi"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "ゆうさんち！from 遊ハち"
+      }
+    ]
+  },
+  {
+    "aid": "20464",
+    "titles": [
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "NARUTO x NINKŪ"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Naruto x Ninkuu"
+      }
+    ]
+  },
+  {
+    "aid": "20465",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Mazenchu"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "マゼンチュ"
       }
     ]
   }
