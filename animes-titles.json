@@ -200931,6 +200931,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "我家有个狐仙大人"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "我家有個狐仙大人"
       }
     ]
   },
@@ -215121,6 +215126,11 @@
         "lang": "ja",
         "type": "official",
         "text": "続 夏目友人帳"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "續 夏目友人帳"
       },
       {
         "lang": "zh-Hans",
@@ -267871,6 +267881,11 @@
         "lang": "ja",
         "type": "official",
         "text": "夏目友人帳 参"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "夏目友人帳 參"
       }
     ]
   },
@@ -277006,6 +277021,11 @@
         "lang": "zh-Hans",
         "type": "syn",
         "text": "夏目友人帐4"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "夏目友人帳 肆"
       },
       {
         "lang": "ja",
@@ -317913,6 +317933,11 @@
         "text": "みんな集まれ! ファルコム学園"
       },
       {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "大家集合！Falcom 學園"
+      },
+      {
         "lang": "zh-Hans",
         "type": "official",
         "text": "大家集合！Falcom学园"
@@ -342488,6 +342513,11 @@
     "aid": "11186",
     "titles": [
       {
+        "lang": "fr",
+        "type": "official",
+        "text": "Le Typhon de Noruda"
+      },
+      {
         "lang": "x-jat",
         "type": "syn",
         "text": "Taifu no Noruda"
@@ -347336,6 +347366,11 @@
         "lang": "ja",
         "type": "syn",
         "text": "ファンタシースターオンライン2 ジ アニメーション"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "夢幻之星 Online 2"
       },
       {
         "lang": "zh-Hans",
@@ -354286,6 +354321,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "发条精灵战记 天镜的极北之星"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "發條精靈戰記 天鏡的極北之星"
       }
     ]
   },
@@ -354363,7 +354403,7 @@
         "text": "SWORD ART ONLINE THE MOVIE -Ordinal Scale-"
       },
       {
-        "lang": "it",
+        "lang": "en",
         "type": "official",
         "text": "Sword Art Online the Movie: Ordinal Scale"
       },
@@ -354373,12 +354413,12 @@
         "text": "SWORD ART ONLINE THE MOVIE: Ordinal Scale"
       },
       {
-        "lang": "de",
+        "lang": "it",
         "type": "official",
         "text": "Sword Art Online the Movie: Ordinal Scale"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "Sword Art Online the Movie: Ordinal Scale"
       },
@@ -354393,12 +354433,12 @@
         "text": "刀剑神域 序列之争"
       },
       {
-        "lang": "zh-Hant",
+        "lang": "zh",
         "type": "official",
         "text": "刀劍神域劇場版：序列爭戰"
       },
       {
-        "lang": "zh",
+        "lang": "zh-Hant",
         "type": "official",
         "text": "刀劍神域劇場版：序列爭戰"
       },
@@ -354438,13 +354478,13 @@
     "aid": "11683",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Amanchu!"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Amanchu!"
       },
       {
@@ -354693,11 +354733,6 @@
     "aid": "11692",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Kiznaiver"
-      },
-      {
         "lang": "en",
         "type": "official",
         "text": "Kiznaiver"
@@ -354705,6 +354740,11 @@
       {
         "lang": "fr",
         "type": "official",
+        "text": "Kiznaiver"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
         "text": "Kiznaiver"
       },
       {
@@ -354778,11 +354818,6 @@
         "text": "Kumamiko"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Kumamiko: Girl Meets Bear"
-      },
-      {
         "lang": "en",
         "type": "official",
         "text": "Kumamiko: Girl Meets Bear"
@@ -354790,6 +354825,11 @@
       {
         "lang": "fr",
         "type": "official",
+        "text": "Kumamiko: Girl Meets Bear"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
         "text": "Kumamiko: Girl Meets Bear"
       },
       {
@@ -355433,12 +355473,12 @@
     "aid": "11724",
     "titles": [
       {
-        "lang": "fr",
+        "lang": "en",
         "type": "official",
         "text": "Big Order"
       },
       {
-        "lang": "en",
+        "lang": "fr",
         "type": "official",
         "text": "Big Order"
       },
@@ -355783,12 +355823,12 @@
         "text": "JoJo`s Bizarre Adventure: Diamond Is Not Crash"
       },
       {
-        "lang": "en",
+        "lang": "fr",
         "type": "official",
         "text": "JoJo`s Bizarre Adventure: Diamond Is Unbreakable"
       },
       {
-        "lang": "fr",
+        "lang": "en",
         "type": "official",
         "text": "JoJo`s Bizarre Adventure: Diamond Is Unbreakable"
       },
@@ -355883,14 +355923,14 @@
     "aid": "11736",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "NEW GAME!"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "New Game!"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "NEW GAME!"
       },
       {
         "lang": "en",
@@ -356183,6 +356223,11 @@
     "aid": "11745",
     "titles": [
       {
+        "lang": "ko",
+        "type": "official",
+        "text": "THE REFLECTION"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "The Reflection"
@@ -356196,11 +356241,6 @@
         "lang": "en",
         "type": "official",
         "text": "The Reflection"
-      },
-      {
-        "lang": "ko",
-        "type": "official",
-        "text": "THE REFLECTION"
       },
       {
         "lang": "en",
@@ -356591,6 +356631,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "告诉我！辣妹子酱"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "百無禁忌！女高中生私房話"
       }
     ]
   },
@@ -356643,14 +356688,14 @@
     "aid": "11759",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Secret Journey"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "SECRET JOURNEY"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Secret Journey"
       },
       {
         "lang": "fr",
@@ -356828,9 +356873,9 @@
     "aid": "11764",
     "titles": [
       {
-        "lang": "en",
+        "lang": "zh-Hans",
         "type": "official",
-        "text": "Show by Rock!! Short!!"
+        "text": "SHOW BY ROCK!! SHORT!!"
       },
       {
         "lang": "x-jat",
@@ -356838,9 +356883,9 @@
         "text": "Show by Rock!! Short!!"
       },
       {
-        "lang": "zh-Hans",
+        "lang": "en",
         "type": "official",
-        "text": "SHOW BY ROCK!! SHORT!!"
+        "text": "Show by Rock!! Short!!"
       },
       {
         "lang": "ja",
@@ -356853,14 +356898,14 @@
     "aid": "11765",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "BROOTS"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Broots"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "BROOTS"
       },
       {
         "lang": "en",
@@ -357018,11 +357063,6 @@
     "aid": "11777",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
-        "text": "Scandal Anime"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "SCANDAL ANIME"
@@ -357030,6 +357070,11 @@
       {
         "lang": "x-jat",
         "type": "main",
+        "text": "Scandal Anime"
+      },
+      {
+        "lang": "en",
+        "type": "official",
         "text": "Scandal Anime"
       }
     ]
@@ -357048,12 +357093,12 @@
         "text": "Gantz: Osaka Arc"
       },
       {
-        "lang": "pl",
+        "lang": "ja",
         "type": "official",
         "text": "GANTZ:O"
       },
       {
-        "lang": "ja",
+        "lang": "pl",
         "type": "official",
         "text": "GANTZ:O"
       },
@@ -357078,17 +357123,17 @@
     "aid": "11780",
     "titles": [
       {
-        "lang": "fr",
-        "type": "official",
-        "text": "Luck & Logic"
-      },
-      {
         "lang": "x-jat",
         "type": "syn",
         "text": "Luck & Logic"
       },
       {
         "lang": "en",
+        "type": "official",
+        "text": "Luck & Logic"
+      },
+      {
+        "lang": "fr",
         "type": "official",
         "text": "Luck & Logic"
       },
@@ -357153,14 +357198,14 @@
         "text": "!אשמה"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Blame! (2017)"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "BLAME! (2017)"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Blame! (2017)"
       },
       {
         "lang": "ru",
@@ -357288,12 +357333,12 @@
         "text": "TSE"
       },
       {
-        "lang": "fr",
+        "lang": "en",
         "type": "official",
         "text": "Twin Star Exorcists"
       },
       {
-        "lang": "en",
+        "lang": "fr",
         "type": "official",
         "text": "Twin Star Exorcists"
       },
@@ -357373,13 +357418,13 @@
     "aid": "11790",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Garo: Divine Flame"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Garo: Divine Flame"
       },
       {
@@ -357753,13 +357798,13 @@
     "aid": "11803",
     "titles": [
       {
-        "lang": "pl",
+        "lang": "es-419",
         "type": "official",
         "text": "Mob Psycho 100"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "pl",
+        "type": "official",
         "text": "Mob Psycho 100"
       },
       {
@@ -357768,8 +357813,8 @@
         "text": "Mob Psycho 100"
       },
       {
-        "lang": "es-419",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Mob Psycho 100"
       },
       {
@@ -358153,6 +358198,11 @@
         "text": "Kara Kabuk"
       },
       {
+        "lang": "en",
+        "type": "official",
+        "text": "Kuromukuro"
+      },
+      {
         "lang": "pl",
         "type": "official",
         "text": "Kuromukuro"
@@ -358160,11 +358210,6 @@
       {
         "lang": "x-jat",
         "type": "main",
-        "text": "Kuromukuro"
-      },
-      {
-        "lang": "en",
-        "type": "official",
         "text": "Kuromukuro"
       },
       {
@@ -363899,6 +363944,11 @@
       },
       {
         "lang": "ja",
+        "type": "official",
+        "text": "夏目友人帳 伍"
+      },
+      {
+        "lang": "zh-Hant",
         "type": "official",
         "text": "夏目友人帳 伍"
       }
@@ -380781,6 +380831,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "夏目友人帐 陆"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "夏目友人帳 陸"
       },
       {
         "lang": "ja",
@@ -426401,6 +426456,11 @@
         "lang": "ja",
         "type": "official",
         "text": "超可動ガール1/6"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "超可動女孩 1/6"
       }
     ]
   },
@@ -436098,14 +436158,14 @@
     "aid": "14627",
     "titles": [
       {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "Fairy gone"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Fairy Gone"
-      },
-      {
-        "lang": "ja",
-        "type": "official",
-        "text": "Fairy gone"
       },
       {
         "lang": "en",
@@ -436113,7 +436173,12 @@
         "text": "Fairy Gone"
       },
       {
-        "lang": "zh-Hans",
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "Fairy gone"
+      },
+      {
+        "lang": "ja",
         "type": "official",
         "text": "Fairy gone"
       },
@@ -443461,6 +443526,11 @@
         "lang": "ja",
         "type": "official",
         "text": "天華百剣 ~めいじ館へようこそ!~"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "天華百劍 ～歡迎來到明治館！～"
       }
     ]
   },
@@ -473386,6 +473456,11 @@
         "lang": "ja",
         "type": "official",
         "text": "プラオレ!~PRIDE OF ORANGE~"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "橘色榮耀！"
       }
     ]
   },
@@ -477858,13 +477933,18 @@
     "aid": "16053",
     "titles": [
       {
-        "lang": "en",
+        "lang": "zh-Hant",
         "type": "official",
-        "text": "Blue Reflection Ray"
+        "text": "BLUE REFLECTION : 澪"
       },
       {
         "lang": "x-jat",
         "type": "main",
+        "text": "Blue Reflection Ray"
+      },
+      {
+        "lang": "en",
+        "type": "official",
         "text": "Blue Reflection Ray"
       },
       {
@@ -540298,6 +540378,11 @@
     "aid": "18300",
     "titles": [
       {
+        "lang": "x-jat",
+        "type": "short",
+        "text": "aobuta season 2"
+      },
+      {
         "lang": "en",
         "type": "syn",
         "text": "Rascal Does Not Dream of Bunny Girl Senpai Season 2"
@@ -593926,6 +594011,26 @@
         "lang": "ja",
         "type": "official",
         "text": "マゼンチュ"
+      }
+    ]
+  },
+  {
+    "aid": "20466",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Nue no Onmyouji"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Nue`s Exorcist"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "鵺の陰陽師"
       }
     ]
   }
