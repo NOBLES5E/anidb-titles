@@ -107740,7 +107740,7 @@
       {
         "lang": "en",
         "type": "syn",
-        "text": "Alibaba and the Forty Theives"
+        "text": "Alibaba and the Forty Thieves"
       },
       {
         "lang": "de",
@@ -163873,7 +163873,12 @@
         "text": "AG"
       },
       {
-        "lang": "de",
+        "lang": "en",
+        "type": "official",
+        "text": "Air Gear"
+      },
+      {
+        "lang": "pt",
         "type": "official",
         "text": "Air Gear"
       },
@@ -163883,12 +163888,7 @@
         "text": "Air Gear"
       },
       {
-        "lang": "en",
-        "type": "official",
-        "text": "Air Gear"
-      },
-      {
-        "lang": "pt",
+        "lang": "de",
         "type": "official",
         "text": "Air Gear"
       },
@@ -163931,6 +163931,11 @@
         "lang": "ja",
         "type": "official",
         "text": "エア・ギア"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "飛輪少年"
       },
       {
         "lang": "zh-Hans",
@@ -191243,7 +191248,7 @@
         "text": "Evos metas"
       },
       {
-        "lang": "en",
+        "lang": "fr",
         "type": "official",
         "text": "Time of Eve"
       },
@@ -191253,12 +191258,12 @@
         "text": "Time of Eve"
       },
       {
-        "lang": "fr",
+        "lang": "de",
         "type": "official",
         "text": "Time of Eve"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "Time of Eve"
       },
@@ -191292,6 +191297,11 @@
   {
     "aid": "5133",
     "titles": [
+      {
+        "lang": "x-unk",
+        "type": "syn",
+        "text": "https://www.imdb.com/title/tt1804031/?ref_=fn_t_1"
+      },
       {
         "lang": "en",
         "type": "syn",
@@ -191398,13 +191408,13 @@
     "aid": "5137",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "A-Girl"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "A-Girl"
       },
       {
@@ -243041,6 +243051,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "传说中的勇者传说"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "傳說的勇者的傳說"
       }
     ]
   },
@@ -257688,6 +257703,11 @@
         "text": "Saiyuki: Tessen Koushu no Maki"
       },
       {
+        "lang": "x-jat",
+        "type": "syn",
+        "text": "Saiyuuki: Tessen Koushu no Maki"
+      },
+      {
         "lang": "x-zht",
         "type": "main",
         "text": "Tie Shan Gongzhu"
@@ -269326,6 +269346,11 @@
         "lang": "ja",
         "type": "syn",
         "text": "劇場版ハートの国のアリス"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "心之國的愛麗絲"
       }
     ]
   },
@@ -282043,17 +282068,17 @@
         "text": "amnesia"
       },
       {
-        "lang": "en",
-        "type": "official",
-        "text": "Dusk Maiden of Amnesia"
-      },
-      {
         "lang": "de",
         "type": "official",
         "text": "Dusk Maiden of Amnesia"
       },
       {
         "lang": "fr",
+        "type": "official",
+        "text": "Dusk Maiden of Amnesia"
+      },
+      {
+        "lang": "en",
         "type": "official",
         "text": "Dusk Maiden of Amnesia"
       },
@@ -282081,6 +282106,11 @@
         "lang": "uk",
         "type": "syn",
         "text": "Сутінкова дівчина х Амнезія"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "黃昏乙女×失憶幽靈"
       },
       {
         "lang": "ja",
@@ -314568,6 +314598,11 @@
         "text": "そにアニ SUPER SONICO THE ANIMATION"
       },
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "超級索尼子"
+      },
+      {
         "lang": "zh-Hans",
         "type": "official",
         "text": "超级索尼子"
@@ -320933,6 +320968,11 @@
         "text": "Futsuu no Joshikousei ga [Locodol] Yattemita."
       },
       {
+        "lang": "es-419",
+        "type": "official",
+        "text": "LOCODOL"
+      },
+      {
         "lang": "en",
         "type": "official",
         "text": "Locodol"
@@ -320941,11 +320981,6 @@
         "lang": "fr",
         "type": "official",
         "text": "Locodol"
-      },
-      {
-        "lang": "es-419",
-        "type": "official",
-        "text": "LOCODOL"
       },
       {
         "lang": "es-419",
@@ -320971,6 +321006,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "普通女高中生要做当地偶像"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "普通女高中生要做當地偶像"
       }
     ]
   },
@@ -321043,7 +321083,12 @@
         "text": "AkaKill"
       },
       {
-        "lang": "en",
+        "lang": "pl",
+        "type": "official",
+        "text": "Akame ga Kill!"
+      },
+      {
+        "lang": "de",
         "type": "official",
         "text": "Akame ga Kill!"
       },
@@ -321053,12 +321098,7 @@
         "text": "Akame ga Kill!"
       },
       {
-        "lang": "pl",
-        "type": "official",
-        "text": "Akame ga Kill!"
-      },
-      {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "Akame ga Kill!"
       },
@@ -345461,6 +345501,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "普通女高中生要做当地偶像OVA"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "普通女高中生要做當地偶像 OVA"
       }
     ]
   },
@@ -346436,6 +346481,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "小森同学拒绝不了！"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "小森同學拒絕不了！"
       }
     ]
   },
@@ -371576,6 +371626,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "魔法少女什么的已经够了啦。第二季"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "魔法少女什麼的已經夠了啦 第二季"
       }
     ]
   },
@@ -371583,18 +371638,13 @@
     "aid": "12318",
     "titles": [
       {
+        "lang": "ko",
+        "type": "official",
+        "text": "ID-0"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
-        "text": "ID-0"
-      },
-      {
-        "lang": "de",
-        "type": "official",
-        "text": "ID-0"
-      },
-      {
-        "lang": "pl",
-        "type": "official",
         "text": "ID-0"
       },
       {
@@ -371608,7 +371658,12 @@
         "text": "ID-0"
       },
       {
-        "lang": "ko",
+        "lang": "pl",
+        "type": "official",
+        "text": "ID-0"
+      },
+      {
+        "lang": "de",
         "type": "official",
         "text": "ID-0"
       },
@@ -373239,6 +373294,11 @@
       },
       {
         "lang": "ja",
+        "type": "official",
+        "text": "異世界食堂"
+      },
+      {
+        "lang": "zh-Hant",
         "type": "official",
         "text": "異世界食堂"
       }
@@ -419573,12 +419633,12 @@
         "text": "Monster List 2nd Season"
       },
       {
-        "lang": "x-jat",
+        "lang": "x-zht",
         "type": "main",
         "text": "Yaoguai Mingdan 2nd Season"
       },
       {
-        "lang": "ja",
+        "lang": "zh-Hans",
         "type": "official",
         "text": "妖怪名单第2季"
       }
@@ -454213,13 +454273,13 @@
     "aid": "15260",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Super Cub"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Super Cub"
       },
       {
@@ -454231,6 +454291,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "本田小狼与我"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "本田小狼與我"
       }
     ]
   },
@@ -454378,13 +454443,13 @@
         "text": "Hidden Things"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Kakushigoto"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Kakushigoto"
       },
       {
@@ -492538,6 +492603,11 @@
         "text": "San San Di Ezuoju Chufang"
       },
       {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Sansan de Ezuoju Chufang"
+      },
+      {
         "lang": "zh-Hans",
         "type": "official",
         "text": "三三的恶作剧厨房"
@@ -493183,13 +493253,13 @@
     "aid": "16681",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Cardfight!! Vanguard: Will+Dress"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Cardfight!! Vanguard: Will+Dress"
       },
       {
@@ -493213,13 +493283,13 @@
     "aid": "16682",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Cardfight!! Vanguard: Will+Dress Season 2"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Cardfight!! Vanguard: Will+Dress Season 2"
       },
       {
@@ -493623,12 +493693,12 @@
         "text": "Kidou Senshi Gundam: Suisei no Majo"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "Mobile Suit Gundam: The Witch from Mercury"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "Mobile Suit Gundam: The Witch from Mercury"
       },
@@ -495788,13 +495858,13 @@
     "aid": "16794",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Estab Life: Great Escape"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Estab Life: Great Escape"
       },
       {
@@ -495933,6 +496003,11 @@
     "aid": "16796",
     "titles": [
       {
+        "lang": "en",
+        "type": "official",
+        "text": "Tales of Luminaria the Fateful Crossroad"
+      },
+      {
         "lang": "de",
         "type": "official",
         "text": "Tales of Luminaria the Fateful Crossroad"
@@ -495941,11 +496016,6 @@
         "lang": "ja",
         "type": "official",
         "text": "TALES OF LUMINARIA The Fateful Crossroad"
-      },
-      {
-        "lang": "en",
-        "type": "official",
-        "text": "Tales of Luminaria the Fateful Crossroad"
       },
       {
         "lang": "x-jat",
@@ -496053,12 +496123,12 @@
         "text": "Dům na vlnách"
       },
       {
-        "lang": "es",
+        "lang": "es-419",
         "type": "official",
         "text": "Hogar a la deriva"
       },
       {
-        "lang": "es-419",
+        "lang": "es",
         "type": "official",
         "text": "Hogar a la deriva"
       },
@@ -496553,14 +496623,14 @@
     "aid": "16823",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "JUNK HEAD (2017)"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Junk Head (2017)"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "JUNK HEAD (2017)"
       }
     ]
   },
@@ -496663,13 +496733,13 @@
     "aid": "16827",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Sugar Apple Fairy Tale"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Sugar Apple Fairy Tale"
       },
       {
@@ -496943,12 +497013,12 @@
         "text": "Détective Conan : Apprenti criminel"
       },
       {
-        "lang": "es-419",
+        "lang": "es",
         "type": "official",
         "text": "Detective Conan: Hanzawa el Culpable"
       },
       {
-        "lang": "es",
+        "lang": "es-419",
         "type": "official",
         "text": "Detective Conan: Hanzawa el Culpable"
       },
@@ -566863,11 +566933,6 @@
         "text": "Tensei Shita Daiseijo wa, Seijo de Aru Koto o Hitakakusu"
       },
       {
-        "lang": "x-jat",
-        "type": "syn",
-        "text": "Tensei shita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "転生した大聖女は, 聖女であることをひた隠す"
@@ -590443,6 +590508,11 @@
         "text": "Another World (2025)"
       },
       {
+        "lang": "x-unk",
+        "type": "syn",
+        "text": "Sai Ngoi (2025)"
+      },
+      {
         "lang": "x-zht",
         "type": "main",
         "text": "Shi Wai"
@@ -591288,13 +591358,13 @@
     "aid": "20284",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Maiden Blood"
       },
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Maiden Blood"
       },
       {
@@ -591998,13 +592068,13 @@
         "text": "Pokémon ワイルドカード"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Pokemon: Wild Card"
       },
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Pokemon: Wild Card"
       },
       {
@@ -593623,9 +593693,9 @@
     "aid": "20426",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "LIAR GAME 2"
+        "lang": "en",
+        "type": "syn",
+        "text": "Liar Game 2"
       },
       {
         "lang": "x-jat",
@@ -593633,9 +593703,9 @@
         "text": "Liar Game 2"
       },
       {
-        "lang": "en",
-        "type": "syn",
-        "text": "Liar Game 2"
+        "lang": "ja",
+        "type": "official",
+        "text": "LIAR GAME 2"
       },
       {
         "lang": "ja",
@@ -594343,13 +594413,13 @@
     "aid": "20460",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "The Boxer"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "The Boxer"
       },
       {
@@ -594486,6 +594556,51 @@
         "lang": "ja",
         "type": "official",
         "text": "人妻と寝取られ旅行"
+      }
+    ]
+  },
+  {
+    "aid": "20468",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Yumene Connect"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "ゆめねこねくと"
+      }
+    ]
+  },
+  {
+    "aid": "20469",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Shanghai Gushi"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "上海故事"
+      }
+    ]
+  },
+  {
+    "aid": "20470",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Sanguo de Xingkong"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "三国的星空"
       }
     ]
   }
