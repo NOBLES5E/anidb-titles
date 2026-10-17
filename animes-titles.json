@@ -8633,17 +8633,17 @@
     "aid": "107",
     "titles": [
       {
+        "lang": "de",
+        "type": "official",
+        "text": "Arjuna"
+      },
+      {
         "lang": "fr",
         "type": "official",
         "text": "Arjuna"
       },
       {
-        "lang": "es-419",
-        "type": "official",
-        "text": "Arjuna"
-      },
-      {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "Arjuna"
       },
@@ -8653,7 +8653,7 @@
         "text": "Arjuna"
       },
       {
-        "lang": "en",
+        "lang": "es-419",
         "type": "official",
         "text": "Arjuna"
       },
@@ -8723,7 +8723,7 @@
         "text": "ga1"
       },
       {
-        "lang": "pt-BR",
+        "lang": "en",
         "type": "official",
         "text": "Galaxy Angel"
       },
@@ -8733,7 +8733,7 @@
         "text": "Galaxy Angel"
       },
       {
-        "lang": "en",
+        "lang": "pt-BR",
         "type": "official",
         "text": "Galaxy Angel"
       },
@@ -8778,13 +8778,13 @@
         "text": "Mahoromatic - Automatic Maiden"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Mahoromatic: Automatic Maiden"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Mahoromatic: Automatic Maiden"
       },
       {
@@ -8816,6 +8816,11 @@
         "lang": "zh-Hans",
         "type": "syn",
         "text": "魔力女仆真幌"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "魔力女管家"
       }
     ]
   },
@@ -14831,6 +14836,11 @@
         "lang": "ja",
         "type": "official",
         "text": "まほろまてぃっく Automatic Maiden ~もっと美しいもの~"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "魔力女管家 ～更美麗的事物～"
       }
     ]
   },
@@ -132048,6 +132058,11 @@
         "text": "Shen Diao Xia Lu II: Xie Dan Qi Jing"
       },
       {
+        "lang": "x-jat",
+        "type": "syn",
+        "text": "Shin Chou Kyou Ryo: Condor Hero II"
+      },
+      {
         "lang": "zh",
         "type": "official",
         "text": "神鵰俠侶 II 襄陽風雲"
@@ -132068,7 +132083,7 @@
         "text": "Monster Farmer"
       },
       {
-        "lang": "fr",
+        "lang": "pt",
         "type": "official",
         "text": "Monster Rancher"
       },
@@ -132078,7 +132093,7 @@
         "text": "Monster Rancher"
       },
       {
-        "lang": "pt",
+        "lang": "fr",
         "type": "official",
         "text": "Monster Rancher"
       },
@@ -132148,8 +132163,8 @@
         "text": "A párbaj mesterei"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "de",
+        "type": "official",
         "text": "Duel Masters"
       },
       {
@@ -132163,8 +132178,8 @@
         "text": "Duel Masters"
       },
       {
-        "lang": "de",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Duel Masters"
       },
       {
@@ -231406,6 +231421,11 @@
         "lang": "ja",
         "type": "official",
         "text": "まほろまてぃっく ただいま◇おかえり"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "魔力女管家 特別篇 我回來了◆歡迎回家"
       },
       {
         "lang": "zh-Hans",
@@ -357263,6 +357283,11 @@
     "aid": "11780",
     "titles": [
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "Luck & Logic"
+      },
+      {
         "lang": "x-jat",
         "type": "syn",
         "text": "Luck & Logic"
@@ -418328,6 +418353,11 @@
         "text": "Te Ke Dong Ji Pian"
       },
       {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Ti Ke: Dong Ji Pian"
+      },
+      {
         "lang": "zh",
         "type": "official",
         "text": "缇可 冬季篇"
@@ -477443,11 +477473,6 @@
         "text": "Shikkakumon no Saikyou Kenja"
       },
       {
-        "lang": "x-jat",
-        "type": "syn",
-        "text": "Shikkakumon no Saikyoukenja"
-      },
-      {
         "lang": "en",
         "type": "syn",
         "text": "The Strongest Sage of Disqualified Crest"
@@ -477468,12 +477493,12 @@
         "text": "失格紋の最強賢者"
       },
       {
-        "lang": "zh-Hans",
+        "lang": "zh-Hant",
         "type": "syn",
         "text": "失格紋的最強賢者"
       },
       {
-        "lang": "zh-Hant",
+        "lang": "zh-Hans",
         "type": "syn",
         "text": "失格紋的最強賢者"
       },
@@ -477915,7 +477940,7 @@
       {
         "lang": "x-zht",
         "type": "main",
-        "text": "Shan He Jian Xin"
+        "text": "Shanhe Jian Xin"
       },
       {
         "lang": "en",
@@ -513548,6 +513573,11 @@
         "text": "Shishang Zui Qiang Nan Zhujiao"
       },
       {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Shishang Zui Qiang Nan Zhujue"
+      },
+      {
         "lang": "en",
         "type": "syn",
         "text": "The Strongest Male Hero Ever"
@@ -513613,12 +513643,12 @@
         "text": "[최애의 아이]"
       },
       {
-        "lang": "zh-Hant",
+        "lang": "zh-Hans",
         "type": "official",
         "text": "[我推的孩子]"
       },
       {
-        "lang": "zh-Hans",
+        "lang": "zh-Hant",
         "type": "official",
         "text": "[我推的孩子]"
       },
@@ -513643,12 +513673,12 @@
         "text": "onk"
       },
       {
-        "lang": "fr",
+        "lang": "en",
         "type": "official",
         "text": "Oshi no Ko"
       },
       {
-        "lang": "en",
+        "lang": "fr",
         "type": "official",
         "text": "Oshi no Ko"
       },
@@ -513663,17 +513693,17 @@
     "aid": "17450",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
-        "text": "Obey Me! (2022)"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Obey Me! (2022)"
       },
       {
         "lang": "ja",
+        "type": "official",
+        "text": "Obey Me! (2022)"
+      },
+      {
+        "lang": "en",
         "type": "official",
         "text": "Obey Me! (2022)"
       },
@@ -585110,17 +585140,17 @@
       {
         "lang": "x-jat",
         "type": "main",
-        "text": "The Fable 2"
+        "text": "The Fable (2027)"
       },
       {
         "lang": "en",
         "type": "syn",
-        "text": "The Fable 2"
+        "text": "The Fable (2027)"
       },
       {
         "lang": "ja",
         "type": "official",
-        "text": "ザ・ファブル 2"
+        "text": "ザ・ファブル (2027)"
       }
     ]
   },
@@ -590433,6 +590463,11 @@
         "text": "Chiramune S2"
       },
       {
+        "lang": "en",
+        "type": "official",
+        "text": "Chitose Is in the Ramune Bottle (2026)"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Chitose-kun wa Ramune Bin no Naka (2026)"
@@ -594601,6 +594636,126 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "三国的星空"
+      }
+    ]
+  },
+  {
+    "aid": "20471",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Shaonian Ge Xing: Nanming Li Huo"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "少年歌行之南明离火"
+      }
+    ]
+  },
+  {
+    "aid": "20472",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Shi Shaoxia Ganjue Hao Gudan"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "石少侠感觉好孤单"
+      }
+    ]
+  },
+  {
+    "aid": "20473",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Huhuan Shaonu Te Bie Pian: Xiang Zuo de Shi Daodi Shi Shenme"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "呼唤少女 特别篇 想做的事到底是什么"
+      }
+    ]
+  },
+  {
+    "aid": "20474",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Shuo Feng: Po Zhen Zi"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "朔风—破阵子"
+      }
+    ]
+  },
+  {
+    "aid": "20475",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Waluolan Xiao Zhen"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "瓦洛兰小镇"
+      }
+    ]
+  },
+  {
+    "aid": "20476",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Wan Jie Zhizun"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "万界至尊"
+      }
+    ]
+  },
+  {
+    "aid": "20477",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Wan Jie Zhizun Di Er Ji"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "万界至尊 第二季"
+      }
+    ]
+  },
+  {
+    "aid": "20478",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Dali Si Rizhi 3"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "大理寺日志 第3季"
       }
     ]
   }
