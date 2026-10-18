@@ -77293,12 +77293,12 @@
         "text": "Siu Sin"
       },
       {
-        "lang": "ja",
+        "lang": "zh-Hans",
         "type": "syn",
         "text": "Xiao Qian"
       },
       {
-        "lang": "zh-Hans",
+        "lang": "ja",
         "type": "syn",
         "text": "Xiao Qian"
       },
@@ -77321,6 +77321,11 @@
         "lang": "ja",
         "type": "official",
         "text": "チャイニーズ・ゴースト・ストーリー スーシン"
+      },
+      {
+        "lang": "ja",
+        "type": "syn",
+        "text": "チャイニーズゴーストストーリー小倩"
       },
       {
         "lang": "zh-Hant",
@@ -437945,6 +437950,11 @@
       {
         "lang": "x-zht",
         "type": "syn",
+        "text": "Wo Shi Jiang Xiaobai Episode 13"
+      },
+      {
+        "lang": "x-zht",
+        "type": "syn",
         "text": "Wo Shi Jiang Xiaobai Juchang Ban"
       },
       {
@@ -444676,6 +444686,11 @@
         "lang": "x-zht",
         "type": "main",
         "text": "Xiao Bei Liu Lang Ji"
+      },
+      {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Xiao Bei Liulang Ji"
       },
       {
         "lang": "ar",
@@ -452572,6 +452587,11 @@
   {
     "aid": "15199",
     "titles": [
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "A Fairy Tales of Tibet"
+      },
       {
         "lang": "x-zht",
         "type": "main",
@@ -462839,17 +462859,7 @@
     "titles": [
       {
         "lang": "x-zht",
-        "type": "syn",
-        "text": "Da Li Si Rizhi"
-      },
-      {
-        "lang": "x-zht",
         "type": "main",
-        "text": "Dali Si Rizhi"
-      },
-      {
-        "lang": "x-zht",
-        "type": "syn",
         "text": "Dalisi Rizhi"
       },
       {
@@ -501343,6 +501353,11 @@
         "text": "Otomege Sekai wa Mob ni Kibishii Sekai Desu"
       },
       {
+        "lang": "de",
+        "type": "official",
+        "text": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs"
+      },
+      {
         "lang": "en",
         "type": "official",
         "text": "Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs"
@@ -504681,6 +504696,11 @@
         "lang": "en",
         "type": "official",
         "text": "Legend of Soldier"
+      },
+      {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Xiao Bing Chuanqi"
       },
       {
         "lang": "x-zht",
@@ -524994,6 +525014,11 @@
       },
       {
         "lang": "x-jat",
+        "type": "short",
+        "text": "tenken s2"
+      },
+      {
+        "lang": "x-jat",
         "type": "main",
         "text": "Tensei Shitara Ken Deshita II"
       },
@@ -525181,6 +525206,11 @@
         "lang": "en",
         "type": "official",
         "text": "Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs 2"
+      },
+      {
+        "lang": "de",
+        "type": "official",
+        "text": "Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs Staffel 2"
       },
       {
         "lang": "ja",
@@ -526739,13 +526769,13 @@
       },
       {
         "lang": "x-zht",
-        "type": "main",
-        "text": "Dali Si Rizhi Er"
+        "type": "syn",
+        "text": "Dalisi Rizhi 2"
       },
       {
         "lang": "x-zht",
-        "type": "syn",
-        "text": "Dalisi Rizhi 2"
+        "type": "main",
+        "text": "Dalisi Rizhi Er"
       },
       {
         "lang": "en",
@@ -556113,6 +556143,11 @@
         "text": "Chitose Is in the Ramune Bottle"
       },
       {
+        "lang": "de",
+        "type": "official",
+        "text": "Chitose Is in the Ramune Bottle"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Chitose-kun wa Ramune Bin no Naka"
@@ -556248,11 +556283,6 @@
     "aid": "18816",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "WITCH WATCH"
-      },
-      {
         "lang": "pl",
         "type": "official",
         "text": "Witch Watch"
@@ -556261,6 +556291,11 @@
         "lang": "x-jat",
         "type": "main",
         "text": "Witch Watch"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "WITCH WATCH"
       },
       {
         "lang": "en",
@@ -556393,13 +556428,13 @@
     "aid": "18819",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Midnight Vampire"
       },
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Midnight Vampire"
       }
     ]
@@ -556908,13 +556943,13 @@
     "aid": "18837",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Bananya: Around the World"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Bananya: Around the World"
       },
       {
@@ -558891,6 +558926,16 @@
         "lang": "x-zht",
         "type": "main",
         "text": "Du Shi Gu Xian Yi"
+      },
+      {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Dushi Gu Xian Yi"
+      },
+      {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Dushi Guxianyi"
       },
       {
         "lang": "en",
@@ -565606,6 +565651,11 @@
         "lang": "x-jat",
         "type": "short",
         "text": "Mezameza"
+      },
+      {
+        "lang": "de",
+        "type": "official",
+        "text": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!"
       },
       {
         "lang": "en",
@@ -582743,6 +582793,11 @@
         "text": "The Exiled Cheating Magician Enjoys an Unrestrained Second Life. I Can Give \"Strengthening Points\" Not Only to Weapons, But Also to Everything, and I Can Unlock the Effect at Any Time of My Will, But are the Rest Okay?"
       },
       {
+        "lang": "de",
+        "type": "official",
+        "text": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life"
+      },
+      {
         "lang": "en",
         "type": "official",
         "text": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life"
@@ -583316,11 +583371,6 @@
         "lang": "x-jat",
         "type": "main",
         "text": "Dark Summoner to Dekite Iru"
-      },
-      {
-        "lang": "x-jat",
-        "type": "syn",
-        "text": "Dark Summoner to Dekiteiru"
       },
       {
         "lang": "en",
@@ -586962,6 +587012,11 @@
   {
     "aid": "20077",
     "titles": [
+      {
+        "lang": "de",
+        "type": "official",
+        "text": "Overgeared"
+      },
       {
         "lang": "en",
         "type": "official",
@@ -594236,6 +594291,16 @@
         "lang": "ja",
         "type": "official",
         "text": "タヌキとキツネ (2026)"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "小狸猫与小狐狸"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "小狸貓和小狐狸"
       }
     ]
   },
@@ -594599,8 +594664,18 @@
     "titles": [
       {
         "lang": "x-jat",
+        "type": "short",
+        "text": "yumeconne"
+      },
+      {
+        "lang": "x-jat",
         "type": "main",
         "text": "Yumene Connect"
+      },
+      {
+        "lang": "ja",
+        "type": "short",
+        "text": "ゆめこね"
       },
       {
         "lang": "ja",
@@ -594749,13 +594824,203 @@
     "titles": [
       {
         "lang": "x-zht",
-        "type": "main",
+        "type": "syn",
+        "text": "Da Li Si Rizhi 3rd Season"
+      },
+      {
+        "lang": "x-zht",
+        "type": "syn",
         "text": "Dali Si Rizhi 3"
+      },
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Dalisi Rizhi 3"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "The Journal of Dali Temple 3"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "White Cat Legend Season 3"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "syn",
+        "text": "大理寺日志 叁"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "syn",
+        "text": "大理寺日志 第3季"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "syn",
+        "text": "大理寺日志 第三季"
       },
       {
         "lang": "zh-Hans",
         "type": "official",
-        "text": "大理寺日志 第3季"
+        "text": "大理寺日志3"
+      }
+    ]
+  },
+  {
+    "aid": "20479",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Wo Jia Yezhu Hui Zuo Yao"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "我家业主会作妖"
+      }
+    ]
+  },
+  {
+    "aid": "20480",
+    "titles": [
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Happy Kanako`s Killer Life"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Shiawase Kanako no Koroshiya Seikatsu"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "幸せカナコの殺し屋生活"
+      }
+    ]
+  },
+  {
+    "aid": "20481",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Wu Di de Zuqiu"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "吴狄的足球"
+      }
+    ]
+  },
+  {
+    "aid": "20482",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Wo Yeye"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "我爷爷"
+      }
+    ]
+  },
+  {
+    "aid": "20483",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Wu Tian Yu Shang 2035"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "无天于上2035"
+      }
+    ]
+  },
+  {
+    "aid": "20484",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Wu Sheng Guan Gong"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "武圣关公"
+      }
+    ]
+  },
+  {
+    "aid": "20485",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Xiao Lin Kung Fu"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "笑林功夫"
+      }
+    ]
+  },
+  {
+    "aid": "20486",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Xiao Cangshu Di Di de Chi Bo Richang"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "小仓鼠笛笛的吃播日常"
+      }
+    ]
+  },
+  {
+    "aid": "20487",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Du Shi Gu Xian Yi 2nd Season"
+      },
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Dushi Gu Xian Yi 2nd Season"
+      },
+      {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Dushi Gu Xian Yi Di 2 Ji"
+      },
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "Urban Miracle Doctor Season 2"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "都市古仙医 第2季"
       }
     ]
   }
