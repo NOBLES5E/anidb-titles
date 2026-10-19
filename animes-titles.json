@@ -1018,12 +1018,12 @@
         "text": "RahXephon"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "RahXephon"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "RahXephon"
       },
@@ -1068,13 +1068,18 @@
         "text": "ラーゼフォン"
       },
       {
-        "lang": "zh-Hans",
-        "type": "official",
-        "text": "翼神传说"
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "翼神世音"
       },
       {
         "lang": "zh",
         "type": "syn",
+        "text": "翼神传说"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
         "text": "翼神传说"
       }
     ]
@@ -4593,17 +4598,17 @@
         "text": "Alien 9"
       },
       {
-        "lang": "fr",
-        "type": "official",
-        "text": "Alien Nine"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Alien Nine"
       },
       {
         "lang": "en",
+        "type": "official",
+        "text": "Alien Nine"
+      },
+      {
+        "lang": "fr",
         "type": "official",
         "text": "Alien Nine"
       },
@@ -4621,6 +4626,16 @@
         "lang": "ja",
         "type": "official",
         "text": "エイリアン9"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "校園外星人"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "異形特攻學園"
       }
     ]
   },
@@ -8383,13 +8398,13 @@
         "text": "Voices of a Distant Star"
       },
       {
-        "lang": "pt",
-        "type": "official",
+        "lang": "pt-BR",
+        "type": "syn",
         "text": "Vozes de Uma Estrela Distante"
       },
       {
-        "lang": "pt-BR",
-        "type": "syn",
+        "lang": "pt",
+        "type": "official",
         "text": "Vozes de Uma Estrela Distante"
       },
       {
@@ -8436,6 +8451,11 @@
         "lang": "ja",
         "type": "syn",
         "text": "星の声"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "星之聲"
       }
     ]
   },
@@ -38638,6 +38658,11 @@
         "text": "ラーゼフォン 多元変奏曲"
       },
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "翼神世音 多元變奏曲"
+      },
+      {
         "lang": "zh-Hans",
         "type": "official",
         "text": "翼神传说 多元变奏曲"
@@ -38648,13 +38673,43 @@
     "aid": "581",
     "titles": [
       {
+        "lang": "da",
+        "type": "official",
+        "text": "Last Exile"
+      },
+      {
+        "lang": "it",
+        "type": "official",
+        "text": "Last Exile"
+      },
+      {
+        "lang": "fi",
+        "type": "official",
+        "text": "Last Exile"
+      },
+      {
+        "lang": "de",
+        "type": "official",
+        "text": "Last Exile"
+      },
+      {
+        "lang": "pl",
+        "type": "official",
+        "text": "Last Exile"
+      },
+      {
+        "lang": "pt-BR",
+        "type": "official",
+        "text": "Last Exile"
+      },
+      {
         "lang": "fr",
         "type": "official",
         "text": "Last Exile"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Last Exile"
       },
       {
@@ -38668,38 +38723,8 @@
         "text": "Last Exile"
       },
       {
-        "lang": "en",
-        "type": "official",
-        "text": "Last Exile"
-      },
-      {
-        "lang": "pt-BR",
-        "type": "official",
-        "text": "Last Exile"
-      },
-      {
-        "lang": "pl",
-        "type": "official",
-        "text": "Last Exile"
-      },
-      {
-        "lang": "de",
-        "type": "official",
-        "text": "Last Exile"
-      },
-      {
-        "lang": "fi",
-        "type": "official",
-        "text": "Last Exile"
-      },
-      {
-        "lang": "it",
-        "type": "official",
-        "text": "Last Exile"
-      },
-      {
-        "lang": "da",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Last Exile"
       },
       {
@@ -53833,6 +53858,11 @@
         "text": "你所期望的永远"
       },
       {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "你所期望的永遠"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "君が望む永遠"
@@ -64043,12 +64073,12 @@
     "aid": "1091",
     "titles": [
       {
-        "lang": "pt",
+        "lang": "fr",
         "type": "official",
         "text": "Cobra"
       },
       {
-        "lang": "fr",
+        "lang": "pt",
         "type": "official",
         "text": "Cobra"
       },
@@ -64186,6 +64216,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "暗与帽子与书之旅人"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "闇與帽子與書的旅人"
       }
     ]
   },
@@ -77726,6 +77761,11 @@
         "lang": "zh-Hans",
         "type": "syn",
         "text": "这个丑陋与美丽的世界"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "醜陋美世界"
       }
     ]
   },
@@ -138956,6 +138996,11 @@
         "lang": "zh",
         "type": "syn",
         "text": "神是中學生"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "神樣中學生"
       }
     ]
   },
@@ -179936,6 +179981,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "向阳素描"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "向陽素描"
       }
     ]
   },
@@ -198953,6 +199003,11 @@
         "text": "Беспокойные сердца OVA"
       },
       {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "你所期望的永遠 ~Next Season~"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "君が望む永遠 ~Next Season~"
@@ -201351,6 +201406,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "向阳素描×365"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "向陽素描×365"
       }
     ]
   },
@@ -206728,12 +206788,12 @@
     "aid": "5841",
     "titles": [
       {
-        "lang": "zh-Hans",
+        "lang": "ja",
         "type": "official",
         "text": "CLANNAD ~AFTER STORY~"
       },
       {
-        "lang": "ja",
+        "lang": "zh-Hans",
         "type": "official",
         "text": "CLANNAD ~AFTER STORY~"
       },
@@ -206753,13 +206813,13 @@
         "text": "Clannad: After Story"
       },
       {
-        "lang": "de",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Clannad: After Story"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "de",
+        "type": "official",
         "text": "Clannad: After Story"
       },
       {
@@ -206861,6 +206921,11 @@
         "lang": "zh-Hans",
         "type": "syn",
         "text": "亡念的扎穆德"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "亡念的札姆德"
       }
     ]
   },
@@ -216876,6 +216941,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "夏日大作战"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "夏日大作戰"
       }
     ]
   },
@@ -219036,6 +219106,11 @@
         "lang": "zh-Hans",
         "type": "syn",
         "text": "豹头王传说"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "豹頭王傳奇"
       }
     ]
   },
@@ -223001,6 +223076,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "宵星传说～首鸣～"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "時空幻境 宵星傳奇〜The First Strike〜"
       }
     ]
   },
@@ -237891,6 +237971,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "向阳素描×☆☆☆"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "向陽素描×☆☆☆"
       }
     ]
   },
@@ -238031,6 +238116,11 @@
         "lang": "zh-Hans",
         "type": "syn",
         "text": "狼神隐"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "神秘大失蹤"
       },
       {
         "lang": "zh-Hans",
@@ -239213,13 +239303,13 @@
         "text": "Fumiko Prisipažinimas"
       },
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "fr",
+        "type": "official",
         "text": "Fumiko`s Confession"
       },
       {
-        "lang": "fr",
-        "type": "official",
+        "lang": "en",
+        "type": "syn",
         "text": "Fumiko`s Confession"
       },
       {
@@ -239533,14 +239623,14 @@
         "text": "Fate/Stay Night (2010)"
       },
       {
-        "lang": "zh-Hans",
-        "type": "official",
-        "text": "Fate/stay night TV Reproduction"
-      },
-      {
         "lang": "en",
         "type": "syn",
         "text": "Fate/Stay Night TV Reproduction"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "Fate/stay night TV Reproduction"
       },
       {
         "lang": "x-jat",
@@ -240253,12 +240343,12 @@
         "text": "Uchuu Show e Youkoso"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "Welcome to the Space Show"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "Welcome to the Space Show"
       },
@@ -240353,14 +240443,14 @@
     "aid": "7234",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Giant Killing"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "GIANT KILLING"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Giant Killing"
       },
       {
         "lang": "x-jat",
@@ -240403,14 +240493,14 @@
     "aid": "7235",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "Purple Eyes In The Dark"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Purple Eyes in the Dark"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "Purple Eyes In The Dark"
       },
       {
         "lang": "x-jat",
@@ -240518,13 +240608,13 @@
         "text": "Arakawa"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Arakawa Under the Bridge"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Arakawa Under the Bridge"
       },
       {
@@ -240733,13 +240823,13 @@
     "aid": "7244",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Planzet"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Planzet"
       },
       {
@@ -261788,6 +261878,11 @@
         "text": "鋼の錬金術師 嘆きの丘[ミロス]の聖なる星"
       },
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "鋼之鍊金術師 嘆息之丘的聖星"
+      },
+      {
         "lang": "zh-Hans",
         "type": "official",
         "text": "钢之炼金术师 叹息之丘的圣星"
@@ -268161,6 +268256,11 @@
         "lang": "ja",
         "type": "official",
         "text": "蛍火の杜へ"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "螢火之森"
       }
     ]
   },
@@ -268876,6 +268976,11 @@
         "lang": "ja",
         "type": "official",
         "text": "ましろ色シンフォニー -The color of lovers-"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "純白交響曲"
       },
       {
         "lang": "zh-Hans",
@@ -270161,6 +270266,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "萝球社！"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "蘿球社！"
       }
     ]
   },
@@ -274968,13 +275078,13 @@
         "text": "hanikamu"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Hidamari Sketch x Honeycomb"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Hidamari Sketch x Honeycomb"
       },
       {
@@ -275001,6 +275111,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "向阳素描×蜂窝"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "向陽素描×蜂窩"
       }
     ]
   },
@@ -275066,6 +275181,11 @@
         "lang": "ja",
         "type": "card",
         "text": "ひだまりスケッチxSP[すぺっしゃる]"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "向陽素描×SP"
       }
     ]
   },
@@ -280548,19 +280668,24 @@
         "text": "medaka"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Medaka Box"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Medaka Box"
       },
       {
         "lang": "ja",
         "type": "official",
         "text": "めだかボックス"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "最強學生會長"
       },
       {
         "lang": "zh-Hans",
@@ -298521,6 +298646,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "萝球社！SS"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "蘿球社！SS"
       }
     ]
   },
@@ -305466,6 +305596,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "向阳素描 沙英・寻 毕业篇"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "向陽素描 沙英．尋 畢業篇"
       }
     ]
   },
@@ -305741,6 +305876,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "大图书馆的牧羊人"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "大圖書館的牧羊人"
       }
     ]
   },
@@ -310881,6 +311021,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "伽利略少女"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "伽利略少女"
       }
     ]
   },
@@ -310898,22 +311043,22 @@
         "text": "Samumenco"
       },
       {
-        "lang": "en",
-        "type": "official",
-        "text": "Samurai Flamenco"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Samurai Flamenco"
       },
       {
-        "lang": "de",
+        "lang": "fr",
         "type": "official",
         "text": "Samurai Flamenco"
       },
       {
-        "lang": "fr",
+        "lang": "en",
+        "type": "official",
+        "text": "Samurai Flamenco"
+      },
+      {
+        "lang": "de",
         "type": "official",
         "text": "Samurai Flamenco"
       },
@@ -319876,6 +320021,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "寻找失去的未来"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "尋找失去的未來"
       }
     ]
   },
@@ -320553,14 +320703,14 @@
         "text": "Still, the World Is Beautiful"
       },
       {
-        "lang": "en",
-        "type": "official",
-        "text": "The World Is Still Beautiful"
-      },
-      {
         "lang": "fr",
         "type": "official",
         "text": "The World is Still Beautiful"
+      },
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "The World Is Still Beautiful"
       },
       {
         "lang": "ko",
@@ -320671,6 +320821,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "犬神同学和猫山同学"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "犬神同學與貓山同學"
       }
     ]
   },
@@ -327621,6 +327776,11 @@
         "lang": "ja",
         "type": "official",
         "text": "テイルズ オブ ゼスティリア ~導師の夜明け~"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "時空幻境 熱情傳奇 ～導師的黎明～"
       }
     ]
   },
@@ -334788,6 +334948,11 @@
         "text": "俺物語!!"
       },
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "俺物語！！"
+      },
+      {
         "lang": "zh-Hans",
         "type": "official",
         "text": "俺物语!!"
@@ -336556,6 +336721,11 @@
         "lang": "ja",
         "type": "official",
         "text": "遊☆戯☆王 THE DARK SIDE OF DIMENSIONS"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "遊戲王 次元的黑暗面"
       }
     ]
   },
@@ -341243,13 +341413,13 @@
     "aid": "11139",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Wakaba Girl"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Wakaba Girl"
       },
       {
@@ -341261,6 +341431,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "若叶女孩"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "若葉女孩"
       }
     ]
   },
@@ -341273,14 +341448,14 @@
         "text": "Eun-sil-i"
       },
       {
-        "lang": "en",
-        "type": "syn",
-        "text": "The Dearest"
-      },
-      {
         "lang": "ko",
         "type": "syn",
         "text": "THE DEAREST"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "The Dearest"
       },
       {
         "lang": "ko",
@@ -341308,14 +341483,14 @@
         "text": "Shinmaou Burst"
       },
       {
-        "lang": "de",
-        "type": "official",
-        "text": "The Testament of Sister New Devil BURST"
-      },
-      {
         "lang": "en",
         "type": "official",
         "text": "The Testament of Sister New Devil Burst"
+      },
+      {
+        "lang": "de",
+        "type": "official",
+        "text": "The Testament of Sister New Devil BURST"
       },
       {
         "lang": "ko",
@@ -342893,19 +343068,24 @@
     "aid": "11201",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Long Riders!"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Long Riders!"
       },
       {
         "lang": "ja",
         "type": "official",
         "text": "ろんぐらいだぁす!"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "長騎美眉"
       },
       {
         "lang": "zh-Hans",
@@ -342968,13 +343148,13 @@
         "text": "ass class 2"
       },
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "es",
+        "type": "official",
         "text": "Assassination Classroom 2"
       },
       {
-        "lang": "es",
-        "type": "official",
+        "lang": "en",
+        "type": "syn",
         "text": "Assassination Classroom 2"
       },
       {
@@ -343043,24 +343223,24 @@
     "aid": "11204",
     "titles": [
       {
+        "lang": "fr",
+        "type": "official",
+        "text": "Dies irae"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
+        "text": "Dies Irae"
+      },
+      {
+        "lang": "en",
+        "type": "official",
         "text": "Dies Irae"
       },
       {
         "lang": "ja",
         "type": "official",
         "text": "Dies irae"
-      },
-      {
-        "lang": "fr",
-        "type": "official",
-        "text": "Dies irae"
-      },
-      {
-        "lang": "en",
-        "type": "official",
-        "text": "Dies Irae"
       },
       {
         "lang": "bg",
@@ -343158,14 +343338,14 @@
     "aid": "11209",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Super Lovers"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "SUPER LOVERS"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Super Lovers"
       },
       {
         "lang": "en",
@@ -343213,18 +343393,18 @@
         "text": "Dragon Ball Chou (Super)"
       },
       {
-        "lang": "el",
-        "type": "syn",
-        "text": "Dragon Ball Super"
-      },
-      {
-        "lang": "it",
-        "type": "official",
-        "text": "Dragon Ball Super"
-      },
-      {
         "lang": "en",
         "type": "official",
+        "text": "Dragon Ball Super"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Dragon Ball Super"
+      },
+      {
+        "lang": "el",
+        "type": "syn",
         "text": "Dragon Ball Super"
       },
       {
@@ -343233,8 +343413,8 @@
         "text": "Dragon Ball Super"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "it",
+        "type": "official",
         "text": "Dragon Ball Super"
       },
       {
@@ -343378,7 +343558,7 @@
         "text": "Đấu sĩ Ashura"
       },
       {
-        "lang": "sv",
+        "lang": "el",
         "type": "official",
         "text": "KENGAN ASHURA"
       },
@@ -343388,57 +343568,12 @@
         "text": "Kengan Ashura"
       },
       {
-        "lang": "fr",
-        "type": "official",
-        "text": "KENGAN ASHURA"
-      },
-      {
-        "lang": "it",
-        "type": "official",
-        "text": "KENGAN ASHURA"
-      },
-      {
-        "lang": "es-419",
-        "type": "official",
-        "text": "KENGAN ASHURA"
-      },
-      {
-        "lang": "el",
-        "type": "official",
-        "text": "KENGAN ASHURA"
-      },
-      {
-        "lang": "pt",
-        "type": "official",
-        "text": "KENGAN ASHURA"
-      },
-      {
-        "lang": "hr",
-        "type": "official",
-        "text": "KENGAN ASHURA"
-      },
-      {
-        "lang": "tr",
-        "type": "official",
-        "text": "KENGAN ASHURA"
-      },
-      {
-        "lang": "my",
-        "type": "official",
-        "text": "KENGAN ASHURA"
-      },
-      {
-        "lang": "nl",
+        "lang": "ro",
         "type": "official",
         "text": "KENGAN ASHURA"
       },
       {
         "lang": "pl",
-        "type": "official",
-        "text": "KENGAN ASHURA"
-      },
-      {
-        "lang": "ro",
         "type": "official",
         "text": "KENGAN ASHURA"
       },
@@ -343453,7 +343588,37 @@
         "text": "KENGAN ASHURA"
       },
       {
+        "lang": "nl",
+        "type": "official",
+        "text": "KENGAN ASHURA"
+      },
+      {
+        "lang": "my",
+        "type": "official",
+        "text": "KENGAN ASHURA"
+      },
+      {
         "lang": "da",
+        "type": "official",
+        "text": "KENGAN ASHURA"
+      },
+      {
+        "lang": "tr",
+        "type": "official",
+        "text": "KENGAN ASHURA"
+      },
+      {
+        "lang": "sv",
+        "type": "official",
+        "text": "KENGAN ASHURA"
+      },
+      {
+        "lang": "es-419",
+        "type": "official",
+        "text": "KENGAN ASHURA"
+      },
+      {
+        "lang": "pt",
         "type": "official",
         "text": "KENGAN ASHURA"
       },
@@ -343494,6 +343659,21 @@
       },
       {
         "lang": "pt-BR",
+        "type": "official",
+        "text": "KENGAN ASHURA"
+      },
+      {
+        "lang": "fr",
+        "type": "official",
+        "text": "KENGAN ASHURA"
+      },
+      {
+        "lang": "hr",
+        "type": "official",
+        "text": "KENGAN ASHURA"
+      },
+      {
+        "lang": "it",
         "type": "official",
         "text": "KENGAN ASHURA"
       },
@@ -345188,12 +345368,12 @@
         "text": "Tales of Zestiria the Cross"
       },
       {
-        "lang": "fr",
+        "lang": "ja",
         "type": "official",
         "text": "Tales of Zestiria the X"
       },
       {
-        "lang": "ja",
+        "lang": "fr",
         "type": "official",
         "text": "Tales of Zestiria the X"
       },
@@ -345236,6 +345416,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "情热传说 The X"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "時空幻境 熱情傳奇 THE X"
       }
     ]
   },
@@ -346963,7 +347148,7 @@
     "aid": "11345",
     "titles": [
       {
-        "lang": "fr",
+        "lang": "pl",
         "type": "official",
         "text": "Dimension W"
       },
@@ -346983,9 +347168,14 @@
         "text": "Dimension W"
       },
       {
-        "lang": "pl",
+        "lang": "fr",
         "type": "official",
         "text": "Dimension W"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "Dimension W 維度戰記"
       },
       {
         "lang": "bg",
@@ -347033,12 +347223,12 @@
         "text": "おそ松さん"
       },
       {
-        "lang": "zh-Hant",
+        "lang": "zh-Hans",
         "type": "official",
         "text": "阿松"
       },
       {
-        "lang": "zh-Hans",
+        "lang": "zh-Hant",
         "type": "official",
         "text": "阿松"
       }
@@ -354533,6 +354723,11 @@
         "text": "アクセル・ワールド インフィニット・バースト"
       },
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "加速世界 INFINITE BURST"
+      },
+      {
         "lang": "zh",
         "type": "official",
         "text": "加速世界 INFINITE BURST"
@@ -354568,7 +354763,7 @@
         "text": "SWORD ART ONLINE THE MOVIE -Ordinal Scale-"
       },
       {
-        "lang": "en",
+        "lang": "it",
         "type": "official",
         "text": "Sword Art Online the Movie: Ordinal Scale"
       },
@@ -354578,12 +354773,12 @@
         "text": "SWORD ART ONLINE THE MOVIE: Ordinal Scale"
       },
       {
-        "lang": "it",
+        "lang": "de",
         "type": "official",
         "text": "Sword Art Online the Movie: Ordinal Scale"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "Sword Art Online the Movie: Ordinal Scale"
       },
@@ -354598,12 +354793,12 @@
         "text": "刀剑神域 序列之争"
       },
       {
-        "lang": "zh",
+        "lang": "zh-Hant",
         "type": "official",
         "text": "刀劍神域劇場版：序列爭戰"
       },
       {
-        "lang": "zh-Hant",
+        "lang": "zh",
         "type": "official",
         "text": "刀劍神域劇場版：序列爭戰"
       },
@@ -354643,13 +354838,13 @@
     "aid": "11683",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Amanchu!"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Amanchu!"
       },
       {
@@ -354773,14 +354968,14 @@
     "aid": "11688",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "TEO THE MAGIC PLANET"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Teo the Magic Planet"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "TEO THE MAGIC PLANET"
       }
     ]
   },
@@ -363813,13 +364008,13 @@
         "text": "Regalia 三圣星"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Regalia: The Three Sacred Stars"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Regalia: The Three Sacred Stars"
       },
       {
@@ -363853,13 +364048,13 @@
         "text": "O;N"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Occultic;Nine"
       },
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Occultic;Nine"
       },
       {
@@ -363881,6 +364076,11 @@
         "lang": "ja",
         "type": "syn",
         "text": "オカルティック・ナイン"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "超自然9人組"
       },
       {
         "lang": "zh-Hans",
@@ -365311,6 +365511,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "七大罪 圣战的预兆"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "七大罪 聖戰的預兆"
       }
     ]
   },
@@ -366378,8 +366583,8 @@
     "aid": "12087",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Lostorage Incited Wixoss"
       },
       {
@@ -366388,8 +366593,8 @@
         "text": "Lostorage incited WIXOSS"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Lostorage Incited Wixoss"
       },
       {
@@ -366401,6 +366606,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "失忆煽动WIXOSS"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "失憶煽動WIXOSS"
       }
     ]
   },
@@ -366588,12 +366798,12 @@
         "text": "maidragon"
       },
       {
-        "lang": "fr",
+        "lang": "en",
         "type": "official",
         "text": "Miss Kobayashi`s Dragon Maid"
       },
       {
-        "lang": "en",
+        "lang": "fr",
         "type": "official",
         "text": "Miss Kobayashi`s Dragon Maid"
       },
@@ -367003,13 +367213,13 @@
         "text": "K SEVEN STORIES"
       },
       {
-        "lang": "ko",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "K: Seven Stories"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ko",
+        "type": "official",
         "text": "K: Seven Stories"
       }
     ]
@@ -367188,13 +367398,13 @@
         "text": "saikikusuo"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "pl",
+        "type": "syn",
         "text": "The Disastrous Life of Saiki K."
       },
       {
-        "lang": "pl",
-        "type": "syn",
+        "lang": "en",
+        "type": "official",
         "text": "The Disastrous Life of Saiki K."
       },
       {
@@ -370203,12 +370413,12 @@
         "text": "Tales of Zestiria the Cross (2017)"
       },
       {
-        "lang": "ja",
+        "lang": "en",
         "type": "official",
         "text": "Tales of Zestiria the X (2017)"
       },
       {
-        "lang": "en",
+        "lang": "ja",
         "type": "official",
         "text": "Tales of Zestiria the X (2017)"
       },
@@ -370241,6 +370451,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "情热传说 the X 第二季"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "時空幻境 熱情傳奇 THE X 第二季"
       }
     ]
   },
@@ -372703,6 +372918,11 @@
         "text": "龍の歯医者"
       },
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "龍的牙醫"
+      },
+      {
         "lang": "zh-Hans",
         "type": "official",
         "text": "龙的牙医"
@@ -374178,7 +374398,7 @@
         "text": "sagrada"
       },
       {
-        "lang": "fr",
+        "lang": "es",
         "type": "official",
         "text": "Sagrada Reset"
       },
@@ -374188,7 +374408,7 @@
         "text": "Sagrada Reset"
       },
       {
-        "lang": "es",
+        "lang": "fr",
         "type": "official",
         "text": "Sagrada Reset"
       },
@@ -374281,6 +374501,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "弹丸论破3 -The End of 希望之峰学园- 希望篇"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "槍彈辯駁3 The End of 希望峰學園 希望篇"
       }
     ]
   },
@@ -377238,13 +377463,13 @@
     "aid": "12546",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Netsuzou Trap: NTR"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Netsuzou Trap: NTR"
       },
       {
@@ -377276,6 +377501,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "捏造陷阱"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "捏造陷阱 -NTR-"
       }
     ]
   },
@@ -377951,6 +378181,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "Code Geass 复活的鲁鲁修"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "Code Geass 復活的魯路修"
       },
       {
         "lang": "zh",
@@ -390258,6 +390493,11 @@
         "text": "ラーメン大好き小泉さん"
       },
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "愛吃拉麵的小泉同學"
+      },
+      {
         "lang": "zh-Hans",
         "type": "official",
         "text": "爱吃拉面的小泉同学"
@@ -391551,6 +391791,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "动画同好会"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "動畫同好會"
       }
     ]
   },
@@ -433583,8 +433828,8 @@
     "aid": "14532",
     "titles": [
       {
-        "lang": "it",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Hello World"
       },
       {
@@ -433593,9 +433838,14 @@
         "text": "HELLO WORLD"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "it",
+        "type": "official",
         "text": "Hello World"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "HELLO WORLD"
       },
       {
         "lang": "ar",
@@ -436995,7 +437245,7 @@
       {
         "lang": "x-zht",
         "type": "main",
-        "text": "Xing Chen Bian"
+        "text": "Xingchen  Bian"
       },
       {
         "lang": "zh",
@@ -438763,13 +439013,13 @@
     "aid": "14701",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Radiant (2019)"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Radiant (2019)"
       },
       {
@@ -438871,6 +439121,11 @@
         "lang": "en",
         "type": "syn",
         "text": "Rainbow Sea"
+      },
+      {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Xing You Ji"
       },
       {
         "lang": "x-zht",
@@ -448378,6 +448633,11 @@
     "aid": "15023",
     "titles": [
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "Null & Peta"
+      },
+      {
         "lang": "en",
         "type": "official",
         "text": "Null & Peta"
@@ -448408,13 +448668,13 @@
     "aid": "15024",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Kandagawa Jet Girls"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Kandagawa Jet Girls"
       },
       {
@@ -449403,7 +449663,7 @@
     "aid": "15063",
     "titles": [
       {
-        "lang": "cs",
+        "lang": "es-419",
         "type": "official",
         "text": "Uzumaki"
       },
@@ -449413,17 +449673,17 @@
         "text": "Uzumaki"
       },
       {
-        "lang": "en",
-        "type": "official",
-        "text": "Uzumaki"
-      },
-      {
-        "lang": "es-419",
-        "type": "official",
-        "text": "Uzumaki"
-      },
-      {
         "lang": "pl",
+        "type": "official",
+        "text": "Uzumaki"
+      },
+      {
+        "lang": "cs",
+        "type": "official",
+        "text": "Uzumaki"
+      },
+      {
+        "lang": "en",
         "type": "official",
         "text": "Uzumaki"
       },
@@ -449489,6 +449749,11 @@
       },
       {
         "lang": "ja",
+        "type": "official",
+        "text": "ANOTHER WORLD"
+      },
+      {
+        "lang": "zh-Hant",
         "type": "official",
         "text": "ANOTHER WORLD"
       },
@@ -451298,6 +451563,11 @@
     "aid": "15125",
     "titles": [
       {
+        "lang": "en",
+        "type": "official",
+        "text": "A Blind Girl and Two Foxes"
+      },
+      {
         "lang": "x-zht",
         "type": "main",
         "text": "Mang Nu Yu Huli"
@@ -451368,13 +451638,13 @@
     "aid": "15128",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Futsal Boys!!!!!"
       },
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Futsal Boys!!!!!"
       },
       {
@@ -469091,6 +469361,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "剧偶像"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "演劇偶像"
       }
     ]
   },
@@ -474353,6 +474628,11 @@
         "text": "雀斑公主"
       },
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "龍與雀斑公主"
+      },
+      {
         "lang": "zh-Hans",
         "type": "official",
         "text": "龙与雀斑公主"
@@ -474453,14 +474733,14 @@
     "aid": "15929",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "from North Field"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "From North Field"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "from North Field"
       }
     ]
   },
@@ -474501,6 +474781,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "我立于百万生命之上 第二季"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "我立於百萬生命之上 第二季"
       }
     ]
   },
@@ -474558,13 +474843,13 @@
         "text": "ror"
       },
       {
-        "lang": "x-jat",
-        "type": "syn",
+        "lang": "hu",
+        "type": "official",
         "text": "Shuumatsu no Valkyrie"
       },
       {
-        "lang": "hu",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "syn",
         "text": "Shuumatsu no Valkyrie"
       },
       {
@@ -491613,6 +491898,11 @@
         "text": "平家物語"
       },
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "平家物語"
+      },
+      {
         "lang": "zh-Hans",
         "type": "official",
         "text": "平家物语"
@@ -492938,6 +493228,11 @@
         "text": "Mei Ying Dai Leyuan"
       },
       {
+        "lang": "en",
+        "type": "syn",
+        "text": "Mein Family Daily"
+      },
+      {
         "lang": "zh-Hans",
         "type": "official",
         "text": "美影大乐园"
@@ -493288,13 +493583,13 @@
     "aid": "16681",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Cardfight!! Vanguard: Will+Dress"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Cardfight!! Vanguard: Will+Dress"
       },
       {
@@ -493503,9 +493798,19 @@
     "aid": "16692",
     "titles": [
       {
+        "lang": "en",
+        "type": "syn",
+        "text": "Dream Academy Season 5"
+      },
+      {
         "lang": "x-zht",
         "type": "main",
         "text": "Menghuan Shuyuan Di Wu Ji"
+      },
+      {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Menghuan Shuyuan: Kexue Xiao Jizhe"
       },
       {
         "lang": "zh-Hans",
@@ -494571,6 +494876,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "周一的丰满 2"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "星期一的豐滿 第二季"
       },
       {
         "lang": "ja",
@@ -498011,6 +498321,11 @@
         "lang": "x-zht",
         "type": "main",
         "text": "Leiting Shiming Lianhe Xingdong"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Thunder Mission"
       },
       {
         "lang": "zh-Hans",
@@ -575063,11 +575378,6 @@
     "aid": "19532",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Sekiro: No Defeat"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "SEKIRO: NO DEFEAT"
@@ -575075,6 +575385,11 @@
       {
         "lang": "en",
         "type": "official",
+        "text": "Sekiro: No Defeat"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
         "text": "Sekiro: No Defeat"
       }
     ]
@@ -575198,11 +575513,6 @@
     "aid": "19538",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
-        "text": "Liar Game"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "LIAR GAME"
@@ -575211,6 +575521,16 @@
         "lang": "x-jat",
         "type": "main",
         "text": "Liar Game"
+      },
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "Liar Game"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "LIAR GAME - 詐欺遊戲"
       },
       {
         "lang": "ja",
@@ -575808,13 +576128,13 @@
     "aid": "19566",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Bang Dream! Yumemita"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Bang Dream! Yumemita"
       },
       {
@@ -576873,13 +577193,13 @@
         "text": "Re:Monster 2"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Re:Monster 2"
       },
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Re:Monster 2"
       },
       {
@@ -576898,13 +577218,13 @@
         "text": "Dr. Stone Season 4 Part 3"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Dr. Stone: Science Future (2026)"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Dr. Stone: Science Future (2026)"
       },
       {
@@ -577023,13 +577343,13 @@
     "aid": "19620",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Blue Lock: Neo Egoist League"
       },
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Blue Lock: Neo Egoist League"
       },
       {
@@ -577043,13 +577363,13 @@
     "aid": "19621",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Hotel Inhumans (2026)"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Hotel Inhumans (2026)"
       },
       {
@@ -577153,14 +577473,14 @@
         "text": "Marriage Toxin"
       },
       {
-        "lang": "de",
-        "type": "official",
-        "text": "MARRIAGETOXIN"
-      },
-      {
         "lang": "x-jat",
         "type": "syn",
         "text": "Marriagetoxin"
+      },
+      {
+        "lang": "de",
+        "type": "official",
+        "text": "MARRIAGETOXIN"
       },
       {
         "lang": "ja",
@@ -577908,13 +578228,13 @@
     "aid": "19657",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "High School! Kimengumi (2026)"
       },
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "High School! Kimengumi (2026)"
       },
       {
@@ -578083,14 +578403,14 @@
         "text": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii Desu yo?"
       },
       {
-        "lang": "de",
-        "type": "official",
-        "text": "The strongest job is apparently not a hero or a sage, but an appraiser (provisional)!"
-      },
-      {
         "lang": "en",
         "type": "official",
         "text": "The Strongest Job Is Apparently Not a Hero or a Sage, but an Appraiser (Provisional)!"
+      },
+      {
+        "lang": "de",
+        "type": "official",
+        "text": "The strongest job is apparently not a hero or a sage, but an appraiser (provisional)!"
       },
       {
         "lang": "ru",
@@ -578198,13 +578518,13 @@
     "aid": "19672",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Run Run Lantern"
       },
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Run Run Lantern"
       }
     ]
@@ -578483,13 +578803,13 @@
     "aid": "19688",
     "titles": [
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Dark Gathering (2027)"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Dark Gathering (2027)"
       },
       {
@@ -594844,6 +595164,11 @@
       },
       {
         "lang": "en",
+        "type": "official",
+        "text": "White Cat Legend 3"
+      },
+      {
+        "lang": "en",
         "type": "syn",
         "text": "White Cat Legend Season 3"
       },
@@ -595021,6 +595346,111 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "都市古仙医 第2季"
+      }
+    ]
+  },
+  {
+    "aid": "20488",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Xing You Ji: Fengbao Famila 2"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "星游记之风暴法米拉2"
+      }
+    ]
+  },
+  {
+    "aid": "20489",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Xin Xiyou Lixian Ji"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "新西游历险记"
+      }
+    ]
+  },
+  {
+    "aid": "20490",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Xingji Biaoche Wang"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "星际飚车王"
+      }
+    ]
+  },
+  {
+    "aid": "20491",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Xing Yuan Zhi Jing"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "星渊之境"
+      }
+    ]
+  },
+  {
+    "aid": "20492",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Xing Mao Li Xian Ji Shu Fa Pian"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "星猫历险记之书法篇"
+      }
+    ]
+  },
+  {
+    "aid": "20493",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Kuaile Xing Mao"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "快乐星猫"
+      }
+    ]
+  },
+  {
+    "aid": "20494",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Xin Weiqi Shaonian"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "新围棋少年"
       }
     ]
   }
