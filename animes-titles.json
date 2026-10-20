@@ -196109,6 +196109,11 @@
       },
       {
         "lang": "de",
+        "type": "syn",
+        "text": "Die 3 Musketiere im Weltraum"
+      },
+      {
+        "lang": "de",
         "type": "official",
         "text": "Die Raumpatrouille"
       },
@@ -400063,6 +400068,11 @@
         "text": "Qi Che Ren Zong Dong Yuan"
       },
       {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Qiche Ren Zongdongyuan"
+      },
+      {
         "lang": "en",
         "type": "syn",
         "text": "The Autobots"
@@ -453498,6 +453508,11 @@
         "text": "Beng Huai Xing He"
       },
       {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Beng Huai Xinghe"
+      },
+      {
         "lang": "en",
         "type": "syn",
         "text": "Galaxy Devastator"
@@ -453708,13 +453723,13 @@
         "text": "Muv-Luv ALTERNATIVE"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Muv-Luv Alternative"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Muv-Luv Alternative"
       },
       {
@@ -525158,24 +525173,24 @@
         "text": "Spy x Family Code: White"
       },
       {
-        "lang": "es",
-        "type": "official",
-        "text": "Spy x Family Código: Blanco"
-      },
-      {
         "lang": "es-419",
         "type": "official",
         "text": "SPY x FAMILY CÓDIGO: Blanco"
       },
       {
-        "lang": "pt-BR",
+        "lang": "es",
         "type": "official",
-        "text": "SPY x FAMILY CÓDIGO: Branco"
+        "text": "Spy x Family Código: Blanco"
       },
       {
         "lang": "pt",
         "type": "official",
         "text": "Spy x Family Código: Branco"
+      },
+      {
+        "lang": "pt-BR",
+        "type": "official",
+        "text": "SPY x FAMILY CÓDIGO: Branco"
       },
       {
         "lang": "zh-Hant",
@@ -525258,14 +525273,14 @@
     "aid": "17787",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "KJ File (2023)"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "KJ FILE (2023)"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "KJ File (2023)"
       },
       {
         "lang": "ja",
@@ -525351,6 +525366,11 @@
         "lang": "ja",
         "type": "official",
         "text": "転生したら剣でしたII"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "轉生就是劍 第二季"
       },
       {
         "lang": "zh-Hans",
@@ -526846,6 +526866,11 @@
         "lang": "ja",
         "type": "official",
         "text": "魔法少女育成計画 restart"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "魔法少女育成計畫 restart"
       }
     ]
   },
@@ -542376,6 +542401,11 @@
         "lang": "ja",
         "type": "official",
         "text": "帰還者の魔法は特別です (2026)"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "重生者的魔法一定要特別 第二季"
       }
     ]
   },
@@ -542433,13 +542463,13 @@
         "text": "Love Live！虹咲學園 學園偶像同好會 短篇動畫 第二季"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Nijiyon Animation 2"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Nijiyon Animation 2"
       },
       {
@@ -544083,12 +544113,12 @@
     "aid": "18408",
     "titles": [
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "Touken Ranbu Kai Kyoden"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "Touken Ranbu Kai Kyoden"
       },
@@ -544198,12 +544228,12 @@
         "text": "eruyase"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "Plus-Sized Elf"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "Plus-Sized Elf"
       },
@@ -544333,14 +544363,14 @@
     "aid": "18418",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "NocturnaL"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Nocturnal"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "NocturnaL"
       },
       {
         "lang": "ko",
@@ -544513,13 +544543,13 @@
         "text": "Monogatari Series - Off and Monster Season"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Monogatari Series: Off & Monster Season"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Monogatari Series: Off & Monster Season"
       },
       {
@@ -549011,6 +549041,11 @@
         "lang": "ja",
         "type": "official",
         "text": "佐々木とピーちゃん Season 2"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "佐佐木與文鳥小嗶 Season 2"
       }
     ]
   },
@@ -557823,13 +557858,13 @@
     "aid": "18855",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Maebashi Witches"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Maebashi Witches"
       },
       {
@@ -557933,12 +557968,12 @@
         "text": "Romelia Senki: Maou wo Taoshita Ato mo Jinrui Yabasou Dakara Guntai Soshiki Shita"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "Romelia War Chronicle"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "Romelia War Chronicle"
       },
@@ -557951,6 +557986,11 @@
         "lang": "ja",
         "type": "official",
         "text": "ロメリア戦記"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "羅梅莉亞戰記"
       }
     ]
   },
@@ -572861,6 +572901,11 @@
         "lang": "ja",
         "type": "official",
         "text": "ブラッククローバー 2nd Season"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "黑色五葉草 Season 2"
       }
     ]
   },
@@ -575258,6 +575303,11 @@
         "text": "Piaomiao Jian Xian Chuan"
       },
       {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Piaomiao Jian Xian Zhuan"
+      },
+      {
         "lang": "zh-Hans",
         "type": "official",
         "text": "缥缈剑仙传"
@@ -576606,6 +576656,11 @@
         "lang": "ja",
         "type": "official",
         "text": "#ゾンビさがしてます"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "#尋找殭屍中"
       }
     ]
   },
@@ -577343,13 +577398,13 @@
     "aid": "19620",
     "titles": [
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Blue Lock: Neo Egoist League"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Blue Lock: Neo Egoist League"
       },
       {
@@ -577381,6 +577436,11 @@
         "lang": "ja",
         "type": "official",
         "text": "ホテル・インヒューマンズ (2026)"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "殺手旅店 第2季"
       }
     ]
   },
@@ -577473,14 +577533,14 @@
         "text": "Marriage Toxin"
       },
       {
-        "lang": "x-jat",
-        "type": "syn",
-        "text": "Marriagetoxin"
-      },
-      {
         "lang": "de",
         "type": "official",
         "text": "MARRIAGETOXIN"
+      },
+      {
+        "lang": "x-jat",
+        "type": "syn",
+        "text": "Marriagetoxin"
       },
       {
         "lang": "ja",
@@ -580883,12 +580943,12 @@
     "aid": "19777",
     "titles": [
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "A Wild Last Boss Appeared! (2026)"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "A Wild Last Boss Appeared! (2026)"
       },
@@ -580906,6 +580966,11 @@
         "lang": "ja",
         "type": "official",
         "text": "野生のラスボスが現れた! (2026)"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "野生的大魔王出現了！第2季"
       }
     ]
   },
@@ -581831,6 +581896,11 @@
         "lang": "ja",
         "type": "official",
         "text": "信者ゼロの女神サマと始める異世界攻略"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "和沒有信徒的女神大人一起攻略異世界"
       }
     ]
   },
@@ -582336,6 +582406,11 @@
         "lang": "ja",
         "type": "official",
         "text": "FX戦士くるみちゃん"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "FX戰士久留美"
       }
     ]
   },
@@ -582531,6 +582606,11 @@
         "lang": "ja",
         "type": "official",
         "text": "マウスカーソルで現実を操作できるようになったので, 女の子をいっぱいクリックしまーす"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "滑鼠游標好像變得能操控現實，那我要點瘋狂點擊女孩子"
       }
     ]
   },
@@ -582543,19 +582623,24 @@
         "text": "Dragon Ball Super - Beerus"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "de",
+        "type": "official",
         "text": "Dragon Ball Super: Beerus"
       },
       {
-        "lang": "de",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Dragon Ball Super: Beerus"
       },
       {
         "lang": "ja",
         "type": "official",
         "text": "ドラゴンボール超 ビルス"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "七龍珠超：比魯斯"
       }
     ]
   },
@@ -583476,6 +583561,11 @@
         "lang": "ja",
         "type": "official",
         "text": "天は赤い河のほとり"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "赤河戀影"
       }
     ]
   },
@@ -583701,6 +583791,11 @@
         "lang": "ja",
         "type": "official",
         "text": "ダークサモナーとデキている"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "與暗黑召喚師秘密戀愛中"
       }
     ]
   },
@@ -584658,14 +584753,14 @@
     "aid": "19951",
     "titles": [
       {
-        "lang": "de",
-        "type": "official",
-        "text": "Battle Spirits [Re] ZEKKAI NO KU"
-      },
-      {
         "lang": "en",
         "type": "official",
         "text": "Battle Spirits [Re] Zekkai no Ku"
+      },
+      {
+        "lang": "de",
+        "type": "official",
+        "text": "Battle Spirits [Re] ZEKKAI NO KU"
       },
       {
         "lang": "x-jat",
@@ -584693,14 +584788,14 @@
         "text": "Sensha Isu"
       },
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "TANK CHAIR"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Tank Chair"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "TANK CHAIR"
       },
       {
         "lang": "ja",
@@ -584711,6 +584806,11 @@
         "lang": "ja",
         "type": "syn",
         "text": "戦車椅子"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "戰車椅子-TANK CHAIR-"
       }
     ]
   },
@@ -584848,13 +584948,13 @@
     "aid": "19957",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Vertex Force"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Vertex Force"
       },
       {
@@ -585668,13 +585768,13 @@
     "aid": "19998",
     "titles": [
       {
-        "lang": "x-kot",
-        "type": "official",
+        "lang": "en",
+        "type": "main",
         "text": "Metal Cardbot"
       },
       {
-        "lang": "en",
-        "type": "main",
+        "lang": "x-kot",
+        "type": "official",
         "text": "Metal Cardbot"
       }
     ]
@@ -586578,6 +586678,11 @@
         "text": "カノトモ"
       },
       {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "女友的朋友"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "彼女の友達"
@@ -587296,6 +587401,11 @@
         "lang": "ja",
         "type": "official",
         "text": "マロニエ王国の七人の騎士"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "七葉樹王國的七名騎士"
       }
     ]
   },
@@ -587673,13 +587783,13 @@
     "aid": "20093",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Big Boss"
       },
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Big Boss"
       }
     ]
@@ -587718,13 +587828,13 @@
     "aid": "20096",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "NICKY"
       },
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "NICKY"
       }
     ]
@@ -588273,13 +588383,13 @@
     "aid": "20121",
     "titles": [
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Fool Night"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Fool Night"
       },
       {
@@ -588553,13 +588663,13 @@
     "aid": "20131",
     "titles": [
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Snowball Earth 2"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Snowball Earth 2"
       },
       {
@@ -589193,7 +589303,7 @@
     "aid": "20163",
     "titles": [
       {
-        "lang": "ja",
+        "lang": "en",
         "type": "official",
         "text": "Here U Are"
       },
@@ -589203,7 +589313,7 @@
         "text": "Here U Are"
       },
       {
-        "lang": "en",
+        "lang": "ja",
         "type": "official",
         "text": "Here U Are"
       }
@@ -589301,6 +589411,11 @@
         "lang": "en",
         "type": "official",
         "text": "The Ramparts of Ice (2026)"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "冰之城牆 第2季"
       },
       {
         "lang": "ja",
@@ -592678,6 +592793,11 @@
         "text": "The Shy Snow Woman and the Cursed Ring"
       },
       {
+        "lang": "zh-Hant",
+        "type": "syn",
+        "text": "不擅交際的未亡人雪女與詛咒戒指"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "人付き合いが苦手な未亡人の雪女さんと呪いの指輪"
@@ -594251,6 +594371,11 @@
         "lang": "ja",
         "type": "official",
         "text": "傷だらけ聖女より報復をこめて Season2"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "黑化吧！聖女大人 第二季"
       }
     ]
   },
@@ -595219,8 +595344,18 @@
       },
       {
         "lang": "x-jat",
+        "type": "short",
+        "text": "kanakoro"
+      },
+      {
+        "lang": "x-jat",
         "type": "main",
         "text": "Shiawase Kanako no Koroshiya Seikatsu"
+      },
+      {
+        "lang": "ja",
+        "type": "short",
+        "text": "カナコロ"
       },
       {
         "lang": "ja",
@@ -595451,6 +595586,26 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "新围棋少年"
+      }
+    ]
+  },
+  {
+    "aid": "20495",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Null Meta"
+      },
+      {
+        "lang": "x-jat",
+        "type": "syn",
+        "text": "Nurumeta"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "ぬるめた"
       }
     ]
   }
