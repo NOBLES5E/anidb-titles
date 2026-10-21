@@ -268223,6 +268223,11 @@
         "text": "Into the Forest of Fireflies` Light"
       },
       {
+        "lang": "en",
+        "type": "syn",
+        "text": "To the Forest of Firefly Lights"
+      },
+      {
         "lang": "fr",
         "type": "official",
         "text": "Vers la forêt des lucioles"
@@ -268293,14 +268298,14 @@
     "aid": "8292",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "syn",
-        "text": "Ben-to"
-      },
-      {
         "lang": "en",
         "type": "official",
         "text": "Ben-To"
+      },
+      {
+        "lang": "x-jat",
+        "type": "syn",
+        "text": "Ben-to"
       },
       {
         "lang": "x-jat",
@@ -583788,6 +583793,11 @@
         "text": "I`m Dating a Dark Summoner"
       },
       {
+        "lang": "pt",
+        "type": "syn",
+        "text": "Namoro com uma Invocadora das Trevas"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "ダークサモナーとデキている"
@@ -595606,6 +595616,21 @@
         "lang": "ja",
         "type": "official",
         "text": "ぬるめた"
+      }
+    ]
+  },
+  {
+    "aid": "20496",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Gelpiyo (2026)"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "ゲルぴよ (2026)"
       }
     ]
   }
