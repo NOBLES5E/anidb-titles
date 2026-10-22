@@ -507983,6 +507983,11 @@
         "text": "cote s3"
       },
       {
+        "lang": "pt",
+        "type": "syn",
+        "text": "Turma de Elite 3.ª Temporada"
+      },
+      {
         "lang": "x-jat",
         "type": "short",
         "text": "youjitsu s3"
@@ -511651,6 +511656,11 @@
         "lang": "ja",
         "type": "official",
         "text": "うまゆる"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "悠哉賽馬娘"
       },
       {
         "lang": "zh-Hans",
@@ -558931,6 +558941,11 @@
         "lang": "ja",
         "type": "official",
         "text": "劇場版 転生したらスライムだった件 蒼海の涙編"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "劇場版 關於我轉生變成史萊姆這檔事 蒼海之淚篇"
       }
     ]
   },
@@ -560165,6 +560180,11 @@
       {
         "lang": "en",
         "type": "syn",
+        "text": "Fox Spirit Matchmaker 13th Season"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
         "text": "Fox Spirit Matchmaker Season 13"
       },
       {
@@ -560183,9 +560203,24 @@
         "text": "Huyao Xiao Hongniang 13: Huang Feng Ling Pian"
       },
       {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Huyao Xiao Hongniang 13th Season"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "syn",
+        "text": "狐妖小红娘 第十三季"
+      },
+      {
         "lang": "zh-Hans",
         "type": "official",
         "text": "狐妖小红娘 黄风岭篇"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "syn",
+        "text": "狐妖小红娘13 黄风岭篇"
       }
     ]
   },
@@ -567233,6 +567268,11 @@
         "text": "Suikoden: The Anime"
       },
       {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "幻想水浒传"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "幻想水滸伝"
@@ -567328,12 +567368,12 @@
     "aid": "19200",
     "titles": [
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "Onmyo Kaiten Re:Birth Verse"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "Onmyo Kaiten Re:Birth Verse"
       },
@@ -569316,6 +569356,11 @@
         "lang": "ja",
         "type": "official",
         "text": "スティール・ボール・ラン ジョジョの奇妙な冒険"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "飆馬野郎 JOJO 的奇妙冒險"
       }
     ]
   },
@@ -581003,13 +581048,13 @@
     "aid": "19779",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Gachiakuta 2"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Gachiakuta 2"
       },
       {
@@ -581082,6 +581127,11 @@
   {
     "aid": "19782",
     "titles": [
+      {
+        "lang": "de",
+        "type": "official",
+        "text": "Kaiju Girl Caramelise"
+      },
       {
         "lang": "en",
         "type": "official",
@@ -581493,6 +581543,11 @@
     "aid": "19799",
     "titles": [
       {
+        "lang": "ja",
+        "type": "official",
+        "text": "ONE PUNCH MAN (2027)"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "One Punch Man (2027)"
@@ -581501,11 +581556,6 @@
         "lang": "en",
         "type": "syn",
         "text": "One Punch Man (2027)"
-      },
-      {
-        "lang": "ja",
-        "type": "official",
-        "text": "ONE PUNCH MAN (2027)"
       },
       {
         "lang": "x-jat",
@@ -581906,6 +581956,11 @@
         "lang": "zh-Hant",
         "type": "official",
         "text": "和沒有信徒的女神大人一起攻略異世界"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "和没有信徒的女神大人一起攻略异世界"
       }
     ]
   },
@@ -582213,12 +582268,12 @@
         "text": "Dogulwang"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "Tomb Raider King"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "Tomb Raider King"
       },
@@ -582598,6 +582653,11 @@
         "text": "Mouse Cursor de Genjitsu o Sousa Dekiru You ni Natta no de, Onnanoko o Ippai Click Shima~su"
       },
       {
+        "lang": "x-jat",
+        "type": "syn",
+        "text": "Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onnanoko wo Ippai Click Shimasu"
+      },
+      {
         "lang": "en",
         "type": "syn",
         "text": "Now That I Can Control Reality With A Mouse Cursor, I’m Gonna Click Away On The Girls!"
@@ -582628,13 +582688,13 @@
         "text": "Dragon Ball Super - Beerus"
       },
       {
-        "lang": "de",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Dragon Ball Super: Beerus"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "de",
+        "type": "official",
         "text": "Dragon Ball Super: Beerus"
       },
       {
@@ -582978,12 +583038,12 @@
     "aid": "19873",
     "titles": [
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "Chainsmoker Cat"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "Chainsmoker Cat"
       },
@@ -583098,13 +583158,13 @@
     "aid": "19877",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Thunder 3"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Thunder 3"
       },
       {
@@ -584763,14 +584823,14 @@
     "aid": "19951",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
-        "text": "Battle Spirits [Re] Zekkai no Ku"
-      },
-      {
         "lang": "de",
         "type": "official",
         "text": "Battle Spirits [Re] ZEKKAI NO KU"
+      },
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "Battle Spirits [Re] Zekkai no Ku"
       },
       {
         "lang": "x-jat",
@@ -584798,14 +584858,14 @@
         "text": "Sensha Isu"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Tank Chair"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "TANK CHAIR"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Tank Chair"
       },
       {
         "lang": "ja",
@@ -586098,13 +586158,13 @@
         "text": "CANDY CARIES"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Candy Caries"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Candy Caries"
       },
       {
@@ -586373,13 +586433,13 @@
     "aid": "20027",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Kagurabachi"
       },
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Kagurabachi"
       },
       {
@@ -587338,13 +587398,13 @@
     "aid": "20072",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Dorohedoro Season 3"
       },
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Dorohedoro Season 3"
       },
       {
@@ -587793,13 +587853,13 @@
     "aid": "20093",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Big Boss"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Big Boss"
       }
     ]
@@ -587838,13 +587898,13 @@
     "aid": "20096",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "NICKY"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "NICKY"
       }
     ]
@@ -588393,13 +588453,13 @@
     "aid": "20121",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Fool Night"
       },
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Fool Night"
       },
       {
@@ -589313,17 +589373,17 @@
     "aid": "20163",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
-        "text": "Here U Are"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Here U Are"
       },
       {
         "lang": "ja",
+        "type": "official",
+        "text": "Here U Are"
+      },
+      {
+        "lang": "en",
         "type": "official",
         "text": "Here U Are"
       }
@@ -591258,13 +591318,13 @@
     "aid": "20254",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Destiny Unchain Online"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Destiny Unchain Online"
       }
     ]
@@ -591893,13 +591953,13 @@
     "aid": "20284",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Maiden Blood"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Maiden Blood"
       },
       {
@@ -591928,14 +591988,14 @@
     "aid": "20286",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Super Ninja Neko"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "SUPER NINJA NEKO"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Super Ninja Neko"
       }
     ]
   },
@@ -592603,13 +592663,13 @@
         "text": "Pokémon ワイルドカード"
       },
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Pokemon: Wild Card"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Pokemon: Wild Card"
       },
       {
@@ -594226,6 +594286,11 @@
         "lang": "ja",
         "type": "official",
         "text": "うまゆるふるげ〜と!"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "悠哉賽馬娘Full Gate！"
       }
     ]
   },
@@ -594233,13 +594298,13 @@
     "aid": "20426",
     "titles": [
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Liar Game 2"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Liar Game 2"
       },
       {
@@ -595631,6 +595696,51 @@
         "lang": "ja",
         "type": "official",
         "text": "ゲルぴよ (2026)"
+      }
+    ]
+  },
+  {
+    "aid": "20497",
+    "titles": [
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "「アニメガタリ」×「攻殻機動隊 新劇場版」コラボ映像"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Animegatari x Koukaku Kidoutai Collab Eizou"
+      }
+    ]
+  },
+  {
+    "aid": "20498",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "G2.5"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "G2.5"
+      }
+    ]
+  },
+  {
+    "aid": "20499",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Bishoujo Senshi Sailor Moon S: Kotaete Moon Call!"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "美少女戦士セーラームーンS こたえてムーンコール!"
       }
     ]
   }
