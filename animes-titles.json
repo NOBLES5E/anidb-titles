@@ -397698,6 +397698,11 @@
         "text": "Kono Subarashii Sekai ni Shukufuku o! Kurenai Densetsu"
       },
       {
+        "lang": "x-jat",
+        "type": "short",
+        "text": "konosuba movie"
+      },
+      {
         "lang": "pt",
         "type": "official",
         "text": "Konosuba: A Bênção de Deus Para Este Maravilhoso Mundo! - Lenda Carmesim"
@@ -502708,13 +502713,13 @@
     "aid": "17037",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Gridman Universe"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Gridman Universe"
       },
       {
@@ -502761,6 +502766,11 @@
         "lang": "uk",
         "type": "official",
         "text": "Ворона імператорського гарему"
+      },
+      {
+        "lang": "th",
+        "type": "official",
+        "text": "กาดำแห่งวังชั้นใน"
       },
       {
         "lang": "zh-Hans",
@@ -502873,7 +502883,17 @@
         "text": "Khóa chặt cửa nào Suzume"
       },
       {
+        "lang": "de",
+        "type": "official",
+        "text": "Suzume"
+      },
+      {
         "lang": "en",
+        "type": "official",
+        "text": "Suzume"
+      },
+      {
+        "lang": "cs",
         "type": "official",
         "text": "Suzume"
       },
@@ -502888,17 +502908,7 @@
         "text": "Suzume"
       },
       {
-        "lang": "cs",
-        "type": "official",
-        "text": "Suzume"
-      },
-      {
         "lang": "pl",
-        "type": "official",
-        "text": "Suzume"
-      },
-      {
-        "lang": "de",
         "type": "official",
         "text": "Suzume"
       },
@@ -503148,13 +503158,13 @@
         "text": "Dr. Stone (2023)"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Dr. Stone: New World"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Dr. Stone: New World"
       },
       {
@@ -503323,13 +503333,13 @@
     "aid": "17059",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Vegetable"
       },
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Vegetable"
       }
     ]
@@ -503338,13 +503348,13 @@
     "aid": "17060",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Fish"
       },
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Fish"
       }
     ]
@@ -503353,13 +503363,13 @@
     "aid": "17061",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "pl",
+        "type": "official",
         "text": "Spy x Family (2022)"
       },
       {
-        "lang": "pl",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Spy x Family (2022)"
       },
       {
@@ -503473,13 +503483,13 @@
     "aid": "17063",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Ayakashi Triangle"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Ayakashi Triangle"
       },
       {
@@ -560210,6 +560220,11 @@
       {
         "lang": "zh-Hans",
         "type": "syn",
+        "text": "狐妖小红娘 第13季"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "syn",
         "text": "狐妖小红娘 第十三季"
       },
       {
@@ -582839,7 +582854,7 @@
       },
       {
         "lang": "en",
-        "type": "syn",
+        "type": "official",
         "text": "Nia Liston: The Merciless Maiden"
       },
       {
@@ -587713,6 +587728,11 @@
     "aid": "20085",
     "titles": [
       {
+        "lang": "en",
+        "type": "official",
+        "text": "KERORO"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Keroro Gunsou (2026)"
@@ -587751,6 +587771,11 @@
         "lang": "x-jat",
         "type": "main",
         "text": "Muramata-san no Aijou"
+      },
+      {
+        "lang": "ko",
+        "type": "syn",
+        "text": "무라마타 씨의 애정"
       },
       {
         "lang": "ja",
@@ -587898,13 +587923,13 @@
     "aid": "20096",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "NICKY"
       },
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "NICKY"
       }
     ]
@@ -588453,13 +588478,13 @@
     "aid": "20121",
     "titles": [
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Fool Night"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Fool Night"
       },
       {
@@ -588591,6 +588616,11 @@
         "lang": "x-jat",
         "type": "main",
         "text": "NTR Kishi"
+      },
+      {
+        "lang": "ko",
+        "type": "syn",
+        "text": "NTR 기사"
       },
       {
         "lang": "ja",
@@ -590273,13 +590303,13 @@
     "aid": "20206",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Studio Cabana"
       },
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Studio Cabana"
       },
       {
@@ -591988,14 +592018,14 @@
     "aid": "20286",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "SUPER NINJA NEKO"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Super Ninja Neko"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "SUPER NINJA NEKO"
       }
     ]
   },
@@ -595033,13 +595063,13 @@
     "aid": "20460",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "The Boxer"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "The Boxer"
       },
       {
@@ -595106,6 +595136,16 @@
         "lang": "x-jat",
         "type": "main",
         "text": "Yuu-san chi! from Yuu-hachi"
+      },
+      {
+        "lang": "x-jat",
+        "type": "syn",
+        "text": "Yuusanchi! from Yuu-hachi"
+      },
+      {
+        "lang": "x-jat",
+        "type": "syn",
+        "text": "Yuusanchi! from Yuuhachi"
       },
       {
         "lang": "ja",
