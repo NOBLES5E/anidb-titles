@@ -66090,6 +66090,11 @@
       {
         "lang": "x-jat",
         "type": "syn",
+        "text": "Rockman Hoshi ni Negai wo"
+      },
+      {
+        "lang": "x-jat",
+        "type": "syn",
         "text": "Rockman OVA"
       },
       {
@@ -66118,17 +66123,17 @@
         "text": "Psycho Diver"
       },
       {
+        "lang": "en",
+        "type": "official",
+        "text": "Psycho Diver - Soul Siren"
+      },
+      {
         "lang": "fr",
         "type": "official",
         "text": "Psycho Diver - Soul Siren"
       },
       {
         "lang": "de",
-        "type": "official",
-        "text": "Psycho Diver - Soul Siren"
-      },
-      {
-        "lang": "en",
         "type": "official",
         "text": "Psycho Diver - Soul Siren"
       },
@@ -178616,6 +178621,11 @@
         "lang": "en",
         "type": "syn",
         "text": "King of Classroom, Yamazaki"
+      },
+      {
+        "lang": "es-419",
+        "type": "official",
+        "text": "Yamazaki, el Rey de la Clase"
       },
       {
         "lang": "pt",
@@ -583873,6 +583883,11 @@
         "text": "Namoro com uma Invocadora das Trevas"
       },
       {
+        "lang": "ru",
+        "type": "syn",
+        "text": "Я встречаюсь с тёмным призывателем"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "ダークサモナーとデキている"
@@ -591823,6 +591838,11 @@
         "text": "Oshiri Tantei (2024)"
       },
       {
+        "lang": "x-jat",
+        "type": "syn",
+        "text": "Oshiri Tantei Season 8"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "おしりたんてい (2024)"
@@ -591836,6 +591856,11 @@
         "lang": "x-jat",
         "type": "main",
         "text": "Oshiri Tantei (2025)"
+      },
+      {
+        "lang": "x-jat",
+        "type": "syn",
+        "text": "Oshiri Tantei Season 9"
       },
       {
         "lang": "ja",
@@ -594328,6 +594353,11 @@
     "aid": "20426",
     "titles": [
       {
+        "lang": "ja",
+        "type": "official",
+        "text": "LIAR GAME 2"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Liar Game 2"
@@ -594336,11 +594366,6 @@
         "lang": "en",
         "type": "syn",
         "text": "Liar Game 2"
-      },
-      {
-        "lang": "ja",
-        "type": "official",
-        "text": "LIAR GAME 2"
       },
       {
         "lang": "ja",
@@ -595063,13 +595088,13 @@
     "aid": "20460",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "The Boxer"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "The Boxer"
       },
       {
@@ -595781,6 +595806,46 @@
         "lang": "ja",
         "type": "official",
         "text": "美少女戦士セーラームーンS こたえてムーンコール!"
+      }
+    ]
+  },
+  {
+    "aid": "20500",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Koukaku Kidoutai (Shinsaku Animation)"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "The Ghost in the Shell (New Animation)"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "攻殻機動隊 (新作アニメーション)"
+      }
+    ]
+  },
+  {
+    "aid": "20501",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Oshiri Tantei (2026)"
+      },
+      {
+        "lang": "x-jat",
+        "type": "syn",
+        "text": "Oshiri Tantei Season 10"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "おしりたんてい (2026)"
       }
     ]
   }
