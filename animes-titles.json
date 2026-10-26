@@ -584110,12 +584110,12 @@
       {
         "lang": "x-jat",
         "type": "main",
-        "text": "Bang Dream! It`s MyGo!!!!! / Ave Mujica"
+        "text": "Bang Dream! MyGo!!!!! // Ave Mujica"
       },
       {
         "lang": "ja",
         "type": "official",
-        "text": "BanG Dream! It`s MyGO!!!!! / Ave Mujica"
+        "text": "BanG Dream! MyGO!!!!! // Ave Mujica"
       }
     ]
   },
@@ -595826,6 +595826,61 @@
         "lang": "ja",
         "type": "official",
         "text": "おしりたんてい (2026)"
+      }
+    ]
+  },
+  {
+    "aid": "20502",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Kenja Time no Sukkiri Hitozuma Boukenki"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "賢者タイムのスッキリ人妻冒険記"
+      }
+    ]
+  },
+  {
+    "aid": "20503",
+    "titles": [
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "Dreaming of a Whale"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Kujira o Yumemu"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "鯨を夢む"
+      }
+    ]
+  },
+  {
+    "aid": "20504",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Kimi to Boku no Saigo no Senjou, Arui wa Sekai ga Hajimaru Seisen Season III"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Our Last Crusade or the Rise of a New World Season III"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "キミと僕の最後の戦場, あるいは世界が始まる聖戦 season III"
       }
     ]
   }
