@@ -329820,7 +329820,7 @@
       {
         "lang": "uk",
         "type": "official",
-        "text": "Король Магічних Стріл та Ванадіс"
+        "text": "Лорд Марксмен і Ванадіс"
       },
       {
         "lang": "ko",
@@ -564446,6 +564446,11 @@
         "lang": "ja",
         "type": "official",
         "text": "魔法少女リリカルなのは EXCEEDS Gun Blaze Vengeance"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "魔法少女奈葉 EXCEEDS Gun Blaze Vengeance"
       }
     ]
   },
@@ -574723,6 +574728,11 @@
         "text": "SI-VIS - The Sound of Heroes"
       },
       {
+        "lang": "en",
+        "type": "official",
+        "text": "Si-Vis: The Sound of Heroes"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Si-Vis: The Sound of Heroes"
@@ -574731,11 +574741,6 @@
         "lang": "ja",
         "type": "official",
         "text": "SI-VIS: The Sound of Heroes"
-      },
-      {
-        "lang": "en",
-        "type": "official",
-        "text": "Si-Vis: The Sound of Heroes"
       },
       {
         "lang": "zh-Hans",
@@ -574908,6 +574913,11 @@
         "text": "Isekai Office Worker: The Other World`s Books Depend on the Bean Counter"
       },
       {
+        "lang": "ja",
+        "type": "short",
+        "text": "いせしゃち"
+      },
+      {
         "lang": "zh-Hans",
         "type": "official",
         "text": "异世界的安泰全看社畜"
@@ -575047,6 +575057,11 @@
   {
     "aid": "19513",
     "titles": [
+      {
+        "lang": "de",
+        "type": "official",
+        "text": "Akane-banashi"
+      },
       {
         "lang": "x-jat",
         "type": "main",
@@ -578161,6 +578176,11 @@
         "lang": "en",
         "type": "official",
         "text": "Even Though I`m a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiance"
+      },
+      {
+        "lang": "de",
+        "type": "official",
+        "text": "Even Though I`m a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé"
       },
       {
         "lang": "x-jat",
@@ -585601,6 +585621,11 @@
         "lang": "ja",
         "type": "official",
         "text": "正反対な君と僕 (2026)"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "相反的你和我 第二季"
       }
     ]
   },
@@ -585868,13 +585893,13 @@
     "aid": "19998",
     "titles": [
       {
-        "lang": "en",
-        "type": "main",
+        "lang": "x-kot",
+        "type": "official",
         "text": "Metal Cardbot"
       },
       {
-        "lang": "x-kot",
-        "type": "official",
+        "lang": "en",
+        "type": "main",
         "text": "Metal Cardbot"
       }
     ]
@@ -585918,12 +585943,12 @@
         "text": "Hyakki Yakoushou"
       },
       {
-        "lang": "ja",
+        "lang": "zh-Hant",
         "type": "official",
         "text": "百鬼夜行抄"
       },
       {
-        "lang": "zh-Hant",
+        "lang": "ja",
         "type": "official",
         "text": "百鬼夜行抄"
       },
@@ -586188,13 +586213,13 @@
         "text": "CANDY CARIES"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Candy Caries"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Candy Caries"
       },
       {
@@ -587743,13 +587768,13 @@
     "aid": "20086",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Dengeki Daisy"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Dengeki Daisy"
       },
       {
@@ -587918,13 +587943,13 @@
     "aid": "20096",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "NICKY"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "NICKY"
       }
     ]
@@ -588473,13 +588498,13 @@
     "aid": "20121",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Fool Night"
       },
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Fool Night"
       },
       {
@@ -589398,7 +589423,7 @@
     "aid": "20163",
     "titles": [
       {
-        "lang": "en",
+        "lang": "ja",
         "type": "official",
         "text": "Here U Are"
       },
@@ -589408,7 +589433,7 @@
         "text": "Here U Are"
       },
       {
-        "lang": "ja",
+        "lang": "en",
         "type": "official",
         "text": "Here U Are"
       }
@@ -590708,13 +590733,13 @@
     "aid": "20224",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "MAHOROBA"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "MAHOROBA"
       }
     ]
@@ -594428,13 +594453,13 @@
     "aid": "20431",
     "titles": [
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Thunder 3 (2027)"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Thunder 3 (2027)"
       },
       {
@@ -594843,6 +594868,11 @@
         "text": "Tanuki to Kitsune (2026)"
       },
       {
+        "lang": "x-jat",
+        "type": "syn",
+        "text": "Tanuki to Kitsune (TV)"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "タヌキとキツネ (2026)"
@@ -595068,13 +595098,13 @@
     "aid": "20460",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "The Boxer"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "The Boxer"
       },
       {
