@@ -275304,12 +275304,12 @@
       },
       {
         "lang": "x-jat",
-        "type": "short",
+        "type": "main",
         "text": "Rinne no Lagrange"
       },
       {
         "lang": "x-jat",
-        "type": "main",
+        "type": "card",
         "text": "Rinne no Lagrange: Flower Declaration of Your Heart"
       },
       {
@@ -275320,6 +275320,11 @@
       {
         "lang": "ja",
         "type": "official",
+        "text": "輪廻のラグランジェ"
+      },
+      {
+        "lang": "ja",
+        "type": "card",
         "text": "輪廻のラグランジェ Flower declaration of your heart"
       },
       {
@@ -285550,12 +285555,22 @@
       {
         "lang": "x-jat",
         "type": "main",
+        "text": "Rinne no Lagrange Season 2"
+      },
+      {
+        "lang": "x-jat",
+        "type": "card",
         "text": "Rinne no Lagrange: Flower Declaration of Your Heart - Season 2"
       },
       {
         "lang": "ja",
-        "type": "official",
+        "type": "card",
         "text": "輪廻のラグランジェ Flower declaration of your heart season2"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "輪廻のラグランジェ season2"
       },
       {
         "lang": "zh-Hans",
@@ -285573,17 +285588,17 @@
         "text": "Os Cavaleiros do Zodíaco - Ômega"
       },
       {
+        "lang": "fr",
+        "type": "official",
+        "text": "Saint Seiya Omega"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Saint Seiya Omega"
       },
       {
         "lang": "pt",
-        "type": "official",
-        "text": "Saint Seiya Omega"
-      },
-      {
-        "lang": "fr",
         "type": "official",
         "text": "Saint Seiya Omega"
       },
@@ -288739,13 +288754,23 @@
       },
       {
         "lang": "x-jat",
-        "type": "main",
+        "type": "card",
         "text": "Rinne no Lagrange: Flower Declaration of Your Heart - Kamogawa Days"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Rinne no Lagrange: Kamogawa Days"
+      },
+      {
+        "lang": "ja",
+        "type": "card",
+        "text": "輪廻のラグランジェ Flower declaration of your heart 鴨川デイズ"
       },
       {
         "lang": "ja",
         "type": "official",
-        "text": "輪廻のラグランジェ Flower declaration of your heart 鴨川デイズ"
+        "text": "輪廻のラグランジェ 鴨川デイズ"
       }
     ]
   },
@@ -288753,13 +288778,13 @@
     "aid": "9109",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "663114"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "663114"
       }
     ]
@@ -288878,13 +288903,13 @@
         "text": "PES PEACE ECO SMILE"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "PES: Peace Eco Smile"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "PES: Peace Eco Smile"
       }
     ]
@@ -315258,7 +315283,7 @@
     "aid": "10159",
     "titles": [
       {
-        "lang": "x-jat",
+        "lang": "x-kot",
         "type": "main",
         "text": "Curucuru and Friends"
       },
@@ -405225,7 +405250,7 @@
       {
         "lang": "en",
         "type": "syn",
-        "text": "Welcome! to the forest of lewd elves"
+        "text": "Welcome! to the Forest of Lewd Elves"
       },
       {
         "lang": "x-jat",
@@ -437284,11 +437309,6 @@
       },
       {
         "lang": "zh",
-        "type": "syn",
-        "text": "Xingchen Bian"
-      },
-      {
-        "lang": "zh",
         "type": "official",
         "text": "星辰变"
       }
@@ -437543,11 +437563,6 @@
         "text": "a3"
       },
       {
-        "lang": "en",
-        "type": "official",
-        "text": "A3! Season Spring & Summer"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "A3! Season Spring & Summer"
@@ -437556,6 +437571,11 @@
         "lang": "ja",
         "type": "official",
         "text": "A3! SEASON SPRING & SUMMER"
+      },
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "A3! Season Spring & Summer"
       },
       {
         "lang": "ja",
@@ -485265,7 +485285,7 @@
       {
         "lang": "x-jat",
         "type": "main",
-        "text": "Happa no Leaf monogatari"
+        "text": "Happa no Leaf Monogatari"
       },
       {
         "lang": "ja",
@@ -487648,7 +487668,7 @@
         "text": "グッバイ, ドン・グリーズ!"
       },
       {
-        "lang": "zh-Hans",
+        "lang": "zh-Hant",
         "type": "syn",
         "text": "再見了，橡果兄弟！"
       },
@@ -491423,14 +491443,14 @@
         "text": "Stellar Transformation Season 4"
       },
       {
-        "lang": "x-zht",
-        "type": "main",
-        "text": "Xing Chen Bian (2022)"
-      },
-      {
         "lang": "en",
         "type": "syn",
         "text": "Xing Chen Bian Season 4"
+      },
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Xingchen Bian (2022)"
       },
       {
         "lang": "x-zht",
@@ -525718,7 +525738,7 @@
         "text": "X&Y"
       },
       {
-        "lang": "zh",
+        "lang": "zh-Hans",
         "type": "official",
         "text": "爱幽的密室"
       }
@@ -525950,7 +525970,7 @@
       {
         "lang": "x-zht",
         "type": "main",
-        "text": "Xing Chen Bian Di Wu Ji"
+        "text": "Xingchen Bian Di Wu Ji"
       },
       {
         "lang": "x-zht",
@@ -565905,6 +565925,11 @@
       {
         "lang": "en",
         "type": "syn",
+        "text": "Stellar Transformation 6th Season"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
         "text": "Stellar Transformation Season 6"
       },
       {
@@ -565914,13 +565939,18 @@
       },
       {
         "lang": "x-zht",
-        "type": "main",
+        "type": "syn",
         "text": "Xing Chen Bian Di Liu Ji"
       },
       {
         "lang": "x-zht",
         "type": "syn",
         "text": "Xingchen Bian 6th Season"
+      },
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Xingchen Bian Di Liu Ji"
       },
       {
         "lang": "zh-Hans",
@@ -581053,6 +581083,11 @@
         "text": "A Wild Last Boss Appeared! Season 2"
       },
       {
+        "lang": "en",
+        "type": "syn",
+        "text": "Yasei no Last Boss ga Arawareta 2nd Season"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Yasei no Last Boss ga Arawareta! (2026)"
@@ -586890,6 +586925,11 @@
       {
         "lang": "en",
         "type": "syn",
+        "text": "Stellar Transformation Final Season"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
         "text": "Stellar Transformation Season 7"
       },
       {
@@ -586904,7 +586944,7 @@
       },
       {
         "lang": "x-zht",
-        "type": "main",
+        "type": "syn",
         "text": "Xing Chen Bian Di Qi Ji"
       },
       {
@@ -586919,8 +586959,18 @@
       },
       {
         "lang": "x-zht",
+        "type": "main",
+        "text": "Xingchen Bian Di Qi Ji"
+      },
+      {
+        "lang": "x-zht",
         "type": "syn",
         "text": "Xingchen Bian: Tianzun Zhi Zhan"
+      },
+      {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Xingchen Bian: Zuizhong Ji"
       },
       {
         "lang": "zh-Hans",
@@ -594700,7 +594750,7 @@
       {
         "lang": "x-jat",
         "type": "main",
-        "text": "Oushun Jogakuen no Danyuu"
+        "text": "Oushun Jogakuin no Danyuu"
       },
       {
         "lang": "ja",
@@ -595911,6 +595961,21 @@
         "lang": "ja",
         "type": "official",
         "text": "キミと僕の最後の戦場, あるいは世界が始まる聖戦 season III"
+      }
+    ]
+  },
+  {
+    "aid": "20505",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Dual Shadow: Precure Villain Heroines"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "デュアルシャドウ~Precure Villain Heroines~"
       }
     ]
   }
