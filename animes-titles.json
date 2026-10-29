@@ -493425,12 +493425,12 @@
       {
         "lang": "x-zht",
         "type": "main",
-        "text": "A-Shuai Di Er Ji"
+        "text": "A-Shuai Di 2 Ji"
       },
       {
         "lang": "zh-Hans",
         "type": "official",
-        "text": "阿衰 第二季"
+        "text": "阿衰 第2季"
       }
     ]
   },
@@ -543241,6 +543241,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "冰火魔厨 第二季"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "syn",
+        "text": "冰火魔厨2"
       }
     ]
   },
@@ -586015,12 +586020,12 @@
       {
         "lang": "x-jat",
         "type": "main",
-        "text": "Cardfight!! Vanguard (2027)"
+        "text": "Cardfight!! Vanguard: Veil Lift"
       },
       {
         "lang": "ja",
         "type": "official",
-        "text": "カードファイト!! ヴァンガード (2027)"
+        "text": "カードファイト!! ヴァンガード  ベールリフト"
       }
     ]
   },
@@ -595976,6 +595981,41 @@
         "lang": "ja",
         "type": "official",
         "text": "デュアルシャドウ~Precure Villain Heroines~"
+      }
+    ]
+  },
+  {
+    "aid": "20506",
+    "titles": [
+      {
+        "lang": "ja",
+        "type": "card",
+        "text": "OVA さくら裂ク 散ル花びら"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Sakura Saku Chiru Hanabira"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "さくら裂ク 散ル花びら"
+      }
+    ]
+  },
+  {
+    "aid": "20507",
+    "titles": [
+      {
+        "lang": "fr",
+        "type": "official",
+        "text": "La tortue rouge"
+      },
+      {
+        "lang": "en",
+        "type": "main",
+        "text": "The red turtle"
       }
     ]
   }
