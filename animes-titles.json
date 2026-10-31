@@ -580063,6 +580063,11 @@
     "aid": "19730",
     "titles": [
       {
+        "lang": "pt",
+        "type": "official",
+        "text": "Falha no Medidor do Amor da Marika"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Marika-chan no Koukando wa Bukkowarete Iru"
@@ -580081,6 +580086,16 @@
         "lang": "x-jat",
         "type": "short",
         "text": "marikowa"
+      },
+      {
+        "lang": "pt-BR",
+        "type": "syn",
+        "text": "O Medidor do Amor da Marika Apresenta Falhas"
+      },
+      {
+        "lang": "pt",
+        "type": "syn",
+        "text": "O Medidor do Amor da Marika Apresenta Falhas"
       },
       {
         "lang": "ru",
@@ -581078,12 +581093,12 @@
     "aid": "19777",
     "titles": [
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "A Wild Last Boss Appeared! (2026)"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "A Wild Last Boss Appeared! (2026)"
       },
@@ -581138,13 +581153,13 @@
     "aid": "19779",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Gachiakuta 2"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Gachiakuta 2"
       },
       {
@@ -581633,13 +581648,13 @@
     "aid": "19799",
     "titles": [
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "One Punch Man (2027)"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "One Punch Man (2027)"
       },
       {
