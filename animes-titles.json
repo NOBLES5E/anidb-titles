@@ -167548,6 +167548,11 @@
         "text": "みなみけ"
       },
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "南家三姊妹"
+      },
+      {
         "lang": "zh-Hans",
         "type": "syn",
         "text": "南家三姐妹"
@@ -363433,6 +363438,11 @@
         "text": "魔法使いの嫁 星待つひと"
       },
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "魔法使的新娘 等待繁星之人"
+      },
+      {
         "lang": "zh-Hans",
         "type": "official",
         "text": "魔法使的新娘 等待繁星之人"
@@ -527814,11 +527824,6 @@
       },
       {
         "lang": "x-jat",
-        "type": "syn",
-        "text": "Tensei Shitara Slime Datta Ken: Corius no Yume"
-      },
-      {
-        "lang": "x-jat",
         "type": "short",
         "text": "TenSura ona"
       },
@@ -538850,21 +538855,6 @@
     ]
   },
   {
-    "aid": "18239",
-    "titles": [
-      {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Elfen Lied: Tooriame nite Arui wa, Shoujo wa Ikani Shite Sono Shinjou ni Itatta ka? - Regenschauer"
-      },
-      {
-        "lang": "ja",
-        "type": "official",
-        "text": "エルフェンリート 通り雨にて 或いは、少女はいかにしてその心情に至ったか?（REGENSCHAUER）"
-      }
-    ]
-  },
-  {
     "aid": "18240",
     "titles": [
       {
@@ -539063,13 +539053,13 @@
     "aid": "18248",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Cardfight!! Vanguard: Divinez"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Cardfight!! Vanguard: Divinez"
       },
       {
@@ -541606,21 +541596,6 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "噗妮露是可爱史莱姆"
-      }
-    ]
-  },
-  {
-    "aid": "18316",
-    "titles": [
-      {
-        "lang": "en",
-        "type": "main",
-        "text": "Koukaku Kidoutai: Stand Alone Complex 2nd GIG - Section 9 Science File: Tachikoma na Hibi"
-      },
-      {
-        "lang": "ja",
-        "type": "official",
-        "text": "Koukaku Kidoutai: Stand Alone Complex 2nd GIG - Section 9 Science File: Tachikoma na Hibi"
       }
     ]
   },
@@ -544760,21 +544735,6 @@
     ]
   },
   {
-    "aid": "18429",
-    "titles": [
-      {
-        "lang": "ja",
-        "type": "official",
-        "text": "Ao no Exorcist: Kuro no Iede"
-      },
-      {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Blue Exorcist: Runaway Kuro"
-      }
-    ]
-  },
-  {
     "aid": "18430",
     "titles": [
       {
@@ -547808,6 +547768,11 @@
         "text": "Zew nocy Sezon 2"
       },
       {
+        "lang": "ru",
+        "type": "official",
+        "text": "Песнь ночных сов 2"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "よふかしのうた Season2"
@@ -547883,12 +547848,12 @@
     "aid": "18534",
     "titles": [
       {
-        "lang": "es-419",
+        "lang": "es",
         "type": "official",
         "text": "Mi Amiga Nokotan es un Ciervo"
       },
       {
-        "lang": "es",
+        "lang": "es-419",
         "type": "official",
         "text": "Mi Amiga Nokotan es un Ciervo"
       },
@@ -548063,14 +548028,14 @@
         "text": "Kedves démonom"
       },
       {
-        "lang": "es-419",
-        "type": "official",
-        "text": "Mi querida oni"
-      },
-      {
         "lang": "es",
         "type": "official",
         "text": "Mi querida Oni"
+      },
+      {
+        "lang": "es-419",
+        "type": "official",
+        "text": "Mi querida oni"
       },
       {
         "lang": "pt-BR",
@@ -548086,6 +548051,11 @@
         "lang": "fr",
         "type": "official",
         "text": "Mon oni à moi"
+      },
+      {
+        "lang": "tl",
+        "type": "official",
+        "text": "My Oni Girl"
       },
       {
         "lang": "my",
@@ -548113,17 +548083,12 @@
         "text": "My Oni Girl"
       },
       {
-        "lang": "tl",
+        "lang": "hr",
         "type": "official",
         "text": "My Oni Girl"
       },
       {
-        "lang": "fi",
-        "type": "official",
-        "text": "My Oni Girl"
-      },
-      {
-        "lang": "sv",
+        "lang": "de",
         "type": "official",
         "text": "My Oni Girl"
       },
@@ -548138,22 +548103,7 @@
         "text": "My Oni Girl"
       },
       {
-        "lang": "nl",
-        "type": "official",
-        "text": "My Oni Girl"
-      },
-      {
-        "lang": "hr",
-        "type": "official",
-        "text": "My Oni Girl"
-      },
-      {
-        "lang": "it",
-        "type": "official",
-        "text": "My Oni Girl"
-      },
-      {
-        "lang": "de",
+        "lang": "ro",
         "type": "official",
         "text": "My Oni Girl"
       },
@@ -548163,7 +548113,22 @@
         "text": "My Oni Girl"
       },
       {
-        "lang": "ro",
+        "lang": "it",
+        "type": "official",
+        "text": "My Oni Girl"
+      },
+      {
+        "lang": "nl",
+        "type": "official",
+        "text": "My Oni Girl"
+      },
+      {
+        "lang": "sv",
+        "type": "official",
+        "text": "My Oni Girl"
+      },
+      {
+        "lang": "fi",
         "type": "official",
         "text": "My Oni Girl"
       },
@@ -578488,6 +578453,11 @@
         "text": "Isshiki-san wa Koi o Shiritai."
       },
       {
+        "lang": "en",
+        "type": "syn",
+        "text": "Isshiki-san Wants to Know About Love"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "一式さんは恋を知りたい."
@@ -587573,6 +587543,11 @@
         "text": "Marronnier Oukoku no Shichinin no Kishi"
       },
       {
+        "lang": "cs",
+        "type": "official",
+        "text": "Sedmero rytířů Království Marronnier"
+      },
+      {
         "lang": "en",
         "type": "syn",
         "text": "The Seven Knights of the Marronnier Kingdom"
@@ -596036,6 +596011,76 @@
         "lang": "en",
         "type": "main",
         "text": "The red turtle"
+      }
+    ]
+  },
+  {
+    "aid": "20508",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Inaka no Hitozuma-tachi The Animation"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "田舎の人妻たち THE ANIMATION"
+      }
+    ]
+  },
+  {
+    "aid": "20509",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Mama Bokkui"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "ママぼっくい"
+      }
+    ]
+  },
+  {
+    "aid": "20510",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Hiiragi-san Chi no Kyuuketsu Jijou"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Hiragi-san`s House of Vampires"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "柊さんちの吸血事情"
+      }
+    ]
+  },
+  {
+    "aid": "20511",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Romelia Senki (2027)"
+      },
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "Romelia War Chronicle (2027)"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "ロメリア戦記 (2027)"
       }
     ]
   }
