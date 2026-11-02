@@ -184018,13 +184018,23 @@
     "aid": "4892",
     "titles": [
       {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Claymore"
+      },
+      {
+        "lang": "de",
+        "type": "official",
+        "text": "Claymore"
+      },
+      {
         "lang": "pl",
         "type": "official",
         "text": "Claymore"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Claymore"
       },
       {
@@ -184034,16 +184044,6 @@
       },
       {
         "lang": "it",
-        "type": "official",
-        "text": "Claymore"
-      },
-      {
-        "lang": "de",
-        "type": "official",
-        "text": "Claymore"
-      },
-      {
-        "lang": "en",
         "type": "official",
         "text": "Claymore"
       },
@@ -184063,12 +184063,12 @@
         "text": "Двуострие"
       },
       {
-        "lang": "ru",
+        "lang": "bg",
         "type": "syn",
         "text": "Клеймор"
       },
       {
-        "lang": "bg",
+        "lang": "ru",
         "type": "syn",
         "text": "Клеймор"
       },
@@ -184106,6 +184106,11 @@
         "lang": "zh-Hans",
         "type": "syn",
         "text": "大剑"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "獵魔戰記"
       }
     ]
   },
@@ -288141,6 +288146,11 @@
         "lang": "zh-Hans",
         "type": "syn",
         "text": "军火女王2"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "軍火女王 PERFECT ORDER"
       }
     ]
   },
@@ -583924,7 +583934,7 @@
       },
       {
         "lang": "en",
-        "type": "syn",
+        "type": "official",
         "text": "I`m Dating a Dark Summoner"
       },
       {
@@ -596081,6 +596091,21 @@
         "lang": "ja",
         "type": "official",
         "text": "ロメリア戦記 (2027)"
+      }
+    ]
+  },
+  {
+    "aid": "20512",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Yappari Umi ga Suki"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "やっぱり海が好き"
       }
     ]
   }
