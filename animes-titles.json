@@ -455943,12 +455943,12 @@
         "text": "Ousama Ranking"
       },
       {
-        "lang": "en",
+        "lang": "fr",
         "type": "official",
         "text": "Ranking of Kings"
       },
       {
-        "lang": "fr",
+        "lang": "en",
         "type": "official",
         "text": "Ranking of Kings"
       },
@@ -456006,6 +456006,11 @@
         "lang": "x-jat",
         "type": "short",
         "text": "KanoKari"
+      },
+      {
+        "lang": "pt-BR",
+        "type": "official",
+        "text": "Namorada de Aluguel"
       },
       {
         "lang": "es",
@@ -469958,6 +469963,11 @@
         "text": "kanokari s2"
       },
       {
+        "lang": "pt-BR",
+        "type": "official",
+        "text": "Namorada de Aluguel 2"
+      },
+      {
         "lang": "en",
         "type": "official",
         "text": "Rent-a-Girlfriend (2022)"
@@ -469988,14 +469998,14 @@
     "aid": "15744",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Biohazard: Infinite Darkness"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "BIOHAZARD: INFINITE DARKNESS"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Biohazard: Infinite Darkness"
       },
       {
         "lang": "en",
@@ -470703,13 +470713,13 @@
         "text": "WEP"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Wonder Egg Priority"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Wonder Egg Priority"
       },
       {
@@ -470878,13 +470888,13 @@
     "aid": "15779",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Shadows House"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Shadows House"
       },
       {
@@ -519973,6 +519983,11 @@
         "text": "kanokari s3"
       },
       {
+        "lang": "pt-BR",
+        "type": "official",
+        "text": "Namorada de Aluguel 3"
+      },
+      {
         "lang": "en",
         "type": "official",
         "text": "Rent-a-Girlfriend (2023)"
@@ -554748,6 +554763,11 @@
     "aid": "18751",
     "titles": [
       {
+        "lang": "en",
+        "type": "official",
+        "text": "Sanda"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Sanda"
@@ -554756,11 +554776,6 @@
         "lang": "ja",
         "type": "official",
         "text": "SANDA"
-      },
-      {
-        "lang": "en",
-        "type": "official",
-        "text": "Sanda"
       },
       {
         "lang": "ja",
@@ -554811,6 +554826,11 @@
         "lang": "x-jat",
         "type": "short",
         "text": "KanoKari4"
+      },
+      {
+        "lang": "pt-BR",
+        "type": "official",
+        "text": "Namorada de Aluguel 4"
       },
       {
         "lang": "en",
@@ -569673,6 +569693,11 @@
     "aid": "19298",
     "titles": [
       {
+        "lang": "pt-BR",
+        "type": "official",
+        "text": "Defesa Territorial Descomplicada pelo Lorde Otimista: Magia de Produção Transforma uma Vila Sem Nome na Cidade Fortificada Mais Forte"
+      },
+      {
         "lang": "en",
         "type": "official",
         "text": "Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City"
@@ -572222,6 +572247,11 @@
   {
     "aid": "19400",
     "titles": [
+      {
+        "lang": "pt-BR",
+        "type": "official",
+        "text": "De Caipira a Mestre Espadachim 2"
+      },
       {
         "lang": "es",
         "type": "official",
@@ -576801,6 +576831,11 @@
         "lang": "x-jat",
         "type": "short",
         "text": "KanoKari 5"
+      },
+      {
+        "lang": "pt-BR",
+        "type": "official",
+        "text": "Namorada de Aluguel 5"
       },
       {
         "lang": "en",
@@ -582898,11 +582933,6 @@
     "aid": "19865",
     "titles": [
       {
-        "lang": "ja",
-        "type": "syn",
-        "text": "Kyouran Reijou Nia Liston"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei Shita Kami-goroshi no Bujin no Karei Naru Musouroku"
@@ -582913,12 +582943,12 @@
         "text": "Nia Liston, a Menina Implacável"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "Nia Liston: The Merciless Maiden"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "Nia Liston: The Merciless Maiden"
       },
@@ -583360,7 +583390,7 @@
       {
         "lang": "x-jat",
         "type": "main",
-        "text": "Tsuihou Sareta Cheat Fuyo Majutsushi wa Kimama na Second Life o Ouka Suru. Ore wa Buki dake Janaku,  Arayuru Mono ni \"Kyouka Point\" o Fuyo Dekirushi, Ore no Ishi de Itsu demo Kouka o Kaijo Dekiru Kedo, Nokotta Hitotachi Daijoubu?"
+        "text": "Tsuihou Sareta Cheat Fuyo Majutsushi wa Kimama na Second Life o Ouka Suru. Ore wa Buki dake Janaku, Arayuru Mono ni \"Kyouka Point\" o Fuyo Dekirushi, Ore no Ishi de Itsu demo Kouka o Kaijo Dekiru Kedo, Nokotta Hitotachi Daijoubu?"
       },
       {
         "lang": "ja",
@@ -588968,6 +588998,11 @@
         "text": "KanoKari 6"
       },
       {
+        "lang": "pt-BR",
+        "type": "official",
+        "text": "Namorada de Aluguel 6"
+      },
+      {
         "lang": "en",
         "type": "syn",
         "text": "Rent-a-Girlfriend 6"
@@ -589043,13 +589078,13 @@
     "aid": "20140",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "LONA"
       },
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "LONA"
       },
       {
@@ -596106,6 +596141,46 @@
         "lang": "ja",
         "type": "official",
         "text": "やっぱり海が好き"
+      }
+    ]
+  },
+  {
+    "aid": "20513",
+    "titles": [
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Bocchi the Rock! the Movie: Footprints of the Stars"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Eiga Bocchi the Rock! Hoshi no Ashiato"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "映画ぼっち・ざ・ろっく! 星のあしあと"
+      }
+    ]
+  },
+  {
+    "aid": "20514",
+    "titles": [
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "Jewel Catch! Teenieping"
+      },
+      {
+        "lang": "x-kot",
+        "type": "main",
+        "text": "Jewel Star Catch! Tiniping"
+      },
+      {
+        "lang": "ko",
+        "type": "official",
+        "text": "쥬얼스타 캐치! 티니핑"
       }
     ]
   }
