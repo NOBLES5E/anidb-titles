@@ -424095,11 +424095,6 @@
       {
         "lang": "x-jat",
         "type": "syn",
-        "text": "Luminous Witches"
-      },
-      {
-        "lang": "x-jat",
-        "type": "syn",
         "text": "Ongakutai Witches"
       },
       {
@@ -434100,6 +434095,11 @@
       {
         "lang": "x-jat",
         "type": "syn",
+        "text": "Hachi-nan tte, Sore wa Nai deshou!"
+      },
+      {
+        "lang": "x-jat",
+        "type": "syn",
         "text": "Hachi-nantte, Sore wa Nai Deshou!"
       },
       {
@@ -434213,13 +434213,13 @@
     "aid": "14537",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Umayon"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Umayon"
       },
       {
@@ -582053,6 +582053,11 @@
         "text": "Full Clearing Another World Under a Goddess with Zero Believers"
       },
       {
+        "lang": "ja",
+        "type": "syn",
+        "text": "Shinja Zero"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku"
@@ -586691,6 +586696,11 @@
         "lang": "x-jat",
         "type": "main",
         "text": "Sekai Saikyou no Majo, Hajimemashita"
+      },
+      {
+        "lang": "ja",
+        "type": "syn",
+        "text": "Sekamajo"
       },
       {
         "lang": "x-jat",
@@ -596181,6 +596191,81 @@
         "lang": "ko",
         "type": "official",
         "text": "쥬얼스타 캐치! 티니핑"
+      }
+    ]
+  },
+  {
+    "aid": "20515",
+    "titles": [
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Shiba Inu Rooms"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Shiba-tsuki Bukken"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "シバつき物件"
+      }
+    ]
+  },
+  {
+    "aid": "20516",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Luo Xiaohei Zhanji (2026)"
+      },
+      {
+        "lang": "x-jat",
+        "type": "syn",
+        "text": "Luo Xiaohei Zhanji: Xueqian Pian"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "罗小黑战记 (2026)"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "syn",
+        "text": "罗小黑战记 学前篇"
+      }
+    ]
+  },
+  {
+    "aid": "20517",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Kiiroi Kaiyou Kishoudai"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "黄色い海洋気象台"
+      }
+    ]
+  },
+  {
+    "aid": "20518",
+    "titles": [
+      {
+        "lang": "x-kot",
+        "type": "main",
+        "text": "Teuligkeol Manhwadongsan"
+      },
+      {
+        "lang": "ko",
+        "type": "official",
+        "text": "트릭컬 만화동산"
       }
     ]
   }
