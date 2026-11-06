@@ -280409,6 +280409,11 @@
       },
       {
         "lang": "ko",
+        "type": "syn",
+        "text": "로보트 태권 V"
+      },
+      {
+        "lang": "ko",
         "type": "official",
         "text": "로보트 태권브이"
       },
@@ -580670,7 +580675,7 @@
       {
         "lang": "x-jat",
         "type": "main",
-        "text": "Code Geass: Hoshi Oi no Aspar"
+        "text": "Code Geass: Hoshi Oi no Aspal"
       },
       {
         "lang": "en",
@@ -596266,6 +596271,151 @@
         "lang": "ko",
         "type": "official",
         "text": "트릭컬 만화동산"
+      }
+    ]
+  },
+  {
+    "aid": "20519",
+    "titles": [
+      {
+        "lang": "x-kot",
+        "type": "main",
+        "text": "Nanjung Ilgi"
+      },
+      {
+        "lang": "ko",
+        "type": "official",
+        "text": "난중일기"
+      }
+    ]
+  },
+  {
+    "aid": "20520",
+    "titles": [
+      {
+        "lang": "x-kot",
+        "type": "main",
+        "text": "Doraon Yeongung Hong Gildong"
+      },
+      {
+        "lang": "ko",
+        "type": "official",
+        "text": "돌아온 영웅 홍길동"
+      }
+    ]
+  },
+  {
+    "aid": "20521",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Spirit Circle"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Spirit Circle"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "スピリットサークル"
+      }
+    ]
+  },
+  {
+    "aid": "20522",
+    "titles": [
+      {
+        "lang": "x-kot",
+        "type": "main",
+        "text": "Seonhwagongjuwa Son Ogong"
+      },
+      {
+        "lang": "ko",
+        "type": "official",
+        "text": "선화공주와 손오공"
+      }
+    ]
+  },
+  {
+    "aid": "20523",
+    "titles": [
+      {
+        "lang": "x-kot",
+        "type": "syn",
+        "text": "Son O-gong gwa Byeoldeul-ui Jeonjaeng"
+      },
+      {
+        "lang": "x-kot",
+        "type": "main",
+        "text": "Son Ogong gwa Byeoldeul-ui Jeonjaeng"
+      }
+    ]
+  },
+  {
+    "aid": "20524",
+    "titles": [
+      {
+        "lang": "x-kot",
+        "type": "main",
+        "text": "Super Majingga 3"
+      },
+      {
+        "lang": "ko",
+        "type": "official",
+        "text": "슈퍼 마징가 3"
+      }
+    ]
+  },
+  {
+    "aid": "20525",
+    "titles": [
+      {
+        "lang": "x-kot",
+        "type": "main",
+        "text": "Space Gandam V"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Space Gundam V"
+      },
+      {
+        "lang": "ko",
+        "type": "official",
+        "text": "스페이스 간담 V"
+      }
+    ]
+  },
+  {
+    "aid": "20526",
+    "titles": [
+      {
+        "lang": "x-kot",
+        "type": "main",
+        "text": "Ujudaejang Aekkunun"
+      },
+      {
+        "lang": "ko",
+        "type": "official",
+        "text": "우주대장 애꾸눈"
+      }
+    ]
+  },
+  {
+    "aid": "20527",
+    "titles": [
+      {
+        "lang": "x-kot",
+        "type": "main",
+        "text": "Ujusonyeon Kaesi"
+      },
+      {
+        "lang": "ko",
+        "type": "official",
+        "text": "우주소년 캐시"
       }
     ]
   }
