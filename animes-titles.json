@@ -416833,6 +416833,11 @@
         "text": "The Thousand Noble Musketeers"
       },
       {
+        "lang": "ar",
+        "type": "official",
+        "text": "الفرسان النبلاء"
+      },
+      {
         "lang": "ko",
         "type": "official",
         "text": "천총사"
@@ -520043,6 +520048,16 @@
         "text": "Sono Kisekae Ningyou wa Koi o Suru 2"
       },
       {
+        "lang": "ru",
+        "type": "official",
+        "text": "Любовь с иголочки (2025)"
+      },
+      {
+        "lang": "ru",
+        "type": "syn",
+        "text": "Эта фарфоровая кукла влюбилась 2"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "その着せ替え人形は恋をする (2025)"
@@ -520093,13 +520108,13 @@
         "text": "Love Live！虹咲學園學園偶像同好會 短篇動畫"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Nijiyon Animation"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Nijiyon Animation"
       },
       {
@@ -520123,13 +520138,13 @@
     "aid": "17633",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Tokyo Mew Mew New (2023)"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Tokyo Mew Mew New (2023)"
       },
       {
@@ -520163,12 +520178,12 @@
         "text": "LUPIN III vs. OCCHI DI GATTO"
       },
       {
-        "lang": "es",
+        "lang": "es-419",
         "type": "official",
         "text": "LUPIN III vs. OJOS DE GATO"
       },
       {
-        "lang": "es-419",
+        "lang": "es",
         "type": "official",
         "text": "LUPIN III vs. OJOS DE GATO"
       },
@@ -574946,6 +574961,11 @@
         "lang": "ja",
         "type": "official",
         "text": "異世界のんびり農家2"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "異世界悠閒農家 2"
       }
     ]
   },
@@ -596416,6 +596436,101 @@
         "lang": "ko",
         "type": "official",
         "text": "우주소년 캐시"
+      }
+    ]
+  },
+  {
+    "aid": "20528",
+    "titles": [
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Booty Royale: Never Go Down Without a Fight!"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Hagure Idol Jigoku Hen"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "はぐれアイドル地獄変"
+      }
+    ]
+  },
+  {
+    "aid": "20529",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Caihong Huwei Dui"
+      },
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "Rainbow Crew"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "彩虹护卫队"
+      }
+    ]
+  },
+  {
+    "aid": "20530",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Caihong Huwei Dui 2: Xing Bao Nengliang"
+      },
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "Rainbow Crew 2"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "彩虹护卫队2星宝能量"
+      }
+    ]
+  },
+  {
+    "aid": "20531",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Caihong Huwei Dui 3: Shengxiao Xing Bao"
+      },
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "Rainbow Crew 3: Zodiac StarPets"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "彩虹护卫队3生肖星宝"
+      }
+    ]
+  },
+  {
+    "aid": "20532",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Heukkkokdujanggun"
+      },
+      {
+        "lang": "ko",
+        "type": "official",
+        "text": "흙꼭두장군"
       }
     ]
   }
