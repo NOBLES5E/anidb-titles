@@ -432401,6 +432401,11 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "水果篮子(2019)"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "魔法水果籃 (2019)"
       }
     ]
   },
@@ -432418,6 +432423,11 @@
         "text": "Dr. Pedra"
       },
       {
+        "lang": "pt-BR",
+        "type": "official",
+        "text": "Dr. Stone"
+      },
+      {
         "lang": "en",
         "type": "official",
         "text": "Dr. Stone"
@@ -432430,11 +432440,6 @@
       {
         "lang": "x-jat",
         "type": "main",
-        "text": "Dr. Stone"
-      },
-      {
-        "lang": "pt-BR",
-        "type": "official",
         "text": "Dr. Stone"
       },
       {
@@ -479373,6 +479378,11 @@
         "text": "The Irregular at Magic High School: Reminiscence Arc"
       },
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "魔法科高中的劣等生 追憶篇"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "魔法科高校の劣等生 追憶編"
@@ -504631,6 +504641,11 @@
         "lang": "ru",
         "type": "syn",
         "text": "Непутёвый ученик в школе магии 3"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "魔法科高中的劣等生 第三季"
       },
       {
         "lang": "ja",
@@ -573333,6 +573348,16 @@
         "text": "Diários de uma Apotecária (2026)"
       },
       {
+        "lang": "pt",
+        "type": "official",
+        "text": "Diários de uma Apotecária (2026)"
+      },
+      {
+        "lang": "pt",
+        "type": "syn",
+        "text": "Diários de uma Apotecária S3"
+      },
+      {
         "lang": "pt-BR",
         "type": "syn",
         "text": "Diários de uma Apotecária S3"
@@ -578703,6 +578728,11 @@
     "aid": "19670",
     "titles": [
       {
+        "lang": "pt",
+        "type": "official",
+        "text": "Diários de uma Apotecária: O Filme - O Tesouro da Imperatriz Falecida"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Gekijouban Kusuriya no Hitorigoto: Bouhi no Hihou"
@@ -578722,6 +578752,16 @@
   {
     "aid": "19671",
     "titles": [
+      {
+        "lang": "pt",
+        "type": "official",
+        "text": "Diários de uma Apotecária (2027)"
+      },
+      {
+        "lang": "x-unk",
+        "type": "syn",
+        "text": "Diários de uma Apotecária S4"
+      },
       {
         "lang": "x-jat",
         "type": "main",
@@ -578743,13 +578783,13 @@
     "aid": "19672",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Run Run Lantern"
       },
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Run Run Lantern"
       }
     ]
@@ -580556,6 +580596,11 @@
         "lang": "x-jat",
         "type": "main",
         "text": "Demons` Crest"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Devils` Crest"
       },
       {
         "lang": "ja",
@@ -596288,6 +596333,11 @@
         "text": "Teuligkeol Manhwadongsan"
       },
       {
+        "lang": "x-kot",
+        "type": "syn",
+        "text": "Teurigkeol Manhwadongsan"
+      },
+      {
         "lang": "ko",
         "type": "official",
         "text": "트릭컬 만화동산"
@@ -596328,13 +596378,13 @@
     "aid": "20521",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Spirit Circle"
       },
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Spirit Circle"
       },
       {
@@ -596531,6 +596581,41 @@
         "lang": "ko",
         "type": "official",
         "text": "흙꼭두장군"
+      }
+    ]
+  },
+  {
+    "aid": "20533",
+    "titles": [
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "There Was a Cute Girl in the Hero`s Party, So I Tried Confessing to Her 2"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku Shite Mita. 2"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "勇者パーティーにかわいい子がいたので, 告白してみた. 2"
+      }
+    ]
+  },
+  {
+    "aid": "20534",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Paradox Live the Movie"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "Paradox Live THE MOVIE"
       }
     ]
   }
