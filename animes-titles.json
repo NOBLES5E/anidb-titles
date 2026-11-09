@@ -575158,11 +575158,6 @@
         "text": "Akane-banashi"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Akane-banashi"
-      },
-      {
         "lang": "es-419",
         "type": "official",
         "text": "Akane-banashi"
@@ -575170,6 +575165,11 @@
       {
         "lang": "pt-BR",
         "type": "official",
+        "text": "Akane-banashi"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
         "text": "Akane-banashi"
       },
       {
@@ -575193,19 +575193,24 @@
     "aid": "19514",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "OVA Sister Breeder"
+        "lang": "ja",
+        "type": "card",
+        "text": "OVA シスターブリーダー"
       },
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "OVA シスターブリーダー"
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Sister Breeder"
       },
       {
         "lang": "ko",
         "type": "syn",
         "text": "시스터 브리더"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "シスターブリーダー"
       }
     ]
   },
@@ -596608,14 +596613,64 @@
     "aid": "20534",
     "titles": [
       {
+        "lang": "ja",
+        "type": "official",
+        "text": "Paradox Live THE MOVIE"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Paradox Live the Movie"
+      }
+    ]
+  },
+  {
+    "aid": "20535",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Spy x Family (2027)"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Spy x Family (2027)"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Spy x Family S4"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Spy x Family Season 4"
       },
       {
         "lang": "ja",
         "type": "official",
-        "text": "Paradox Live THE MOVIE"
+        "text": "SPY×FAMILY (2027)"
+      }
+    ]
+  },
+  {
+    "aid": "20536",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Gekijouban Spy x Family"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Spy x Family the Movie"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "劇場版 SPY×FAMILY"
       }
     ]
   }
