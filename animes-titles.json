@@ -532470,21 +532470,6 @@
     ]
   },
   {
-    "aid": "18025",
-    "titles": [
-      {
-        "lang": "x-zht",
-        "type": "main",
-        "text": "Liang Bu Yi Season 2"
-      },
-      {
-        "lang": "ja",
-        "type": "official",
-        "text": "两不疑 第二季"
-      }
-    ]
-  },
-  {
     "aid": "18026",
     "titles": [
       {
@@ -580958,6 +580943,11 @@
         "text": "PSYЯEN"
       },
       {
+        "lang": "hi",
+        "type": "official",
+        "text": "साइरेन"
+      },
+      {
         "lang": "ja",
         "type": "syn",
         "text": "サイレン"
@@ -596613,14 +596603,14 @@
     "aid": "20534",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "Paradox Live THE MOVIE"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Paradox Live the Movie"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "Paradox Live THE MOVIE"
       }
     ]
   },
@@ -596671,6 +596661,81 @@
         "lang": "ja",
         "type": "official",
         "text": "劇場版 SPY×FAMILY"
+      }
+    ]
+  },
+  {
+    "aid": "20537",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Hololive Alternative Dawn Blue"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "ホロライブ・オルタナティブ DAWN BLUE"
+      }
+    ]
+  },
+  {
+    "aid": "20538",
+    "titles": [
+      {
+        "lang": "x-kot",
+        "type": "main",
+        "text": "Chiring Chiring Secret Jouju"
+      },
+      {
+        "lang": "ko",
+        "type": "official",
+        "text": "치링치링 시크릿 쥬쥬"
+      }
+    ]
+  },
+  {
+    "aid": "20539",
+    "titles": [
+      {
+        "lang": "x-kot",
+        "type": "main",
+        "text": "Secret Jouju: Byeorui Yeosin"
+      },
+      {
+        "lang": "ko",
+        "type": "official",
+        "text": "시크릿 쥬쥬 별의 여신"
+      }
+    ]
+  },
+  {
+    "aid": "20540",
+    "titles": [
+      {
+        "lang": "x-kot",
+        "type": "main",
+        "text": "Secret Jouju: Byeol-ui Boseog"
+      },
+      {
+        "lang": "ko",
+        "type": "official",
+        "text": "시크릿쥬쥬 별의 보석"
+      }
+    ]
+  },
+  {
+    "aid": "20541",
+    "titles": [
+      {
+        "lang": "x-kot",
+        "type": "main",
+        "text": "Secret Jouju: Magical Harmony"
+      },
+      {
+        "lang": "ko",
+        "type": "official",
+        "text": "시크릿 쥬쥬: 마법의 하모니"
       }
     ]
   }
