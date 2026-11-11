@@ -498946,6 +498946,11 @@
         "lang": "ja",
         "type": "official",
         "text": "ゾンビランドサガ ゆめぎんがパラダイス"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "佐賀偶像是傳奇 夢幻銀河樂園"
       }
     ]
   },
@@ -511373,12 +511378,12 @@
         "text": "勇者が死んだ!"
       },
       {
-        "lang": "zh-Hans",
+        "lang": "zh-Hant",
         "type": "official",
         "text": "勇者死了！"
       },
       {
-        "lang": "zh-Hant",
+        "lang": "zh-Hans",
         "type": "official",
         "text": "勇者死了！"
       }
@@ -511416,6 +511421,11 @@
         "lang": "ar",
         "type": "official",
         "text": "ساحر نصل الجليد سيحكم العالم"
+      },
+      {
+        "lang": "hi",
+        "type": "official",
+        "text": "आइसब्लेड जादूगर दुनिया पर राज करेगा"
       },
       {
         "lang": "zh-Hans",
@@ -555593,6 +555603,11 @@
         "text": "Gekijouban Project Sekai: Kowareta Sekai to Utaenai Miku"
       },
       {
+        "lang": "pt",
+        "type": "official",
+        "text": "Palco Colorido! O Filme: Uma Miku Que Não Sabe Cantar"
+      },
+      {
         "lang": "ru",
         "type": "syn",
         "text": "Проект «Мир»: Сломанный мир и непоющая Мику"
@@ -569208,6 +569223,11 @@
         "text": "Kusunoki no Bannin"
       },
       {
+        "lang": "pt",
+        "type": "official",
+        "text": "O Guardião da Árvore de Cânfora"
+      },
+      {
         "lang": "en",
         "type": "syn",
         "text": "The Camphorwood Custodian"
@@ -569847,6 +569867,11 @@
   {
     "aid": "19306",
     "titles": [
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "Aikatsu! x PriPara THE MOVIE  A Miraculous Meeting!"
+      },
       {
         "lang": "x-jat",
         "type": "main",
@@ -575868,6 +575893,11 @@
         "text": "Nagachichi Nagai-san The Animation"
       },
       {
+        "lang": "ko",
+        "type": "syn",
+        "text": "나가치치 나가이 씨 The Animation"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "ながちち永井さん THE ANIMATION"
@@ -576758,12 +576788,12 @@
         "text": "Mofa Gongzhu De Xiao Fannao"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "The Fated Magical Princess: Who Made Me a Princess"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "The Fated Magical Princess: Who Made Me a Princess"
       },
@@ -577438,13 +577468,13 @@
         "text": "Re:Monster 2"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Re:Monster 2"
       },
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Re:Monster 2"
       },
       {
@@ -577463,13 +577493,13 @@
         "text": "Dr. Stone Season 4 Part 3"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Dr. Stone: Science Future (2026)"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Dr. Stone: Science Future (2026)"
       },
       {
@@ -577608,13 +577638,13 @@
     "aid": "19621",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Hotel Inhumans (2026)"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Hotel Inhumans (2026)"
       },
       {
@@ -577723,14 +577753,14 @@
         "text": "Marriage Toxin"
       },
       {
-        "lang": "x-jat",
-        "type": "syn",
-        "text": "Marriagetoxin"
-      },
-      {
         "lang": "de",
         "type": "official",
         "text": "MARRIAGETOXIN"
+      },
+      {
+        "lang": "x-jat",
+        "type": "syn",
+        "text": "Marriagetoxin"
       },
       {
         "lang": "ja",
@@ -578473,13 +578503,13 @@
     "aid": "19657",
     "titles": [
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "High School! Kimengumi (2026)"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "High School! Kimengumi (2026)"
       },
       {
@@ -578648,14 +578678,14 @@
         "text": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii Desu yo?"
       },
       {
-        "lang": "en",
-        "type": "official",
-        "text": "The Strongest Job Is Apparently Not a Hero or a Sage, but an Appraiser (Provisional)!"
-      },
-      {
         "lang": "de",
         "type": "official",
         "text": "The strongest job is apparently not a hero or a sage, but an appraiser (provisional)!"
+      },
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "The Strongest Job Is Apparently Not a Hero or a Sage, but an Appraiser (Provisional)!"
       },
       {
         "lang": "ru",
@@ -578773,13 +578803,13 @@
     "aid": "19672",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Run Run Lantern"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Run Run Lantern"
       }
     ]
@@ -578813,13 +578843,13 @@
         "text": "Ghost Concert - missing Songs"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Ghost Concert: Missing Songs"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Ghost Concert: Missing Songs"
       },
       {
@@ -579648,11 +579678,6 @@
     "aid": "19713",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
-        "text": "Needy Girl Overdose"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Needy Girl Overdose"
@@ -579661,6 +579686,11 @@
         "lang": "ja",
         "type": "official",
         "text": "NEEDY GIRL OVERDOSE"
+      },
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "Needy Girl Overdose"
       },
       {
         "lang": "ja",
@@ -579793,13 +579823,13 @@
     "aid": "19718",
     "titles": [
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Death Stranding Isolations"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Death Stranding Isolations"
       },
       {
@@ -580928,13 +580958,13 @@
     "aid": "19765",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Psyren"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Psyren"
       },
       {
@@ -581173,12 +581203,12 @@
     "aid": "19777",
     "titles": [
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "A Wild Last Boss Appeared! (2026)"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "A Wild Last Boss Appeared! (2026)"
       },
@@ -581728,6 +581758,11 @@
     "aid": "19799",
     "titles": [
       {
+        "lang": "ja",
+        "type": "official",
+        "text": "ONE PUNCH MAN (2027)"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "One Punch Man (2027)"
@@ -581736,11 +581771,6 @@
         "lang": "en",
         "type": "syn",
         "text": "One Punch Man (2027)"
-      },
-      {
-        "lang": "ja",
-        "type": "official",
-        "text": "ONE PUNCH MAN (2027)"
       },
       {
         "lang": "x-jat",
@@ -582448,12 +582478,12 @@
         "text": "Dogulwang"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "Tomb Raider King"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "Tomb Raider King"
       },
@@ -582868,13 +582898,13 @@
         "text": "Dragon Ball Super - Beerus"
       },
       {
-        "lang": "de",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Dragon Ball Super: Beerus"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "de",
+        "type": "official",
         "text": "Dragon Ball Super: Beerus"
       },
       {
@@ -583013,12 +583043,12 @@
         "text": "Nia Liston, a Menina Implacável"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "Nia Liston: The Merciless Maiden"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "Nia Liston: The Merciless Maiden"
       },
@@ -583218,12 +583248,12 @@
     "aid": "19873",
     "titles": [
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "Chainsmoker Cat"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "Chainsmoker Cat"
       },
@@ -583338,13 +583368,13 @@
     "aid": "19877",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Thunder 3"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Thunder 3"
       },
       {
@@ -585013,14 +585043,14 @@
     "aid": "19951",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
-        "text": "Battle Spirits [Re] Zekkai no Ku"
-      },
-      {
         "lang": "de",
         "type": "official",
         "text": "Battle Spirits [Re] ZEKKAI NO KU"
+      },
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "Battle Spirits [Re] Zekkai no Ku"
       },
       {
         "lang": "x-jat",
@@ -585048,14 +585078,14 @@
         "text": "Sensha Isu"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Tank Chair"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "TANK CHAIR"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Tank Chair"
       },
       {
         "lang": "ja",
@@ -585196,6 +585226,11 @@
         "lang": "x-jat",
         "type": "main",
         "text": "Nuki Nuki Zupposism"
+      },
+      {
+        "lang": "ko",
+        "type": "syn",
+        "text": "누키누키 푹 박는 주의"
       },
       {
         "lang": "ja",
@@ -585773,14 +585808,14 @@
     "aid": "19984",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Fate Strange Fake 2nd Season"
-      },
-      {
         "lang": "ja",
         "type": "official",
         "text": "Fate strange Fake 2nd Season"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Fate Strange Fake 2nd Season"
       }
     ]
   },
@@ -586033,13 +586068,13 @@
     "aid": "19998",
     "titles": [
       {
-        "lang": "x-kot",
-        "type": "official",
+        "lang": "en",
+        "type": "main",
         "text": "Metal Cardbot"
       },
       {
-        "lang": "en",
-        "type": "main",
+        "lang": "x-kot",
+        "type": "official",
         "text": "Metal Cardbot"
       }
     ]
@@ -586083,7 +586118,7 @@
         "text": "Hyakki Yakoushou"
       },
       {
-        "lang": "zh-Hant",
+        "lang": "zh-Hans",
         "type": "official",
         "text": "百鬼夜行抄"
       },
@@ -586093,7 +586128,7 @@
         "text": "百鬼夜行抄"
       },
       {
-        "lang": "zh-Hans",
+        "lang": "zh-Hant",
         "type": "official",
         "text": "百鬼夜行抄"
       }
@@ -586353,13 +586388,13 @@
         "text": "CANDY CARIES"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Candy Caries"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Candy Caries"
       },
       {
@@ -587453,6 +587488,11 @@
         "text": "The Iceblade Sorcerer Shall Rule the World II"
       },
       {
+        "lang": "hi",
+        "type": "official",
+        "text": "आइसब्लेड जादूगर दुनिया पर राज करेगा 2"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "冰剣の魔術師が世界を統べるII"
@@ -587698,13 +587738,13 @@
     "aid": "20076",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Collector"
       },
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Collector"
       }
     ]
@@ -587713,12 +587753,12 @@
     "aid": "20077",
     "titles": [
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "Overgeared"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "Overgeared"
       },
@@ -587933,13 +587973,13 @@
     "aid": "20086",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Dengeki Daisy"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Dengeki Daisy"
       },
       {
@@ -588108,13 +588148,13 @@
     "aid": "20096",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "NICKY"
       },
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "NICKY"
       }
     ]
@@ -588663,13 +588703,13 @@
     "aid": "20121",
     "titles": [
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Fool Night"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Fool Night"
       },
       {
@@ -589153,13 +589193,13 @@
     "aid": "20140",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "LONA"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "LONA"
       },
       {
@@ -589593,7 +589633,7 @@
     "aid": "20163",
     "titles": [
       {
-        "lang": "ja",
+        "lang": "en",
         "type": "official",
         "text": "Here U Are"
       },
@@ -589603,7 +589643,7 @@
         "text": "Here U Are"
       },
       {
-        "lang": "en",
+        "lang": "ja",
         "type": "official",
         "text": "Here U Are"
       }
@@ -590903,13 +590943,13 @@
     "aid": "20224",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "MAHOROBA"
       },
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "MAHOROBA"
       }
     ]
@@ -594623,13 +594663,13 @@
     "aid": "20431",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Thunder 3 (2027)"
       },
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Thunder 3 (2027)"
       },
       {
@@ -596373,13 +596413,13 @@
     "aid": "20521",
     "titles": [
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Spirit Circle"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Spirit Circle"
       },
       {
@@ -596736,6 +596776,61 @@
         "lang": "ko",
         "type": "official",
         "text": "시크릿 쥬쥬: 마법의 하모니"
+      }
+    ]
+  },
+  {
+    "aid": "20542",
+    "titles": [
+      {
+        "lang": "x-kot",
+        "type": "main",
+        "text": "Secret Jouju: Best Friends"
+      },
+      {
+        "lang": "ko",
+        "type": "official",
+        "text": "시크릿 쥬쥬 베스트 프렌즈"
+      }
+    ]
+  },
+  {
+    "aid": "20543",
+    "titles": [
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "My Death Flags Show No Sign of Ending"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Ore no Shibou Flag ga Todomaru Tokoro o Shiranai"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "俺の死亡フラグが留まるところを知らない"
+      }
+    ]
+  },
+  {
+    "aid": "20544",
+    "titles": [
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "The Dragon Next Door"
+      },
+      {
+        "lang": "x-kot",
+        "type": "main",
+        "text": "Yongisanda"
+      },
+      {
+        "lang": "ko",
+        "type": "official",
+        "text": "용이산다"
       }
     ]
   }
