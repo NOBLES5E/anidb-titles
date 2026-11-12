@@ -176608,6 +176608,11 @@
         "text": "Crayon Shin-Chan Movie: Action Kamen vs Haigure Devil"
       },
       {
+        "lang": "en",
+        "type": "syn",
+        "text": "Crayon Shin-chan the Movie: Action Kamen VS Leotard Devil"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Crayon Shin-chan: Action Kamen vs Haigure Maou"
@@ -387750,21 +387755,6 @@
     ]
   },
   {
-    "aid": "12940",
-    "titles": [
-      {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Four Youth"
-      },
-      {
-        "lang": "ja",
-        "type": "official",
-        "text": "四式青春"
-      }
-    ]
-  },
-  {
     "aid": "12942",
     "titles": [
       {
@@ -387793,12 +387783,12 @@
         "text": "The Ancient Magus Bride"
       },
       {
-        "lang": "en",
+        "lang": "fr",
         "type": "official",
         "text": "The Ancient Magus` Bride"
       },
       {
-        "lang": "fr",
+        "lang": "en",
         "type": "official",
         "text": "The Ancient Magus` Bride"
       },
@@ -387833,12 +387823,12 @@
         "text": "魔法使いの嫁"
       },
       {
-        "lang": "zh-Hant",
+        "lang": "zh-Hans",
         "type": "official",
         "text": "魔法使的新娘"
       },
       {
-        "lang": "zh-Hans",
+        "lang": "zh-Hant",
         "type": "official",
         "text": "魔法使的新娘"
       }
@@ -387988,6 +387978,11 @@
         "text": "overlord 2"
       },
       {
+        "lang": "ja",
+        "type": "official",
+        "text": "OVERLORD II"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Overlord II"
@@ -387999,11 +387994,6 @@
       },
       {
         "lang": "zh-Hans",
-        "type": "official",
-        "text": "OVERLORD II"
-      },
-      {
-        "lang": "ja",
         "type": "official",
         "text": "OVERLORD II"
       },
@@ -596831,6 +596821,26 @@
         "lang": "ko",
         "type": "official",
         "text": "용이산다"
+      }
+    ]
+  },
+  {
+    "aid": "20545",
+    "titles": [
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Nanatsu-ya: Shinobu and Her Jewelry Box"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Nanatsu-ya: Shinobu no Housekibako"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "七つ屋 志のぶの宝石匣"
       }
     ]
   }
