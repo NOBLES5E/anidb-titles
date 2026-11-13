@@ -484003,6 +484003,11 @@
         "text": "msmm movie 2"
       },
       {
+        "lang": "es",
+        "type": "official",
+        "text": "Puella Magi Madoka Magica La película. La noche de Walpurgis: El ascenso"
+      },
+      {
         "lang": "en",
         "type": "official",
         "text": "Puella Magi Madoka Magica the Movie - Walpurgisnacht: Rising"
@@ -505335,21 +505340,6 @@
     ]
   },
   {
-    "aid": "17130",
-    "titles": [
-      {
-        "lang": "en",
-        "type": "main",
-        "text": "Brave Witches: Petersburg Grand Strategy"
-      },
-      {
-        "lang": "ja",
-        "type": "official",
-        "text": "第501統合戦闘航空団 ブレイブウィッチーズ ペテルブルグ大戦略"
-      }
-    ]
-  },
-  {
     "aid": "17131",
     "titles": [
       {
@@ -522096,6 +522086,11 @@
         "lang": "en",
         "type": "official",
         "text": "An Archdemon`s Dilemma: How to Love Your Elf Bride"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "How to Love Your Elf Bride"
       },
       {
         "lang": "x-jat",
@@ -576423,6 +576418,11 @@
         "text": "Assassination Classroom the Movie: Our Time"
       },
       {
+        "lang": "es",
+        "type": "official",
+        "text": "Assassination Classroom. La película: El tiempo que compartimos"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Gekijouban Ansatsu Kyoushitsu: Minna no Jikan"
@@ -587565,21 +587565,6 @@
     ]
   },
   {
-    "aid": "20069",
-    "titles": [
-      {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "Love Live! Hasunosora Jogakuin School Idol Club Bloom Garden Party"
-      },
-      {
-        "lang": "ja",
-        "type": "official",
-        "text": "ラブライブ！蓮ノ空女学院スクールアイドルクラブ Bloom Garden Party"
-      }
-    ]
-  },
-  {
     "aid": "20070",
     "titles": [
       {
@@ -587728,13 +587713,13 @@
     "aid": "20076",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Collector"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Collector"
       }
     ]
@@ -587743,12 +587728,12 @@
     "aid": "20077",
     "titles": [
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "Overgeared"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "Overgeared"
       },
