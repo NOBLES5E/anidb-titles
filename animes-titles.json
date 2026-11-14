@@ -483275,21 +483275,6 @@
     ]
   },
   {
-    "aid": "16247",
-    "titles": [
-      {
-        "lang": "x-jat",
-        "type": "main",
-        "text": "oreneko"
-      },
-      {
-        "lang": "ja",
-        "type": "official",
-        "text": "オレネコ"
-      }
-    ]
-  },
-  {
     "aid": "16248",
     "titles": [
       {
@@ -596826,6 +596811,26 @@
         "lang": "ja",
         "type": "official",
         "text": "七つ屋 志のぶの宝石匣"
+      }
+    ]
+  },
+  {
+    "aid": "20546",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Isekai Douraku ni Akitara"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Living It Up in Another World Until I Get Bored"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "異世界道楽に飽きたら"
       }
     ]
   }
