@@ -545508,13 +545508,13 @@
         "text": "Shen Yin Wangzuo Di Er Ji"
       },
       {
-        "lang": "de",
-        "type": "official",
+        "lang": "en",
+        "type": "syn",
         "text": "Throne of Seal 2"
       },
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "de",
+        "type": "official",
         "text": "Throne of Seal 2"
       },
       {
@@ -545551,6 +545551,11 @@
         "lang": "de",
         "type": "official",
         "text": "Nukitashi: Welcome to Love Island!"
+      },
+      {
+        "lang": "ru",
+        "type": "syn",
+        "text": "Нукитаси"
       },
       {
         "lang": "ko",
@@ -559460,22 +559465,22 @@
       {
         "lang": "en",
         "type": "syn",
-        "text": "Gushing over Magical Girls 2"
+        "text": "Gushing over Magical Girls Season 2"
       },
       {
         "lang": "en",
         "type": "syn",
-        "text": "I Admire Magical Girls, and... 2"
+        "text": "I Admire Magical Girls, and... Season 2"
       },
       {
         "lang": "x-jat",
         "type": "main",
-        "text": "Mahou Shoujo ni Akogarete 2"
+        "text": "Mahou Shoujo ni Akogarete Season 2"
       },
       {
         "lang": "ja",
         "type": "official",
-        "text": "魔法少女にあこがれて 2"
+        "text": "魔法少女にあこがれて Season2"
       }
     ]
   },
@@ -596831,6 +596836,41 @@
         "lang": "ja",
         "type": "official",
         "text": "異世界道楽に飽きたら"
+      }
+    ]
+  },
+  {
+    "aid": "20547",
+    "titles": [
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Re:Zero - Starting Life in Another World 5th Season"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Re:Zero kara Hajimeru Isekai Seikatsu 5th Season"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "Re:ゼロから始める異世界生活 5th season"
+      }
+    ]
+  },
+  {
+    "aid": "20548",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Wu Dong Qiankun Di Qi Ji"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "武动乾坤 第七季"
       }
     ]
   }
