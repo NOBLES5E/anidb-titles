@@ -499388,6 +499388,11 @@
         "text": "イジらないで, 長瀞さん 2nd Attack"
       },
       {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "不要欺負我，長瀞同學 2nd Attack"
+      },
+      {
         "lang": "zh-Hans",
         "type": "official",
         "text": "不要欺负我，长瀞同学 第二季"
@@ -499508,13 +499513,13 @@
     "aid": "16931",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Arknights: Prelude to Dawn"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Arknights: Prelude to Dawn"
       },
       {
@@ -499638,14 +499643,14 @@
         "text": "Isekai Shoukan wa Nidome Desu"
       },
       {
-        "lang": "x-unk",
-        "type": "syn",
-        "text": "isenido"
-      },
-      {
         "lang": "x-jat",
         "type": "short",
         "text": "Isenido"
+      },
+      {
+        "lang": "x-unk",
+        "type": "syn",
+        "text": "isenido"
       },
       {
         "lang": "fr",
@@ -511343,12 +511348,12 @@
         "text": "勇者が死んだ!"
       },
       {
-        "lang": "zh-Hant",
+        "lang": "zh-Hans",
         "type": "official",
         "text": "勇者死了！"
       },
       {
-        "lang": "zh-Hans",
+        "lang": "zh-Hant",
         "type": "official",
         "text": "勇者死了！"
       }
@@ -511366,6 +511371,11 @@
         "lang": "x-jat",
         "type": "main",
         "text": "Hyouken no Majutsushi ga Sekai o Suberu"
+      },
+      {
+        "lang": "x-jat",
+        "type": "syn",
+        "text": "Hyouken no Majutsushi ga Sekai wo Suberu"
       },
       {
         "lang": "en",
@@ -554103,6 +554113,11 @@
         "text": "mushokutensei s3p1"
       },
       {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "无职转生～到了异世界就拿出真本事～ 第三季"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "無職転生III ~異世界行ったら本気だす~"
@@ -554283,14 +554298,14 @@
     "aid": "18734",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "GROTESQQQUE"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Grotesqqque"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "GROTESQQQUE"
       },
       {
         "lang": "ja",
@@ -575581,6 +575596,11 @@
         "lang": "ja",
         "type": "official",
         "text": "ブチ切れ令嬢は報復を誓いました. ~魔導書の力で祖国を叩き潰します~"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "暴怒千金发誓复仇。 ～凭借魔导书之力打垮祖国～"
       }
     ]
   },
@@ -596871,6 +596891,51 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "武动乾坤 第七季"
+      }
+    ]
+  },
+  {
+    "aid": "20549",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "There She Is!! Another Step"
+      },
+      {
+        "lang": "ko",
+        "type": "official",
+        "text": "떳다 그녀!! another step"
+      }
+    ]
+  },
+  {
+    "aid": "20550",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Final Re:Quest The Movie"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "ファイナルリクエスト劇場版"
+      }
+    ]
+  },
+  {
+    "aid": "20551",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Meiji hen"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "京都アニメーション 30秒CM"
       }
     ]
   }
