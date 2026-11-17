@@ -334298,6 +334298,11 @@
         "text": "В подземелье я пойду, там красавицу найду"
       },
       {
+        "lang": "ru",
+        "type": "syn",
+        "text": "Может, я встречу тебя в подземелье?"
+      },
+      {
         "lang": "uk",
         "type": "syn",
         "text": "Невже шукати дівчину в підземеллі - неправильно?"
@@ -362143,6 +362148,11 @@
         "text": "Is It Wrong to Try to Pick Up Girls in a Dungeon? Is It Wrong to Try to Soak in a Hot Spring in a Dungeon?"
       },
       {
+        "lang": "ru",
+        "type": "syn",
+        "text": "Может, я встречу тебя в подземелье? OVA"
+      },
+      {
         "lang": "ko",
         "type": "syn",
         "text": "던전에서 만남을 추구하면 안 되는 걸까? 던전에서 온천을 추구하면 안 되는 걸까"
@@ -363058,14 +363068,14 @@
         "text": "danmachi gaiden"
       },
       {
-        "lang": "fr",
-        "type": "official",
-        "text": "Danmachi Gaiden: Sword Oratoria"
-      },
-      {
         "lang": "en",
         "type": "syn",
         "text": "DanMachi Gaiden: Sword Oratoria"
+      },
+      {
+        "lang": "fr",
+        "type": "official",
+        "text": "Danmachi Gaiden: Sword Oratoria"
       },
       {
         "lang": "de",
@@ -363106,6 +363116,11 @@
         "lang": "en",
         "type": "official",
         "text": "Sword Oratoria: Is It Wrong to Try to Pick Up Girls in a Dungeon? On the Side"
+      },
+      {
+        "lang": "ru",
+        "type": "syn",
+        "text": "Может, я встречу тебя в подземелье? Меч Оратории"
       },
       {
         "lang": "ko",
@@ -412913,6 +412928,11 @@
         "text": "Is It Wrong to Try to Pick Up Girls in a Dungeon? II"
       },
       {
+        "lang": "ru",
+        "type": "syn",
+        "text": "Может, я встречу тебя в подземелье? II"
+      },
+      {
         "lang": "ar",
         "type": "official",
         "text": "هل من الخطأ الإيقاع بفتياتٍ في ديماس؟ II"
@@ -412988,6 +413008,11 @@
         "text": "Movie Is It Wrong to Try to Pick Up Girls in a Dungeon? Arrow of the Orion"
       },
       {
+        "lang": "ru",
+        "type": "syn",
+        "text": "Может, я встречу тебя в подземелье? Стрела Ориона"
+      },
+      {
         "lang": "ko",
         "type": "syn",
         "text": "극장판 던전에서 만남을 추구하면 안 되는 걸까? -오리온의 화살-"
@@ -413018,7 +413043,7 @@
         "text": "Goblin Katili (Goblin Slayer)"
       },
       {
-        "lang": "en",
+        "lang": "de",
         "type": "official",
         "text": "Goblin Slayer"
       },
@@ -413028,7 +413053,7 @@
         "text": "Goblin Slayer"
       },
       {
-        "lang": "de",
+        "lang": "en",
         "type": "official",
         "text": "Goblin Slayer"
       },
@@ -451183,6 +451208,11 @@
         "text": "Is It Wrong to Try to Pick Up Girls in a Dungeon? III"
       },
       {
+        "lang": "ru",
+        "type": "syn",
+        "text": "Может, я встречу тебя в подземелье? III"
+      },
+      {
         "lang": "ar",
         "type": "official",
         "text": "هل من الخطأ الإيقاع بفتياتٍ في ديماس؟ III"
@@ -478066,6 +478096,11 @@
         "lang": "en",
         "type": "official",
         "text": "Is It Wrong to Try to Pick Up Girls in a Dungeon? IV"
+      },
+      {
+        "lang": "ru",
+        "type": "syn",
+        "text": "Может, я встречу тебя в подземелье? IV"
       },
       {
         "lang": "th",
@@ -520958,6 +520993,11 @@
         "text": "Is It Wrong to Try to Pick Up Girls in a Dungeon? IV: Deep Chapter - Calamity Arc"
       },
       {
+        "lang": "ru",
+        "type": "syn",
+        "text": "Может, я встречу тебя в подземелье? IV. Часть 2"
+      },
+      {
         "lang": "th",
         "type": "official",
         "text": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยน ภาคที่ 4 บทชั้นลึก ภาคภัยพิบัติ"
@@ -539706,6 +539746,11 @@
         "lang": "en",
         "type": "official",
         "text": "Is It Wrong to Try to Pick Up Girls in a Dungeon? V"
+      },
+      {
+        "lang": "ru",
+        "type": "syn",
+        "text": "Может, я встречу тебя в подземелье? V"
       },
       {
         "lang": "th",
@@ -576938,6 +576983,16 @@
         "text": "Cat Tales"
       },
       {
+        "lang": "en",
+        "type": "syn",
+        "text": "Move! Cat Folktales"
+      },
+      {
+        "lang": "x-jat",
+        "type": "syn",
+        "text": "Ugoku! Neko Mukashi Banashi"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Ugoku! Neko Mukashibanashi"
@@ -577463,8 +577518,8 @@
     "aid": "19613",
     "titles": [
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Re:Monster 2"
       },
       {
@@ -577473,8 +577528,8 @@
         "text": "Re:Monster 2"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Re:Monster 2"
       },
       {
@@ -577618,13 +577673,13 @@
     "aid": "19620",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Blue Lock: Neo Egoist League"
       },
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Blue Lock: Neo Egoist League"
       },
       {
@@ -577638,13 +577693,13 @@
     "aid": "19621",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Hotel Inhumans (2026)"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Hotel Inhumans (2026)"
       },
       {
@@ -578130,17 +578185,22 @@
       {
         "lang": "x-jat",
         "type": "main",
-        "text": "Witch Watch 2"
+        "text": "Witch Watch (2027)"
       },
       {
         "lang": "en",
         "type": "syn",
-        "text": "Witch Watch 2"
+        "text": "Witch Watch (2027)"
       },
       {
         "lang": "ja",
         "type": "official",
-        "text": "WITCH WATCH 2"
+        "text": "WITCH WATCH (2027)"
+      },
+      {
+        "lang": "ja",
+        "type": "syn",
+        "text": "ウィッチウォッチ 2"
       }
     ]
   },
@@ -590928,13 +590988,13 @@
     "aid": "20224",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "MAHOROBA"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "MAHOROBA"
       }
     ]
@@ -591011,6 +591071,11 @@
         "lang": "x-jat",
         "type": "main",
         "text": "Hitori Tsuma"
+      },
+      {
+        "lang": "ko",
+        "type": "syn",
+        "text": "외로운 아내"
       },
       {
         "lang": "ja",
@@ -592203,13 +592268,13 @@
     "aid": "20284",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Maiden Blood"
       },
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Maiden Blood"
       },
       {
@@ -594553,13 +594618,13 @@
     "aid": "20426",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Liar Game 2"
       },
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Liar Game 2"
       },
       {
@@ -594648,13 +594713,13 @@
     "aid": "20431",
     "titles": [
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Thunder 3 (2027)"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Thunder 3 (2027)"
       },
       {
@@ -594896,6 +594961,11 @@
         "lang": "x-jat",
         "type": "main",
         "text": "Oushun Jogakuin no Danyuu"
+      },
+      {
+        "lang": "ko",
+        "type": "syn",
+        "text": "오우슌 사립 여학교의 남배우"
       },
       {
         "lang": "ja",
@@ -596936,6 +597006,26 @@
         "lang": "ja",
         "type": "official",
         "text": "京都アニメーション 30秒CM"
+      }
+    ]
+  },
+  {
+    "aid": "20552",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Diamond no Kouzai"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "The Days of Diamond"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "ダイヤモンドの功罪"
       }
     ]
   }
