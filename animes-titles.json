@@ -584143,6 +584143,11 @@
         "text": "ダークサモナーとデキている"
       },
       {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "与暗黑召唤师秘密恋爱中"
+      },
+      {
         "lang": "zh-Hant",
         "type": "syn",
         "text": "與暗黑召喚師秘密戀愛中"
@@ -585103,14 +585108,14 @@
     "aid": "19951",
     "titles": [
       {
-        "lang": "de",
-        "type": "official",
-        "text": "Battle Spirits [Re] ZEKKAI NO KU"
-      },
-      {
         "lang": "en",
         "type": "official",
         "text": "Battle Spirits [Re] Zekkai no Ku"
+      },
+      {
+        "lang": "de",
+        "type": "official",
+        "text": "Battle Spirits [Re] ZEKKAI NO KU"
       },
       {
         "lang": "x-jat",
@@ -585138,14 +585143,14 @@
         "text": "Sensha Isu"
       },
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "TANK CHAIR"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Tank Chair"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "TANK CHAIR"
       },
       {
         "lang": "ja",
@@ -585868,14 +585873,14 @@
     "aid": "19984",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
-        "text": "Fate strange Fake 2nd Season"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Fate Strange Fake 2nd Season"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "Fate strange Fake 2nd Season"
       }
     ]
   },
@@ -586128,13 +586133,13 @@
     "aid": "19998",
     "titles": [
       {
-        "lang": "en",
-        "type": "main",
+        "lang": "x-kot",
+        "type": "official",
         "text": "Metal Cardbot"
       },
       {
-        "lang": "x-kot",
-        "type": "official",
+        "lang": "en",
+        "type": "main",
         "text": "Metal Cardbot"
       }
     ]
@@ -586178,7 +586183,7 @@
         "text": "Hyakki Yakoushou"
       },
       {
-        "lang": "zh-Hans",
+        "lang": "zh-Hant",
         "type": "official",
         "text": "百鬼夜行抄"
       },
@@ -586188,7 +586193,7 @@
         "text": "百鬼夜行抄"
       },
       {
-        "lang": "zh-Hant",
+        "lang": "zh-Hans",
         "type": "official",
         "text": "百鬼夜行抄"
       }
@@ -586448,13 +586453,13 @@
         "text": "CANDY CARIES"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Candy Caries"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Candy Caries"
       },
       {
@@ -588018,13 +588023,13 @@
     "aid": "20086",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "official",
         "text": "Dengeki Daisy"
       },
       {
-        "lang": "en",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Dengeki Daisy"
       },
       {
@@ -588193,13 +588198,13 @@
     "aid": "20096",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "NICKY"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "NICKY"
       }
     ]
@@ -588695,7 +588700,7 @@
       {
         "lang": "x-jat",
         "type": "main",
-        "text": "Kanan-sama wa Akumade Choroi 2"
+        "text": "Kanan-sama wa Akumade Choroi 2 Easy"
       },
       {
         "lang": "en",
@@ -588705,7 +588710,7 @@
       {
         "lang": "ja",
         "type": "official",
-        "text": "カナン様はあくまでチョロい 2"
+        "text": "カナン様はあくまでチョロい 2 EASY"
       }
     ]
   },
@@ -588748,13 +588753,13 @@
     "aid": "20121",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Fool Night"
       },
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Fool Night"
       },
       {
@@ -589238,13 +589243,13 @@
     "aid": "20140",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "LONA"
       },
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "LONA"
       },
       {
@@ -589678,7 +589683,7 @@
     "aid": "20163",
     "titles": [
       {
-        "lang": "en",
+        "lang": "ja",
         "type": "official",
         "text": "Here U Are"
       },
@@ -589688,7 +589693,7 @@
         "text": "Here U Are"
       },
       {
-        "lang": "ja",
+        "lang": "en",
         "type": "official",
         "text": "Here U Are"
       }
@@ -592268,13 +592273,13 @@
     "aid": "20284",
     "titles": [
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Maiden Blood"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "Maiden Blood"
       },
       {
@@ -594618,13 +594623,13 @@
     "aid": "20426",
     "titles": [
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Liar Game 2"
       },
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Liar Game 2"
       },
       {
@@ -596468,13 +596473,13 @@
     "aid": "20521",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "en",
+        "type": "syn",
         "text": "Spirit Circle"
       },
       {
-        "lang": "en",
-        "type": "syn",
+        "lang": "x-jat",
+        "type": "main",
         "text": "Spirit Circle"
       },
       {
