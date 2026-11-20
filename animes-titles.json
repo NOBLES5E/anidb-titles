@@ -560725,6 +560725,11 @@
       {
         "lang": "x-jat",
         "type": "syn",
+        "text": "Kanpeki Sugite Kawai-ge ga Nai to Konyaku Haki Sareta Seijo wa Ringoku ni Urareru"
+      },
+      {
+        "lang": "x-jat",
+        "type": "syn",
         "text": "Kanpekiseijo"
       },
       {
@@ -584785,7 +584790,7 @@
       {
         "lang": "ja",
         "type": "official",
-        "text": "紫禁・御猫房〜紫禁城猫警備室〜"
+        "text": "紫禁・御猫房 ~紫禁城猫警備室~"
       },
       {
         "lang": "zh-Hans",
@@ -597031,6 +597036,36 @@
         "lang": "ja",
         "type": "official",
         "text": "ダイヤモンドの功罪"
+      }
+    ]
+  },
+  {
+    "aid": "20553",
+    "titles": [
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "I`m the Stepmother, but My Daughter Is Too Cute"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Mamahaha Dakedo Musume ga Kawai Sugiru"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Not-Sew-Wicked Stepmom"
+      },
+      {
+        "lang": "ko",
+        "type": "official",
+        "text": "계모인데 딸이 너무 귀여워"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "継母だけど娘が可愛すぎる"
       }
     ]
   }
