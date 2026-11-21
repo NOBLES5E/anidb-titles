@@ -580683,9 +580683,19 @@
         "text": "Demons` Crest"
       },
       {
+        "lang": "x-jat",
+        "type": "syn",
+        "text": "Demonzu Kuresto"
+      },
+      {
         "lang": "en",
         "type": "syn",
         "text": "Devils` Crest"
+      },
+      {
+        "lang": "pl",
+        "type": "official",
+        "text": "Diabelska pieczęć"
       },
       {
         "lang": "ja",
@@ -597066,6 +597076,71 @@
         "lang": "ja",
         "type": "official",
         "text": "継母だけど娘が可愛すぎる"
+      }
+    ]
+  },
+  {
+    "aid": "20554",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Jimoto no Ijimekko-tachi ni Shikaeshi Shiyou to Shitara, Betsu no Tatakai ga Hajimatta."
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "地元のいじめっ子達に仕返ししようとしたら, 別の戦いが始まった."
+      }
+    ]
+  },
+  {
+    "aid": "20555",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Kounai de Ichiban Kawaikute Ichiban Oppai ga Dekakute Ichiban Okazu ni Sareteru Ichiban Sukebe na Etou-san"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "校内で一番可愛いくて一番おっぱいがデカくて一番オカズにされてる一番スケベな江藤さん"
+      }
+    ]
+  },
+  {
+    "aid": "20556",
+    "titles": [
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Bang Dream! Yumemita (New Animation)"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Bang Dream! Yumemita (Shinsaku Animation)"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "BanG Dream! ゆめ∞みた (新作アニメーション)"
+      }
+    ]
+  },
+  {
+    "aid": "20557",
+    "titles": [
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "Duel Masters LOST ~失楽の訣闘~"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Duel Masters Lost: Shitsuraku no Duel"
       }
     ]
   }
