@@ -428268,6 +428268,11 @@
         "text": "Beryl and Sapphire"
       },
       {
+        "lang": "x-unk",
+        "type": "syn",
+        "text": "https://www.imdb.com/title/tt35634364/?ref_=fn_t_1"
+      },
+      {
         "lang": "x-zht",
         "type": "syn",
         "text": "Lu Lan Beryl and Sapphire"
@@ -554808,6 +554813,11 @@
         "text": "Magic Maker: Isekai Mahou no Tsukurikata"
       },
       {
+        "lang": "pl",
+        "type": "syn",
+        "text": "Magic Maker: Jak tworzyć magię w innym świecie"
+      },
+      {
         "lang": "ja",
         "type": "official",
         "text": "マジック・メイカー ~異世界魔法の作り方~"
@@ -554828,11 +554838,6 @@
     "aid": "18751",
     "titles": [
       {
-        "lang": "en",
-        "type": "official",
-        "text": "Sanda"
-      },
-      {
         "lang": "x-jat",
         "type": "main",
         "text": "Sanda"
@@ -554841,6 +554846,11 @@
         "lang": "ja",
         "type": "official",
         "text": "SANDA"
+      },
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "Sanda"
       },
       {
         "lang": "ja",
@@ -562016,6 +562026,11 @@
         "lang": "x-jat",
         "type": "main",
         "text": "Futari no Yume Mochi"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "When Two Dreams Connect"
       },
       {
         "lang": "ja",
