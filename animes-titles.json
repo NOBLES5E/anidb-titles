@@ -67813,6 +67813,11 @@
         "text": "Arete-hime"
       },
       {
+        "lang": "es",
+        "type": "official",
+        "text": "Princesa Arete"
+      },
+      {
         "lang": "en",
         "type": "official",
         "text": "Princess Arete"
@@ -560703,6 +560708,11 @@
         "text": "I`m the Evil Lord of an Intergalactic Empire!"
       },
       {
+        "lang": "pl",
+        "type": "syn",
+        "text": "Jestem złym władcą międzygalaktycznego imperium"
+      },
+      {
         "lang": "en",
         "type": "syn",
         "text": "Ore Aku"
@@ -575823,6 +575833,11 @@
         "text": "Nezha: Mo Tong Nao Hai"
       },
       {
+        "lang": "en",
+        "type": "syn",
+        "text": "Nezha: The Demon Boy Churns the Sea"
+      },
+      {
         "lang": "zh",
         "type": "official",
         "text": "哪吒之魔童闹海"
@@ -575833,9 +575848,9 @@
     "aid": "19538",
     "titles": [
       {
-        "lang": "ja",
+        "lang": "en",
         "type": "official",
-        "text": "LIAR GAME"
+        "text": "Liar Game"
       },
       {
         "lang": "x-jat",
@@ -575843,9 +575858,9 @@
         "text": "Liar Game"
       },
       {
-        "lang": "en",
+        "lang": "ja",
         "type": "official",
-        "text": "Liar Game"
+        "text": "LIAR GAME"
       },
       {
         "lang": "zh-Hant",
@@ -588825,12 +588840,12 @@
       {
         "lang": "x-jat",
         "type": "main",
-        "text": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 5th Season"
+        "text": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 5th Season: 2 Nensei Hen 1 Gakki \"Zenhan\""
       },
       {
         "lang": "ja",
         "type": "official",
-        "text": "ようこそ実力至上主義の教室へ 5th Season"
+        "text": "ようこそ実力至上主義の教室へ 5th Season 2年生編2学期＜前半＞"
       }
     ]
   },
@@ -597156,6 +597171,106 @@
         "lang": "x-jat",
         "type": "main",
         "text": "Duel Masters Lost: Shitsuraku no Duel"
+      }
+    ]
+  },
+  {
+    "aid": "20558",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Shibou Yuugi de Meshi o Kuu. (Zokuhen)"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Shiboyugi: Playing Death Games to Put Food on the Table (Sequel)"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "死亡遊戯で飯を食う. (続編)"
+      }
+    ]
+  },
+  {
+    "aid": "20559",
+    "titles": [
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Aria the Scarlet Ammo Corto"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Hidan no Aria Corto"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "緋弾のアリアCorto"
+      }
+    ]
+  },
+  {
+    "aid": "20560",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Sono Mono. Nochi ni..."
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "The One. Later On..."
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "その者. のちに..."
+      }
+    ]
+  },
+  {
+    "aid": "20561",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Xuanmei Ji"
+      },
+      {
+        "lang": "zh",
+        "type": "official",
+        "text": "选美记"
+      }
+    ]
+  },
+  {
+    "aid": "20562",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "official",
+        "text": "Shang Shan"
+      },
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Shouzen"
+      },
+      {
+        "lang": "zh-Hant",
+        "type": "official",
+        "text": "尚善"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "尚善"
       }
     ]
   }
