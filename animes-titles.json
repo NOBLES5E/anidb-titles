@@ -164500,7 +164500,7 @@
       {
         "lang": "ja",
         "type": "official",
-        "text": "くりぃむレモン レモンエンジェル"
+        "text": "くりいむレモン レモンエンジェル"
       },
       {
         "lang": "ja",
@@ -424818,6 +424818,11 @@
         "text": "Asuka"
       },
       {
+        "lang": "de",
+        "type": "official",
+        "text": "Magical Girl Spec Ops Asuka"
+      },
+      {
         "lang": "en",
         "type": "official",
         "text": "Magical Girl Spec-Ops Asuka"
@@ -576548,6 +576553,16 @@
     "aid": "19569",
     "titles": [
       {
+        "lang": "pl",
+        "type": "syn",
+        "text": "Beztroska obrona włości optymistycznego lorda"
+      },
+      {
+        "lang": "pl",
+        "type": "syn",
+        "text": "Beztroska obrona włości optymistycznego lorda: Magia produkcji zmienia bezimienną wioskę w potężną twierdzę"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha"
@@ -596996,6 +597011,11 @@
         "lang": "ja",
         "type": "official",
         "text": "Re:ゼロから始める異世界生活 5th season"
+      },
+      {
+        "lang": "x-jat",
+        "type": "short",
+        "text": "rezero5"
       }
     ]
   },
@@ -597003,9 +597023,39 @@
     "aid": "20548",
     "titles": [
       {
+        "lang": "en",
+        "type": "syn",
+        "text": "Martial Universe 7"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Martial Universe 7th Season"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Martial Universe S7"
+      },
+      {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Wu Dong Qian Kun 7th Season"
+      },
+      {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Wu Dong Qiankun 7"
+      },
+      {
         "lang": "x-zht",
         "type": "main",
         "text": "Wu Dong Qiankun Di Qi Ji"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "syn",
+        "text": "武动乾坤 第7季"
       },
       {
         "lang": "zh-Hans",
@@ -597271,6 +597321,76 @@
         "lang": "ja",
         "type": "official",
         "text": "尚善"
+      }
+    ]
+  },
+  {
+    "aid": "20563",
+    "titles": [
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "A New Way for Sanctification"
+      },
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Hun Zai Mori, Duzi Chengxian"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Surviving the Apocalypse, Becoming an Immortal Alone"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "混在末日，独自成仙"
+      }
+    ]
+  },
+  {
+    "aid": "20564",
+    "titles": [
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Battle Through the Heavens Movie: Battle of the Two Emperors"
+      },
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "Battle Through the Heavens: Battle of the Two Emperors"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Battle Through the Heavens: The Battle of Two Emperors"
+      },
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Dou Po Cangqiong Movie: Shuang Di Zhi Zhan"
+      },
+      {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Doupo Cangqiong Juchang Ban: Shuang Di Zhi Zhan"
+      },
+      {
+        "lang": "x-zht",
+        "type": "syn",
+        "text": "Doupo Cangqiong Movie: Shuang Di Zhi Zhan"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "syn",
+        "text": "斗破苍穹 双帝之战"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "斗破苍穹剧场版 双帝之战"
       }
     ]
   }
