@@ -460843,6 +460843,11 @@
         "text": "Sentouin, Haken Shimasu!"
       },
       {
+        "lang": "x-jat",
+        "type": "syn",
+        "text": "Sentouin, Hakenshimasu!"
+      },
+      {
         "lang": "uk",
         "type": "syn",
         "text": "Бійці будуть відправлені!"
@@ -460873,13 +460878,13 @@
     "aid": "15441",
     "titles": [
       {
-        "lang": "x-jat",
-        "type": "main",
+        "lang": "ja",
+        "type": "official",
         "text": "86"
       },
       {
-        "lang": "ja",
-        "type": "official",
+        "lang": "x-jat",
+        "type": "main",
         "text": "86"
       },
       {
@@ -460893,14 +460898,14 @@
         "text": "86 -不存在的战区-"
       },
       {
-        "lang": "en",
-        "type": "official",
-        "text": "86 Eighty-Six"
-      },
-      {
         "lang": "pl",
         "type": "official",
         "text": "86 eighty-six"
+      },
+      {
+        "lang": "en",
+        "type": "official",
+        "text": "86 Eighty-Six"
       },
       {
         "lang": "ru",
@@ -473495,7 +473500,7 @@
       {
         "lang": "pl",
         "type": "syn",
-        "text": "Kroniki Duszy"
+        "text": "Kroniki duszy"
       },
       {
         "lang": "x-jat",
@@ -500372,6 +500377,11 @@
   {
     "aid": "16962",
     "titles": [
+      {
+        "lang": "pl",
+        "type": "syn",
+        "text": "Kroniki duszy 2"
+      },
       {
         "lang": "x-jat",
         "type": "short",
@@ -594798,6 +594808,11 @@
     "aid": "20432",
     "titles": [
       {
+        "lang": "pl",
+        "type": "syn",
+        "text": "Kroniki duszy 3"
+      },
+      {
         "lang": "x-jat",
         "type": "main",
         "text": "Seirei Gensouki 3"
@@ -597391,6 +597406,21 @@
         "lang": "zh-Hans",
         "type": "official",
         "text": "斗破苍穹剧场版 双帝之战"
+      }
+    ]
+  },
+  {
+    "aid": "20565",
+    "titles": [
+      {
+        "lang": "x-kot",
+        "type": "main",
+        "text": "Geumgangsan Palseonnyeo"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "금강산 팔선녀"
       }
     ]
   }
