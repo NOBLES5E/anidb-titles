@@ -569998,6 +569998,11 @@
     "aid": "19308",
     "titles": [
       {
+        "lang": "it",
+        "type": "official",
+        "text": "Anche il consiglio studentesco cade in fallo!"
+      },
+      {
         "lang": "de",
         "type": "official",
         "text": "Even the Student Council Has Its Holes"
@@ -570021,6 +570026,11 @@
         "lang": "en",
         "type": "syn",
         "text": "There Is Also a Hole in the Student Organization!"
+      },
+      {
+        "lang": "ko",
+        "type": "official",
+        "text": "학생회에도 구멍은 있다!"
       },
       {
         "lang": "zh-Hans",
@@ -597451,6 +597461,126 @@
         "lang": "ja",
         "type": "official",
         "text": "人妻オナペット幸乃さん 町内会温泉旅行全裸バスガイ!"
+      }
+    ]
+  },
+  {
+    "aid": "20568",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Funtasic Precure!"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Funtasic Pretty Cure!"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "ファンたじっくプリキュア!"
+      }
+    ]
+  },
+  {
+    "aid": "20569",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Qiongding Zhi Shang"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "穹顶之上"
+      }
+    ]
+  },
+  {
+    "aid": "20570",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Tian Qi Zhi Men"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "天启之门"
+      }
+    ]
+  },
+  {
+    "aid": "20571",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Jie Mingdeng"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "借命灯"
+      }
+    ]
+  },
+  {
+    "aid": "20572",
+    "titles": [
+      {
+        "lang": "x-zht",
+        "type": "main",
+        "text": "Gui Jia Zhongkui"
+      },
+      {
+        "lang": "zh-Hans",
+        "type": "official",
+        "text": "鬼甲钟馗"
+      }
+    ]
+  },
+  {
+    "aid": "20573",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Isekai Kuimetsu No Same"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Killer Shark in Another World"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "異世界喰滅のサメ"
+      }
+    ]
+  },
+  {
+    "aid": "20574",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Mahou Tsukai no Yoru (Zokuhen)"
+      },
+      {
+        "lang": "en",
+        "type": "syn",
+        "text": "Witch on the Holy Night (Sequel)"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "魔法使いの夜 (続編)"
       }
     ]
   }
