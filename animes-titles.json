@@ -564130,7 +564130,7 @@
       {
         "lang": "x-jat",
         "type": "main",
-        "text": "Ramen Aka Neko 2"
+        "text": "Ramen Aka Neko Sono Ni"
       },
       {
         "lang": "en",
@@ -564140,7 +564140,7 @@
       {
         "lang": "ja",
         "type": "official",
-        "text": "ラーメン赤猫 2"
+        "text": "ラーメン赤猫 其の二"
       }
     ]
   },
@@ -597581,6 +597581,26 @@
         "lang": "ja",
         "type": "official",
         "text": "魔法使いの夜 (続編)"
+      }
+    ]
+  },
+  {
+    "aid": "20575",
+    "titles": [
+      {
+        "lang": "x-jat",
+        "type": "main",
+        "text": "Otaku Tomodachi to no Sex wa Saikou ni Kimochi Ii The Animation"
+      },
+      {
+        "lang": "ja",
+        "type": "card",
+        "text": "OVA オタク友達とのセックスは最高に気持ちいい THE ANIMATION"
+      },
+      {
+        "lang": "ja",
+        "type": "official",
+        "text": "オタク友達とのセックスは最高に気持ちいい THE ANIMATION"
       }
     ]
   }
